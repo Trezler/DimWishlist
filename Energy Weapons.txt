@@ -118,6 +118,34 @@ dimwishlist:item=3514144928&perks=2387244414,3425386926#notes:PvP Roll
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 BOWS:
 
+ARSENIC BITE-4B:
+(Elastic String, Fiberglass Arrow Shaft, Rampage, Explosive Head)
+(Elastic String, ______________________, Rampage, Explosive Head)
+(______________, ______________________, Rampage, Explosive Head)
+dimwishlist:item=720351795&perks=2801223209,3429800428,3425386926,3365897133,758092021
+dimwishlist:item=720351795&perks=2801223209,3425386926,3365897133,758092021
+dimwishlist:item=720351795&perks=3425386926,3365897133,758092021
+
+(Elastic String, Fiberglass Arrow Shaft, Rampage, Archer's Tempo)
+(Elastic String, ______________________, Rampage, Archer's Tempo)
+(______________, ______________________, Rampage, Archer's Tempo)
+dimwishlist:item=720351795&perks=2801223209,3429800428,3425386926,201365942,758092021
+dimwishlist:item=720351795&perks=2801223209,3425386926,201365942,758092021
+dimwishlist:item=720351795&perks=3425386926,201365942,758092021
+
+(Elastic String, Fiberglass Arrow Shaft, Dragonfly, Explosive Head)
+(Elastic String, ______________________, Dragonfly, Explosive Head)
+(______________, ______________________, Dragonfly, Explosive Head)
+dimwishlist:item=720351795&perks=2801223209,3429800428,2848615171,3365897133,758092021
+dimwishlist:item=720351795&perks=2801223209,2848615171,3365897133,758092021
+dimwishlist:item=720351795&perks=2848615171,3365897133,758092021
+
+(Elastic String, Fiberglass Arrow Shaft, Dragonfly, Archer's Tempo)
+(Elastic String, ______________________, Dragonfly, Archer's Tempo)
+(______________, ______________________, Dragonfly, Archer's Tempo)
+dimwishlist:item=720351795&perks=2801223209,3429800428,2848615171,201365942,758092021
+dimwishlist:item=720351795&perks=2801223209,2848615171,201365942,758092021
+dimwishlist:item=720351795&perks=2848615171,201365942,758092021
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
