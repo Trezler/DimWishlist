@@ -226,11 +226,25 @@ ANCIENT GOSPEL:
 (Small Bore, Accurized Rounds, Rapid Hit, Dragonfly)
 (Small Bore, ________________, Rapid Hit, Dragonfly)
 (__________, Accurized Rounds, Rapid Hit, Dragonfly)
-(__________, ________________, Rapid Hit, Dragonfly)
 dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,2848615171#notes:PvE
 dimwishlist:item=48643186&perks=1482024992,247725512,2848615171#notes:PvE
 dimwishlist:item=48643186&perks=3142289711,247725512,2848615171#notes:PvE
+
+(Hammer-Forged Rifling, Accurized Rounds, Rapid Hit, Dragonfly)
+(Hammer-Forged Rifling, ________________, Rapid Hit, Dragonfly)
+(_____________________, Accurized Rounds, Rapid Hit, Dragonfly)
+(_____________________, ________________, Rapid Hit, Dragonfly)
+dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,2848615171#notes:PvE
+dimwishlist:item=48643186&perks=3250034553,247725512,2848615171#notes:PvE
+dimwishlist:item=48643186&perks=3142289711,247725512,2848615171#notes:PvE
 dimwishlist:item=48643186&perks=247725512,2848615171#notes:PvE
+
+(Small Bore, Accurized Rounds, Rapid Hit, Swashbuckler)
+(Small Bore, ________________, Rapid Hit, Swashbuckler)
+(__________, Accurized Rounds, Rapid Hit, Swashbuckler)
+dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,4082225868#notes:PvE
+dimwishlist:item=48643186&perks=1482024992,247725512,4082225868#notes:PvE
+dimwishlist:item=48643186&perks=3142289711,247725512,4082225868#notes:PvE
 
 (Hammer-Forged Rifling, Accurized Rounds, Rapid Hit, Swashbuckler)
 (Hammer-Forged Rifling, ________________, Rapid Hit, Swashbuckler)
