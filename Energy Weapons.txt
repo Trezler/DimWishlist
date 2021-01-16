@@ -1,0 +1,219 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+AUTO RIFLES:
+
+GNAWING HUNGER:
+(Tactical Mag, Subsistence, Rampage)
+(____________, Subsistence, Rampage)
+dimwishlist:item=821154603&perks=106909392,1820235745,3425386926
+dimwishlist:item=821154603&perks=1820235745,3425386926
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+BOWS:
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+FUSION RIFLES:
+
+GLACIOCLASM:
+(Arrowhead Brake, Accelerated Coils, Slideshot, High-Impact Reserves)
+(_______________, Accelerated Coils, Slideshot, High-Impact Reserves)
+(_______________, _________________, Slideshot, High-Impact Reserves)
+dimwishlist:item=1030895163&perks=839105230,689005463,3161816588,2213355989
+dimwishlist:item=1030895163&perks=689005463,3161816588,2213355989
+dimwishlist:item=1030895163&perks=3161816588,2213355989
+
+(Arrowhead Brake, Accelerated Coils, Under Pressure, High-Impact Reserves)
+(_______________, Accelerated Coils, Under Pressure, High-Impact Reserves)
+(_______________, Accelerated Coils, ______________, High-Impact Reserves)
+(_______________, _________________, Under Pressure, High-Impact Reserves)
+dimwishlist:item=1030895163&perks=839105230,689005463,1645158859,2213355989
+dimwishlist:item=1030895163&perks=689005463,1645158859,2213355989
+dimwishlist:item=1030895163&perks=689005463,2213355989
+dimwishlist:item=1030895163&perks=1645158859,2213355989
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+GRENADE LAUNCHERS:
+
+DEAFENING WHISPER:
+(Quick Launch, High Velocity Rounds, Ambitious Assassin, Auto-Loading Holster)
+(____________, High Velocity Rounds, Ambitious Assassin, Auto-Loading Holster)
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3300816228#notes:When you need auto-loading
+dimwishlist:item=981718087&perks=2822142346,2010801679,3300816228#notes:When you need auto-loading
+
+(Quick Launch, High Velocity Rounds, Ambitious Assassin, Wellspring)
+(____________, High Velocity Rounds, Ambitious Assassin, Wellspring)
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3592538738
+dimwishlist:item=981718087&perks=2822142346,2010801679,3592538738
+
+
+
+MARTYR'S RETRIBUTION:
+(Quick Launch, High-Velocity Rounds, Auto-Loading, Demolitionist)
+(____________, High-Velocity Rounds, Auto-Loading, Demolitionist)
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,3523296417
+dimwishlist:item=3850168899&perks=2822142346,3300816228,3523296417
+
+
+
+TRUTHTELLER
+(Hard Launch, Proximity Grenades, Auto-Loading, Disruption Break)
+(Hard Launch, Proximity Grenades, ____________, Disruption Break)
+(Hard Launch, Proximity Grenades, ____________, ________________)
+dimwishlist:item=1946491241&perks=981914802,409831596,3300816228,1683379515#notes:Combo this in PvP with a 120 Handcannon
+dimwishlist:item=1946491241&perks=981914802,409831596,1683379515#notes:Combo this in PvP with a 120 Handcannon
+dimwishlist:item=1946491241&perks=981914802,409831596#notes:Combo this in PvP with a 120 Handcannon
+
+(Confined Launch, Blinding Grenades, Auto-Loading, Disruption Break)
+(_______________, Blinding Grenades, Auto-Loading, Disruption Break)
+(_______________, Blinding Grenades, ____________, Disruption Break)
+dimwishlist:item=1946491241&perks=1844523823,3032599245,3300816228,1683379515#notes:PvE ad blinding roll
+dimwishlist:item=1946491241&perks=3032599245,3300816228,1683379515#notes:PvE ad blinding roll
+dimwishlist:item=1946491241&perks=3032599245,1683379515#notes:PvE ad blinding roll
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+HANDCANNONS:
+
+ANCIENT GOSPEL:
+(Drop Mag, Rapid Hit, Dragonfly)
+(Drop Mag, _________, Dragonfly)
+dimwishlist:item=48643186&perks=4134353779,247725512,2848615171
+dimwishlist:item=48643186&perks=4134353779,2848615171
+
+
+
+POSTERITY:
+(Reconstruction, One For All)
+dimwishlist:item=3281285075&perks=1523832109,4049631843#notes:High Difficulty ad clear
+
+(Rapid Hit, One For All)
+dimwishlist:item=3281285075&perks=247725512,4049631843#notes:High Difficulty ad clear
+
+(Reconstruction, Rampage)
+dimwishlist:item=3281285075&perks=1523832109,3425386926#notes:PvE ad clear
+
+(Rapid Hit, Rampage)
+dimwishlist:item=3281285075&perks=247725512,3425386926#notes:PvE ad clear
+
+(Killing Wind, Demolitionist)
+dimwishlist:item=3281285075&perks=2450788523,3523296417#notes:Grenade spamming
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+PULSE RIFLES:
+
+STARS IN SHADOW:
+(Arrowhead Brake, Accurized Rounds, Killing Wind, Kill Clip)
+(Arrowhead Brake, ________________, Killing Wind, Kill Clip)
+(_______________, ________________, Killing Wind, Kill Clip)
+dimwishlist:item=2050789284&perks=839105230,3142289711,2450788523,1015611457#notes:PvP
+dimwishlist:item=2050789284&perks=839105230,2450788523,1015611457#notes:PvP
+dimwishlist:item=2050789284&perks=2450788523,1015611457#notes:PvP
+
+(Arrowhead Brake, Tactical Mag, Genesis, Vorpal Weapon)
+(Arrowhead Brake, ____________, Genesis, Vorpal Weapon)
+(_______________, ____________, Genesis, Vorpal Weapon)
+dimwishlist:item=2050789284&perks=839105230,106909392,3096702027,1546637391#notes:Good for Barrier Champions in GM's
+dimwishlist:item=2050789284&perks=839105230,3096702027,1546637391#notes:Good for Barrier Champions in GM's
+dimwishlist:item=2050789284&perks=3096702027,1546637391#notes:Good for Barrier Champions in GM's
+
+(Disruption Break)
+dimwishlist:item=2050789284&perks=1683379515#notes:Test this on Champion
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+SCOUT RIFLES:
+
+ROYAL CHASE:
+(Full Auto, Dragonfly)
+dimwishlist:item=2776503072&perks=4267945040,2848615171
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+SHOTGUNS:
+
+FIRST IN, LAST OUT:
+(Full Bore, Assault Mag, Auto-Loading, Vorpal Weapon)
+(_________, Assault Mag, Auto-Loading, Vorpal Weapon)
+(_________, ___________, Auto-Loading, Vorpal Weapon)
+dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,1546637391
+dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
+dimwishlist:item=3616586446&perks=3300816228,1546637391
+
+
+
+SEVENTH SERAPH CQC-12:
+(Accurized Rounds, Quick Draw, Snapshot)
+(________________, Quick Draw, Snapshot)
+dimwishlist:item=1821724780&perks=3142289711,706527188,957782887
+dimwishlist:item=1821724780&perks=706527188,957782887
+
+
+
+XENOCLAST:
+(Grave Robber, One-Two Punch)
+dimwishlist:item=2891672170&perks=1631667848,2679249093
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+SIDEARMS:
+
+SEVENTH SERAPH SI-2:
+(Demolitionist, Dragonfly)
+dimwishlist:item=3937866388&perks=3523296417,2848615171
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+SNIPERS:
+
+IKELOS_V1.0.2:
+(Chambered Compensator, Tactical Mag, Fouth Time's the Charm, High-Impact Reserves)
+(Fluted Barrel________, Tactical Mag, Fouth Time's the Charm, High-Impact Reserves)
+(_____________________, Tactical Mag, Fouth Time's the Charm, High-Impact Reserves)
+(_____________________, Tactical Mag, Fouth Time's the Charm, ____________________)
+dimwishlist:item=1253087083&perks=3661387068,106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=1840239774,106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=106909392,1354429876
+
+(Chambered Compensator, Appended Mag, Fouth Time's the Charm, High-Impact Reserves)
+(Fluted Barrel________, Appended Mag, Fouth Time's the Charm, High-Impact Reserves)
+(_____________________, Appended Mag, Fouth Time's the Charm, High-Impact Reserves)
+(_____________________, Appended Mag, Fouth Time's the Charm, ____________________)
+dimwishlist:item=1253087083&perks=3661387068,1087426260,1354429876,2213355989#notes:Appended Mag works, but Tactical Mag is better
+dimwishlist:item=1253087083&perks=1840239774,1087426260,1354429876,2213355989#notes:Appended Mag works, but Tactical Mag is better
+dimwishlist:item=1253087083&perks=1087426260,1354429876,2213355989#notes:Appended Mag works, but Tactical Mag is better
+dimwishlist:item=1253087083&perks=1087426260,1354429876#notes:Appended Mag works, but Tactical Mag is better
+
+(Chambered Compensator, Extended Mag, Fouth Time's the Charm, High-Impact Reserves)
+(Fluted Barrel________, Extended Mag, Fouth Time's the Charm, High-Impact Reserves)
+(_____________________, Extended Mag, Fouth Time's the Charm, High-Impact Reserves)
+(_____________________, Extended Mag, Fouth Time's the Charm, ____________________)
+dimwishlist:item=1253087083&perks=3661387068,2420895100,1354429876,2213355989#notes:Extended Mag works, but Appended Mag and Tactical Mag is better
+dimwishlist:item=1253087083&perks=1840239774,2420895100,1354429876,2213355989#notes:Extended Mag works, but Appended Mag and Tactical Mag is better
+dimwishlist:item=1253087083&perks=2420895100,1354429876,2213355989#notes:Extended Mag works, but Appended Mag and Tactical Mag is better
+dimwishlist:item=1253087083&perks=2420895100,1354429876#notes:Extended Mag works, but Appended Mag and Tactical Mag is better
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+SUBMACHINE GUNS:
+
+DEATH ADDER:
+(Feeding Frenzy, Dragonfly)
+dimwishlist:item=2742490609&perks=2779035018,2848615171
+
+
+
+SEVENTH SERAPH VY-7:
+(Drop Mag, Fourth Time's the Charm, Dragonfly)
+(________, Fourth Time's the Charm, Feeding Frenzy)
+dimwishlist:item=766323545&perks=4134353779,1354429876,2848615171
+dimwishlist:item=766323545&perks=1354429876,2779035018
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
