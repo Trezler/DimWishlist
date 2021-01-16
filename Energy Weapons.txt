@@ -277,43 +277,25 @@ dimwishlist:item=48643186&perks=247725512,1015611457#notes:PvP
 NATION OF BEASTS:
 (Full Bore, Light Mag, Outlaw, Dragonfly)
 dimwishlist:item=654370424&perks=202670084,679225683,1168162263,2848615171
-
-
-
-POSTERITY:
-(Reconstruction, One For All)
-dimwishlist:item=3281285075&perks=1523832109,4049631843#notes:High Difficulty ad clear
-
-(Rapid Hit, One For All)
-dimwishlist:item=3281285075&perks=247725512,4049631843#notes:High Difficulty ad clear
-
-(Reconstruction, Rampage)
-dimwishlist:item=3281285075&perks=1523832109,3425386926#notes:PvE ad clear
-
-(Rapid Hit, Rampage)
-dimwishlist:item=3281285075&perks=247725512,3425386926#notes:PvE ad clear
-
-(Killing Wind, Demolitionist)
-dimwishlist:item=3281285075&perks=2450788523,3523296417#notes:Grenade spamming
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 PULSE RIFLES:
 
 JIAN 7:
-(Ricochet Rounds, Disruption Break, Dragonfly)
-(_______________, Disruption Break, Dragonfly)
-dimwishlist:item=1162247618&perks=1885400500,1683379515,2848615171#notes:Good for GM
+(Armor-Piercing Round, Disruption Break, Dragonfly)
+(____________________, Disruption Break, Dragonfly)
+dimwishlist:item=1162247618&perks=1968497646,1683379515,2848615171#notes:Good for GM
 dimwishlist:item=1162247618&perks=1683379515,2848615171#notes:Good for GM
 
-(Ricochet Rounds, Disruption Break, Rampage)
-(_______________, Disruption Break, Rampage)
-dimwishlist:item=1162247618&perks=1885400500,1683379515,3425386926#notes:Good for GM
+(Armor-Piercing Round, Disruption Break, Rampage)
+(____________________, Disruption Break, Rampage)
+dimwishlist:item=1162247618&perks=1968497646,1683379515,3425386926#notes:Good for GM
 dimwishlist:item=1162247618&perks=1683379515,3425386926#notes:Good for GM
 
-(Ricochet Rounds, Disruption Break, Swashbuckler)
-(_______________, Disruption Break, Swashbuckler)
-dimwishlist:item=1162247618&perks=1885400500,1683379515,4082225868#notes:Decent for GM
+(Armor-Piercing Round, Disruption Break, Swashbuckler)
+(____________________, Disruption Break, Swashbuckler)
+dimwishlist:item=1162247618&perks=1968497646,1683379515,4082225868#notes:Decent for GM
 dimwishlist:item=1162247618&perks=1683379515,4082225868#notes:Decent for GM
 
 
