@@ -300,6 +300,32 @@ dimwishlist:item=3281285075&perks=2450788523,3523296417#notes:Grenade spamming
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 PULSE RIFLES:
 
+JIAN 7:
+(Ricochet Rounds, Disruption Break, Dragonfly)
+(_______________, Disruption Break, Dragonfly)
+dimwishlist:item=1162247618&perks=1885400500,1683379515,2848615171#notes:Good for GM
+dimwishlist:item=1162247618&perks=1683379515,2848615171#notes:Good for GM
+
+(Ricochet Rounds, Disruption Break, Rampage)
+(_______________, Disruption Break, Rampage)
+dimwishlist:item=1162247618&perks=1885400500,1683379515,3425386926#notes:Good for GM
+dimwishlist:item=1162247618&perks=1683379515,3425386926#notes:Good for GM
+
+(Ricochet Rounds, Disruption Break, Swashbuckler)
+(_______________, Disruption Break, Swashbuckler)
+dimwishlist:item=1162247618&perks=1885400500,1683379515,4082225868#notes:Decent for GM
+dimwishlist:item=1162247618&perks=1683379515,4082225868#notes:Decent for GM
+
+
+
+LAST PERDITION:
+(Accurized Rounds, Under Pressure, High-Impact Reserves)
+(________________, Under Pressure, High-Impact Reserves)
+dimwishlist:item=188882152&perks=3142289711,1645158859,2213355989#notes:Good for GM
+dimwishlist:item=188882152&perks=1645158859,2213355989#notes:Good for GM
+
+
+
 STARS IN SHADOW:
 (Arrowhead Brake, Accurized Rounds, Killing Wind, Kill Clip)
 (Arrowhead Brake, ________________, Killing Wind, Kill Clip)
