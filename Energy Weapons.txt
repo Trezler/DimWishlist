@@ -223,10 +223,41 @@ dimwishlist:item=1946491241&perks=3032599245,1683379515#notes:PvE ad blinding ro
 HANDCANNONS:
 
 ANCIENT GOSPEL:
-(Drop Mag, Rapid Hit, Dragonfly)
-(Drop Mag, _________, Dragonfly)
-dimwishlist:item=48643186&perks=4134353779,247725512,2848615171
-dimwishlist:item=48643186&perks=4134353779,2848615171
+(Small Bore, Accurized Rounds, Rapid Hit, Dragonfly)
+(Small Bore, ________________, Rapid Hit, Dragonfly)
+(__________, Accurized Rounds, Rapid Hit, Dragonfly)
+(__________, ________________, Rapid Hit, Dragonfly)
+dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,2848615171#notes:PvE
+dimwishlist:item=48643186&perks=1482024992,247725512,2848615171#notes:PvE
+dimwishlist:item=48643186&perks=3142289711,247725512,2848615171#notes:PvE
+dimwishlist:item=48643186&perks=247725512,2848615171#notes:PvE
+
+(Hammer-Forged Rifling, Accurized Rounds, Rapid Hit, Swashbuckler)
+(Hammer-Forged Rifling, ________________, Rapid Hit, Swashbuckler)
+(_____________________, Accurized Rounds, Rapid Hit, Swashbuckler)
+(_____________________, ________________, Rapid Hit, Swashbuckler)
+dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,4082225868
+dimwishlist:item=48643186&perks=3250034553,247725512,4082225868
+dimwishlist:item=48643186&perks=3142289711,247725512,4082225868
+dimwishlist:item=48643186&perks=247725512,4082225868
+
+(Small Bore, Accurized Rounds, Rapid Hit, Kill clip)
+(__________, Accurized Rounds, Rapid Hit, Kill clip)
+(Small Bore, ________________, Rapid Hit, Kill clip)
+(__________, ________________, Rapid Hit, Kill clip)
+dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,1015611457
+dimwishlist:item=48643186&perks=3142289711,247725512,1015611457
+dimwishlist:item=48643186&perks=1482024992,247725512,1015611457
+dimwishlist:item=48643186&perks=247725512,1015611457
+
+(Hammer-Forged Rifling, Accurized Rounds, Rapid Hit, Kill clip)
+(_____________________, Accurized Rounds, Rapid Hit, Kill clip)
+(Hammer-Forged Rifling, ________________, Rapid Hit, Kill clip)
+(_____________________, ________________, Rapid Hit, Kill clip)
+dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,1015611457#notes:PvP
+dimwishlist:item=48643186&perks=3142289711,247725512,1015611457#notes:PvP
+dimwishlist:item=48643186&perks=3250034553,247725512,1015611457#notes:PvP
+dimwishlist:item=48643186&perks=247725512,1015611457#notes:PvP
 
 
 
