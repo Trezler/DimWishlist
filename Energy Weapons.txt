@@ -35,6 +35,84 @@ RECKLESS ORACLE:
 dimwishlist:item=3385326721&perks=1482024992,1885400500,1168162263,1015611457
 dimwishlist:item=3385326721&perks=1885400500,1168162263,1015611457
 dimwishlist:item=3385326721&perks=1168162263,1015611457
+
+
+
+THE SUMMONER:
+(Arrowhead Brake, Ricochet Rounds, Overflow, Rampage)
+(Arrowhead Brake, _______________, Overflow, Rampage)
+(_______________, Ricochet Rounds, Overflow, Rampage)
+(_______________, _______________, Overflow, Rampage)
+dimwishlist:item=1907698332&perks=839105230,1885400500,3643424744,3425386926#notes:PvE Roll
+dimwishlist:item=1907698332&perks=839105230,3643424744,3425386926#notes:PvE Roll
+dimwishlist:item=1907698332&perks=1885400500,3643424744,3425386926#notes:PvE Roll
+dimwishlist:item=1907698332&perks=3643424744,3425386926#notes:PvE Roll
+
+(Arrowhead Brake, Ricochet Rounds, Overflow, Dragonfly)
+(Arrowhead Brake, _______________, Overflow, Dragonfly)
+(_______________, Ricochet Rounds, Overflow, Dragonfly)
+(_______________, _______________, Overflow, Dragonfly)
+dimwishlist:item=1907698332&perks=839105230,1885400500,3643424744,2848615171#notes:PvE Roll
+dimwishlist:item=1907698332&perks=839105230,3643424744,2848615171#notes:PvE Roll
+dimwishlist:item=1907698332&perks=1885400500,3643424744,2848615171#notes:PvE Roll
+dimwishlist:item=1907698332&perks=3643424744,2848615171#notes:PvE Roll
+
+(Arrowhead Brake, Ricochet Rounds, Dynamic Sway Reduction, Rampage)
+(Arrowhead Brake, _______________, Dynamic Sway Reduction, Rampage)
+(_______________, Ricochet Rounds, Dynamic Sway Reduction, Rampage)
+(_______________, _______________, Dynamic Sway Reduction, Rampage)
+dimwishlist:item=1907698332&perks=839105230,1885400500,1359896290,3425386926#notes:PvP Roll
+dimwishlist:item=1907698332&perks=839105230,1359896290,3425386926#notes:PvP Roll
+dimwishlist:item=1907698332&perks=1885400500,1359896290,3425386926#notes:PvP Roll
+dimwishlist:item=1907698332&perks=1359896290,3425386926#notes:PvP Roll
+
+(Arrowhead Brake, Ricochet Rounds, Zen Moment, Rampage)
+(Arrowhead Brake, _______________, Zen Moment, Rampage)
+(_______________, Ricochet Rounds, Zen Moment, Rampage)
+(_______________, _______________, Zen Moment, Rampage)
+dimwishlist:item=1907698332&perks=839105230,1885400500,2387244414,3425386926#notes:PvP Roll
+dimwishlist:item=1907698332&perks=839105230,2387244414,3425386926#notes:PvP Roll
+dimwishlist:item=1907698332&perks=1885400500,2387244414,3425386926#notes:PvP Roll
+dimwishlist:item=1907698332&perks=2387244414,3425386926#notes:PvP Roll
+
+
+
+THE SUMMONER (ADEPT):
+(Arrowhead Brake, Ricochet Rounds, Overflow, Rampage)
+(Arrowhead Brake, _______________, Overflow, Rampage)
+(_______________, Ricochet Rounds, Overflow, Rampage)
+(_______________, _______________, Overflow, Rampage)
+dimwishlist:item=3514144928&perks=839105230,1885400500,3643424744,3425386926#notes:PvE Roll
+dimwishlist:item=3514144928&perks=839105230,3643424744,3425386926#notes:PvE Roll
+dimwishlist:item=3514144928&perks=1885400500,3643424744,3425386926#notes:PvE Roll
+dimwishlist:item=3514144928&perks=3643424744,3425386926#notes:PvE Roll
+
+(Arrowhead Brake, Ricochet Rounds, Overflow, Dragonfly)
+(Arrowhead Brake, _______________, Overflow, Dragonfly)
+(_______________, Ricochet Rounds, Overflow, Dragonfly)
+(_______________, _______________, Overflow, Dragonfly)
+dimwishlist:item=3514144928&perks=839105230,1885400500,3643424744,2848615171#notes:PvE Roll
+dimwishlist:item=3514144928&perks=839105230,3643424744,2848615171#notes:PvE Roll
+dimwishlist:item=3514144928&perks=1885400500,3643424744,2848615171#notes:PvE Roll
+dimwishlist:item=3514144928&perks=3643424744,2848615171#notes:PvE Roll
+
+(Arrowhead Brake, Ricochet Rounds, Dynamic Sway Reduction, Rampage)
+(Arrowhead Brake, _______________, Dynamic Sway Reduction, Rampage)
+(_______________, Ricochet Rounds, Dynamic Sway Reduction, Rampage)
+(_______________, _______________, Dynamic Sway Reduction, Rampage)
+dimwishlist:item=3514144928&perks=839105230,1885400500,1359896290,3425386926#notes:PvP Roll
+dimwishlist:item=3514144928&perks=839105230,1359896290,3425386926#notes:PvP Roll
+dimwishlist:item=3514144928&perks=1885400500,1359896290,3425386926#notes:PvP Roll
+dimwishlist:item=3514144928&perks=1359896290,3425386926#notes:PvP Roll
+
+(Arrowhead Brake, Ricochet Rounds, Zen Moment, Rampage)
+(Arrowhead Brake, _______________, Zen Moment, Rampage)
+(_______________, Ricochet Rounds, Zen Moment, Rampage)
+(_______________, _______________, Zen Moment, Rampage)
+dimwishlist:item=3514144928&perks=839105230,1885400500,2387244414,3425386926#notes:PvP Roll
+dimwishlist:item=3514144928&perks=839105230,2387244414,3425386926#notes:PvP Roll
+dimwishlist:item=3514144928&perks=1885400500,2387244414,3425386926#notes:PvP Roll
+dimwishlist:item=3514144928&perks=2387244414,3425386926#notes:PvP Roll
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
