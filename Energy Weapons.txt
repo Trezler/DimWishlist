@@ -3,11 +3,38 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 AUTO RIFLES:
 
+ARCTIC HAZE:
+(Arrowhead Brake, Steady Rounds, Killing Wind, Dragonfly)
+(_______________, Steady Rounds, Killing Wind, Dragonfly)
+(_______________, _____________, Killing Wind, Dragonfly)
+dimwishlist:item=20935540&perks=839105230,3177308360,2450788523,2848615171
+dimwishlist:item=20935540&perks=3177308360,2450788523,2848615171
+dimwishlist:item=20935540&perks=2450788523,2848615171
+
+(Arrowhead Brake, Steady Rounds, Killing Wind, Thresh)
+(_______________, Steady Rounds, Killing Wind, Thresh)
+(_______________, _____________, Killing Wind, Thresh)
+dimwishlist:item=20935540&perks=839105230,3177308360,2450788523,2726471870
+dimwishlist:item=20935540&perks=3177308360,2450788523,2726471870
+dimwishlist:item=20935540&perks=2450788523,2726471870
+
+
+
 GNAWING HUNGER:
 (Tactical Mag, Subsistence, Rampage)
 (____________, Subsistence, Rampage)
 dimwishlist:item=821154603&perks=106909392,1820235745,3425386926
 dimwishlist:item=821154603&perks=1820235745,3425386926
+
+
+
+RECKLESS ORACLE:
+(Smallbore, Ricochet Rounds, Outlaw, Kill Clip)
+(_________, Ricochet Rounds, Outlaw, Kill Clip)
+(_________, _______________, Outlaw, Kill Clip)
+dimwishlist:item=3385326721&perks=1482024992,1885400500,1168162263,1015611457
+dimwishlist:item=3385326721&perks=1885400500,1168162263,1015611457
+dimwishlist:item=3385326721&perks=1168162263,1015611457
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -198,6 +225,33 @@ dimwishlist:item=1253087083&perks=3661387068,2420895100,1354429876,2213355989#no
 dimwishlist:item=1253087083&perks=1840239774,2420895100,1354429876,2213355989#notes:Extended Mag works, but Appended Mag and Tactical Mag is better
 dimwishlist:item=1253087083&perks=2420895100,1354429876,2213355989#notes:Extended Mag works, but Appended Mag and Tactical Mag is better
 dimwishlist:item=1253087083&perks=2420895100,1354429876#notes:Extended Mag works, but Appended Mag and Tactical Mag is better
+
+(Chambered Compensator, Tactical Mag, Triple Tap, High-Impact Reserves)
+(Fluted Barrel________, Tactical Mag, Triple Tap, High-Impact Reserves)
+(_____________________, Tactical Mag, Triple Tap, High-Impact Reserves)
+(_____________________, Tactical Mag, Triple Tap, ____________________)
+dimwishlist:item=1253087083&perks=3661387068,106909392,3400784728,2213355989#notes:Triple Tap works, but Fourth Time's The Charm is better
+dimwishlist:item=1253087083&perks=1840239774,106909392,3400784728,2213355989#notes:Triple Tap works, but Fourth Time's The Charm is better
+dimwishlist:item=1253087083&perks=106909392,3400784728,2213355989#notes:Triple Tap works, but Fourth Time's The Charm is better
+dimwishlist:item=1253087083&perks=106909392,3400784728#notes:Triple Tap works, but Fourth Time's The Charm is better
+
+(Chambered Compensator, Appended Mag, Triple Tap, High-Impact Reserves)
+(Fluted Barrel________, Appended Mag, Triple Tap, High-Impact Reserves)
+(_____________________, Appended Mag, Triple Tap, High-Impact Reserves)
+(_____________________, Appended Mag, Triple Tap, ____________________)
+dimwishlist:item=1253087083&perks=3661387068,1087426260,3400784728,2213355989#notes:Triple Tap works, but Fourth Time's The Charm is better
+dimwishlist:item=1253087083&perks=1840239774,1087426260,3400784728,2213355989#notes:Triple Tap works, but Fourth Time's The Charm is better
+dimwishlist:item=1253087083&perks=1087426260,3400784728,2213355989#notes:Triple Tap works, but Fourth Time's The Charm is better
+dimwishlist:item=1253087083&perks=1087426260,3400784728#notes:Triple Tap works, but Fourth Time's The Charm is better
+
+(Chambered Compensator, Extended Mag, Triple Tap, High-Impact Reserves)
+(Fluted Barrel________, Extended Mag, Triple Tap, High-Impact Reserves)
+(_____________________, Extended Mag, Triple Tap, High-Impact Reserves)
+(_____________________, Extended Mag, Triple Tap, ____________________)
+dimwishlist:item=1253087083&perks=3661387068,2420895100,3400784728,2213355989#notes:Triple Tap works, but Fourth Time's The Charm is better
+dimwishlist:item=1253087083&perks=1840239774,2420895100,3400784728,2213355989#notes:Triple Tap works, but Fourth Time's The Charm is better
+dimwishlist:item=1253087083&perks=2420895100,3400784728,2213355989#notes:Triple Tap works, but Fourth Time's The Charm is better
+dimwishlist:item=1253087083&perks=2420895100,3400784728#notes:Triple Tap works, but Fourth Time's The Charm is better
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
