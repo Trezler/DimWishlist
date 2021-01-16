@@ -1,0 +1,517 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AUTO RIFLES:
+
+SEVENTH SERAPH CARBINE:
+(Ricochet Rounds, Fouth Time's the Charm, Swashbuckler)
+(Ricochet Rounds, ______________________, Swashbuckler)
+dimwishlist:item=1561006927&perks=1885400500,1354429876,4082225868#notes:Good for Atraks-1 encounter as operator
+dimwishlist:item=1561006927&perks=1885400500,4082225868#notes:Good for Atraks-1 encounter as operator
+
+(Ricochet Rounds, Fouth Time's the Charm, Rampage)
+(Ricochet Rounds, _____________________ , Rampage)
+dimwishlist:item=1561006927&perks=1885400500,1354429876,3425386926#notes:Good for Atraks-1 encounter as operator
+dimwishlist:item=1561006927&perks=1885400500,3425386926#notes:Good for Atraks-1 encounter as operator
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BOWS:
+
+ACCRUED REDEMPTION:
+(Elastic String, Straight Fletching, Archer's Tempo, Rampage)
+(Elastic String, __________________, Archer's Tempo, Rampage)
+(______________, __________________, Archer's Tempo, Rampage)
+dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3425386926#notes:Good for PvE, can one-shot to the head in PvP with 3x Rampage
+dimwishlist:item=4095896073&perks=2801223209,201365942,3425386926#notes:Good for PvE, can one-shot to the head in PvP with 3x Rampage
+dimwishlist:item=4095896073&perks=201365942,3425386926#notes:Good for PvE, can one-shot to the head in PvP with 3x Rampage
+
+(Elastic String, Straight Fletching, Archer's Tempo, Explosive Head)
+(Elastic String, __________________, Archer's Tempo, Explosive Head)
+(______________, __________________, Archer's Tempo, Explosive Head)
+dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3365897133#notes:Good for PvE and PvP
+dimwishlist:item=4095896073&perks=2801223209,201365942,3365897133#notes:Good for PvE and PvP
+dimwishlist:item=4095896073&perks=201365942,3365897133#notes:Good for PvE and PvP
+
+(Elastic String, Straight Fletching, Archer's Tempo, Rapid Hit)
+(Elastic String, __________________, Archer's Tempo, Rapid Hit)
+(______________, __________________, Archer's Tempo, Rapid Hit)
+dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,247725512#notes:Test this
+dimwishlist:item=4095896073&perks=2801223209,201365942,247725512#notes:Test this
+dimwishlist:item=4095896073&perks=201365942,247725512#notes:Test this
+
+
+
+
+BITING WINDS:
+(Elastic String, Moving target, Swashbuckler)
+(Elastic String, _____________, Swashbuckler)
+(______________, Moving target, Swashbuckler)
+dimwishlist:item=1621657423&perks=2801223209,588594999,4082225868#notes:Can one-shot to the head in PvP after a melee kill (swashbuckler x 5)
+dimwishlist:item=1621657423&perks=2801223209,4082225868#notes:Can one-shot to the head in PvP after a melee kill (swashbuckler x 5)
+dimwishlist:item=1621657423&perks=588594999,4082225868#notes:Can one-shot to the head in PvP after a melee kill (swashbuckler x 5)
+
+
+
+WHISPERING SLAB:
+(Elastic String, Fiberglass Arrow Shaft, Archer's Tempo, Demolitionist)
+(Elastic String, ______________________, Archer's Tempo, Demolitionist)
+(______________, ______________________, Archer's Tempo, Demolitionist)
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,3523296417
+dimwishlist:item=211938782&perks=2801223209,201365942,3523296417
+dimwishlist:item=211938782&perks=201365942,3523296417
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+HANDCANNONS:
+
+CRIMIL'S DAGGER:
+(Sureshot HCS, Accurized Rounds, Rangefinder, Kill Clip)
+(____________, Accurized Rounds, Rangefinder, Kill Clip)
+(____________, ________________, Rangefinder, Kill Clip)
+dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,1015611457
+dimwishlist:item=4292849692&perks=3142289711,2846385770,1015611457
+dimwishlist:item=4292849692&perks=2846385770,1015611457
+
+(Sureshot HCS, Accurized Rounds, Outlaw, Kill Clip)
+(____________, Accurized Rounds, Outlaw, Kill Clip)
+(____________, ________________, Outlaw, Kill Clip)
+dimwishlist:item=4292849692&perks=1926090091,3142289711,1168162263,1015611457
+dimwishlist:item=4292849692&perks=3142289711,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1168162263,1015611457
+
+(Sureshot HCS, Accurized Rounds, Snapshot, Kill Clip)
+(____________, Accurized Rounds, Snapshot, Kill Clip)
+(____________, ________________, Snapshot, Kill Clip)
+dimwishlist:item=4292849692&perks=1926090091,3142289711,957782887,1015611457
+dimwishlist:item=4292849692&perks=3142289711,957782887,1015611457
+dimwishlist:item=4292849692&perks=957782887,1015611457
+
+
+
+DIRE PROMISES:
+(Sureshot HCS__, Ricochet Rounds, Opening Shot, Swashbuckler)
+(Steadyhand HCS, Ricochet Rounds, Opening Shot, Swashbuckler)
+(Fastdraw HCS__, Ricochet Rounds, Opening Shot, Swashbuckler)
+(______________, Ricochet Rounds, Opening Shot, Swashbuckler)
+dimwishlist:item=2742838701&perks=1926090091,1885400500,47981717,4082225868
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,4082225868
+dimwishlist:item=2742838701&perks=1926090094,1885400500,47981717,4082225868
+dimwishlist:item=2742838701&perks=1885400500,47981717,4082225868
+
+(Sureshot HCS__, High-Caliber Rounds, Opening Shot, Swashbuckler)
+(Steadyhand HCS, High-Caliber Rounds, Opening Shot, Swashbuckler)
+(Fastdraw HCS__, High-Caliber Rounds, Opening Shot, Swashbuckler)
+(______________, High-Caliber Rounds, Opening Shot, Swashbuckler)
+dimwishlist:item=2742838701&perks=1926090091,1561002382,47981717,4082225868
+dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,4082225868
+dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,4082225868
+dimwishlist:item=2742838701&perks=1561002382,47981717,4082225868
+
+(Sureshot HCS__, Armor-Piercing Rounds, Opening Shot, Swashbuckler)
+(Steadyhand HCS, Armor-Piercing Rounds, Opening Shot, Swashbuckler)
+(Fastdraw HCS__, Armor-Piercing Rounds, Opening Shot, Swashbuckler)
+(______________, Armor-Piercing Rounds, Opening Shot, Swashbuckler)
+dimwishlist:item=2742838701&perks=1926090091,1968497646,47981717,4082225868
+dimwishlist:item=2742838701&perks=1926090095,1968497646,47981717,4082225868
+dimwishlist:item=2742838701&perks=1926090094,1968497646,47981717,4082225868
+dimwishlist:item=2742838701&perks=1968497646,47981717,4082225868
+
+(Sureshot HCS__, Light Mag, Opening Shot, Swashbuckler)
+(Steadyhand HCS, Light Mag, Opening Shot, Swashbuckler)
+(Fastdraw HCS__, Light Mag, Opening Shot, Swashbuckler)
+(______________, Light Mag, Opening Shot, Swashbuckler)
+(______________, _________, Opening Shot, Swashbuckler)
+dimwishlist:item=2742838701&perks=1926090091,679225683,47981717,4082225868
+dimwishlist:item=2742838701&perks=1926090095,679225683,47981717,4082225868
+dimwishlist:item=2742838701&perks=1926090094,679225683,47981717,4082225868
+dimwishlist:item=2742838701&perks=679225683,47981717,4082225868
+dimwishlist:item=2742838701&perks=47981717,4082225868
+
+
+
+SEVENTH SERAPH OFFICER REVOLVER:
+(Corkscrew Rifling, Appended Mag, Ambitious Assassin, Timed Payload)
+(_________________, Appended Mag, Ambitious Assassin, Timed Payload)
+dimwishlist:item=3037520408&perks=4090651448,1087426260,2010801679,1954620775
+dimwishlist:item=3037520408&perks=1087426260,2010801679,1954620775
+
+(Corkscrew Rifling, Tactical Mag, Ambitious Assassin, Timed Payload)
+(_________________, Tactical Mag, Ambitious Assassin, Timed Payload)
+(_________________, ____________, Ambitious Assassin, Timed Payload)
+dimwishlist:item=3037520408&perks=4090651448,106909392,2010801679,1954620775
+dimwishlist:item=3037520408&perks=106909392,2010801679,1954620775
+dimwishlist:item=3037520408&perks=2010801679,1954620775
+
+dimwishlist:item=3037520408&perks=3230963543/106909392
+
+
+
+STEADY HAND:
+(Sureshot HCS__, Light Mag, Killing Wind, Swashbuckler)
+(Steadyhand HCS, Light Mag, Killing Wind, Swashbuckler)
+(Fastdraw HCS__, Light Mag, Killing Wind, Swashbuckler)
+(______________, Light Mag, Killing Wind, Swashbuckler)
+dimwishlist:item=2220884262&perks=1926090091,679225683,2450788523,4082225868
+dimwishlist:item=2220884262&perks=1926090095,679225683,2450788523,4082225868
+dimwishlist:item=2220884262&perks=1926090094,679225683,2450788523,4082225868
+dimwishlist:item=2220884262&perks=679225683,2450788523,4082225868
+(Sureshot HCS__, Ricochet Rounds, Killing Wind, Swashbuckler)
+(Steadyhand HCS, Ricochet Rounds, Killing Wind, Swashbuckler)
+(Fastdraw HCS__, Ricochet Rounds, Killing Wind, Swashbuckler)
+(______________, Ricochet Rounds, Killing Wind, Swashbuckler)
+dimwishlist:item=2220884262&perks=1926090091,1885400500,2450788523,4082225868
+dimwishlist:item=2220884262&perks=1926090095,1885400500,2450788523,4082225868
+dimwishlist:item=2220884262&perks=1926090094,1885400500,2450788523,4082225868
+dimwishlist:item=2220884262&perks=1885400500,2450788523,4082225868
+(Sureshot HCS__, High-Caliber Rounds, Killing Wind, Swashbuckler)
+(Steadyhand HCS, High-Caliber Rounds, Killing Wind, Swashbuckler)
+(Fastdraw HCS__, High-Caliber Rounds, Killing Wind, Swashbuckler)
+(______________, High-Caliber Rounds, Killing Wind, Swashbuckler)
+dimwishlist:item=2220884262&perks=1926090091,1561002382,2450788523,4082225868
+dimwishlist:item=2220884262&perks=1926090095,1561002382,2450788523,4082225868
+dimwishlist:item=2220884262&perks=1926090094,1561002382,2450788523,4082225868
+dimwishlist:item=2220884262&perks=1561002382,2450788523,4082225868
+(Sureshot HCS__, Armor-Piercing Rounds, Killing Wind, Swashbuckler)
+(Steadyhand HCS, Armor-Piercing Rounds, Killing Wind, Swashbuckler)
+(Fastdraw HCS__, Armor-Piercing Rounds, Killing Wind, Swashbuckler)
+(______________, Armor-Piercing Rounds, Killing Wind, Swashbuckler)
+(______________, _____________________, Killing Wind, Swashbuckler)
+dimwishlist:item=2220884262&perks=1926090091,1968497646,2450788523,4082225868
+dimwishlist:item=2220884262&perks=1926090095,1968497646,2450788523,4082225868
+dimwishlist:item=2220884262&perks=1926090094,1968497646,2450788523,4082225868
+dimwishlist:item=2220884262&perks=1968497646,2450788523,4082225868
+dimwishlist:item=2220884262&perks=2450788523,4082225868
+
+(Sureshot HCS__, Light Mag, Quickdraw, Swashbuckler)
+(Steadyhand HCS, Light Mag, Quickdraw, Swashbuckler)
+(Fastdraw HCS__, Light Mag, Quickdraw, Swashbuckler)
+(______________, Light Mag, Quickdraw, Swashbuckler)
+dimwishlist:item=2220884262&perks=1926090091,679225683,706527188,4082225868
+dimwishlist:item=2220884262&perks=1926090095,679225683,706527188,4082225868
+dimwishlist:item=2220884262&perks=1926090094,679225683,706527188,4082225868
+dimwishlist:item=2220884262&perks=679225683,706527188,4082225868
+(Sureshot HCS__, Ricochet Rounds, Quickdraw, Swashbuckler)
+(Steadyhand HCS, Ricochet Rounds, Quickdraw, Swashbuckler)
+(Fastdraw HCS__, Ricochet Rounds, Quickdraw, Swashbuckler)
+(______________, Ricochet Rounds, Quickdraw, Swashbuckler)
+dimwishlist:item=2220884262&perks=1926090091,1885400500,706527188,4082225868
+dimwishlist:item=2220884262&perks=1926090095,1885400500,706527188,4082225868
+dimwishlist:item=2220884262&perks=1926090094,1885400500,706527188,4082225868
+dimwishlist:item=2220884262&perks=1885400500,706527188,4082225868
+(Sureshot HCS__, High-Caliber Rounds, Quickdraw, Swashbuckler)
+(Steadyhand HCS, High-Caliber Rounds, Quickdraw, Swashbuckler)
+(Fastdraw HCS__, High-Caliber Rounds, Quickdraw, Swashbuckler)
+(______________, High-Caliber Rounds, Quickdraw, Swashbuckler)
+dimwishlist:item=2220884262&perks=1926090091,1561002382,706527188,4082225868
+dimwishlist:item=2220884262&perks=1926090095,1561002382,706527188,4082225868
+dimwishlist:item=2220884262&perks=1926090094,1561002382,706527188,4082225868
+dimwishlist:item=2220884262&perks=1561002382,706527188,4082225868
+(Sureshot HCS__, Armor-Piercing Rounds, Quickdraw, Swashbuckler)
+(Steadyhand HCS, Armor-Piercing Rounds, Quickdraw, Swashbuckler)
+(Fastdraw HCS__, Armor-Piercing Rounds, Quickdraw, Swashbuckler)
+(______________, Armor-Piercing Rounds, Quickdraw, Swashbuckler)
+(______________, _____________________, Quickdraw, Swashbuckler)
+dimwishlist:item=2220884262&perks=1926090091,1968497646,706527188,4082225868
+dimwishlist:item=2220884262&perks=1926090095,1968497646,706527188,4082225868
+dimwishlist:item=2220884262&perks=1926090094,1968497646,706527188,4082225868
+dimwishlist:item=2220884262&perks=1968497646,706527188,4082225868
+dimwishlist:item=2220884262&perks=706527188,4082225868
+
+(Sureshot HCS__, Light Mag, Outlaw, Swashbuckler)
+(Steadyhand HCS, Light Mag, Outlaw, Swashbuckler)
+(Fastdraw HCS__, Light Mag, Outlaw, Swashbuckler)
+(______________, Light Mag, Outlaw, Swashbuckler)
+(______________, Light Mag, ______, Swashbuckler)
+dimwishlist:item=2220884262&perks=1926090091,679225683,1168162263,4082225868
+dimwishlist:item=2220884262&perks=1926090095,679225683,1168162263,4082225868
+dimwishlist:item=2220884262&perks=1926090094,679225683,1168162263,4082225868
+dimwishlist:item=2220884262&perks=679225683,1168162263,4082225868
+dimwishlist:item=2220884262&perks=679225683,4082225868
+(Sureshot HCS__, Ricochet Rounds, Outlaw, Swashbuckler)
+(Steadyhand HCS, Ricochet Rounds, Outlaw, Swashbuckler)
+(Fastdraw HCS__, Ricochet Rounds, Outlaw, Swashbuckler)
+(______________, Ricochet Rounds, Outlaw, Swashbuckler)
+(______________, Ricochet Rounds, ______, Swashbuckler)
+dimwishlist:item=2220884262&perks=1926090091,1885400500,1168162263,4082225868
+dimwishlist:item=2220884262&perks=1926090095,1885400500,1168162263,4082225868
+dimwishlist:item=2220884262&perks=1926090094,1885400500,1168162263,4082225868
+dimwishlist:item=2220884262&perks=1885400500,1168162263,4082225868
+dimwishlist:item=2220884262&perks=1885400500,4082225868
+(Sureshot HCS__, High-Caliber Rounds, Outlaw, Swashbuckler)
+(Steadyhand HCS, High-Caliber Rounds, Outlaw, Swashbuckler)
+(Fastdraw HCS__, High-Caliber Rounds, Outlaw, Swashbuckler)
+(______________, High-Caliber Rounds, Outlaw, Swashbuckler)
+(______________, High-Caliber Rounds, ______, Swashbuckler)
+dimwishlist:item=2220884262&perks=1926090091,1561002382,1168162263,4082225868
+dimwishlist:item=2220884262&perks=1926090095,1561002382,1168162263,4082225868
+dimwishlist:item=2220884262&perks=1926090094,1561002382,1168162263,4082225868
+dimwishlist:item=2220884262&perks=1561002382,1168162263,4082225868
+dimwishlist:item=2220884262&perks=1561002382,4082225868
+(Sureshot HCS__, Armor-Piercing Rounds, Outlaw, Swashbuckler)
+(Steadyhand HCS, Armor-Piercing Rounds, Outlaw, Swashbuckler)
+(Fastdraw HCS__, Armor-Piercing Rounds, Outlaw, Swashbuckler)
+(______________, Armor-Piercing Rounds, Outlaw, Swashbuckler)
+(______________, Armor-Piercing Rounds, ______, Swashbuckler)
+(______________, _____________________, Outlaw, Swashbuckler)
+dimwishlist:item=2220884262&perks=1926090091,1968497646,1168162263,4082225868
+dimwishlist:item=2220884262&perks=1926090095,1968497646,1168162263,4082225868
+dimwishlist:item=2220884262&perks=1926090094,1968497646,1168162263,4082225868
+dimwishlist:item=2220884262&perks=1968497646,1168162263,4082225868
+dimwishlist:item=2220884262&perks=1968497646,4082225868
+dimwishlist:item=2220884262&perks=1168162263,4082225868
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PULSE RIFLES:
+
+CHATTERING BONE:
+(Outlaw, Rampage)
+dimwishlist:item=568515759&perks=1168162263,3425386926
+
+
+
+COLD DENIAL:
+(Arrowhead Brake, Ricochet Rounds, Killing wind, Headseeker)
+(_______________, Ricochet Rounds, Killing wind, Headseeker)
+(_______________, _______________, Killing wind, Headseeker)
+(_______________, Ricochet Rounds, ____________, Headseeker)
+dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,460017080
+dimwishlist:item=1216130969&perks=1885400500,2450788523,460017080
+dimwishlist:item=1216130969&perks=2450788523,460017080
+dimwishlist:item=1216130969&perks=1885400500,460017080
+
+
+
+SACRED PROVENANCE:
+(Full Bore, Armor-Piercing Rounds, Rapid Hit, Kill Clip)
+(_________, Armor-Piercing Rounds, Rapid Hit, Kill Clip)
+dimwishlist:item=2408405461&perks=202670084,1968497646,247725512,1015611457#notes:Full Bore might not be a community favorite, but it does get the range to 99 with Range MW babyy
+dimwishlist:item=2408405461&perks=1968497646,247725512,1015611457
+
+(Full Bore, High-Caliber Rounds, Rapid Hit, Kill Clip)
+(_________, High-Caliber Rounds, Rapid Hit, Kill Clip)
+dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,1015611457#notes:Full Bore might not be a community favorite, but it does get the range to 99 with Range MW babyy
+dimwishlist:item=2408405461&perks=1561002382,247725512,1015611457
+
+(Full Bore, Ricochet Rounds, Rapid Hit, Kill Clip)
+(_________, Ricochet Rounds, Rapid Hit, Kill Clip)
+(_________, _______________, Rapid Hit, Kill Clip)
+dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,1015611457#notes:Full Bore might not be a community favorite, but it does get the range to 99 with Range MW babyy
+dimwishlist:item=2408405461&perks=1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=247725512,1015611457
+
+(Full Bore, Armor-Piercing Rounds, Outlaw, Kill Clip)
+(_________, Armor-Piercing Rounds, Outlaw, Kill Clip)
+dimwishlist:item=2408405461&perks=202670084,1968497646,1168162263,1015611457#notes:Full Bore might not be a community favorite, but it does get the range to 99 with Range MW babyy
+dimwishlist:item=2408405461&perks=1968497646,1168162263,1015611457
+
+(Full Bore, High-Caliber Rounds, Outlaw, Kill Clip)
+(_________, High-Caliber Rounds, Outlaw, Kill Clip)
+dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,1015611457#notes:Full Bore might not be a community favorite, but it does get the range to 99 with Range MW babyy
+dimwishlist:item=2408405461&perks=1561002382,1168162263,1015611457
+
+(Full Bore, Ricochet Rounds, Outlaw, Kill Clip)
+(_________, Ricochet Rounds, Outlaw, Kill Clip)
+(_________, _______________, Outlaw, Kill Clip)
+dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,1015611457#notes:Full Bore might not be a community favorite, but it does get the range to 99 with Range MW babyy
+dimwishlist:item=2408405461&perks=1885400500,1168162263,1015611457
+dimwishlist:item=2408405461&perks=1168162263,1015611457
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SCOUT RIFLES:
+
+NIGHT WATCH:
+Ask Nukyyy
+
+
+
+THE SCHOLAR:
+Get more to test
+Quickdraw, No Distractions?
+Quickdraw, Snapshot?
+Opening shot, Snapshot?
+
+
+
+TRANSFIGURATION:
+(Drop Mag, Rampage, Kill Clip)
+(________, Rampage, Kill Clip)
+dimwishlist:item=3799980700&perks=4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3425386926,1015611457
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SHOTGUNS:
+
+ASTRAL HORIZON:
+(Rifled Barrel, Accurized Rounds, Quickdraw, Opening Shot)
+(Full Choke___, Accurized Rounds, Quickdraw, Opening Shot)
+(_____________, Accurized Rounds, Quickdraw, Opening Shot)
+(_____________, ________________, Quickdraw, Opening Shot)
+dimwishlist:item=1697682876&perks=1332244541,3142289711,706527188,47981717
+dimwishlist:item=1697682876&perks=1047830412,3142289711,706527188,47981717#notes:Rifled Barrel would be better
+dimwishlist:item=1697682876&perks=3142289711,706527188,47981717
+dimwishlist:item=1697682876&perks=706527188,47981717
+
+
+
+ASTRAL HORIZON (ADEPT)
+(Rifled Barrel, Accurized Rounds, Quickdraw, Opening Shot)
+(Full Choke___, Accurized Rounds, Quickdraw, Opening Shot)
+(_____________, Accurized Rounds, Quickdraw, Opening Shot)
+(_____________, ________________, Quickdraw, Opening Shot)
+dimwishlist:item=532746994&perks=1332244541,3142289711,706527188,47981717
+dimwishlist:item=532746994&perks=1047830412,3142289711,706527188,47981717#notes:Rifled Barrel would be better
+dimwishlist:item=532746994&perks=3142289711,706527188,47981717
+dimwishlist:item=532746994&perks=706527188,47981717
+
+
+
+HERITAGE:
+(Full Bore, Assault Mag, Reconstruction, Recombination)
+(_________, Assault Mag, Reconstruction, Recombination)
+(_________, ___________, Reconstruction, Recombination)
+dimwishlist:item=4248569242&perks=202670084,791862061,1523832109,469285294#notes:POG weapon for DPS
+dimwishlist:item=4248569242&perks=791862061,1523832109,469285294#notes:POG weapon for DPS
+dimwishlist:item=4248569242&perks=1523832109,469285294
+
+(Full Bore, Assault Mag, Auto-Loading, Recombination)
+(_________, Assault Mag, Auto-Loading, Recombination)
+(_________, ___________, Auto-Loading, Recombination)
+dimwishlist:item=4248569242&perks=202670084,791862061,3300816228,469285294#notes:Good alternative to Reconstruction
+dimwishlist:item=4248569242&perks=791862061,3300816228,469285294#notes:Good alternative to Reconstruction
+dimwishlist:item=4248569242&perks=3300816228,469285294#notes:Good alternative to Reconstruction
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SIDEARMS:
+
+HIGH ALBEDO:
+(Accurizd Rounds, Full Auto, Wellspring)
+(_______________, Full Auto, Wellspring)
+dimwishlist:item=1197486957&perks=3142289711,4267945040,3592538738#notes:If you don't like spamming the mouse button
+dimwishlist:item=1197486957&perks=4267945040,3592538738#notes:If you don't like spamming the mouse button
+
+(Accurized Rounds, Ambitious Assaassin, Wellspring)
+(________________, Ambitious Assaassin, Wellspring)
+dimwishlist:item=1197486957&perks=3142289711,2010801679,3592538738#notes:Each kill overflows magazine +3 on reload, up to 5 kills (total of 45 in the magazine)
+dimwishlist:item=1197486957&perks=2010801679,3592538738#notes:Each kill overflows magazine +3 on reload, up to 5 kills (total of 45 in the magazine)
+
+(Accurized Rounds, Ambitious Assaassin, Demolitionist)
+(________________, Ambitious Assaassin, Demolitionist)
+dimwishlist:item=1197486957&perks=3142289711,2010801679,3523296417#notes:Each kill overflows magazine +3 on reload, up to 5 kills (total of 45 in the magazine)
+dimwishlist:item=1197486957&perks=2010801679,3523296417#notes:Each kill overflows magazine +3 on reload, up to 5 kills (total of 45 in the magazine)
+
+(Accurized Rounds, Killing Wind, Wellspring)
+(________________, Killing Wind, Wellspring)
+dimwishlist:item=1197486957&perks=3142289711,2450788523,3592538738#notes:If you like a little extra handling and range
+dimwishlist:item=1197486957&perks=2450788523,3592538738#notes:If you like a little extra handling and range
+
+(Accurized Rounds, Killing Wind, Demolitionist)
+(________________, Killing Wind, Demolitionist)
+dimwishlist:item=1197486957&perks=3142289711,2450788523,3523296417#notes:If you like a little extra handling and range
+dimwishlist:item=1197486957&perks=2450788523,3523296417#notes:If you like a little extra handling and range
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SNIPERS:
+
+EYE OF SOL:
+(Snapshot, Opening Shot)
+dimwishlist:item=3164743584&perks=957782887,47981717
+
+(Snapshot, Vorpal Weapon)
+dimwishlist:item=3164743584&perks=957782887,1546637391
+
+
+
+EYE OF SOL (ADEPT):
+(Snapshot, Opening Shot)
+dimwishlist:item=3637570176&perks=957782887,47981717
+
+(Snapshot, Vorpal Weapon)
+dimwishlist:item=3637570176&perks=957782887,1546637391
+
+
+
+LONG SHADOW:
+(ATD Raptor, Appended mag, Rapid Hit, Triple Tap)
+(__________, Appended mag, Rapid Hit, Triple Tap)
+(__________, Appended mag, _________, Triple Tap)
+dimwishlist:item=3745990145&perks=893526895,1087426260,247725512,3400784728
+dimwishlist:item=3745990145&perks=1087426260,247725512,3400784728
+dimwishlist:item=3745990145&perks=1087426260,3400784728
+
+(ATD Raptor, Extended Mag, Rapid Hit, Triple Tap)
+(__________, Extended Mag, Rapid Hit, Triple Tap)
+(__________, Extended Mag, _________, Triple Tap)
+dimwishlist:item=3745990145&perks=893526895,2420895100,247725512,3400784728#notes:Extended Mag works, but Appended Mag is better
+dimwishlist:item=3745990145&perks=2420895100,247725512,3400784728#notes:Extended Mag works, but Appended Mag is better
+dimwishlist:item=3745990145&perks=2420895100,3400784728#notes:Extended Mag works, but Appended Mag is better
+
+
+
+SUCCESSION:
+(Chambered Compensator, Tactical Mag, Reconstruction, Vorpal Weapon)
+(_____________________, Tactical Mag, Reconstruction, Vorpal Weapon)
+(_____________________, ____________, Reconstruction, Vorpal Weapon)
+dimwishlist:item=2990047042&perks=3661387068,106909392,1523832109,1546637391#notes:Solid for Boss DPS
+dimwishlist:item=2990047042&perks=106909392,1523832109,1546637391#notes:Solid for Boss DPS
+dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:Solid for Boss DPS
+
+
+
+SUPREMACY:
+(Appended mag, Snapshot Sights, Triple Tap)
+(Appended mag, _______________, Triple Tap)
+(____________, Snapshot Sights, Triple Tap)
+dimwishlist:item=686951703&perks=1087426260,957782887,3400784728
+dimwishlist:item=686951703&perks=1087426260,3400784728
+dimwishlist:item=686951703&perks=957782887,3400784728
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SUBMACHINE GUNS:
+
+COLD FRONT:
+(Accurized Rounds, Surplus, Dragonfly)
+(________________, Surplus, Dragonfly)
+dimwishlist:item=1506719573&perks=3142289711,3436462433,2848615171
+dimwishlist:item=1506719573&perks=3436462433,2848615171
+
+(Accurized Rounds, Dynamic Sway Reduction, Dragonfly)
+(________________, Dynamic Sway Reduction, Dragonfly)
+dimwishlist:item=1506719573&perks=3142289711,1359896290,2848615171
+dimwishlist:item=1506719573&perks=1359896290,2848615171
+
+(Accurized Rounds, Surplus, One For All)
+(________________, Surplus, One For All)
+dimwishlist:item=1506719573&perks=3142289711,3436462433,4049631843
+dimwishlist:item=1506719573&perks=3436462433,4049631843
+
+(Accurized Rounds, Dynamic Sway Reduction, One For All)
+(________________, Dynamic Sway Reduction, One For All)
+dimwishlist:item=1506719573&perks=3142289711,1359896290,4049631843
+dimwishlist:item=1506719573&perks=1359896290,4049631843
+
+
+
+ESCAPE VELOCITY:
+(Overflow, Surrounded)
+dimwishlist:item=1786797708&perks=3643424744,3708227201
+
+(Threat Detector, Surrounded)
+dimwishlist:item=1786797708&perks=4071163871,3708227201
+
+
+
+FRICTION FIRE:
+(Drop Mag, Killing Wind, Rampage)
+(________, Killing Wind, Rampage)
+dimwishlist:item=1513993763&perks=4134353779,2450788523,3425386926
+dimwishlist:item=1513993763&perks=2450788523,3425386926
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
