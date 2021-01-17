@@ -51,6 +51,11 @@ AVALANCHE:
 dimwishlist:item=66875353&perks=2420895100,1168162263,2848615171#notes:PVE ad clear
 dimwishlist:item=66875353&perks=1168162263,2848615171#notes:PVE ad clear
 
+(Extended Mag, Outlaw, Swashbuckler)
+(____________, Outlaw, Swashbuckler)
+dimwishlist:item=66875353&perks=2420895100,1168162263,4082225868
+dimwishlist:item=66875353&perks=1168162263,4082225868
+
 
 
 SEVENTH SERAPH SAW:
