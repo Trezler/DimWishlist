@@ -19,27 +19,26 @@ dimwishlist:item=1561006927&perks=1885400500,3425386926#notes:Good for Atraks-1 
 BOWS:
 
 ACCRUED REDEMPTION:
-(Elastic String, Straight Fletching, Archer's Tempo, Rampage)
-(Elastic String, __________________, Archer's Tempo, Rampage)
-(______________, __________________, Archer's Tempo, Rampage)
-dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3425386926#notes:Good for PvE, can one-shot to the head in PvP with 3x Rampage, go for Draw Time MW
+(Elastic String, Archer's Tempo, Rampage)
+(______________, Archer's Tempo, Rampage)
+(Elastic String, ______________, Rampage)
 dimwishlist:item=4095896073&perks=2801223209,201365942,3425386926#notes:Good for PvE, can one-shot to the head in PvP with 3x Rampage, go for Draw Time MW
 dimwishlist:item=4095896073&perks=201365942,3425386926#notes:Good for PvE, can one-shot to the head in PvP with 3x Rampage, go for Draw Time MW
+dimwishlist:item=4095896073&perks=2801223209,3425386926#notes:Good for PvE, can one-shot to the head in PvP with 3x Rampage, go for Draw Time MW
 
-(Elastic String, Straight Fletching, Archer's Tempo, Explosive Head)
-(Elastic String, __________________, Archer's Tempo, Explosive Head)
-(______________, __________________, Archer's Tempo, Explosive Head)
-dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3365897133#notes:Good for PvE and PvP, go for Draw Time MW
+(Elastic String, Archer's Tempo, Explosive Head)
+(______________, Archer's Tempo, Explosive Head)
+(Elastic String, ______________, Explosive Head)
 dimwishlist:item=4095896073&perks=2801223209,201365942,3365897133#notes:Good for PvE and PvP, go for Draw Time MW
 dimwishlist:item=4095896073&perks=201365942,3365897133#notes:Good for PvE and PvP, go for Draw Time MW
+dimwishlist:item=4095896073&perks=2801223209,3365897133#notes:Good for PvE and PvP, go for Draw Time MW
 
-(Elastic String, Straight Fletching, Archer's Tempo, Rapid Hit)
-(Elastic String, __________________, Archer's Tempo, Rapid Hit)
-(______________, __________________, Archer's Tempo, Rapid Hit)
-dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,247725512#notes:Test this, go for Draw Time MW
+(Elastic String, Archer's Tempo, Rapid Hit)
+(______________, Archer's Tempo, Rapid Hit)
+(Elastic String, ______________, Rapid Hit)
 dimwishlist:item=4095896073&perks=2801223209,201365942,247725512#notes:Test this, go for Draw Time MW
 dimwishlist:item=4095896073&perks=201365942,247725512#notes:Test this, go for Draw Time MW
-
+dimwishlist:item=4095896073&perks=2801223209,247725512#notes:Test this, go for Draw Time MW
 
 
 
@@ -61,13 +60,17 @@ dimwishlist:item=1621657423&perks=2801223209,4082225868#notes:Test this vs. Movi
 WHISPERING SLAB:
 (Elastic String, Archer's Tempo, Demolitionist)
 (______________, Archer's Tempo, Demolitionist)
+(Elastic String, ______________, Demolitionist)
 dimwishlist:item=211938782&perks=2801223209,201365942,3523296417#notes:Go for Reload MW
 dimwishlist:item=211938782&perks=201365942,3523296417#notes:Go for Draw Time MW
+dimwishlist:item=211938782&perks=2801223209,3523296417#notes:Go for Draw Time MW
 
 (Elastic String, Archer's Tempo, Swashbuckler)
 (______________, Archer's Tempo, Swashbuckler)
+(Elastic String, ______________, Swashbuckler)
 dimwishlist:item=211938782&perks=2801223209,201365942,4082225868,758092021#notes:Go for Reload MW
 dimwishlist:item=211938782&perks=201365942,4082225868,758092021#notes:Go for Draw Time MW
+dimwishlist:item=211938782&perks=2801223209,4082225868#notes:Go for Draw Time MW
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -153,9 +156,13 @@ dimwishlist:item=2742838701&perks=47981717,4082225868
 SEVENTH SERAPH OFFICER REVOLVER:
 (Appended Mag, Ambitious Assassin, Timed Payload)
 (Tactical Mag, Ambitious Assassin, Timed Payload)
+(Appended Mag, __________________, Timed Payload)
+(Tactical Mag, __________________, Timed Payload)
 (____________, Ambitious Assassin, Timed Payload)
 dimwishlist:item=3037520408&perks=1087426260,2010801679,1954620775
 dimwishlist:item=3037520408&perks=106909392,2010801679,1954620775
+dimwishlist:item=3037520408&perks=1087426260,1954620775
+dimwishlist:item=3037520408&perks=106909392,1954620775
 dimwishlist:item=3037520408&perks=2010801679,1954620775
 
 
@@ -279,20 +286,24 @@ dimwishlist:item=2220884262&perks=1168162263,4082225868
 PULSE RIFLES:
 
 CHATTERING BONE:
+
+(Corkscrew Rifling, Light Mag, Kill Clip, High-Impact Reserves) (Curated)
+dimwishlist:item=568515759&perks=4090651448,679225683,1015611457,2213355989#notes:Good for PvP
+
 (Outlaw, Rampage)
-dimwishlist:item=568515759&perks=1168162263,3425386926
+dimwishlist:item=568515759&perks=1168162263,3425386926#notes:Good for PvE
 
 
 
 COLD DENIAL:
 (Arrowhead Brake, Ricochet Rounds, Killing wind, Headseeker)
 (_______________, Ricochet Rounds, Killing wind, Headseeker)
+(Arrowhead Brake, _______________, Killing wind, Headseeker)
 (_______________, _______________, Killing wind, Headseeker)
-(_______________, Ricochet Rounds, ____________, Headseeker)
-dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,460017080
-dimwishlist:item=1216130969&perks=1885400500,2450788523,460017080
-dimwishlist:item=1216130969&perks=2450788523,460017080
-dimwishlist:item=1216130969&perks=1885400500,460017080
+dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,460017080#notes:Good for Pvp
+dimwishlist:item=1216130969&perks=1885400500,2450788523,460017080#notes:Good for Pvp
+dimwishlist:item=1216130969&perks=839105230,2450788523,460017080#notes:Good for Pvp
+dimwishlist:item=1216130969&perks=2450788523,460017080#notes:Good for Pvp
 
 
 
@@ -336,12 +347,14 @@ dimwishlist:item=2408405461&perks=1168162263,1015611457
 SCOUT RIFLES:
 
 NIGHT WATCH:
-(Hammer-Forged Rifling, Accurized Rounds, Rapid Hit, Explosive Rounds)
-(_____________________, Accurized Rounds, Rapid Hit, Explosive Rounds)
-(_____________________, ________________, Rapid Hit, Explosive Rounds)
-dimwishlist:item=3504336176&perks=3250034553,3142289711,247725512,3038247973
-dimwishlist:item=3504336176&perks=3142289711,247725512,3038247973
-dimwishlist:item=3504336176&perks=247725512,3038247973
+(Arrowhead Brake, Accurized Rounds, Rapid Hit, Explosive Rounds)
+(_______________, Accurized Rounds, Rapid Hit, Explosive Rounds)
+(Arrowhead Brake, ________________, Rapid Hit, Explosive Rounds)
+(_______________, ________________, Rapid Hit, Explosive Rounds)
+dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,3038247973#notes:Good for PvE/GM's
+dimwishlist:item=3504336176&perks=3142289711,247725512,3038247973#notes:Good for PvE/GM's
+dimwishlist:item=3504336176&perks=839105230,247725512,3038247973#notes:Good for PvE/GM's
+dimwishlist:item=3504336176&perks=247725512,3038247973#notes:Good for PvE/GM's
 
 
 
@@ -364,25 +377,33 @@ dimwishlist:item=3799980700&perks=3425386926,1015611457
 SHOTGUNS:
 
 ASTRAL HORIZON:
-(Rifled Barrel, Accurized Rounds, Quickdraw, Opening Shot)
 (Full Choke___, Accurized Rounds, Quickdraw, Opening Shot)
+(Rifled Barrel, Accurized Rounds, Quickdraw, Opening Shot)
 (_____________, Accurized Rounds, Quickdraw, Opening Shot)
+(Full Choke___, ________________, Quickdraw, Opening Shot)
+(Rifled Barrel, ________________, Quickdraw, Opening Shot)
 (_____________, ________________, Quickdraw, Opening Shot)
+dimwishlist:item=1697682876&perks=1047830412,3142289711,706527188,47981717
 dimwishlist:item=1697682876&perks=1332244541,3142289711,706527188,47981717
-dimwishlist:item=1697682876&perks=1047830412,3142289711,706527188,47981717#notes:Rifled Barrel would be better
 dimwishlist:item=1697682876&perks=3142289711,706527188,47981717
+dimwishlist:item=1697682876&perks=1047830412,706527188,47981717
+dimwishlist:item=1697682876&perks=1332244541,706527188,47981717
 dimwishlist:item=1697682876&perks=706527188,47981717
 
 
 
 ASTRAL HORIZON (ADEPT)
-(Rifled Barrel, Accurized Rounds, Quickdraw, Opening Shot)
 (Full Choke___, Accurized Rounds, Quickdraw, Opening Shot)
+(Rifled Barrel, Accurized Rounds, Quickdraw, Opening Shot)
 (_____________, Accurized Rounds, Quickdraw, Opening Shot)
+(Full Choke___, ________________, Quickdraw, Opening Shot)
+(Rifled Barrel, ________________, Quickdraw, Opening Shot)
 (_____________, ________________, Quickdraw, Opening Shot)
+dimwishlist:item=532746994&perks=1047830412,3142289711,706527188,47981717
 dimwishlist:item=532746994&perks=1332244541,3142289711,706527188,47981717
-dimwishlist:item=532746994&perks=1047830412,3142289711,706527188,47981717#notes:Rifled Barrel would be better
 dimwishlist:item=532746994&perks=3142289711,706527188,47981717
+dimwishlist:item=532746994&perks=1047830412,706527188,47981717
+dimwishlist:item=532746994&perks=1332244541,706527188,47981717
 dimwishlist:item=532746994&perks=706527188,47981717
 
 
@@ -390,16 +411,20 @@ dimwishlist:item=532746994&perks=706527188,47981717
 HERITAGE:
 (Full Bore, Assault Mag, Reconstruction, Recombination)
 (_________, Assault Mag, Reconstruction, Recombination)
+(Full Bore, ___________, Reconstruction, Recombination)
 (_________, ___________, Reconstruction, Recombination)
-dimwishlist:item=4248569242&perks=202670084,791862061,1523832109,469285294#notes:POG weapon for DPS
-dimwishlist:item=4248569242&perks=791862061,1523832109,469285294#notes:POG weapon for DPS
-dimwishlist:item=4248569242&perks=1523832109,469285294
+dimwishlist:item=4248569242&perks=202670084,791862061,1523832109,469285294#notes:POG weapon for Boss DPS
+dimwishlist:item=4248569242&perks=791862061,1523832109,469285294#notes:POG weapon for Boss DPS
+dimwishlist:item=4248569242&perks=202670084,1523832109,469285294#notes:POG weapon for Boss DPS
+dimwishlist:item=4248569242&perks=1523832109,469285294#notes:POG weapon for Boss DPS
 
 (Full Bore, Assault Mag, Auto-Loading, Recombination)
 (_________, Assault Mag, Auto-Loading, Recombination)
+(Full Bore, ___________, Auto-Loading, Recombination)
 (_________, ___________, Auto-Loading, Recombination)
 dimwishlist:item=4248569242&perks=202670084,791862061,3300816228,469285294#notes:Good alternative to Reconstruction
 dimwishlist:item=4248569242&perks=791862061,3300816228,469285294#notes:Good alternative to Reconstruction
+dimwishlist:item=4248569242&perks=202670084,3300816228,469285294#notes:Good alternative to Reconstruction
 dimwishlist:item=4248569242&perks=3300816228,469285294#notes:Good alternative to Reconstruction
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -407,29 +432,22 @@ dimwishlist:item=4248569242&perks=3300816228,469285294#notes:Good alternative to
 SIDEARMS:
 
 HIGH ALBEDO:
-(Accurizd Rounds, Full Auto, Wellspring)
-(_______________, Full Auto, Wellspring)
-dimwishlist:item=1197486957&perks=3142289711,4267945040,3592538738#notes:If you don't like spamming the mouse button
+(Full Auto, Wellspring)
 dimwishlist:item=1197486957&perks=4267945040,3592538738#notes:If you don't like spamming the mouse button
 
-(Accurized Rounds, Ambitious Assaassin, Wellspring)
-(________________, Ambitious Assaassin, Wellspring)
-dimwishlist:item=1197486957&perks=3142289711,2010801679,3592538738#notes:Each kill overflows magazine +3 on reload, up to 5 kills (total of 45 in the magazine)
+(Full Auto, Demolitionist)
+dimwishlist:item=1197486957&perks=4267945040,3523296417#notes:If you don't like spamming the mouse button
+
+(Ambitious Assaassin, Wellspring)
 dimwishlist:item=1197486957&perks=2010801679,3592538738#notes:Each kill overflows magazine +3 on reload, up to 5 kills (total of 45 in the magazine)
 
-(Accurized Rounds, Ambitious Assaassin, Demolitionist)
-(________________, Ambitious Assaassin, Demolitionist)
-dimwishlist:item=1197486957&perks=3142289711,2010801679,3523296417#notes:Each kill overflows magazine +3 on reload, up to 5 kills (total of 45 in the magazine)
+(Ambitious Assaassin, Demolitionist)
 dimwishlist:item=1197486957&perks=2010801679,3523296417#notes:Each kill overflows magazine +3 on reload, up to 5 kills (total of 45 in the magazine)
 
-(Accurized Rounds, Killing Wind, Wellspring)
-(________________, Killing Wind, Wellspring)
-dimwishlist:item=1197486957&perks=3142289711,2450788523,3592538738#notes:If you like a little extra handling and range
+(Killing Wind, Wellspring)
 dimwishlist:item=1197486957&perks=2450788523,3592538738#notes:If you like a little extra handling and range
 
-(Accurized Rounds, Killing Wind, Demolitionist)
-(________________, Killing Wind, Demolitionist)
-dimwishlist:item=1197486957&perks=3142289711,2450788523,3523296417#notes:If you like a little extra handling and range
+(Killing Wind, Demolitionist)
 dimwishlist:item=1197486957&perks=2450788523,3523296417#notes:If you like a little extra handling and range
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -531,10 +549,19 @@ dimwishlist:item=1786797708&perks=4071163871,3708227201
 
 
 FRICTION FIRE:
-(Drop Mag, Killing Wind, Rampage)
-(________, Killing Wind, Rampage)
+(Drop Mag____, Killing Wind, Rampage)
+(Tactical Mag, Killing Wind, Rampage)
+(____________, Killing Wind, Rampage)
 dimwishlist:item=1513993763&perks=4134353779,2450788523,3425386926
+dimwishlist:item=1513993763&perks=106909392,2450788523,3425386926
 dimwishlist:item=1513993763&perks=2450788523,3425386926
+
+(Drop Mag____, Killing Wind, Wellspring)
+(Tactical Mag, Killing Wind, Wellspring)
+(____________, Killing Wind, Wellspring)
+dimwishlist:item=1513993763&perks=4134353779,2450788523,3592538738
+dimwishlist:item=1513993763&perks=106909392,2450788523,3592538738
+dimwishlist:item=1513993763&perks=2450788523,3592538738
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
