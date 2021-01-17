@@ -22,68 +22,88 @@ ACCRUED REDEMPTION:
 (Elastic String, Straight Fletching, Archer's Tempo, Rampage)
 (Elastic String, __________________, Archer's Tempo, Rampage)
 (______________, __________________, Archer's Tempo, Rampage)
-dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3425386926#notes:Good for PvE, can one-shot to the head in PvP with 3x Rampage
-dimwishlist:item=4095896073&perks=2801223209,201365942,3425386926#notes:Good for PvE, can one-shot to the head in PvP with 3x Rampage
-dimwishlist:item=4095896073&perks=201365942,3425386926#notes:Good for PvE, can one-shot to the head in PvP with 3x Rampage
+dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3425386926#notes:Good for PvE, can one-shot to the head in PvP with 3x Rampage, go for Draw Time MW
+dimwishlist:item=4095896073&perks=2801223209,201365942,3425386926#notes:Good for PvE, can one-shot to the head in PvP with 3x Rampage, go for Draw Time MW
+dimwishlist:item=4095896073&perks=201365942,3425386926#notes:Good for PvE, can one-shot to the head in PvP with 3x Rampage, go for Draw Time MW
 
 (Elastic String, Straight Fletching, Archer's Tempo, Explosive Head)
 (Elastic String, __________________, Archer's Tempo, Explosive Head)
 (______________, __________________, Archer's Tempo, Explosive Head)
-dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3365897133#notes:Good for PvE and PvP
-dimwishlist:item=4095896073&perks=2801223209,201365942,3365897133#notes:Good for PvE and PvP
-dimwishlist:item=4095896073&perks=201365942,3365897133#notes:Good for PvE and PvP
+dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3365897133#notes:Good for PvE and PvP, go for Draw Time MW
+dimwishlist:item=4095896073&perks=2801223209,201365942,3365897133#notes:Good for PvE and PvP, go for Draw Time MW
+dimwishlist:item=4095896073&perks=201365942,3365897133#notes:Good for PvE and PvP, go for Draw Time MW
 
 (Elastic String, Straight Fletching, Archer's Tempo, Rapid Hit)
 (Elastic String, __________________, Archer's Tempo, Rapid Hit)
 (______________, __________________, Archer's Tempo, Rapid Hit)
-dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,247725512#notes:Test this
-dimwishlist:item=4095896073&perks=2801223209,201365942,247725512#notes:Test this
-dimwishlist:item=4095896073&perks=201365942,247725512#notes:Test this
+dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,247725512#notes:Test this, go for Draw Time MW
+dimwishlist:item=4095896073&perks=2801223209,201365942,247725512#notes:Test this, go for Draw Time MW
+dimwishlist:item=4095896073&perks=201365942,247725512#notes:Test this, go for Draw Time MW
 
 
 
 
 BITING WINDS:
 (Elastic String, Moving target, Swashbuckler)
-(Elastic String, _____________, Swashbuckler)
 (______________, Moving target, Swashbuckler)
-dimwishlist:item=1621657423&perks=2801223209,588594999,4082225868#notes:Can one-shot to the head in PvP after a melee kill (swashbuckler x 5)
-dimwishlist:item=1621657423&perks=2801223209,4082225868#notes:Can one-shot to the head in PvP after a melee kill (swashbuckler x 5)
-dimwishlist:item=1621657423&perks=588594999,4082225868#notes:Can one-shot to the head in PvP after a melee kill (swashbuckler x 5)
+dimwishlist:item=1621657423&perks=2801223209,588594999,4082225868#notes:Test this vs. Rapid Hit. Can one-shot to the head in PvP with Swashbuckler x5, go for Draw Time MW
+dimwishlist:item=1621657423&perks=588594999,4082225868#notes:Test this vs. Rapid Hit. Can one-shot to the head in PvP with Swashbuckler x5, go for Draw Time MW
+
+(Elastic String, Rapid Hit, Swashbuckler)
+(______________, Rapid Hit, Swashbuckler)
+(Elastic String, _________, Swashbuckler)
+dimwishlist:item=1621657423&perks=2801223209,247725512,4082225868#notes:Test this vs. Moving target. Can one-shot to the head in PvP with Swashbuckler x5, go for Draw Time MW
+dimwishlist:item=1621657423&perks=247725512,4082225868#notes:Test this vs. Moving target. Can one-shot to the head in PvP with Swashbuckler x5, go for Draw Time MW
+dimwishlist:item=1621657423&perks=2801223209,4082225868#notes:Test this vs. Moving target. Can one-shot to the head in PvP with Swashbuckler x5, go for Draw Time MW
 
 
 
 WHISPERING SLAB:
-(Elastic String, Fiberglass Arrow Shaft, Archer's Tempo, Demolitionist)
-(Elastic String, ______________________, Archer's Tempo, Demolitionist)
-(______________, ______________________, Archer's Tempo, Demolitionist)
-dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,3523296417
-dimwishlist:item=211938782&perks=2801223209,201365942,3523296417
-dimwishlist:item=211938782&perks=201365942,3523296417
+(Elastic String, Archer's Tempo, Demolitionist)
+(______________, Archer's Tempo, Demolitionist)
+dimwishlist:item=211938782&perks=2801223209,201365942,3523296417#notes:Go for Reload MW
+dimwishlist:item=211938782&perks=201365942,3523296417#notes:Go for Draw Time MW
+
+(Elastic String, Archer's Tempo, Swashbuckler)
+(______________, Archer's Tempo, Swashbuckler)
+dimwishlist:item=211938782&perks=2801223209,201365942,4082225868,758092021#notes:Go for Reload MW
+dimwishlist:item=211938782&perks=201365942,4082225868,758092021#notes:Go for Draw Time MW
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 HANDCANNONS:
 
 CRIMIL'S DAGGER:
-(Sureshot HCS, Accurized Rounds, Rangefinder, Kill Clip)
-(____________, Accurized Rounds, Rangefinder, Kill Clip)
-(____________, ________________, Rangefinder, Kill Clip)
+(Sureshot HCS__, Accurized Rounds, Rangefinder, Kill Clip)
+(Steadyhand HCS, Accurized Rounds, Rangefinder, Kill Clip)
+(Fastdraw HCS__, Accurized Rounds, Rangefinder, Kill Clip)
+(______________, Accurized Rounds, Rangefinder, Kill Clip)
+(______________, ________________, Rangefinder, Kill Clip)
 dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,1015611457
+dimwishlist:item=4292849692&perks=1926090095,3142289711,2846385770,1015611457
+dimwishlist:item=4292849692&perks=1926090094,3142289711,2846385770,1015611457
 dimwishlist:item=4292849692&perks=3142289711,2846385770,1015611457
 dimwishlist:item=4292849692&perks=2846385770,1015611457
 
-(Sureshot HCS, Accurized Rounds, Outlaw, Kill Clip)
-(____________, Accurized Rounds, Outlaw, Kill Clip)
-(____________, ________________, Outlaw, Kill Clip)
+(Sureshot HCS__, Accurized Rounds, Outlaw, Kill Clip)
+(Steadyhand HCS, Accurized Rounds, Outlaw, Kill Clip)
+(Fastdraw HCS__, Accurized Rounds, Outlaw, Kill Clip)
+(______________, Accurized Rounds, Outlaw, Kill Clip)
+(______________, ________________, Outlaw, Kill Clip)
 dimwishlist:item=4292849692&perks=1926090091,3142289711,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1926090095,3142289711,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1926090094,3142289711,1168162263,1015611457
 dimwishlist:item=4292849692&perks=3142289711,1168162263,1015611457
 dimwishlist:item=4292849692&perks=1168162263,1015611457
 
-(Sureshot HCS, Accurized Rounds, Snapshot, Kill Clip)
-(____________, Accurized Rounds, Snapshot, Kill Clip)
-(____________, ________________, Snapshot, Kill Clip)
+(Sureshot HCS__, Accurized Rounds, Snapshot, Kill Clip)
+(Steadyhand HCS, Accurized Rounds, Snapshot, Kill Clip)
+(Fastdraw HCS__, Accurized Rounds, Snapshot, Kill Clip)
+(______________, Accurized Rounds, Snapshot, Kill Clip)
+(______________, ________________, Snapshot, Kill Clip)
 dimwishlist:item=4292849692&perks=1926090091,3142289711,957782887,1015611457
+dimwishlist:item=4292849692&perks=1926090095,3142289711,957782887,1015611457
+dimwishlist:item=4292849692&perks=1926090094,3142289711,957782887,1015611457
 dimwishlist:item=4292849692&perks=3142289711,957782887,1015611457
 dimwishlist:item=4292849692&perks=957782887,1015611457
 
@@ -131,15 +151,10 @@ dimwishlist:item=2742838701&perks=47981717,4082225868
 
 
 SEVENTH SERAPH OFFICER REVOLVER:
-(Corkscrew Rifling, Appended Mag, Ambitious Assassin, Timed Payload)
-(_________________, Appended Mag, Ambitious Assassin, Timed Payload)
-dimwishlist:item=3037520408&perks=4090651448,1087426260,2010801679,1954620775
+(Appended Mag, Ambitious Assassin, Timed Payload)
+(Tactical Mag, Ambitious Assassin, Timed Payload)
+(____________, Ambitious Assassin, Timed Payload)
 dimwishlist:item=3037520408&perks=1087426260,2010801679,1954620775
-
-(Corkscrew Rifling, Tactical Mag, Ambitious Assassin, Timed Payload)
-(_________________, Tactical Mag, Ambitious Assassin, Timed Payload)
-(_________________, ____________, Ambitious Assassin, Timed Payload)
-dimwishlist:item=3037520408&perks=4090651448,106909392,2010801679,1954620775
 dimwishlist:item=3037520408&perks=106909392,2010801679,1954620775
 dimwishlist:item=3037520408&perks=2010801679,1954620775
 
