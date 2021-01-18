@@ -465,6 +465,16 @@ dimwishlist:item=3616586446&perks=3300816228,1546637391
 
 
 
+IKELOS_SG_V1.0.2:
+(Tactical Mag, Threat Detector, Trench Barrel)
+(Tactical Mag, Pulse Monitor__, Trench Barrel)
+(Tactical Mag, _______________, Trench Barrel)
+dimwishlist:item=1096206669&perks=106909392,4071163871,2360754333#notes:Good for Boss DPS
+dimwishlist:item=1096206669&perks=106909392,972757866,2360754333#notes:Good for Boss DPS
+dimwishlist:item=1096206669&perks=106909392,2360754333#notes:Good for Boss DPS
+
+
+
 SEVENTH SERAPH CQC-12:
 (Full Choke___, Accurized Rounds, Quick Draw, Snapshot)
 (Rifled Barrel, Accurized Rounds, Quick Draw, Snapshot)
