@@ -3,6 +3,36 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AUTO RIFLES:
 
+FALSE PROMISES:
+(Chambered Compensator, Ricochet Rounds, Killing Wind, Unrelenting)
+(_____________________, Ricochet Rounds, Killing Wind, Unrelenting)
+(Chambered Compensator, _______________, Killing Wind, Unrelenting)
+(_____________________, _______________, Killing Wind, Unrelenting)
+dimwishlist:item=3143732432&perks=3661387068,1885400500,2450788523,3108830275#notes:PvP
+dimwishlist:item=3143732432&perks=1885400500,2450788523,3108830275#notes:PvP
+dimwishlist:item=3143732432&perks=3661387068,2450788523,3108830275#notes:PvP
+dimwishlist:item=3143732432&perks=2450788523,3108830275#notes:PvP
+
+(Chambered Compensator, Ricochet Rounds, Dynamic Sway Reduction, Zen Moment)
+(_____________________, Ricochet Rounds, Dynamic Sway Reduction, Zen Moment)
+(Chambered Compensator, _______________, Dynamic Sway Reduction, Zen Moment)
+(_____________________, _______________, Dynamic Sway Reduction, Zen Moment)
+dimwishlist:item=3143732432&perks=3661387068,1885400500,1359896290,2387244414#notes:PvP
+dimwishlist:item=3143732432&perks=1885400500,1359896290,2387244414#notes:PvP
+dimwishlist:item=3143732432&perks=3661387068,1359896290,2387244414#notes:PvP
+dimwishlist:item=3143732432&perks=1359896290,2387244414#notes:PvP
+
+(Chambered Compensator, Ricochet Rounds, Killing Wind, Zen Moment)
+(_____________________, Ricochet Rounds, Killing Wind, Zen Moment)
+(Chambered Compensator, _______________, Killing Wind, Zen Moment)
+(_____________________, _______________, Killing Wind, Zen Moment)
+dimwishlist:item=3143732432&perks=3661387068,1885400500,2450788523,2387244414#notes:PvP
+dimwishlist:item=3143732432&perks=1885400500,2450788523,2387244414#notes:PvP
+dimwishlist:item=3143732432&perks=3661387068,2450788523,2387244414#notes:PvP
+dimwishlist:item=3143732432&perks=2450788523,2387244414#notes:PvP
+
+
+
 SEVENTH SERAPH CARBINE:
 (Ricochet Rounds, Fouth Time's the Charm, Swashbuckler)
 (Ricochet Rounds, ______________________, Swashbuckler)
