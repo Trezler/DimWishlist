@@ -708,10 +708,10 @@ dimwishlist:item=766323545&perks=2010801679,2848615171#notes:PvE, go for Reload 
 (Drop Mag________, Fourth Time's the Charm, Dragonfly)
 (Tactical Mag____, Fourth Time's the Charm, Dragonfly)
 (________________, Fourth Time's the Charm, Dragonfly)
-dimwishlist:item=766323545&perks=3142289711,1354429876,2848615171,758092021#notes:PvE, go for Reload MW
-dimwishlist:item=766323545&perks=4134353779,1354429876,2848615171,758092021#notes:PvE, go for Range MW
-dimwishlist:item=766323545&perks=106909392,1354429876,2848615171,758092021#notes:Test this
-dimwishlist:item=766323545&perks=1354429876,2848615171,758092021#notes:PvE, go for Reload MW
+dimwishlist:item=766323545&perks=3142289711,1354429876,2848615171#notes:PvE, go for Reload MW
+dimwishlist:item=766323545&perks=4134353779,1354429876,2848615171#notes:PvE, go for Range MW
+dimwishlist:item=766323545&perks=106909392,1354429876,2848615171#notes:Test this
+dimwishlist:item=766323545&perks=1354429876,2848615171#notes:PvE, go for Reload MW
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
