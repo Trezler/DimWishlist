@@ -185,7 +185,6 @@ dimwishlist:item=3514144928&perks=2387244414,3425386926#notes:PvP
 BOWS:
 
 ARSENIC BITE-4B:
-
 (Elastic String, Dragonfly, Archer's Tempo)
 (______________, Dragonfly, Archer's Tempo)
 dimwishlist:item=720351795&perks=2801223209,2848615171,201365942
@@ -290,7 +289,7 @@ dimwishlist:item=3850168899&perks=2822142346,3300816228,3523296417
 
 
 
-TRUTHTELLER
+TRUTHTELLER:
 (Hard Launch, Proximity Grenades, Auto-Loading, Disruption Break)
 (Hard Launch, Proximity Grenades, ____________, Disruption Break)
 (Hard Launch, Proximity Grenades, ____________, ________________)
@@ -495,8 +494,8 @@ dimwishlist:item=1821724780&perks=3142289711,706527188,1546637391#notes:PvP, go 
 dimwishlist:item=1821724780&perks=706527188,1546637391#notes:PvP, go for Range MW
 
 
-XENOCLAST:
 
+XENOCLAST:
 (Assault Mag, Auto-Loading, Trench Barrel)
 (___________, Auto-Loading, Trench Barrel)
 dimwishlist:item=2891672170&perks=791862061,3300816228,2360754333#notes:PvE Boss DPS
@@ -532,20 +531,70 @@ dimwishlist:item=2891672170&perks=2869569095,2679249093#notes:PvE Boss DPS
 SIDEARMS:
 
 SEVENTH SERAPH SI-2:
-
 (Accuized Rounds, Threat Detector, Surrounded)
 (_______________, Threat Detector, Surrounded)
-dimwishlist:item=3937866388&perks=3142289711,4071163871,3708227201
-dimwishlist:item=3937866388&perks=4071163871,3708227201
+dimwishlist:item=3937866388&perks=3142289711,4071163871,3708227201#notes:PvE
+dimwishlist:item=3937866388&perks=4071163871,3708227201#notes:PvE
 
 (Accuized Rounds, Threat Detector, Dragonfly)
 (_______________, Threat Detector, Dragonfly)
-dimwishlist:item=3937866388&perks=3142289711,4071163871,2848615171
-dimwishlist:item=3937866388&perks=4071163871,2848615171
+dimwishlist:item=3937866388&perks=3142289711,4071163871,2848615171#notes:PvE
+dimwishlist:item=3937866388&perks=4071163871,2848615171#notes:PvE
+
+
+
+THE FOOL'S REMEDY:
+(Ricochet Rounds, Moving Target, Kill Clip)
+(_______________, Moving Target, Kill Clip)
+dimwishlist:item=65611680&perks=1885400500,588594999,1015611457#notes:PvP
+dimwishlist:item=65611680&perks=588594999,1015611457#notes:PvP
+
+(Ricochet Rounds, Hip-Fire Grip, Kill Clip)
+(_______________, Hip-Fire Grip, Kill Clip)
+dimwishlist:item=65611680&perks=1885400500,1866048759,1015611457#notes:PvP
+dimwishlist:item=65611680&perks=1866048759,1015611457#notes:PvP
+
+(Ricochet Rounds, Feeding Frenzy, Kill Clip)
+(_______________, Feeding Frenzy, Kill Clip)
+dimwishlist:item=65611680&perks=1885400500,2779035018,1015611457#notes:PvP
+dimwishlist:item=65611680&perks=2779035018,1015611457#notes:PvP
+
+
+
+THE LAST DANCE:
+(Ricochet Rounds, Full-Auto, Kill Clip)
+(_______________, Full-Auto, Kill Clip)
+dimwishlist:item=2009277538&perks=1885400500,4267945040,1015611457#notes:PvP
+dimwishlist:item=2009277538&perks=4267945040,1015611457#notes:PvP
+
+(Ricochet Rounds, Outlaw, Kill Clip)
+(_______________, Outlaw, Kill Clip)
+dimwishlist:item=2009277538&perks=1885400500,1168162263,1015611457#notes:PvP
+dimwishlist:item=2009277538&perks=1168162263,1015611457#notes:PvP
+
+(Ricochet Rounds, Full-Auto, Dragonfly)
+(_______________, Full-Auto, Dragonfly)
+dimwishlist:item=2009277538&perks=1885400500,4267945040,2848615171#notes:PvE
+dimwishlist:item=2009277538&perks=4267945040,2848615171#notes:PvE
+
+(Ricochet Rounds, Outlaw, Dragonfly)
+(_______________, Outlaw, Dragonfly)
+dimwishlist:item=2009277538&perks=1885400500,1168162263,2848615171#notes:PvE
+dimwishlist:item=2009277538&perks=1168162263,2848615171#notes:PvE
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 SNIPERS:
+
+DISTANT TUMULUS:
+(Tactical Mag, Clown Cartridge, Firing Line)
+(____________, Clown Cartridge, Firing Line)
+(Tactical Mag, _______________, Firing Line)
+dimwishlist:item=2807687156&perks=106909392,2284787283,1771339417#notes:PvE Boss DPS
+dimwishlist:item=2807687156&perks=2284787283,1771339417#notes:PvE Boss DPS
+dimwishlist:item=2807687156&perks=106909392,1771339417#notes:PvE Boss DPS
+
+
 
 IKELOS_V1.0.2:
 (Chambered Compensator, Tactical Mag, Fouth Time's the Charm, High-Impact Reserves)
@@ -601,6 +650,14 @@ dimwishlist:item=1253087083&perks=3661387068,2420895100,3400784728,2213355989#no
 dimwishlist:item=1253087083&perks=1840239774,2420895100,3400784728,2213355989#notes:Triple Tap works, but Fourth Time's The Charm is better
 dimwishlist:item=1253087083&perks=2420895100,3400784728,2213355989#notes:Triple Tap works, but Fourth Time's The Charm is better
 dimwishlist:item=1253087083&perks=2420895100,3400784728#notes:Triple Tap works, but Fourth Time's The Charm is better
+
+
+
+OMNICIENT EYE:
+(Accurized Rounds, No Distractions, Snapshot Sights)
+(________________, No Distractions, Snapshot Sights)
+dimwishlist:item=3454326177&perks=3142289711,2866798147,957782887#notes:PvP
+dimwishlist:item=3454326177&perks=2866798147,957782887#notes:PvP
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
