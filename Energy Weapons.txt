@@ -496,8 +496,31 @@ dimwishlist:item=1821724780&perks=706527188,1546637391#notes:PvP, go for Range M
 
 
 XENOCLAST:
-(Grave Robber, One-Two Punch)
-dimwishlist:item=2891672170&perks=1631667848,2679249093
+
+(Assault Mag, Auto-Loading, Trench Barrel)
+(___________, Auto-Loading, Trench Barrel)
+dimwishlist:item=2891672170&perks=791862061,3300816228,2360754333#notes:PvE Boss DPS
+dimwishlist:item=2891672170&perks=3300816228,2360754333#notes:PvE Boss DPS
+
+(Assault Mag, Surplus, Trench Barrel)
+(___________, Surplus, Trench Barrel)
+dimwishlist:item=2891672170&perks=791862061,3436462433,2360754333#notes:PvE Boss DPS
+dimwishlist:item=2891672170&perks=3436462433,2360754333#notes:PvE Boss DPS
+
+(Assault Mag, Field Prep, Trench Barrel)
+(___________, Field Prep, Trench Barrel)
+dimwishlist:item=2891672170&perks=791862061,2869569095,2360754333#notes:PvE Boss DPS
+dimwishlist:item=2891672170&perks=2869569095,2360754333#notes:PvE Boss DPS
+
+(Assault Mag, Surplus, One-Two Punch)
+(___________, Surplus, One-Two Punch)
+dimwishlist:item=2891672170&perks=791862061,3436462433,2679249093#notes:PvE Boss DPS
+dimwishlist:item=2891672170&perks=3436462433,2679249093#notes:PvE Boss DPS
+
+(Assault Mag, Field Prep, One-Two Punch)
+(___________, Field Prep, One-Two Punch)
+dimwishlist:item=2891672170&perks=791862061,2869569095,2679249093#notes:PvE Boss DPS
+dimwishlist:item=2891672170&perks=2869569095,2679249093#notes:PvE Boss DPS
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
