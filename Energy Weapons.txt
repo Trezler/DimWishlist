@@ -664,16 +664,54 @@ dimwishlist:item=3454326177&perks=2866798147,957782887#notes:PvP
 SUBMACHINE GUNS:
 
 DEATH ADDER:
-(Feeding Frenzy, Dragonfly)
-dimwishlist:item=2742490609&perks=2779035018,2848615171
+(Accurized Rounds, Feeding Frenzy, Dragonfly)
+(________________, Feeding Frenzy, Dragonfly)
+dimwishlist:item=2742490609&perks=3142289711,2779035018,2848615171#notes:PvE
+dimwishlist:item=2742490609&perks=2779035018,2848615171#notes:PvE
+
+(Accurized Rounds, Dynamic Sway Reduction, Dragonfly)
+(________________, Dynamic Sway Reduction, Dragonfly)
+dimwishlist:item=2742490609&perks=3142289711,1359896290,2848615171#notes:PvE
+dimwishlist:item=2742490609&perks=1359896290,2848615171#notes:PvE
+
+
+
+IKELOS_SMG_V1.0.2:
+(Seraph Rounds___, Threat Detector, Demolitionist)
+(Accurized Rounds, Threat Detector, Demolitionist)
+(________________, Threat Detector, Demolitionist)
+dimwishlist:item=2222560548&perks=1140096971,4071163871,3523296417
+dimwishlist:item=2222560548&perks=3142289711,4071163871,3523296417
+dimwishlist:item=2222560548&perks=4071163871,3523296417
+
+(Seraph Rounds___, Threat Detector, Surrounded)
+(Accurized Rounds, Threat Detector, Surrounded)
+(________________, Threat Detector, Surrounded)
+dimwishlist:item=2222560548&perks=1140096971,4071163871,3708227201
+dimwishlist:item=2222560548&perks=3142289711,4071163871,3708227201
+dimwishlist:item=2222560548&perks=4071163871,3708227201
 
 
 
 SEVENTH SERAPH VY-7:
-(Drop Mag, Fourth Time's the Charm, Dragonfly)
-(________, Fourth Time's the Charm, Feeding Frenzy)
-dimwishlist:item=766323545&perks=4134353779,1354429876,2848615171
-dimwishlist:item=766323545&perks=1354429876,2779035018
+
+(Accurized Rounds, Ambitious Assassin, Dragonfly)
+(Drop Mag________, Ambitious Assassin, Dragonfly)
+(Tactical Mag____, Ambitious Assassin, Dragonfly)
+(________________, Ambitious Assassin, Dragonfly)
+dimwishlist:item=766323545&perks=3142289711,2010801679,2848615171#notes:PvE, go for Reload MW
+dimwishlist:item=766323545&perks=4134353779,2010801679,2848615171#notes:PvE, go for Range MW
+dimwishlist:item=766323545&perks=106909392,2010801679,2848615171,758092021#notes:Test this
+dimwishlist:item=766323545&perks=2010801679,2848615171#notes:PvE, go for Reload MW
+
+(Accurized Rounds, Fourth Time's the Charm, Dragonfly)
+(Drop Mag________, Fourth Time's the Charm, Dragonfly)
+(Tactical Mag____, Fourth Time's the Charm, Dragonfly)
+(________________, Fourth Time's the Charm, Dragonfly)
+dimwishlist:item=766323545&perks=3142289711,1354429876,2848615171,758092021#notes:PvE, go for Reload MW
+dimwishlist:item=766323545&perks=4134353779,1354429876,2848615171,758092021#notes:PvE, go for Range MW
+dimwishlist:item=766323545&perks=106909392,1354429876,2848615171,758092021#notes:Test this
+dimwishlist:item=766323545&perks=1354429876,2848615171,758092021#notes:PvE, go for Reload MW
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
