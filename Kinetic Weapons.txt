@@ -31,6 +31,16 @@ dimwishlist:item=3143732432&perks=1885400500,2450788523,2387244414#notes:PvP
 dimwishlist:item=3143732432&perks=3661387068,2450788523,2387244414#notes:PvP
 dimwishlist:item=3143732432&perks=2450788523,2387244414#notes:PvP
 
+(Ricochet Rounds, Overflow, Rampage)
+(_______________, Overflow, Rampage)
+dimwishlist:item=3143732432&perks=1885400500,3643424744,3425386926#notes:PvE
+dimwishlist:item=3143732432&perks=3643424744,3425386926#notes:PvE
+
+(Ricochet Rounds, Overflow, Swashbuckler)
+(_______________, Overflow, Swashbuckler)
+dimwishlist:item=3143732432&perks=1885400500,3643424744,4082225868#notes:PvE
+dimwishlist:item=3143732432&perks=3643424744,4082225868#notes:PvE
+
 
 
 SEVENTH SERAPH CARBINE:
