@@ -101,16 +101,16 @@ WHISPERING SLAB:
 (Elastic String, Archer's Tempo, Demolitionist)
 (______________, Archer's Tempo, Demolitionist)
 (Elastic String, ______________, Demolitionist)
-dimwishlist:item=211938782&perks=2801223209,201365942,3523296417#notes:Go for Reload MW
-dimwishlist:item=211938782&perks=201365942,3523296417#notes:Go for Draw Time MW
-dimwishlist:item=211938782&perks=2801223209,3523296417#notes:Go for Draw Time MW
+dimwishlist:item=211938782&perks=2801223209,201365942,3523296417#notes:PvE, go for Reload MW
+dimwishlist:item=211938782&perks=201365942,3523296417#notes:PvE, go for Draw Time MW
+dimwishlist:item=211938782&perks=2801223209,3523296417#notes:PvE, go for Reload Time MW
 
 (Elastic String, Archer's Tempo, Swashbuckler)
 (______________, Archer's Tempo, Swashbuckler)
 (Elastic String, ______________, Swashbuckler)
-dimwishlist:item=211938782&perks=2801223209,201365942,4082225868#notes:Go for Reload MW
-dimwishlist:item=211938782&perks=201365942,4082225868#notes:Go for Draw Time MW
-dimwishlist:item=211938782&perks=2801223209,4082225868#notes:Go for Draw Time MW
+dimwishlist:item=211938782&perks=2801223209,201365942,4082225868#notes:PvE/PvP, go for Reload MW
+dimwishlist:item=211938782&perks=201365942,4082225868#notes:PvE/PvP, go for Draw Time MW
+dimwishlist:item=211938782&perks=2801223209,4082225868#notes:PvE/PvP, go for Reload Time MW
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
