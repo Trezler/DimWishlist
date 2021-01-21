@@ -564,15 +564,15 @@ dimwishlist:item=686951703&perks=957782887,3400784728#notes:PvE, Boss DPS
 SUBMACHINE GUNS:
 
 COLD FRONT:
-(Accurized Rounds, Surplus, Dragonfly)
-(________________, Surplus, Dragonfly)
-dimwishlist:item=1506719573&perks=3142289711,3436462433,2848615171
-dimwishlist:item=1506719573&perks=3436462433,2848615171
+(Accurized Rounds, Surplus, Swashbuckler)
+(________________, Surplus, Swashbuckler)
+dimwishlist:item=1506719573&perks=3142289711,3436462433,4082225868
+dimwishlist:item=1506719573&perks=3436462433,4082225868
 
-(Accurized Rounds, Dynamic Sway Reduction, Dragonfly)
-(________________, Dynamic Sway Reduction, Dragonfly)
-dimwishlist:item=1506719573&perks=3142289711,1359896290,2848615171
-dimwishlist:item=1506719573&perks=1359896290,2848615171
+(Accurized Rounds, Dynamic Sway Reduction, Swashbuckler)
+(________________, Dynamic Sway Reduction, Swashbuckler)
+dimwishlist:item=1506719573&perks=3142289711,1359896290,4082225868
+dimwishlist:item=1506719573&perks=1359896290,4082225868
 
 (Accurized Rounds, Surplus, One For All)
 (________________, Surplus, One For All)
