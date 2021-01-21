@@ -208,10 +208,34 @@ dimwishlist:item=2582755344&perks=3300816228,1771339417#notes:Boss DPS
 dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1546637391#notes:Boss DPS
 dimwishlist:item=2582755344&perks=2420895100,3300816228,1546637391#notes:Boss DPS
 dimwishlist:item=2582755344&perks=3300816228,1546637391#notes:Boss DPS
+
+
+
+THERMAL EROSION:
+()
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ROCKET LAUNCHERS:
+
+HOOSEGOW:
+(Hard Launch, Impact Casing, Field Prep, Cluster Bombs)
+(___________, Impact Casing, Field Prep, Cluster Bombs)
+(___________, _____________, Field Prep, Cluster Bombs)
+dimwishlist:item=3669616453&perks=981914802,3796465595,2869569095,1275731761#notes:Good for PvE, Boss DPS
+dimwishlist:item=3669616453&perks=3796465595,2869569095,1275731761#notes:Good for PvE, Boss DPS
+dimwishlist:item=3669616453&perks=2869569095,1275731761#notes:Good for PvE, Boss DPS
+
+(Hard Launch, Impact Casing, Auto-Loading, Cluster Bombs)
+(___________, Impact Casing, Auto-Loading, Cluster Bombs)
+(___________, _____________, Auto-Loading, Cluster Bombs)
+(___________, Impact Casing, ____________, Cluster Bombs)
+dimwishlist:item=3669616453&perks=981914802,3796465595,3300816228,1275731761#notes:Good for PvE, Boss DPS
+dimwishlist:item=3669616453&perks=3796465595,3300816228,1275731761#notes:Good for PvE, Boss DPS
+dimwishlist:item=3669616453&perks=3300816228,1275731761#notes:Good for PvE, Boss DPS
+dimwishlist:item=3669616453&perks=3796465595,1275731761#notes:Good for PvE, Boss DPS
+
+
 
 SUBZERO SALVO:
 (Ambitious Assassin, Chain Reaction)
@@ -223,6 +247,18 @@ dimwishlist:item=42351395&perks=706527188,1275731761#notes:Boss DPS in the futur
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SWORDS:
+
+BEQUEST:
+(Hungry Edge, Balanced Guard, Thresh, Assassin's Blade)
+(Hungry Edge, ______________, Thresh, Assassin's Blade)
+(___________, Balanced Guard, Thresh, Assassin's Blade)
+(___________, ______________, Thresh, Assassin's Blade)
+dimwishlist:item=3366545721&perks=436053704,52780822,2726471870,354401740#notes:Good for PvE, ad clearing
+dimwishlist:item=3366545721&perks=436053704,2726471870,354401740#notes:Good for PvE, ad clearing
+dimwishlist:item=3366545721&perks=52780822,2726471870,354401740#notes:Good for PvE, ad clearing
+dimwishlist:item=3366545721&perks=2726471870,354401740#notes:Good for PvE, ad clearing
+
+
 
 FALLING GUILLOTINE:
 (Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade)
