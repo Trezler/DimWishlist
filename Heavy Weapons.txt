@@ -227,10 +227,33 @@ SWORDS:
 FALLING GUILLOTINE:
 (Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade)
 (Jagged Edge, ___________________, Relentless Strikes, Whirlwind Blade)
+(___________, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade)
 (___________, ___________________, Relentless Strikes, Whirlwind Blade)
-dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
-dimwishlist:item=614426548&perks=3666208348,1749209109,3913600130
-dimwishlist:item=614426548&perks=1749209109,3913600130
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#notes:Good for PvE
+dimwishlist:item=614426548&perks=3666208348,1749209109,3913600130#notes:Good for PvE
+dimwishlist:item=614426548&perks=269888150,1749209109,3913600130#notes:Good for PvE
+dimwishlist:item=614426548&perks=1749209109,3913600130#notes:Good for PvE
+
+
+
+TEMPTATION'S HOOK:
+(Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade)
+(Jagged Edge, ___________________, Relentless Strikes, Whirlwind Blade)
+(___________, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade)
+(___________, ___________________, Relentless Strikes, Whirlwind Blade)
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3913600130#notes:Good for PvE
+dimwishlist:item=35794111&perks=3666208348,1749209109,3913600130#notes:Good for PvE
+dimwishlist:item=35794111&perks=269888150,1749209109,3913600130#notes:Good for PvE
+dimwishlist:item=35794111&perks=1749209109,3913600130#notes:Good for PvE
+
+(Jagged Edge, Swordmaster's Guard, Tireless Blade, Vorpal Weapon)
+(Jagged Edge, ___________________, Tireless Blade, Vorpal Weapon)
+(___________, Swordmaster's Guard, Tireless Blade, Vorpal Weapon)
+(___________, ___________________, Tireless Blade, Vorpal Weapon)
+dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391#notes:Good for PvE/PvP
+dimwishlist:item=35794111&perks=3666208348,2590710093,1546637391#notes:Good for PvE/PvP
+dimwishlist:item=35794111&perks=269888150,2590710093,1546637391#notes:Good for PvE/PvP
+dimwishlist:item=35794111&perks=2590710093,1546637391#notes:Good for PvE/PvP
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
