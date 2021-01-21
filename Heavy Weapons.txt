@@ -111,7 +111,79 @@ dimwishlist:item=66875353&perks=1168162263,4082225868
 
 
 COMMEMORATION:
-()
+(Accurized Rounds, Surplus_______________, Under Pressure)
+(Accurized Rounds, Dynamic Sway Reduction, Under Pressure)
+(Accurized Rounds, Zen Moment____________, Under Pressure)
+(Steady Rounds___, Surplus_______________, Under Pressure)
+(Steady Rounds___, Dynamic Sway Reduction, Under Pressure)
+(Steady Rounds___, Zen Moment____________, Under Pressure)
+(________________, Surplus_______________, Under Pressure)
+(________________, Dynamic Sway Reduction, Under Pressure)
+(________________, Zen Moment____________, Under Pressure)
+dimwishlist:item=4230965989&perks=3142289711,3436462433,1645158859#notes:Test this vs. Steady Rounds PvP
+dimwishlist:item=4230965989&perks=3142289711,1359896290,1645158859#notes:Test this vs. Steady Rounds PvP
+dimwishlist:item=4230965989&perks=3142289711,2387244414,1645158859#notes:Test this vs. Steady Rounds PvP
+dimwishlist:item=4230965989&perks=3177308360,3436462433,1645158859#notes:Test this vs. Acc. Rounds PvP
+dimwishlist:item=4230965989&perks=3177308360,1359896290,1645158859#notes:Test this vs. Acc. Rounds PvP
+dimwishlist:item=4230965989&perks=3177308360,2387244414,1645158859#notes:Test this vs. Acc. Rounds PvP
+dimwishlist:item=4230965989&perks=3436462433,1645158859#notes:Good for PvP
+dimwishlist:item=4230965989&perks=1359896290,1645158859#notes:Good for PvP
+dimwishlist:item=4230965989&perks=2387244414,1645158859#notes:Good for PvP
+
+(Accurized Rounds, Surplus_______________, Unrelenting)
+(Accurized Rounds, Dynamic Sway Reduction, Unrelenting)
+(Accurized Rounds, Zen Moment____________, Unrelenting)
+(Steady Rounds___, Surplus_______________, Unrelenting)
+(Steady Rounds___, Dynamic Sway Reduction, Unrelenting)
+(Steady Rounds___, Zen Moment____________, Unrelenting)
+(________________, Surplus_______________, Unrelenting)
+(________________, Dynamic Sway Reduction, Unrelenting)
+(________________, Zen Moment____________, Unrelenting)
+dimwishlist:item=4230965989&perks=3142289711,3436462433,3108830275#notes:Test this vs. Steady Rounds PvP
+dimwishlist:item=4230965989&perks=3142289711,1359896290,3108830275#notes:Test this vs. Steady Rounds PvP
+dimwishlist:item=4230965989&perks=3142289711,2387244414,3108830275#notes:Test this vs. Steady Rounds PvP
+dimwishlist:item=4230965989&perks=3177308360,3436462433,3108830275#notes:Test this vs. Acc. Rounds PvP
+dimwishlist:item=4230965989&perks=3177308360,1359896290,3108830275#notes:Test this vs. Acc. Rounds PvP
+dimwishlist:item=4230965989&perks=3177308360,2387244414,3108830275#notes:Test this vs. Acc. Rounds PvP
+dimwishlist:item=4230965989&perks=3436462433,3108830275#notes:Good for PvP
+dimwishlist:item=4230965989&perks=1359896290,3108830275#notes:Good for PvP
+dimwishlist:item=4230965989&perks=2387244414,3108830275#notes:Good for PvP
+
+(Tactical Mag, Reconstruction, Rampage)
+(Appended Mag, Reconstruction, Rampage)
+(Extended Mag, Reconstruction, Rampage)
+(____________, Reconstruction, Rampage)
+dimwishlist:item=4230965989&perks=106909392,1523832109,3425386926#notes:Good for PvE
+dimwishlist:item=4230965989&perks=1087426260,1523832109,3425386926#notes:Good for PvE
+dimwishlist:item=4230965989&perks=2420895100,1523832109,3425386926#notes:Good for PvE
+dimwishlist:item=4230965989&perks=1523832109,3425386926#notes:Good for PvE
+
+(Tactical Mag, Feeding Frenzy, Rampage)
+(Appended Mag, Feeding Frenzy, Rampage)
+(Extended Mag, Feeding Frenzy, Rampage)
+(____________, Feeding Frenzy, Rampage)
+dimwishlist:item=4230965989&perks=106909392,2779035018,3425386926#notes:Good for PvE
+dimwishlist:item=4230965989&perks=1087426260,2779035018,3425386926#notes:Good for PvE
+dimwishlist:item=4230965989&perks=2420895100,2779035018,3425386926#notes:Good for PvE
+dimwishlist:item=4230965989&perks=2779035018,3425386926#notes:Good for PvE
+
+(Tactical Mag, Reconstruction, Dragonfly)
+(Appended Mag, Reconstruction, Dragonfly)
+(Extended Mag, Reconstruction, Dragonfly)
+(____________, Reconstruction, Dragonfly)
+dimwishlist:item=4230965989&perks=106909392,1523832109,2848615171#notes:Good for PvE
+dimwishlist:item=4230965989&perks=1087426260,1523832109,2848615171#notes:Good for PvE
+dimwishlist:item=4230965989&perks=2420895100,1523832109,2848615171#notes:Good for PvE
+dimwishlist:item=4230965989&perks=1523832109,2848615171#notes:Good for PvE
+
+(Tactical Mag, Feeding Frenzy, Dragonfly)
+(Appended Mag, Feeding Frenzy, Dragonfly)
+(Extended Mag, Feeding Frenzy, Dragonfly)
+(____________, Feeding Frenzy, Dragonfly)
+dimwishlist:item=4230965989&perks=106909392,2779035018,2848615171#notes:Good for PvE
+dimwishlist:item=4230965989&perks=1087426260,2779035018,2848615171#notes:Good for PvE
+dimwishlist:item=4230965989&perks=2420895100,2779035018,2848615171#notes:Good for PvE
+dimwishlist:item=4230965989&perks=2779035018,2848615171#notes:Good for PvE
 
 
 
