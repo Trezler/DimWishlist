@@ -257,13 +257,13 @@ dimwishlist:item=42351395&perks=706527188,1275731761#notes:Boss DPS in the futur
 SWORDS:
 
 BEQUEST:
-(Hungry Edge, Balanced Guard, Thresh, Assassin's Blade)
-(Hungry Edge, ______________, Thresh, Assassin's Blade)
-(___________, Balanced Guard, Thresh, Assassin's Blade)
-(___________, ______________, Thresh, Assassin's Blade)
-dimwishlist:item=3366545721&perks=436053704,52780822,2726471870,354401740#notes:Good for PvE, ad clearing
+(Hungry Edge, Heavy Guard, Thresh, Assassin's Blade)
+(Hungry Edge, ___________, Thresh, Assassin's Blade)
+(___________, Heavy Guard, Thresh, Assassin's Blade)
+(___________, ___________, Thresh, Assassin's Blade)
+dimwishlist:item=3366545721&perks=436053704,2349202967,2726471870,354401740#notes:Good for PvE, ad clearing
 dimwishlist:item=3366545721&perks=436053704,2726471870,354401740#notes:Good for PvE, ad clearing
-dimwishlist:item=3366545721&perks=52780822,2726471870,354401740#notes:Good for PvE, ad clearing
+dimwishlist:item=3366545721&perks=2349202967,2726471870,354401740#notes:Good for PvE, ad clearing
 dimwishlist:item=3366545721&perks=2726471870,354401740#notes:Good for PvE, ad clearing
 
 
