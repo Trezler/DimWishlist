@@ -70,12 +70,12 @@ dimwishlist:item=3385326721&perks=1968497646,1168162263,1015611457#notes:Good fo
 dimwishlist:item=3385326721&perks=679225683,1168162263,1015611457#notes:Good for PvP
 dimwishlist:item=3385326721&perks=1168162263,1015611457#notes:Good for PvP
 
-(Armor-Piercing Rounds, Mulligan, Swashbuckler)
-(Armor-Piercing Rounds, Mulligan, Triple Tap__)
-(Armor-Piercing Rounds, Mulligan, ____________)
-dimwishlist:item=3385326721&perks=1968497646,3513791699,4082225868#notes:Good for PvE
-dimwishlist:item=3385326721&perks=1968497646,3513791699,3400784728#notes:Good for PvE
-dimwishlist:item=3385326721&perks=1968497646,3513791699#notes:Good for PvE
+(Outlaw, Swashbuckler)
+(Outlaw, Demolitionist)
+dimwishlist:item=3385326721&perks=1168162263,4082225868#notes:Good for PvE
+dimwishlist:item=3385326721&perks=1168162263,3523296417#notes:Good for PvE
+
+
 
 THE SUMMONER:
 (Arrowhead Brake, Overflow, Rampage)
