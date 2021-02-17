@@ -188,19 +188,17 @@ dimwishlist:item=4230965989&perks=2779035018,2848615171#notes:Good for PvE
 
 
 SEVENTH SERAPH SAW:
-(Arrowhead Brake, Armor-Piercing Rounds, Field Prep, Mulligan)
-(_______________, Armor-Piercing Rounds, Field Prep, Mulligan)
-(_______________, Armor-Piercing Rounds, __________, Mulligan)
-dimwishlist:item=2582755344&perks=839105230,1968497646,2869569095,3513791699#notes:PvE ad clear, bullets you're hitting has chance to get refunded
-dimwishlist:item=2582755344&perks=1968497646,2869569095,3513791699#notes:PvE ad clear, bullets you're hitting has chance to get refunded
-dimwishlist:item=2582755344&perks=1968497646,3513791699#notes:PvE ad clear, bullets you're hitting has chance to get refunded
+(Flared Magwell, Clown Cartridge, Disruption Break)
+(______________, Clown Cartridge, Disruption Break)
+dimwishlist:item=2582755344&perks=3230963543,2284787283,1683379515#notes:Good for PvE, ad clear
+dimwishlist:item=2582755344&perks=2284787283,1683379515#notes:Good for PvE, ad clear
 
 (Arrowhead Brake, Extended Mag, Auto-Loading, Firing Line)
 (_______________, Extended Mag, Auto-Loading, Firing Line)
 (_______________, ____________, Auto-Loading, Firing Line)
-dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1771339417#notes:Boss DPS
-dimwishlist:item=2582755344&perks=2420895100,3300816228,1771339417#notes:Boss DPS
-dimwishlist:item=2582755344&perks=3300816228,1771339417#notes:Boss DPS
+dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1771339417#notes:Good for PvE, Boss DPS
+dimwishlist:item=2582755344&perks=2420895100,3300816228,1771339417#notes:Good for PvE, Boss DPS
+dimwishlist:item=2582755344&perks=3300816228,1771339417#notes:Good for PvE, Boss DPS
 
 (Arrowhead Brake, Extended Mag, Auto-Loading, Vorpal Weapon)
 (_______________, Extended Mag, Auto-Loading, Vorpal Weapon)
