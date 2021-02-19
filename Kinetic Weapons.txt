@@ -355,7 +355,6 @@ dimwishlist:item=2220884262&perks=1168162263,4082225868#notes:Good for PvP
 PULSE RIFLES:
 
 CHATTERING BONE:
-
 (Corkscrew Rifling, Light Mag, Kill Clip, High-Impact Reserves) (Curated)
 dimwishlist:item=568515759&perks=4090651448,679225683,1015611457,2213355989#notes:Good for PvP
 
@@ -468,6 +467,56 @@ dimwishlist:item=3658188704&perks=1561002382,1168162263,1015611457#notes:Good fo
 dimwishlist:item=3658188704&perks=1885400500,1168162263,1015611457#notes:Good for PvP
 dimwishlist:item=3658188704&perks=679225683,1168162263,1015611457#notes:Good for PvP
 dimwishlist:item=3658188704&perks=1168162263,1015611457#notes:Good for PvP
+
+
+
+THE MESSENGER (ADEPT):
+(Armor-Piercing Rounds, Rapid Hit, Desperado)
+(High-Caliber Rounds__, Rapid Hit, Desperado)
+(Ricochet Rounds______, Rapid Hit, Desperado)
+(Light Mag____________, Rapid Hit, Desperado)
+(_____________________, Rapid Hit, Desperado)
+(Armor-Piercing Rounds, Outlaw___, Desperado)
+(High-Caliber Rounds__, Outlaw___, Desperado)
+(Ricochet Rounds______, Outlaw___, Desperado)
+(Light Mag____________, Outlaw___, Desperado)
+(_____________________, Outlaw___, Desperado)
+dimwishlist:item=1173780905&perks=1968497646,247725512,3047969693#notes:Good for PvP
+dimwishlist:item=1173780905&perks=1561002382,247725512,3047969693#notes:Good for PvP
+dimwishlist:item=1173780905&perks=1885400500,247725512,3047969693#notes:Good for PvP
+dimwishlist:item=1173780905&perks=679225683,247725512,3047969693#notes:Good for PvP
+dimwishlist:item=1173780905&perks=247725512,3047969693#notes:Good for PvP
+dimwishlist:item=1173780905&perks=1968497646,1168162263,3047969693#notes:Good for PvP
+dimwishlist:item=1173780905&perks=1561002382,1168162263,3047969693#notes:Good for PvP
+dimwishlist:item=1173780905&perks=1885400500,1168162263,3047969693#notes:Good for PvP
+dimwishlist:item=1173780905&perks=679225683,1168162263,3047969693#notes:Good for PvP
+dimwishlist:item=1173780905&perks=1168162263,3047969693#notes:Good for PvP
+
+(Armor-Piercing Rounds, Rapid Hit, Kill Clip)
+(High-Caliber Rounds__, Rapid Hit, Kill Clip)
+(Ricochet Rounds______, Rapid Hit, Kill Clip)
+(Light Mag____________, Rapid Hit, Kill Clip)
+(_____________________, Rapid Hit, Kill Clip)
+(Armor-Piercing Rounds, Outlaw___, Kill Clip)
+(High-Caliber Rounds__, Outlaw___, Kill Clip)
+(Ricochet Rounds______, Outlaw___, Kill Clip)
+(Light Mag____________, Outlaw___, Kill Clip)
+(_____________________, Outlaw___, Kill Clip)
+dimwishlist:item=1173780905&perks=1968497646,247725512,1015611457#notes:Good for PvP
+dimwishlist:item=1173780905&perks=1561002382,247725512,1015611457#notes:Good for PvP
+dimwishlist:item=1173780905&perks=1885400500,247725512,1015611457#notes:Good for PvP
+dimwishlist:item=1173780905&perks=679225683,247725512,1015611457#notes:Good for PvP
+dimwishlist:item=1173780905&perks=247725512,1015611457#notes:Good for PvP
+dimwishlist:item=1173780905&perks=1968497646,1168162263,1015611457#notes:Good for PvP
+dimwishlist:item=1173780905&perks=1561002382,1168162263,1015611457#notes:Good for PvP
+dimwishlist:item=1173780905&perks=1885400500,1168162263,1015611457#notes:Good for PvP
+dimwishlist:item=1173780905&perks=679225683,1168162263,1015611457#notes:Good for PvP
+dimwishlist:item=1173780905&perks=1168162263,1015611457#notes:Good for PvP
+
+
+
+THE TIME-WORN SPIRE:
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -482,6 +531,16 @@ dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,3038247973#note
 dimwishlist:item=3504336176&perks=3142289711,247725512,3038247973#notes:Good for PvE/GM's
 dimwishlist:item=3504336176&perks=839105230,247725512,3038247973#notes:Good for PvE/GM's
 dimwishlist:item=3504336176&perks=247725512,3038247973#notes:Good for PvE/GM's
+
+
+
+TALONS OF THE EAGLE:
+Obtainable?
+
+
+
+THE GUIDING SIGHT:
+Obtainable?
 
 
 
@@ -527,7 +586,7 @@ dimwishlist:item=1697682876&perks=3436462433,47981717#notes:Good for PvP, sadly 
 
 
 
-ASTRAL HORIZON (ADEPT)
+ASTRAL HORIZON (ADEPT):
 (Full Choke___, Accurized Rounds, Quickdraw, Opening Shot)
 (Rifled Barrel, Accurized Rounds, Quickdraw, Opening Shot)
 (_____________, Accurized Rounds, Quickdraw, Opening Shot)
@@ -553,6 +612,18 @@ dimwishlist:item=532746994&perks=3142289711,3436462433,47981717#notes:Good for P
 dimwishlist:item=532746994&perks=1332244541,3436462433,47981717#notes:Good for PvP, sadly no more Quickdraw
 dimwishlist:item=532746994&perks=1047830412,3436462433,47981717#notes:Good for PvP, sadly no more Quickdraw
 dimwishlist:item=532746994&perks=3436462433,47981717#notes:Good for PvP, sadly no more Quickdraw
+
+
+
+BLASPHEMER:
+(Full Bore, Accurized Rounds, Quickdraw, Opening Shot)
+(_________, Accurized Rounds, Quickdraw, Opening Shot)
+(Full Bore, ________________, Quickdraw, Opening Shot)
+(_________, ________________, Quickdraw, Opening Shot)
+dimwishlist:item=2782847179&perks=202670084,3142289711,706527188,47981717#notes:Good for PvP
+dimwishlist:item=2782847179&perks=3142289711,706527188,47981717#notes:Good for PvP
+dimwishlist:item=2782847179&perks=202670084,706527188,47981717#notes:Good for PvP
+dimwishlist:item=2782847179&perks=706527188,47981717#notes:Good for PvP
 
 
 
@@ -754,6 +825,11 @@ dimwishlist:item=1513993763&perks=4071163871,3425386926#notes:Good for PvE
 dimwishlist:item=1513993763&perks=106909392,4071163871,3592538738#notes:Good for PvE
 dimwishlist:item=1513993763&perks=4134353779,4071163871,3592538738#notes:Good for PvE
 dimwishlist:item=1513993763&perks=4071163871,3592538738#notes:Good for PvE
+
+
+
+MULTIMACH CCX:
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
