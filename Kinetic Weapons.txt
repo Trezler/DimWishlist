@@ -177,7 +177,7 @@ dimwishlist:item=4292849692&perks=957782887,1015611457#notes:Good for PvP
 
 
 
-DIRE PROMISES:
+DIRE PROMISE:
 (Sureshot HCS__, Ricochet Rounds, Opening Shot, Swashbuckler)
 (Steadyhand HCS, Ricochet Rounds, Opening Shot, Swashbuckler)
 (Fastdraw HCS__, Ricochet Rounds, Opening Shot, Swashbuckler)
@@ -215,6 +215,44 @@ dimwishlist:item=2742838701&perks=1926090095,679225683,47981717,4082225868#notes
 dimwishlist:item=2742838701&perks=1926090094,679225683,47981717,4082225868#notes:Good for PvP
 dimwishlist:item=2742838701&perks=679225683,47981717,4082225868#notes:Good for PvP
 dimwishlist:item=2742838701&perks=47981717,4082225868#notes:Good for PvP
+
+(Sureshot HCS__, Ricochet Rounds, Opening Shot, Rangefinder)
+(Steadyhand HCS, Ricochet Rounds, Opening Shot, Rangefinder)
+(Fastdraw HCS__, Ricochet Rounds, Opening Shot, Rangefinder)
+(______________, Ricochet Rounds, Opening Shot, Rangefinder)
+dimwishlist:item=2742838701&perks=1926090091,1885400500,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1926090094,1885400500,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1885400500,47981717,2846385770#notes:Good for PvP
+
+(Sureshot HCS__, High-Caliber Rounds, Opening Shot, Rangefinder)
+(Steadyhand HCS, High-Caliber Rounds, Opening Shot, Rangefinder)
+(Fastdraw HCS__, High-Caliber Rounds, Opening Shot, Rangefinder)
+(______________, High-Caliber Rounds, Opening Shot, Rangefinder)
+dimwishlist:item=2742838701&perks=1926090091,1561002382,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1561002382,47981717,2846385770#notes:Good for PvP
+
+(Sureshot HCS__, Armor-Piercing Rounds, Opening Shot, Rangefinder)
+(Steadyhand HCS, Armor-Piercing Rounds, Opening Shot, Rangefinder)
+(Fastdraw HCS__, Armor-Piercing Rounds, Opening Shot, Rangefinder)
+(______________, Armor-Piercing Rounds, Opening Shot, Rangefinder)
+dimwishlist:item=2742838701&perks=1926090091,1968497646,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1926090095,1968497646,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1926090094,1968497646,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1968497646,47981717,2846385770#notes:Good for PvP
+
+(Sureshot HCS__, Light Mag, Opening Shot, Rangefinder)
+(Steadyhand HCS, Light Mag, Opening Shot, Rangefinder)
+(Fastdraw HCS__, Light Mag, Opening Shot, Rangefinder)
+(______________, Light Mag, Opening Shot, Rangefinder)
+(______________, _________, Opening Shot, Rangefinder)
+dimwishlist:item=2742838701&perks=1926090091,679225683,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1926090095,679225683,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1926090094,679225683,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=679225683,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=47981717,2846385770#notes:Good for PvP
 
 
 
