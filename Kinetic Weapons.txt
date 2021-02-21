@@ -3,6 +3,11 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AUTO RIFLES:
 
+BRAYTECH WEREWOLF:
+Harrowing weapon, not obtainable
+
+
+
 FALSE PROMISES:
 (Chambered Compensator, Ricochet Rounds, Killing Wind, Unrelenting)
 (_____________________, Ricochet Rounds, Killing Wind, Unrelenting)
@@ -35,7 +40,6 @@ dimwishlist:item=3143732432&perks=2450788523,2387244414#notes:Good for PvP
 (______________, Overflow, Rampage)
 dimwishlist:item=3143732432&perks=3230963543,3643424744,3425386926#notes:Good for PvE
 dimwishlist:item=3143732432&perks=3643424744,3425386926#notes:Good for PvE
-
 (Flared Magwell, Overflow, Swashbuckler)
 (______________, Overflow, Swashbuckler)
 dimwishlist:item=3143732432&perks=3230963543,3643424744,4082225868#notes:Good for PvE
@@ -43,13 +47,26 @@ dimwishlist:item=3143732432&perks=3643424744,4082225868#notes:Good for PvE
 
 (Flared Magwell, Subsistence, Rampage)
 (______________, Subsistence, Rampage)
-dimwishlist:item=3143732432&perks=3230963543,1820235745,3425386926#notes:Good for PvE
-dimwishlist:item=3143732432&perks=1820235745,3425386926#notes:Good for PvE
-
+dimwishlist:item=3143732432&perks=3230963543,1820235745,3425386926#notes:Test how Subsistence works
+dimwishlist:item=3143732432&perks=1820235745,3425386926#notes:Test how Subsistence works
 (Flared Magwell, Subsistence, Swashbuckler)
 (______________, Subsistence, Swashbuckler)
-dimwishlist:item=3143732432&perks=3230963543,1820235745,4082225868#notes:Good for PvE
-dimwishlist:item=3143732432&perks=1820235745,4082225868#notes:Good for PvE
+dimwishlist:item=3143732432&perks=3230963543,1820235745,4082225868#notes:Test how Subsistence works
+dimwishlist:item=3143732432&perks=1820235745,4082225868#notes:Test how Subsistence works
+
+(Flared Magwell, Feeding Frenzy, Rampage)
+(______________, Feeding Frenzy, Rampage)
+dimwishlist:item=3143732432&perks=3230963543,2779035018,3425386926#notes:Good for PvE
+dimwishlist:item=3143732432&perks=2779035018,3425386926#notes:Good for PvE
+(Flared Magwell, Feeding Frenzy, Swashbuckler)
+(______________, Feeding Frenzy, Swashbuckler)
+dimwishlist:item=3143732432&perks=3230963543,2779035018,4082225868#notes:Good for PvE
+dimwishlist:item=3143732432&perks=2779035018,4082225868#notes:Good for PvE
+
+
+
+HORROR STORY:
+Harrowing weapon, not obtainable
 
 
 
@@ -63,6 +80,11 @@ dimwishlist:item=1561006927&perks=1885400500,4082225868#notes:Good for PvE
 (Ricochet Rounds, _____________________ , Rampage)
 dimwishlist:item=1561006927&perks=1885400500,1354429876,3425386926#notes:Good for PvE
 dimwishlist:item=1561006927&perks=1885400500,3425386926#notes:Good for PvE
+
+
+
+THE FORWARD PATH:
+dimwishlist:item=-1690783811#notes:Trash
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -146,33 +168,51 @@ CRIMIL'S DAGGER:
 (Steadyhand HCS, Accurized Rounds, Rangefinder, Kill Clip)
 (Fastdraw HCS__, Accurized Rounds, Rangefinder, Kill Clip)
 (______________, Accurized Rounds, Rangefinder, Kill Clip)
+(Sureshot HCS__, ________________, Rangefinder, Kill Clip)
+(Steadyhand HCS, ________________, Rangefinder, Kill Clip)
+(Fastdraw HCS__, ________________, Rangefinder, Kill Clip)
 (______________, ________________, Rangefinder, Kill Clip)
 dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,1015611457#notes:Good for PvP
 dimwishlist:item=4292849692&perks=1926090095,3142289711,2846385770,1015611457#notes:Good for PvP
 dimwishlist:item=4292849692&perks=1926090094,3142289711,2846385770,1015611457#notes:Good for PvP
 dimwishlist:item=4292849692&perks=3142289711,2846385770,1015611457#notes:Good for PvP
+dimwishlist:item=4292849692&perks=1926090091,2846385770,1015611457#notes:Good for PvP
+dimwishlist:item=4292849692&perks=1926090095,2846385770,1015611457#notes:Good for PvP
+dimwishlist:item=4292849692&perks=1926090094,2846385770,1015611457#notes:Good for PvP
 dimwishlist:item=4292849692&perks=2846385770,1015611457#notes:Good for PvP
 
 (Sureshot HCS__, Accurized Rounds, Outlaw, Kill Clip)
 (Steadyhand HCS, Accurized Rounds, Outlaw, Kill Clip)
 (Fastdraw HCS__, Accurized Rounds, Outlaw, Kill Clip)
 (______________, Accurized Rounds, Outlaw, Kill Clip)
+(Sureshot HCS__, ________________, Outlaw, Kill Clip)
+(Steadyhand HCS, ________________, Outlaw, Kill Clip)
+(Fastdraw HCS__, ________________, Outlaw, Kill Clip)
 (______________, ________________, Outlaw, Kill Clip)
 dimwishlist:item=4292849692&perks=1926090091,3142289711,1168162263,1015611457#notes:Good for PvP
 dimwishlist:item=4292849692&perks=1926090095,3142289711,1168162263,1015611457#notes:Good for PvP
 dimwishlist:item=4292849692&perks=1926090094,3142289711,1168162263,1015611457#notes:Good for PvP
 dimwishlist:item=4292849692&perks=3142289711,1168162263,1015611457#notes:Good for PvP
+dimwishlist:item=4292849692&perks=1926090091,1168162263,1015611457#notes:Good for PvP
+dimwishlist:item=4292849692&perks=1926090095,1168162263,1015611457#notes:Good for PvP
+dimwishlist:item=4292849692&perks=1926090094,1168162263,1015611457#notes:Good for PvP
 dimwishlist:item=4292849692&perks=1168162263,1015611457#notes:Good for PvP
 
 (Sureshot HCS__, Accurized Rounds, Snapshot, Kill Clip)
 (Steadyhand HCS, Accurized Rounds, Snapshot, Kill Clip)
 (Fastdraw HCS__, Accurized Rounds, Snapshot, Kill Clip)
 (______________, Accurized Rounds, Snapshot, Kill Clip)
+(Sureshot HCS__, ________________, Snapshot, Kill Clip)
+(Steadyhand HCS, ________________, Snapshot, Kill Clip)
+(Fastdraw HCS__, ________________, Snapshot, Kill Clip)
 (______________, ________________, Snapshot, Kill Clip)
 dimwishlist:item=4292849692&perks=1926090091,3142289711,957782887,1015611457#notes:Good for PvP
 dimwishlist:item=4292849692&perks=1926090095,3142289711,957782887,1015611457#notes:Good for PvP
 dimwishlist:item=4292849692&perks=1926090094,3142289711,957782887,1015611457#notes:Good for PvP
 dimwishlist:item=4292849692&perks=3142289711,957782887,1015611457#notes:Good for PvP
+dimwishlist:item=4292849692&perks=1926090091,957782887,1015611457#notes:Good for PvP
+dimwishlist:item=4292849692&perks=1926090095,957782887,1015611457#notes:Good for PvP
+dimwishlist:item=4292849692&perks=1926090094,957782887,1015611457#notes:Good for PvP
 dimwishlist:item=4292849692&perks=957782887,1015611457#notes:Good for PvP
 
 
@@ -186,7 +226,6 @@ dimwishlist:item=2742838701&perks=1926090091,1885400500,47981717,4082225868#note
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,4082225868#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1926090094,1885400500,47981717,4082225868#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1885400500,47981717,4082225868#notes:Good for PvP
-
 (Sureshot HCS__, High-Caliber Rounds, Opening Shot, Swashbuckler)
 (Steadyhand HCS, High-Caliber Rounds, Opening Shot, Swashbuckler)
 (Fastdraw HCS__, High-Caliber Rounds, Opening Shot, Swashbuckler)
@@ -195,7 +234,6 @@ dimwishlist:item=2742838701&perks=1926090091,1561002382,47981717,4082225868#note
 dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,4082225868#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,4082225868#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1561002382,47981717,4082225868#notes:Good for PvP
-
 (Sureshot HCS__, Armor-Piercing Rounds, Opening Shot, Swashbuckler)
 (Steadyhand HCS, Armor-Piercing Rounds, Opening Shot, Swashbuckler)
 (Fastdraw HCS__, Armor-Piercing Rounds, Opening Shot, Swashbuckler)
@@ -204,16 +242,21 @@ dimwishlist:item=2742838701&perks=1926090091,1968497646,47981717,4082225868#note
 dimwishlist:item=2742838701&perks=1926090095,1968497646,47981717,4082225868#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1926090094,1968497646,47981717,4082225868#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1968497646,47981717,4082225868#notes:Good for PvP
-
 (Sureshot HCS__, Light Mag, Opening Shot, Swashbuckler)
 (Steadyhand HCS, Light Mag, Opening Shot, Swashbuckler)
 (Fastdraw HCS__, Light Mag, Opening Shot, Swashbuckler)
 (______________, Light Mag, Opening Shot, Swashbuckler)
+(Sureshot HCS__, _________, Opening Shot, Swashbuckler)
+(Steadyhand HCS, _________, Opening Shot, Swashbuckler)
+(Fastdraw HCS__, _________, Opening Shot, Swashbuckler)
 (______________, _________, Opening Shot, Swashbuckler)
 dimwishlist:item=2742838701&perks=1926090091,679225683,47981717,4082225868#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1926090095,679225683,47981717,4082225868#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1926090094,679225683,47981717,4082225868#notes:Good for PvP
 dimwishlist:item=2742838701&perks=679225683,47981717,4082225868#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1926090091,47981717,4082225868#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1926090095,47981717,4082225868#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1926090094,47981717,4082225868#notes:Good for PvP
 dimwishlist:item=2742838701&perks=47981717,4082225868#notes:Good for PvP
 
 (Sureshot HCS__, Ricochet Rounds, Opening Shot, Rangefinder)
@@ -224,7 +267,6 @@ dimwishlist:item=2742838701&perks=1926090091,1885400500,47981717,2846385770#note
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1926090094,1885400500,47981717,2846385770#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1885400500,47981717,2846385770#notes:Good for PvP
-
 (Sureshot HCS__, High-Caliber Rounds, Opening Shot, Rangefinder)
 (Steadyhand HCS, High-Caliber Rounds, Opening Shot, Rangefinder)
 (Fastdraw HCS__, High-Caliber Rounds, Opening Shot, Rangefinder)
@@ -233,7 +275,6 @@ dimwishlist:item=2742838701&perks=1926090091,1561002382,47981717,2846385770#note
 dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,2846385770#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1561002382,47981717,2846385770#notes:Good for PvP
-
 (Sureshot HCS__, Armor-Piercing Rounds, Opening Shot, Rangefinder)
 (Steadyhand HCS, Armor-Piercing Rounds, Opening Shot, Rangefinder)
 (Fastdraw HCS__, Armor-Piercing Rounds, Opening Shot, Rangefinder)
@@ -242,32 +283,41 @@ dimwishlist:item=2742838701&perks=1926090091,1968497646,47981717,2846385770#note
 dimwishlist:item=2742838701&perks=1926090095,1968497646,47981717,2846385770#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1926090094,1968497646,47981717,2846385770#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1968497646,47981717,2846385770#notes:Good for PvP
-
 (Sureshot HCS__, Light Mag, Opening Shot, Rangefinder)
 (Steadyhand HCS, Light Mag, Opening Shot, Rangefinder)
 (Fastdraw HCS__, Light Mag, Opening Shot, Rangefinder)
 (______________, Light Mag, Opening Shot, Rangefinder)
+(Sureshot HCS__, _________, Opening Shot, Rangefinder)
+(Steadyhand HCS, _________, Opening Shot, Rangefinder)
+(Fastdraw HCS__, _________, Opening Shot, Rangefinder)
 (______________, _________, Opening Shot, Rangefinder)
 dimwishlist:item=2742838701&perks=1926090091,679225683,47981717,2846385770#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1926090095,679225683,47981717,2846385770#notes:Good for PvP
 dimwishlist:item=2742838701&perks=1926090094,679225683,47981717,2846385770#notes:Good for PvP
 dimwishlist:item=2742838701&perks=679225683,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1926090091,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1926090095,47981717,2846385770#notes:Good for PvP
+dimwishlist:item=2742838701&perks=1926090094,47981717,2846385770#notes:Good for PvP
 dimwishlist:item=2742838701&perks=47981717,2846385770#notes:Good for PvP
 
 
 
 SEVENTH SERAPH OFFICER REVOLVER:
-(Drop Mag____, Ambitious Assassin, Timed Payload)
-(Appended Mag, Ambitious Assassin, Timed Payload)
-(Tactical Mag, Ambitious Assassin, Timed Payload)
-(Drop Mag____, __________________, Timed Payload)
-(Appended Mag, __________________, Timed Payload)
-(Tactical Mag, __________________, Timed Payload)
-(____________, Ambitious Assassin, Timed Payload)
+(Drop Mag______, Ambitious Assassin, Timed Payload)
+(Flared Magwell, Ambitious Assassin, Timed Payload)
+(Appended Mag__, Ambitious Assassin, Timed Payload)
+(Tactical Mag__, Ambitious Assassin, Timed Payload)
+(Drop Mag______, __________________, Timed Payload)
+(Flared Magwell, __________________, Timed Payload)
+(Appended Mag__, __________________, Timed Payload)
+(Tactical Mag__, __________________, Timed Payload)
+(______________, Ambitious Assassin, Timed Payload)
 dimwishlist:item=3037520408&perks=4134353779,2010801679,1954620775#notes:Good for PvE/GM's
+dimwishlist:item=3037520408&perks=3230963543,2010801679,1954620775#notes:Good for PvE/GM's
 dimwishlist:item=3037520408&perks=1087426260,2010801679,1954620775#notes:Good for PvE/GM's
 dimwishlist:item=3037520408&perks=106909392,2010801679,1954620775#notes:Good for PvE/GM's
 dimwishlist:item=3037520408&perks=4134353779,1954620775#notes:Good for PvE/GM's
+dimwishlist:item=3037520408&perks=3230963543,1954620775#notes:Good for PvE/GM's
 dimwishlist:item=3037520408&perks=1087426260,1954620775#notes:Good for PvE/GM's
 dimwishlist:item=3037520408&perks=106909392,1954620775#notes:Good for PvE/GM's
 dimwishlist:item=3037520408&perks=2010801679,1954620775#notes:Good for PvE/GM's
@@ -303,11 +353,17 @@ dimwishlist:item=2220884262&perks=1561002382,2450788523,4082225868#notes:Good fo
 (Steadyhand HCS, Armor-Piercing Rounds, Killing Wind, Swashbuckler)
 (Fastdraw HCS__, Armor-Piercing Rounds, Killing Wind, Swashbuckler)
 (______________, Armor-Piercing Rounds, Killing Wind, Swashbuckler)
+(Sureshot HCS__, _____________________, Killing Wind, Swashbuckler)
+(Steadyhand HCS, _____________________, Killing Wind, Swashbuckler)
+(Fastdraw HCS__, _____________________, Killing Wind, Swashbuckler)
 (______________, _____________________, Killing Wind, Swashbuckler)
 dimwishlist:item=2220884262&perks=1926090091,1968497646,2450788523,4082225868#notes:Good for PvP
 dimwishlist:item=2220884262&perks=1926090095,1968497646,2450788523,4082225868#notes:Good for PvP
 dimwishlist:item=2220884262&perks=1926090094,1968497646,2450788523,4082225868#notes:Good for PvP
 dimwishlist:item=2220884262&perks=1968497646,2450788523,4082225868#notes:Good for PvP
+dimwishlist:item=2220884262&perks=1926090091,2450788523,4082225868#notes:Good for PvP
+dimwishlist:item=2220884262&perks=1926090095,2450788523,4082225868#notes:Good for PvP
+dimwishlist:item=2220884262&perks=1926090094,2450788523,4082225868#notes:Good for PvP
 dimwishlist:item=2220884262&perks=2450788523,4082225868#notes:Good for PvP
 
 (Sureshot HCS__, Light Mag, Quickdraw, Swashbuckler)
@@ -338,11 +394,17 @@ dimwishlist:item=2220884262&perks=1561002382,706527188,4082225868#notes:Good for
 (Steadyhand HCS, Armor-Piercing Rounds, Quickdraw, Swashbuckler)
 (Fastdraw HCS__, Armor-Piercing Rounds, Quickdraw, Swashbuckler)
 (______________, Armor-Piercing Rounds, Quickdraw, Swashbuckler)
+(Sureshot HCS__, _____________________, Quickdraw, Swashbuckler)
+(Steadyhand HCS, _____________________, Quickdraw, Swashbuckler)
+(Fastdraw HCS__, _____________________, Quickdraw, Swashbuckler)
 (______________, _____________________, Quickdraw, Swashbuckler)
 dimwishlist:item=2220884262&perks=1926090091,1968497646,706527188,4082225868#notes:Good for PvP
 dimwishlist:item=2220884262&perks=1926090095,1968497646,706527188,4082225868#notes:Good for PvP
 dimwishlist:item=2220884262&perks=1926090094,1968497646,706527188,4082225868#notes:Good for PvP
 dimwishlist:item=2220884262&perks=1968497646,706527188,4082225868#notes:Good for PvP
+dimwishlist:item=2220884262&perks=1926090091,706527188,4082225868#notes:Good for PvP
+dimwishlist:item=2220884262&perks=1926090095,706527188,4082225868#notes:Good for PvP
+dimwishlist:item=2220884262&perks=1926090094,706527188,4082225868#notes:Good for PvP
 dimwishlist:item=2220884262&perks=706527188,4082225868#notes:Good for PvP
 
 (Sureshot HCS__, Light Mag, Outlaw, Swashbuckler)
@@ -380,12 +442,18 @@ dimwishlist:item=2220884262&perks=1561002382,4082225868#notes:Good for PvP
 (Fastdraw HCS__, Armor-Piercing Rounds, Outlaw, Swashbuckler)
 (______________, Armor-Piercing Rounds, Outlaw, Swashbuckler)
 (______________, Armor-Piercing Rounds, ______, Swashbuckler)
+(Sureshot HCS__, _____________________, Outlaw, Swashbuckler)
+(Steadyhand HCS, _____________________, Outlaw, Swashbuckler)
+(Fastdraw HCS__, _____________________, Outlaw, Swashbuckler)
 (______________, _____________________, Outlaw, Swashbuckler)
 dimwishlist:item=2220884262&perks=1926090091,1968497646,1168162263,4082225868#notes:Good for PvP
 dimwishlist:item=2220884262&perks=1926090095,1968497646,1168162263,4082225868#notes:Good for PvP
 dimwishlist:item=2220884262&perks=1926090094,1968497646,1168162263,4082225868#notes:Good for PvP
 dimwishlist:item=2220884262&perks=1968497646,1168162263,4082225868#notes:Good for PvP
 dimwishlist:item=2220884262&perks=1968497646,4082225868#notes:Good for PvP
+dimwishlist:item=2220884262&perks=1926090091,1168162263,4082225868#notes:Good for PvP
+dimwishlist:item=2220884262&perks=1926090095,1168162263,4082225868#notes:Good for PvP
+dimwishlist:item=2220884262&perks=1926090094,1168162263,4082225868#notes:Good for PvP
 dimwishlist:item=2220884262&perks=1168162263,4082225868#notes:Good for PvP
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -411,6 +479,9 @@ dimwishlist:item=1216130969&perks=1885400500,2450788523,460017080#notes:Good for
 dimwishlist:item=1216130969&perks=839105230,2450788523,460017080#notes:Good for PvP
 dimwishlist:item=1216130969&perks=2450788523,460017080#notes:Good for PvP
 
+(Feeding Frenzy, Swashbuckler)
+dimwishlist:item=1216130969&perks=2779035018,4082225868#notes:Good for PvE
+
 
 
 HAILING CONFUSION:
@@ -431,34 +502,34 @@ SACRED PROVENANCE:
 (_________, Armor-Piercing Rounds, Rapid Hit, Kill Clip)
 dimwishlist:item=2408405461&perks=202670084,1968497646,247725512,1015611457#notes:Good for PvP, Full Bore might not be a community favorite, but it gets the range stat to 99 babyy, go for Range MW
 dimwishlist:item=2408405461&perks=1968497646,247725512,1015611457#notes:Good for PvP, go for Range MW
-
 (Full Bore, High-Caliber Rounds, Rapid Hit, Kill Clip)
 (_________, High-Caliber Rounds, Rapid Hit, Kill Clip)
 dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,1015611457#notes:Good for PvP, Full Bore might not be a community favorite, but it gets the range stat to 99 babyy, go for Range MW
 dimwishlist:item=2408405461&perks=1561002382,247725512,1015611457#notes:Good for PvP, go for Range MW
-
 (Full Bore, Ricochet Rounds, Rapid Hit, Kill Clip)
 (_________, Ricochet Rounds, Rapid Hit, Kill Clip)
+(Full Bore, _______________, Rapid Hit, Kill Clip)
 (_________, _______________, Rapid Hit, Kill Clip)
 dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,1015611457#notes:Good for PvP, Full Bore might not be a community favorite, but it gets the range stat to 99 babyy, go for Range MW
 dimwishlist:item=2408405461&perks=1885400500,247725512,1015611457#notes:Good for PvP, go for Range MW
+dimwishlist:item=2408405461&perks=202670084,247725512,1015611457#notes:Good for PvP, go for Range MW
 dimwishlist:item=2408405461&perks=247725512,1015611457#notes:Good for PvP, go for Range MW
 
 (Full Bore, Armor-Piercing Rounds, Outlaw, Kill Clip)
 (_________, Armor-Piercing Rounds, Outlaw, Kill Clip)
 dimwishlist:item=2408405461&perks=202670084,1968497646,1168162263,1015611457#notes:Good for PvP, Full Bore might not be a community favorite, but it gets the range stat to 99 babyy, go for Range MW
 dimwishlist:item=2408405461&perks=1968497646,1168162263,1015611457#notes:Good for PvP, go for Range MW
-
 (Full Bore, High-Caliber Rounds, Outlaw, Kill Clip)
 (_________, High-Caliber Rounds, Outlaw, Kill Clip)
 dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,1015611457#notes:Good for PvP, Full Bore might not be a community favorite, but it gets the range stat to 99 babyy, go for Range MW
 dimwishlist:item=2408405461&perks=1561002382,1168162263,1015611457#notes:Good for PvP, go for Range MW
-
 (Full Bore, Ricochet Rounds, Outlaw, Kill Clip)
 (_________, Ricochet Rounds, Outlaw, Kill Clip)
+(Full Bore, _______________, Outlaw, Kill Clip)
 (_________, _______________, Outlaw, Kill Clip)
 dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,1015611457#notes:Good for PvP, Full Bore might not be a community favorite, but it gets the range stat to 99 babyy, go for Range MW
 dimwishlist:item=2408405461&perks=1885400500,1168162263,1015611457#notes:Good for PvP, go for Range MW
+dimwishlist:item=2408405461&perks=202670084,1168162263,1015611457#notes:Good for PvP, go for Range MW
 dimwishlist:item=2408405461&perks=1168162263,1015611457#notes:Good for PvP, go for Range MW
 
 
@@ -561,14 +632,33 @@ THE TIME-WORN SPIRE:
 SCOUT RIFLES:
 
 NIGHT WATCH:
-(Arrowhead Brake, Accurized Rounds, Rapid Hit, Explosive Rounds)
-(_______________, Accurized Rounds, Rapid Hit, Explosive Rounds)
-(Arrowhead Brake, ________________, Rapid Hit, Explosive Rounds)
-(_______________, ________________, Rapid Hit, Explosive Rounds)
-dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,3038247973#notes:Good for PvE/GM's
-dimwishlist:item=3504336176&perks=3142289711,247725512,3038247973#notes:Good for PvE/GM's
+(Arrowhead Brake, Flared Magwell, Rapid Hit, Explosive Rounds)
+(_______________, Flared Magwell, Rapid Hit, Explosive Rounds)
+(Arrowhead Brake, ______________, Rapid Hit, Explosive Rounds)
+(_______________, ______________, Rapid Hit, Explosive Rounds)
+dimwishlist:item=3504336176&perks=839105230,3230963543,247725512,3038247973#notes:Good for PvE/GM's
+dimwishlist:item=3504336176&perks=3230963543,247725512,3038247973#notes:Good for PvE/GM's
 dimwishlist:item=3504336176&perks=839105230,247725512,3038247973#notes:Good for PvE/GM's
 dimwishlist:item=3504336176&perks=247725512,3038247973#notes:Good for PvE/GM's
+(Arrowhead Brake, Flared Magwell, Outlaw, Explosive Rounds)
+(_______________, Flared Magwell, Outlaw, Explosive Rounds)
+(Arrowhead Brake, ______________, Outlaw, Explosive Rounds)
+(_______________, ______________, Outlaw, Explosive Rounds)
+dimwishlist:item=3504336176&perks=839105230,3230963543,1168162263,3038247973#notes:Good for PvE/GM's
+dimwishlist:item=3504336176&perks=3230963543,1168162263,3038247973#notes:Good for PvE/GM's
+dimwishlist:item=3504336176&perks=839105230,1168162263,3038247973#notes:Good for PvE/GM's
+dimwishlist:item=3504336176&perks=1168162263,3038247973#notes:Good for PvE/GM's
+(Arrowhead Brake, Flared Magwell, Subsistence, Explosive Rounds)
+(_______________, Flared Magwell, Subsistence, Explosive Rounds)
+(Arrowhead Brake, ______________, Subsistence, Explosive Rounds)
+(_______________, ______________, Subsistence, Explosive Rounds)
+dimwishlist:item=3504336176&perks=839105230,3230963543,1820235745,3038247973#notes:Test how Subsistence works
+dimwishlist:item=3504336176&perks=3230963543,1820235745,3038247973#notes:Test how Subsistence works
+dimwishlist:item=3504336176&perks=839105230,1820235745,3038247973#notes:Test how Subsistence works
+dimwishlist:item=3504336176&perks=1820235745,3038247973#notes:Test how Subsistence works
+
+(Corkscrew Rifling, Extended Mag, Overflow, Explosive Payload) (Curated)
+dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:Good for PvE/GM's
 
 
 
@@ -625,17 +715,17 @@ dimwishlist:item=1697682876&perks=3436462433,47981717#notes:Good for PvP, sadly 
 
 
 ASTRAL HORIZON (ADEPT):
-(Full Choke___, Accurized Rounds, Quickdraw, Opening Shot)
 (Rifled Barrel, Accurized Rounds, Quickdraw, Opening Shot)
+(Full Choke___, Accurized Rounds, Quickdraw, Opening Shot)
 (_____________, Accurized Rounds, Quickdraw, Opening Shot)
-(Full Choke___, ________________, Quickdraw, Opening Shot)
 (Rifled Barrel, ________________, Quickdraw, Opening Shot)
+(Full Choke___, ________________, Quickdraw, Opening Shot)
 (_____________, ________________, Quickdraw, Opening Shot)
-dimwishlist:item=532746994&perks=1047830412,3142289711,706527188,47981717#notes:Good for PvP
 dimwishlist:item=532746994&perks=1332244541,3142289711,706527188,47981717#notes:Good for PvP
+dimwishlist:item=532746994&perks=1047830412,3142289711,706527188,47981717#notes:Good for PvP
 dimwishlist:item=532746994&perks=3142289711,706527188,47981717#notes:Good for PvP
-dimwishlist:item=532746994&perks=1047830412,706527188,47981717#notes:Good for PvP
 dimwishlist:item=532746994&perks=1332244541,706527188,47981717#notes:Good for PvP
+dimwishlist:item=532746994&perks=1047830412,706527188,47981717#notes:Good for PvP
 dimwishlist:item=532746994&perks=706527188,47981717#notes:Good for PvP
 
 (Rifled Barrel, Accurized Rounds, Surplus, Opening Shot)
@@ -715,33 +805,71 @@ dimwishlist:item=1197486957&perks=3436462433,3592538738#notes:Good for PvE
 SNIPERS:
 
 EYE OF SOL:
-(Snapshot, Vorpal Weapon)
-(Snapshot, Opening Shot_)
+(Hammer-Forged Rifling, Accurized Rounds, Snapshot, Vorpal Weapon)
+(Full Bore____________, Accurized Rounds, Snapshot, Vorpal Weapon)
+(_____________________, Accurized Rounds, Snapshot, Vorpal Weapon)
+(Hammer-Forged Rifling, ________________, Snapshot, Vorpal Weapon)
+(Full Bore____________, ________________, Snapshot, Vorpal Weapon)
+(_____________________, ________________, Snapshot, Vorpal Weapon)
+dimwishlist:item=3164743584&perks=3250034553,3142289711,957782887,1546637391#notes:Good for PvP
+dimwishlist:item=3164743584&perks=202670084,3142289711,957782887,1546637391#notes:Good for PvP
+dimwishlist:item=3164743584&perks=3142289711,957782887,1546637391#notes:Good for PvP
+dimwishlist:item=3164743584&perks=3250034553,957782887,1546637391#notes:Good for PvP
+dimwishlist:item=3164743584&perks=202670084,957782887,1546637391#notes:Good for PvP
 dimwishlist:item=3164743584&perks=957782887,1546637391#notes:Good for PvP
+
+(Hammer-Forged Rifling, Accurized Rounds, Snapshot, Opening Shot)
+(Full Bore____________, Accurized Rounds, Snapshot, Opening Shot)
+(_____________________, Accurized Rounds, Snapshot, Opening Shot)
+(Hammer-Forged Rifling, ________________, Snapshot, Opening Shot)
+(Full Bore____________, ________________, Snapshot, Opening Shot)
+(_____________________, ________________, Snapshot, Opening Shot)
+dimwishlist:item=3164743584&perks=3250034553,3142289711,957782887,47981717#notes:Good for PvP
+dimwishlist:item=3164743584&perks=202670084,3142289711,957782887,47981717#notes:Good for PvP
+dimwishlist:item=3164743584&perks=3142289711,957782887,47981717#notes:Good for PvP
+dimwishlist:item=3164743584&perks=3250034553,957782887,47981717#notes:Good for PvP
+dimwishlist:item=3164743584&perks=202670084,957782887,47981717#notes:Good for PvP
 dimwishlist:item=3164743584&perks=957782887,47981717#notes:Good for PvP
 
 
 
 EYE OF SOL (ADEPT):
-(Snapshot, Vorpal Weapon)
-(Snapshot, Opening Shot_)
+(Hammer-Forged Rifling, Accurized Rounds, Snapshot, Vorpal Weapon)
+(Full Bore____________, Accurized Rounds, Snapshot, Vorpal Weapon)
+(_____________________, Accurized Rounds, Snapshot, Vorpal Weapon)
+(Hammer-Forged Rifling, ________________, Snapshot, Vorpal Weapon)
+(Full Bore____________, ________________, Snapshot, Vorpal Weapon)
+(_____________________, ________________, Snapshot, Vorpal Weapon)
+dimwishlist:item=3637570176&perks=3250034553,3142289711,957782887,1546637391#notes:Good for PvP
+dimwishlist:item=3637570176&perks=202670084,3142289711,957782887,1546637391#notes:Good for PvP
+dimwishlist:item=3637570176&perks=3142289711,957782887,1546637391#notes:Good for PvP
+dimwishlist:item=3637570176&perks=3250034553,957782887,1546637391#notes:Good for PvP
+dimwishlist:item=3637570176&perks=202670084,957782887,1546637391#notes:Good for PvP
 dimwishlist:item=3637570176&perks=957782887,1546637391#notes:Good for PvP
+
+(Hammer-Forged Rifling, Accurized Rounds, Snapshot, Opening Shot)
+(Full Bore____________, Accurized Rounds, Snapshot, Opening Shot)
+(_____________________, Accurized Rounds, Snapshot, Opening Shot)
+(Hammer-Forged Rifling, ________________, Snapshot, Opening Shot)
+(Full Bore____________, ________________, Snapshot, Opening Shot)
+(_____________________, ________________, Snapshot, Opening Shot)
+dimwishlist:item=3637570176&perks=3250034553,3142289711,957782887,47981717#notes:Good for PvP
+dimwishlist:item=3637570176&perks=202670084,3142289711,957782887,47981717#notes:Good for PvP
+dimwishlist:item=3637570176&perks=3142289711,957782887,47981717#notes:Good for PvP
+dimwishlist:item=3637570176&perks=3250034553,957782887,47981717#notes:Good for PvP
+dimwishlist:item=3637570176&perks=202670084,957782887,47981717#notes:Good for PvP
 dimwishlist:item=3637570176&perks=957782887,47981717#notes:Good for PvP
 
 
 
 LONG SHADOW:
-(ATD Raptor, Appended mag, Rapid Hit, Triple Tap)
 (__________, Appended mag, Rapid Hit, Triple Tap)
 (__________, Appended mag, _________, Triple Tap)
-dimwishlist:item=3745990145&perks=893526895,1087426260,247725512,3400784728#notes:Good for PvE, boss DPS
 dimwishlist:item=3745990145&perks=1087426260,247725512,3400784728#notes:Good for PvE, boss DPS
 dimwishlist:item=3745990145&perks=1087426260,3400784728#notes:Good for PvE, boss DPS
 
-(ATD Raptor, Extended Mag, Rapid Hit, Triple Tap)
 (__________, Extended Mag, Rapid Hit, Triple Tap)
 (__________, Extended Mag, _________, Triple Tap)
-dimwishlist:item=3745990145&perks=893526895,2420895100,247725512,3400784728#notes:Good for PvE, Extended Mag works, but Appended Mag is better
 dimwishlist:item=3745990145&perks=2420895100,247725512,3400784728#notes:Good for PvE, Extended Mag works, but Appended Mag is better
 dimwishlist:item=3745990145&perks=2420895100,3400784728#notes:Good for PvE, Extended Mag works, but Appended Mag is better
 
@@ -756,21 +884,41 @@ dimwishlist:item=654608616&perks=1467527085,3142289711,957782887,136456835#notes
 SUCCESSION:
 (Chambered Compensator, Tactical Mag, Reconstruction, Vorpal Weapon)
 (_____________________, Tactical Mag, Reconstruction, Vorpal Weapon)
-(_____________________, ____________, Reconstruction, Vorpal Weapon)
 dimwishlist:item=2990047042&perks=3661387068,106909392,1523832109,1546637391#notes:Good for PvE, boss DPS
 dimwishlist:item=2990047042&perks=106909392,1523832109,1546637391#notes:Good for PvE, boss DPS
+(Chambered Compensator, Extended Mag, Reconstruction, Vorpal Weapon)
+(_____________________, Extended Mag, Reconstruction, Vorpal Weapon)
+(Chambered Compensator, ____________, Reconstruction, Vorpal Weapon)
+(_____________________, ____________, Reconstruction, Vorpal Weapon)
+dimwishlist:item=2990047042&perks=3661387068,2420895100,1523832109,1546637391#notes:Good for PvE, boss DPS, if you're not gonna use Backup Mag mod then Tactical Mag is better
+dimwishlist:item=2990047042&perks=2420895100,1523832109,1546637391#notes:Good for PvE, boss DPS, if you're not gonna use Backup Mag mod then Tactical Mag is better
+dimwishlist:item=2990047042&perks=3661387068,1523832109,1546637391#notes:Good for PvE, boss DPS
 dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:Good for PvE, boss DPS
 
-(Accurized Rounds, No Distractions, Snapshot Sights)
-(________________, No Distractions, Snapshot Sights)
+(Hammer-Forged Rifling, Accurized Rounds, No Distractions, Snapshot Sights)
+(Full Bore____________, Accurized Rounds, No Distractions, Snapshot Sights)
+(_____________________, Accurized Rounds, No Distractions, Snapshot Sights)
+(Hammer-Forged Rifling, ________________, No Distractions, Snapshot Sights)
+(Full Bore____________, ________________, No Distractions, Snapshot Sights)
+(_____________________, ________________, No Distractions, Snapshot Sights)
+dimwishlist:item=2990047042&perks=3250034553,3142289711,2866798147,957782887#notes:Good for PvP
+dimwishlist:item=2990047042&perks=202670084,3142289711,2866798147,957782887#notes:Good for PvP
 dimwishlist:item=2990047042&perks=3142289711,2866798147,957782887#notes:Good for PvP
+dimwishlist:item=2990047042&perks=3250034553,2866798147,957782887#notes:Good for PvP
+dimwishlist:item=2990047042&perks=202670084,2866798147,957782887#notes:Good for PvP
 dimwishlist:item=2990047042&perks=2866798147,957782887#notes:Good for PvP
 
 (Chambered Compensator, Tactical Mag, Lead From Gold, Vorpal Weapon)
 (_____________________, Tactical Mag, Lead From Gold, Vorpal Weapon)
-(_____________________, ____________, Lead From Gold, Vorpal Weapon)
 dimwishlist:item=2990047042&perks=3661387068,106909392,1556840489,1546637391#notes:Good for GM's
 dimwishlist:item=2990047042&perks=106909392,1556840489,1546637391#notes:Good for GM's
+(Chambered Compensator, Extended Mag, Lead From Gold, Vorpal Weapon)
+(_____________________, Extended Mag, Lead From Gold, Vorpal Weapon)
+(Chambered Compensator, ____________, Lead From Gold, Vorpal Weapon)
+(_____________________, ____________, Lead From Gold, Vorpal Weapon)
+dimwishlist:item=2990047042&perks=3661387068,2420895100,1556840489,1546637391#notes:Good for GM's, if you're not gonna use Backup Mag mod then Tactical Mag is better
+dimwishlist:item=2990047042&perks=2420895100,1556840489,1546637391#notes:Good for GM's, if you're not gonna use Backup Mag mod then Tactical Mag is better
+dimwishlist:item=2990047042&perks=3661387068,1556840489,1546637391#notes:Good for GM's
 dimwishlist:item=2990047042&perks=1556840489,1546637391#notes:Good for GM's
 
 
@@ -820,15 +968,15 @@ dimwishlist:item=1786797708&perks=3643424744,3708227201#notes:Good for PvE
 
 EXTRAORDINARY RENDITION:
 (Overflow, Rampage)
-(Overflow, Thresh)
-(Overflow, Frenzy)
+(Overflow, Thresh_)
+(Overflow, Frenzy_)
 dimwishlist:item=1097616550&perks=3643424744,3425386926#notes:Good for PvE
 dimwishlist:item=1097616550&perks=3643424744,2726471870#notes:Good for PvE
 dimwishlist:item=1097616550&perks=3643424744,4104185692#notes:Good for PvE
 
 (Surplus, Rampage)
-(Surplus, Thresh)
-(Surplus, Frenzy)
+(Surplus, Thresh_)
+(Surplus, Frenzy_)
 dimwishlist:item=1097616550&perks=3436462433,3425386926#notes:Good for PvE
 dimwishlist:item=1097616550&perks=3436462433,2726471870#notes:Good for PvE
 dimwishlist:item=1097616550&perks=3436462433,4104185692#notes:Good for PvE
