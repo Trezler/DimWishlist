@@ -613,7 +613,7 @@ dimwishlist:item=2807687156&perks=106909392,1771339417#notes:Good for PvE, Boss 
 
 
 
-IKELOS_V1.0.2:
+IKELOS_SR_V1.0.2:
 (Chambered Compensator, Tactical Mag, Fouth Time's the Charm, High-Impact Reserves)
 (Fluted Barrel________, Tactical Mag, Fouth Time's the Charm, High-Impact Reserves)
 (_____________________, Tactical Mag, Fouth Time's the Charm, High-Impact Reserves)
