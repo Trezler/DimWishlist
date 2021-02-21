@@ -266,18 +266,18 @@ dimwishlist:item=3514144928&perks=2387244414,3425386926#notes:Good in PvP
 BOWS:
 
 ARSENIC BITE-4B:
-(Elastic String, Dragonfly, ______________)
 (Elastic String, Dragonfly, Archer's Tempo)
+(Elastic String, Dragonfly, ______________)
 (______________, Dragonfly, Archer's Tempo)
-dimwishlist:item=720351795&perks=2801223209,2848615171#notes:Good in PvE, go for Reload MW
 dimwishlist:item=720351795&perks=2801223209,2848615171,201365942#notes:Good in PvE, go for Reload MW
+dimwishlist:item=720351795&perks=2801223209,2848615171#notes:Good in PvE, go for Reload MW
 dimwishlist:item=720351795&perks=2848615171,201365942#notes:Good in PvE, go for Draw Time MW
 
-(Elastic String, Rampage, ______________)
 (Elastic String, Rampage, Archer's Tempo)
+(Elastic String, Rampage, ______________)
 (______________, Rampage, Archer's Tempo)
-dimwishlist:item=720351795&perks=2801223209,3425386926#notes:Good in PvE, go for Reload MW
 dimwishlist:item=720351795&perks=2801223209,3425386926,201365942#notes:Good in PvE, go for Reload MW
+dimwishlist:item=720351795&perks=2801223209,3425386926#notes:Good in PvE, go for Reload MW
 dimwishlist:item=720351795&perks=3425386926,201365942#notes:Good in PvE, go for Draw Time MW
 
 (Elastic String, Dragonfly, Explosive Head)
