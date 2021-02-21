@@ -341,10 +341,15 @@ dimwishlist:item=3460122497&perks=2801223209,201365942,4104185692#notes:Good in 
 dimwishlist:item=3460122497&perks=201365942,4104185692#notes:Good in PvE, go for Draw Time MW
 dimwishlist:item=3460122497&perks=2801223209,4104185692#notes:Good in PvE, go for Reload MW
 
+(Elastic String, Hip-Fire Grip, Opening Shot)
+(______________, Hip-Fire Grip, Opening Shot)
+dimwishlist:item=3460122497&perks=2801223209,1866048759,47981717#notes:Good in PvP, go for Reload MW
+dimwishlist:item=3460122497&perks=1866048759,47981717#notes:Good in PvP, go for Draw Time MW
+
 (Elastic String, Impulse Amplifier, Opening Shot)
 (______________, Impulse Amplifier, Opening Shot)
-dimwishlist:item=3460122497&perks=2801223209,951095735,47981717, go for Reload MW
-dimwishlist:item=3460122497&perks=951095735,47981717, go for Draw Time MW
+dimwishlist:item=3460122497&perks=2801223209,951095735,47981717#notes:Good in PvP, go for Reload MW
+dimwishlist:item=3460122497&perks=951095735,47981717#notes:Good in PvP, go for Draw Time MW
 
 (Elastic String, Archer's Tempo, Opening Shot)
 (______________, Archer's Tempo, Opening Shot)
