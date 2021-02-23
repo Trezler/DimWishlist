@@ -388,22 +388,44 @@ dimwishlist:item=2721249463&perks=4067834857,3827198035,908147344,2848615171#not
 FUSION RIFLES:
 
 CARTESIAN COORDINATE:
-()
+dimwishlist:item=-2481881293#notes:Trash
 
 
 
-COROLIS FORCE:
-()
+CORIOLIS FORCE:
+(Arrowhead Brake, Liquid Coils, Feeding Frenzy, Thresh)
+(_______________, Liquid Coils, Feeding Frenzy, Thresh)
+(Arrowhead Brake, ____________, Feeding Frenzy, Thresh)
+(_______________, ____________, Feeding Frenzy, Thresh)
+dimwishlist:item=3512349612&perks=839105230,1687452232,2779035018,2726471870#notes:Good in PvE
+dimwishlist:item=3512349612&perks=1687452232,2779035018,2726471870#notes:Good in PvE
+dimwishlist:item=3512349612&perks=839105230,2779035018,2726471870#notes:Good in PvE
+dimwishlist:item=3512349612&perks=2779035018,2726471870#notes:Good in PvE
+
+(Arrowhead Brake, Liquid Coils, Ambitious Assassin, Thresh)
+(_______________, Liquid Coils, Ambitious Assassin, Thresh)
+(Arrowhead Brake, ____________, Ambitious Assassin, Thresh)
+(_______________, ____________, Ambitious Assassin, Thresh)
+dimwishlist:item=3512349612&perks=839105230,1687452232,2010801679,2726471870#notes:Good in PvE
+dimwishlist:item=3512349612&perks=1687452232,2010801679,2726471870#notes:Good in PvE
+dimwishlist:item=3512349612&perks=839105230,2010801679,2726471870#notes:Good in PvE
+dimwishlist:item=3512349612&perks=2010801679,2726471870#notes:Good in PvE
 
 
 
 EXILE'S CURSE:
-()
+(Arrowhead Brake, Slideshot, Kickstart)
+(_______________, Slideshot, Kickstart)
+dimwishlist:item=679281855&perks=839105230,3161816588,1754714824#notes:Good in PvP
+dimwishlist:item=679281855&perks=3161816588,1754714824#notes:Good in PvP
 
 
 
 EXILE'S CURSE (ADEPT):
-()
+(Arrowhead Brake, Slideshot, Kickstart)
+(_______________, Slideshot, Kickstart)
+dimwishlist:item=276080079&perks=839105230,3161816588,1754714824#notes:Good in PvP
+dimwishlist:item=276080079&perks=3161816588,1754714824#notes:Good in PvP
 
 
 
@@ -417,6 +439,15 @@ dimwishlist:item=1030895163&perks=689005463,3161816588,2213355989#notes:Good in 
 dimwishlist:item=1030895163&perks=839105230,3161816588,2213355989#notes:Good in PvP
 dimwishlist:item=1030895163&perks=3161816588,2213355989#notes:Good in PvP
 
+(Arrowhead Brake, Accelerated Coils, Surplus, High-Impact Reserves)
+(_______________, Accelerated Coils, Surplus, High-Impact Reserves)
+(Arrowhead Brake, _________________, Surplus, High-Impact Reserves)
+(_______________, _________________, Surplus, High-Impact Reserves)
+dimwishlist:item=1030895163&perks=839105230,689005463,3436462433,2213355989#notes:Good in PvP
+dimwishlist:item=1030895163&perks=689005463,3436462433,2213355989#notes:Good in PvP
+dimwishlist:item=1030895163&perks=839105230,3436462433,2213355989#notes:Good in PvP
+dimwishlist:item=1030895163&perks=3436462433,2213355989#notes:Good in PvP
+
 (Arrowhead Brake, Accelerated Coils, Under Pressure, High-Impact Reserves)
 (_______________, Accelerated Coils, Under Pressure, High-Impact Reserves)
 (Arrowhead Brake, _________________, Under Pressure, High-Impact Reserves)
@@ -428,54 +459,226 @@ dimwishlist:item=1030895163&perks=839105230,1645158859,2213355989#notes:Good in 
 dimwishlist:item=1030895163&perks=689005463,2213355989#notes:Good in PvP
 dimwishlist:item=1030895163&perks=1645158859,2213355989#notes:Good in PvP
 
+(Smallbore________, Corkscrew Rifling, Liquid Coils, Surplus, Demolitionist) x
+(Smallbore________, _________________, Liquid Coils, Surplus, Demolitionist)
+(Corkscrew Rifling, _________________, Liquid Coils, Surplus, Demolitionist)
+(_________________, _________________, Liquid Coils, Surplus, Demolitionist)
+(Smallbore________, _________________, ____________, Surplus, Demolitionist)
+(Corkscrew Rifling, _________________, ____________, Surplus, Demolitionist)
+(_________________, _________________, ____________, Surplus, Demolitionist)
+dimwishlist:item=1030895163&perks=1482024992,4090651448,1687452232,3436462433,3523296417#notes:Good in PvE
+dimwishlist:item=1030895163&perks=1482024992,1687452232,3436462433,3523296417#notes:Good in PvE
+dimwishlist:item=1030895163&perks=4090651448,1687452232,3436462433,3523296417#notes:Good in PvE
+dimwishlist:item=1030895163&perks=1687452232,3436462433,3523296417#notes:Good in PvE
+dimwishlist:item=1030895163&perks=1482024992,3436462433,3523296417#notes:Good in PvE
+dimwishlist:item=1030895163&perks=4090651448,3436462433,3523296417#notes:Good in PvE
+dimwishlist:item=1030895163&perks=3436462433,3523296417#notes:Good in PvE
+
+(Smallbore________, Corkscrew Rifling, Liquid Coils, Ambitious Assassin, Demolitionist) x
+(Smallbore________, _________________, Liquid Coils, Ambitious Assassin, Demolitionist)
+(Corkscrew Rifling, _________________, Liquid Coils, Ambitious Assassin, Demolitionist)
+(_________________, _________________, Liquid Coils, Ambitious Assassin, Demolitionist)
+(Smallbore________, _________________, ____________, Ambitious Assassin, Demolitionist)
+(Corkscrew Rifling, _________________, ____________, Ambitious Assassin, Demolitionist)
+(_________________, _________________, ____________, Ambitious Assassin, Demolitionist)
+dimwishlist:item=1030895163&perks=1482024992,4090651448,1687452232,2010801679,3523296417#notes:Good in PvE
+dimwishlist:item=1030895163&perks=1482024992,1687452232,2010801679,3523296417#notes:Good in PvE
+dimwishlist:item=1030895163&perks=4090651448,1687452232,2010801679,3523296417#notes:Good in PvE
+dimwishlist:item=1030895163&perks=1687452232,2010801679,3523296417#notes:Good in PvE
+dimwishlist:item=1030895163&perks=1482024992,2010801679,3523296417#notes:Good in PvE
+dimwishlist:item=1030895163&perks=4090651448,2010801679,3523296417#notes:Good in PvE
+dimwishlist:item=1030895163&perks=2010801679,3523296417#notes:Good in PvE
+
 
 
 HOLLOW WORDS:
-(Extended Barrel, Projection Fuse, Killing Wind, Unrelenting)
-(_______________, Projection Fuse, Killing Wind, Unrelenting)
-(Extended Barrel, _______________, Killing Wind, Unrelenting)
-(_______________, _______________, Killing Wind, Unrelenting)
-dimwishlist:item=607191995&perks=1467527085,2969185026,2450788523,3108830275#notes:#notes:Good in PvP, go for Range MW
-dimwishlist:item=607191995&perks=2969185026,2450788523,3108830275#notes:Good in PvP, go for Range MW
-dimwishlist:item=607191995&perks=1467527085,2450788523,3108830275#notes:Good in PvP, go for Range MW
-dimwishlist:item=607191995&perks=2450788523,3108830275#notes:Good in PvP, go for Range MW
+(Smallbore________, Corkscrew Rifling, Liquid Coils, Feeding Frenzy, Backup Plan) x
+(Smallbore________, _________________, Liquid Coils, Feeding Frenzy, Backup Plan)
+(Corkscrew Rifling, _________________, Liquid Coils, Feeding Frenzy, Backup Plan)
+(_________________, _________________, Liquid Coils, Feeding Frenzy, Backup Plan)
+(Smallbore________, _________________, ____________, Feeding Frenzy, Backup Plan)
+(Corkscrew Rifling, _________________, ____________, Feeding Frenzy, Backup Plan)
+(_________________, _________________, ____________, Feeding Frenzy, Backup Plan)
+dimwishlist:item=607191995&perks=1482024992,4090651448,1687452232,2779035018,1600092898#notes:Good in PvE
+dimwishlist:item=607191995&perks=1482024992,1687452232,2779035018,1600092898#notes:Good in PvE
+dimwishlist:item=607191995&perks=4090651448,1687452232,2779035018,1600092898#notes:Good in PvE
+dimwishlist:item=607191995&perks=1687452232,2779035018,1600092898#notes:Good in PvE
+dimwishlist:item=607191995&perks=1482024992,2779035018,1600092898#notes:Good in PvE
+dimwishlist:item=607191995&perks=4090651448,2779035018,1600092898#notes:Good in PvE
+dimwishlist:item=607191995&perks=2779035018,1600092898#notes:Good in PvE
+
+(Smallbore________, Corkscrew Rifling, Liquid Coils, Feeding Frenzy, Surrounded) x
+(Smallbore________, _________________, Liquid Coils, Feeding Frenzy, Surrounded)
+(Corkscrew Rifling, _________________, Liquid Coils, Feeding Frenzy, Surrounded)
+(_________________, _________________, Liquid Coils, Feeding Frenzy, Surrounded)
+(Smallbore________, _________________, ____________, Feeding Frenzy, Surrounded)
+(Corkscrew Rifling, _________________, ____________, Feeding Frenzy, Surrounded)
+(_________________, _________________, ____________, Feeding Frenzy, Surrounded)
+dimwishlist:item=607191995&perks=1482024992,4090651448,1687452232,2779035018,3708227201#notes:Good in PvE
+dimwishlist:item=607191995&perks=1482024992,1687452232,2779035018,3708227201#notes:Good in PvE
+dimwishlist:item=607191995&perks=4090651448,1687452232,2779035018,3708227201#notes:Good in PvE
+dimwishlist:item=607191995&perks=1687452232,2779035018,3708227201#notes:Good in PvE
+dimwishlist:item=607191995&perks=1482024992,2779035018,3708227201#notes:Good in PvE
+dimwishlist:item=607191995&perks=4090651448,2779035018,3708227201#notes:Good in PvE
+dimwishlist:item=607191995&perks=2779035018,3708227201#notes:Good in PvE
 
 
 
 MAIN INGREDIENT:
-()
+dimwishlist:item=-253196586#notes:Trash
 
 
 
 TECHEUN FORCE:
-()
+dimwishlist:item=-4094657108#notes:Trash
 
 
 
 TIMELINES' VERTEX:
-(Liquid Coils___, Auto-Loading, Backup Plan)
-(Projection Fuse, Auto-Loading, Backup Plan)
-dimwishlist:item=3055192515&perks=1687452232,3300816228,1600092898#notes:Good in PvP
-dimwishlist:item=3055192515&perks=2969185026,3300816228,1600092898#notes:Good in PvP
-
-(Liquid Coils___, Firmly Planted, Backup Plan)
-(Projection Fuse, Firmly Planted, Backup Plan)
-(Liquid Coils___, ______________, Backup Plan)
-(Projection Fuse, ______________, Backup Plan)
-dimwishlist:item=3055192515&perks=1687452232,280464955,1600092898#notes:Good in PvP
-dimwishlist:item=3055192515&perks=2969185026,280464955,1600092898#notes:Good in PvP
-dimwishlist:item=3055192515&perks=1687452232,1600092898#notes:Good in PvP
-dimwishlist:item=3055192515&perks=2969185026,1600092898#notes:Good in PvP
+dimwishlist:item=-3055192515#notes:Trash
 
 
 
 TRINARY SYSTEM:
-()
+(Smallbore________, Corkscrew Rifling, Liquid Coils, Ambitious Assassin, Wellspring) x
+(Smallbore________, _________________, Liquid Coils, Ambitious Assassin, Wellspring)
+(Corkscrew Rifling, _________________, Liquid Coils, Ambitious Assassin, Wellspring)
+(_________________, _________________, Liquid Coils, Ambitious Assassin, Wellspring)
+(Smallbore________, _________________, ____________, Ambitious Assassin, Wellspring)
+(Corkscrew Rifling, _________________, ____________, Ambitious Assassin, Wellspring)
+(_________________, _________________, ____________, Ambitious Assassin, Wellspring)
+dimwishlist:item=3258665412&perks=1482024992,4090651448,1687452232,2010801679,3592538738
+dimwishlist:item=3258665412&perks=1482024992,1687452232,2010801679,3592538738
+dimwishlist:item=3258665412&perks=4090651448,1687452232,2010801679,3592538738
+dimwishlist:item=3258665412&perks=1687452232,2010801679,3592538738
+dimwishlist:item=3258665412&perks=1482024992,2010801679,3592538738
+dimwishlist:item=3258665412&perks=4090651448,2010801679,3592538738
+dimwishlist:item=3258665412&perks=2010801679,3592538738
+
+(Smallbore________, Corkscrew Rifling, Liquid Coils, Ambitious Assassin, Thresh) x
+(Smallbore________, _________________, Liquid Coils, Ambitious Assassin, Thresh)
+(Corkscrew Rifling, _________________, Liquid Coils, Ambitious Assassin, Thresh)
+(_________________, _________________, Liquid Coils, Ambitious Assassin, Thresh)
+(Smallbore________, _________________, ____________, Ambitious Assassin, Thresh)
+(Corkscrew Rifling, _________________, ____________, Ambitious Assassin, Thresh)
+(_________________, _________________, ____________, Ambitious Assassin, Thresh)
+dimwishlist:item=3258665412&perks=1482024992,4090651448,1687452232,2010801679,2726471870
+dimwishlist:item=3258665412&perks=1482024992,1687452232,2010801679,2726471870
+dimwishlist:item=3258665412&perks=4090651448,1687452232,2010801679,2726471870
+dimwishlist:item=3258665412&perks=1687452232,2010801679,2726471870
+dimwishlist:item=3258665412&perks=1482024992,2010801679,2726471870
+dimwishlist:item=3258665412&perks=4090651448,2010801679,2726471870
+dimwishlist:item=3258665412&perks=2010801679,2726471870
+
+(Smallbore________, Corkscrew Rifling, Liquid Coils, Ambitious Assassin, Demolitionist) x
+(Smallbore________, _________________, Liquid Coils, Ambitious Assassin, Demolitionist)
+(Corkscrew Rifling, _________________, Liquid Coils, Ambitious Assassin, Demolitionist)
+(_________________, _________________, Liquid Coils, Ambitious Assassin, Demolitionist)
+(Smallbore________, _________________, ____________, Ambitious Assassin, Demolitionist)
+(Corkscrew Rifling, _________________, ____________, Ambitious Assassin, Demolitionist)
+(_________________, _________________, ____________, Ambitious Assassin, Demolitionist)
+dimwishlist:item=3258665412&perks=1482024992,4090651448,1687452232,2010801679,3523296417
+dimwishlist:item=3258665412&perks=1482024992,1687452232,2010801679,3523296417
+dimwishlist:item=3258665412&perks=4090651448,1687452232,2010801679,3523296417
+dimwishlist:item=3258665412&perks=1687452232,2010801679,3523296417
+dimwishlist:item=3258665412&perks=1482024992,2010801679,3523296417
+dimwishlist:item=3258665412&perks=4090651448,2010801679,3523296417
+dimwishlist:item=3258665412&perks=2010801679,3523296417
+
+(Smallbore________, Corkscrew Rifling, Liquid Coils, Surplus, Wellspring) x
+(Smallbore________, _________________, Liquid Coils, Surplus, Wellspring)
+(Corkscrew Rifling, _________________, Liquid Coils, Surplus, Wellspring)
+(_________________, _________________, Liquid Coils, Surplus, Wellspring)
+(Smallbore________, _________________, ____________, Surplus, Wellspring)
+(Corkscrew Rifling, _________________, ____________, Surplus, Wellspring)
+(_________________, _________________, ____________, Surplus, Wellspring)
+dimwishlist:item=3258665412&perks=1482024992,4090651448,1687452232,3436462433,3592538738
+dimwishlist:item=3258665412&perks=1482024992,1687452232,3436462433,3592538738
+dimwishlist:item=3258665412&perks=4090651448,1687452232,3436462433,3592538738
+dimwishlist:item=3258665412&perks=1687452232,3436462433,3592538738
+dimwishlist:item=3258665412&perks=1482024992,3436462433,3592538738
+dimwishlist:item=3258665412&perks=4090651448,3436462433,3592538738
+dimwishlist:item=3258665412&perks=3436462433,3592538738
+
+(Smallbore________, Corkscrew Rifling, Liquid Coils, Surplus, Thresh) x
+(Smallbore________, _________________, Liquid Coils, Surplus, Thresh)
+(Corkscrew Rifling, _________________, Liquid Coils, Surplus, Thresh)
+(_________________, _________________, Liquid Coils, Surplus, Thresh)
+(Smallbore________, _________________, ____________, Surplus, Thresh)
+(Corkscrew Rifling, _________________, ____________, Surplus, Thresh)
+(_________________, _________________, ____________, Surplus, Thresh)
+dimwishlist:item=3258665412&perks=1482024992,4090651448,1687452232,3436462433,2726471870
+dimwishlist:item=3258665412&perks=1482024992,1687452232,3436462433,2726471870
+dimwishlist:item=3258665412&perks=4090651448,1687452232,3436462433,2726471870
+dimwishlist:item=3258665412&perks=1687452232,3436462433,2726471870
+dimwishlist:item=3258665412&perks=1482024992,3436462433,2726471870
+dimwishlist:item=3258665412&perks=4090651448,3436462433,2726471870
+dimwishlist:item=3258665412&perks=3436462433,2726471870
+
+(Smallbore________, Corkscrew Rifling, Liquid Coils, Surplus, Demolitionist) x
+(Smallbore________, _________________, Liquid Coils, Surplus, Demolitionist)
+(Corkscrew Rifling, _________________, Liquid Coils, Surplus, Demolitionist)
+(_________________, _________________, Liquid Coils, Surplus, Demolitionist)
+(Smallbore________, _________________, ____________, Surplus, Demolitionist)
+(Corkscrew Rifling, _________________, ____________, Surplus, Demolitionist)
+(_________________, _________________, ____________, Surplus, Demolitionist)
+dimwishlist:item=3258665412&perks=1482024992,4090651448,1687452232,3436462433,3523296417
+dimwishlist:item=3258665412&perks=1482024992,1687452232,3436462433,3523296417
+dimwishlist:item=3258665412&perks=4090651448,1687452232,3436462433,3523296417
+dimwishlist:item=3258665412&perks=1687452232,3436462433,3523296417
+dimwishlist:item=3258665412&perks=1482024992,3436462433,3523296417
+dimwishlist:item=3258665412&perks=4090651448,3436462433,3523296417
+dimwishlist:item=3258665412&perks=3436462433,3523296417
+
+(Smallbore________, Corkscrew Rifling, Liquid Coils, Feeding Frenzy, Wellspring) x
+(Smallbore________, _________________, Liquid Coils, Feeding Frenzy, Wellspring)
+(Corkscrew Rifling, _________________, Liquid Coils, Feeding Frenzy, Wellspring)
+(_________________, _________________, Liquid Coils, Feeding Frenzy, Wellspring)
+(Smallbore________, _________________, ____________, Feeding Frenzy, Wellspring)
+(Corkscrew Rifling, _________________, ____________, Feeding Frenzy, Wellspring)
+(_________________, _________________, ____________, Feeding Frenzy, Wellspring)
+dimwishlist:item=3258665412&perks=1482024992,4090651448,1687452232,2779035018,3592538738
+dimwishlist:item=3258665412&perks=1482024992,1687452232,2779035018,3592538738
+dimwishlist:item=3258665412&perks=4090651448,1687452232,2779035018,3592538738
+dimwishlist:item=3258665412&perks=1687452232,2779035018,3592538738
+dimwishlist:item=3258665412&perks=1482024992,2779035018,3592538738
+dimwishlist:item=3258665412&perks=4090651448,2779035018,3592538738
+dimwishlist:item=3258665412&perks=2779035018,3592538738
+
+(Smallbore________, Corkscrew Rifling, Liquid Coils, Feeding Frenzy, Thresh) x
+(Smallbore________, _________________, Liquid Coils, Feeding Frenzy, Thresh)
+(Corkscrew Rifling, _________________, Liquid Coils, Feeding Frenzy, Thresh)
+(_________________, _________________, Liquid Coils, Feeding Frenzy, Thresh)
+(Smallbore________, _________________, ____________, Feeding Frenzy, Thresh)
+(Corkscrew Rifling, _________________, ____________, Feeding Frenzy, Thresh)
+(_________________, _________________, ____________, Feeding Frenzy, Thresh)
+dimwishlist:item=3258665412&perks=1482024992,4090651448,1687452232,2779035018,2726471870
+dimwishlist:item=3258665412&perks=1482024992,1687452232,2779035018,2726471870
+dimwishlist:item=3258665412&perks=4090651448,1687452232,2779035018,2726471870
+dimwishlist:item=3258665412&perks=1687452232,2779035018,2726471870
+dimwishlist:item=3258665412&perks=1482024992,2779035018,2726471870
+dimwishlist:item=3258665412&perks=4090651448,2779035018,2726471870
+dimwishlist:item=3258665412&perks=2779035018,2726471870
+
+(Smallbore________, Corkscrew Rifling, Liquid Coils, Feeding Frenzy, Demolitionist) x
+(Smallbore________, _________________, Liquid Coils, Feeding Frenzy, Demolitionist)
+(Corkscrew Rifling, _________________, Liquid Coils, Feeding Frenzy, Demolitionist)
+(_________________, _________________, Liquid Coils, Feeding Frenzy, Demolitionist)
+(Smallbore________, _________________, ____________, Feeding Frenzy, Demolitionist)
+(Corkscrew Rifling, _________________, ____________, Feeding Frenzy, Demolitionist)
+(_________________, _________________, ____________, Feeding Frenzy, Demolitionist)
+dimwishlist:item=3258665412&perks=1482024992,4090651448,1687452232,2779035018,3523296417
+dimwishlist:item=3258665412&perks=1482024992,1687452232,2779035018,3523296417
+dimwishlist:item=3258665412&perks=4090651448,1687452232,2779035018,3523296417
+dimwishlist:item=3258665412&perks=1687452232,2779035018,3523296417
+dimwishlist:item=3258665412&perks=1482024992,2779035018,3523296417
+dimwishlist:item=3258665412&perks=4090651448,2779035018,3523296417
+dimwishlist:item=3258665412&perks=2779035018,3523296417
 
 
 
 ZEALOT'S REWARD:
-()
+dimwishlist:item=-2209003210#notes:Trash
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
