@@ -1237,19 +1237,19 @@ EXTRAORDINARY RENDITION:
 (Overflow, Rampage_______)
 (Overflow, Thresh________)
 (Overflow, Frenzy________)
-dimwishlist:item=1097616550&perks=3643424744,2458213969#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3643424744,2458213969#notes:Good in PvE, very good for casual play
 dimwishlist:item=1097616550&perks=3643424744,3425386926#notes:Good in PvE
 dimwishlist:item=1097616550&perks=3643424744,2726471870#notes:Good in PvE
-dimwishlist:item=1097616550&perks=3643424744,4104185692#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3643424744,4104185692#notes:Good in PvE, very good for high level activities
 
 (Surplus, Multikill Clip)
 (Surplus, Rampage_______)
 (Surplus, Thresh________)
 (Surplus, Frenzy________)
-dimwishlist:item=1097616550&perks=3436462433,2458213969#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3436462433,2458213969#notes:Good in PvE, very good for casual play
 dimwishlist:item=1097616550&perks=3436462433,3425386926#notes:Good in PvE
 dimwishlist:item=1097616550&perks=3436462433,2726471870#notes:Good in PvE
-dimwishlist:item=1097616550&perks=3436462433,4104185692#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3436462433,4104185692#notes:Good in PvE, very good for high level activities
 
 
 
