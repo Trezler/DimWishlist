@@ -850,7 +850,19 @@ dimwishlist:item=1173780905&perks=1168162263,1015611457#notes:Good in PvP
 
 
 THE TIME-WORN SPIRE:
-Not obtainable yet.
+(Feeding Frenzy, Rampage)
+(Subsistence___, Rampage)
+dimwishlist:item=3593598010&perks=2779035018,3425386926#notes:Good in PvE
+dimwishlist:item=3593598010&perks=1820235745,3425386926#notes:Test how Subsistence works
+
+(Ricochet Rounds, Moving Target_, Rampage)
+(Ricochet Rounds, Under Pressure, Rampage)
+(_______________, Moving Target_, Rampage)
+(_______________, Under Pressure, Rampage)
+dimwishlist:item=3593598010&perks=1885400500,588594999,3425386926#notes:Good in PvP
+dimwishlist:item=3593598010&perks=1885400500,1645158859,3425386926#notes:Good in PvP
+dimwishlist:item=3593598010&perks=588594999,3425386926#notes:Good in PvP
+dimwishlist:item=3593598010&perks=1645158859,3425386926#notes:Good in PvP
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -887,13 +899,8 @@ dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#no
 
 
 
-TALONS OF THE EAGLE:
-Obtainable?
-
-
-
 THE GUIDING SIGHT:
-Obtainable?
+dimwishlist:item=-1641430382#notes:Trash
 
 
 
@@ -1233,23 +1240,39 @@ dimwishlist:item=1786797708&perks=3643424744,3708227201#notes:Good in PvE
 
 
 EXTRAORDINARY RENDITION:
-(Overflow, Multikill Clip)
-(Overflow, Rampage_______)
-(Overflow, Thresh________)
-(Overflow, Frenzy________)
-dimwishlist:item=1097616550&perks=3643424744,2458213969#notes:Good in PvE, very good for casual play
+(Overflow, Rampage, Thresh) x
+(Overflow, Rampage, Frenzy) x
+(Overflow, Thresh_, Frenzy) x
+(Overflow, Rampage, ______)
+(Overflow, Thresh_, ______)
+(Overflow, Frenzy_, ______)
+dimwishlist:item=1097616550&perks=3643424744,3425386926,2726471870#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3643424744,3425386926,4104185692#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3643424744,2726471870,4104185692#notes:Good in PvE
 dimwishlist:item=1097616550&perks=3643424744,3425386926#notes:Good in PvE
 dimwishlist:item=1097616550&perks=3643424744,2726471870#notes:Good in PvE
-dimwishlist:item=1097616550&perks=3643424744,4104185692#notes:Good in PvE, very good for high level activities
+dimwishlist:item=1097616550&perks=3643424744,4104185692#notes:Good in PvE
 
+(Surplus, Multikill Clip, Rampage)
+(Surplus, Multikill Clip, Thresh_)
+(Surplus, Multikill Clip, Frenzy_)
+(Surplus, Rampage_______, Thresh_)
+(Surplus, Rampage_______, Frenzy_)
+(Surplus, Thresh________, Frenzy_)
 (Surplus, Multikill Clip)
 (Surplus, Rampage_______)
 (Surplus, Thresh________)
 (Surplus, Frenzy________)
-dimwishlist:item=1097616550&perks=3436462433,2458213969#notes:Good in PvE, very good for casual play
+dimwishlist:item=1097616550&perks=3436462433,2458213969,3425386926#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3436462433,2458213969,2726471870#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3436462433,2458213969,4104185692#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3436462433,3425386926,2726471870#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3436462433,3425386926,4104185692#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3436462433,2726471870,4104185692#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3436462433,2458213969#notes:Good in PvE
 dimwishlist:item=1097616550&perks=3436462433,3425386926#notes:Good in PvE
 dimwishlist:item=1097616550&perks=3436462433,2726471870#notes:Good in PvE
-dimwishlist:item=1097616550&perks=3436462433,4104185692#notes:Good in PvE, very good for high level activities
+dimwishlist:item=1097616550&perks=3436462433,4104185692#notes:Good in PvE
 
 
 
@@ -1285,7 +1308,12 @@ dimwishlist:item=1513993763&perks=4071163871,3592538738#notes:Good in PvE
 
 
 MULTIMACH CCX:
-Not obtainable yet.
+(Accurized Rounds, Dynamic Sway Reduction, Kill Clip)
+(________________, Dynamic Sway Reduction, Kill Clip)
+(Accurized Rounds, ______________________, Kill Clip)
+dimwishlist:item=3717177717&perks=3142289711,1359896290,1015611457#notes:Good in PvP
+dimwishlist:item=3717177717&perks=1359896290,1015611457#notes:Good in PvP
+dimwishlist:item=3717177717&perks=3142289711,1015611457#notes:Good in PvP
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
