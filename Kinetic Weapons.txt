@@ -1181,6 +1181,19 @@ dimwishlist:item=2990047042&perks=3250034553,2866798147,957782887#notes:Good in 
 dimwishlist:item=2990047042&perks=202670084,2866798147,957782887#notes:Good in PvP
 dimwishlist:item=2990047042&perks=2866798147,957782887#notes:Good in PvP
 
+(Hammer-Forged Rifling, Accurized Rounds, Moving Target, Snapshot Sights)
+(Full Bore____________, Accurized Rounds, Moving Target, Snapshot Sights)
+(_____________________, Accurized Rounds, Moving Target, Snapshot Sights)
+(Hammer-Forged Rifling, ________________, Moving Target, Snapshot Sights)
+(Full Bore____________, ________________, Moving Target, Snapshot Sights)
+(_____________________, ________________, Moving Target, Snapshot Sights)
+dimwishlist:item=2990047042&perks=3250034553,3142289711,588594999,957782887#notes:Good in PvP
+dimwishlist:item=2990047042&perks=202670084,3142289711,588594999,957782887#notes:Good in PvP
+dimwishlist:item=2990047042&perks=3142289711,588594999,957782887#notes:Good in PvP
+dimwishlist:item=2990047042&perks=3250034553,588594999,957782887#notes:Good in PvP
+dimwishlist:item=2990047042&perks=202670084,588594999,957782887#notes:Good in PvP
+dimwishlist:item=2990047042&perks=588594999,957782887#notes:Good in PvP
+
 (Chambered Compensator, Tactical Mag, Lead From Gold, Vorpal Weapon)
 (_____________________, Tactical Mag, Lead From Gold, Vorpal Weapon)
 dimwishlist:item=2990047042&perks=3661387068,106909392,1556840489,1546637391#notes:Good in GM's
