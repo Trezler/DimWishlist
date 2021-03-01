@@ -532,10 +532,10 @@ dimwishlist:item=1366917989&perks=3300816228,3927722942#notes:Good in PvE, boss 
 (____________, High-Velocity Rounds, Auto-Loading, Chain Reaction)
 (Quick Launch, ____________________, Auto-Loading, Chain Reaction)
 (____________, ____________________, Auto-Loading, Chain Reaction)
-dimwishlist:item=1366917989&perks=3525010810,2822142346,3300816228,2396489472#notes:Good in PvE, ad clear
-dimwishlist:item=1366917989&perks=2822142346,3300816228,2396489472#notes:Good in PvE, ad clear
-dimwishlist:item=1366917989&perks=3525010810,3300816228,2396489472#notes:Good in PvE, ad clear
-dimwishlist:item=1366917989&perks=3300816228,2396489472#notes:Good in PvE, ad clear
+dimwishlist:item=1366917989&perks=3525010810,2822142346,3300816228,2396489472#notes:Good in PvE
+dimwishlist:item=1366917989&perks=2822142346,3300816228,2396489472#notes:Good in PvE
+dimwishlist:item=1366917989&perks=3525010810,3300816228,2396489472#notes:Good in PvE
+dimwishlist:item=1366917989&perks=3300816228,2396489472#notes:Good in PvE
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -546,10 +546,10 @@ BEQUEST:
 (Hungry Edge, ___________, Thresh, Assassin's Blade)
 (___________, Heavy Guard, Thresh, Assassin's Blade)
 (___________, ___________, Thresh, Assassin's Blade)
-dimwishlist:item=3366545721&perks=436053704,2349202967,2726471870,354401740#notes:Good in PvE, ad clearing
-dimwishlist:item=3366545721&perks=436053704,2726471870,354401740#notes:Good in PvE, ad clearing
-dimwishlist:item=3366545721&perks=2349202967,2726471870,354401740#notes:Good in PvE, ad clearing
-dimwishlist:item=3366545721&perks=2726471870,354401740#notes:Good in PvE, ad clearing
+dimwishlist:item=3366545721&perks=436053704,2349202967,2726471870,354401740#notes:Good in PvE
+dimwishlist:item=3366545721&perks=436053704,2726471870,354401740#notes:Good in PvE
+dimwishlist:item=3366545721&perks=2349202967,2726471870,354401740#notes:Good in PvE
+dimwishlist:item=3366545721&perks=2726471870,354401740#notes:Good in PvE
 
 
 
@@ -580,19 +580,19 @@ SOLA'S SCAR:
 (___________, Swordmaster's Guard, Tireless Blade, Chain Reaction)
 (Jagged Edge, ___________________, Tireless Blade, Chain Reaction)
 (___________, ___________________, Tireless Blade, Chain Reaction)
-dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,2396489472#notes:Good in PvE, ad clearing
-dimwishlist:item=1313528549&perks=269888150,2590710093,2396489472#notes:Good in PvE, ad clearing
-dimwishlist:item=1313528549&perks=3666208348,2590710093,2396489472#notes:Good in PvE, ad clearing
-dimwishlist:item=1313528549&perks=2590710093,2396489472#notes:Good in PvE, ad clearing
+dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=1313528549&perks=269888150,2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=1313528549&perks=3666208348,2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=1313528549&perks=2590710093,2396489472#notes:Good in PvE
 
 (Jagged Edge, Swordmaster's Guard, Tireless Blade, Thresh)
 (___________, Swordmaster's Guard, Tireless Blade, Thresh)
 (Jagged Edge, ___________________, Tireless Blade, Thresh)
 (___________, ___________________, Tireless Blade, Thresh)
-dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,2726471870#notes:Good in PvE, ad clearing
-dimwishlist:item=1313528549&perks=269888150,2590710093,2726471870#notes:Good in PvE, ad clearing
-dimwishlist:item=1313528549&perks=3666208348,2590710093,2726471870#notes:Good in PvE, ad clearing
-dimwishlist:item=1313528549&perks=2590710093,2726471870#notes:Good in PvE, ad clearing
+dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=1313528549&perks=269888150,2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=1313528549&perks=3666208348,2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=1313528549&perks=2590710093,2726471870#notes:Good in PvE
 
 (Jagged Edge, Swordmaster's Guard, Relentless Strikes, Vorpal Weapon)
 (___________, Swordmaster's Guard, Relentless Strikes, Vorpal Weapon)
@@ -610,19 +610,19 @@ SOLA'S SCAR (ADEPT):
 (___________, Swordmaster's Guard, Tireless Blade, Chain Reaction)
 (Jagged Edge, ___________________, Tireless Blade, Chain Reaction)
 (___________, ___________________, Tireless Blade, Chain Reaction)
-dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,2396489472#notes:Good in PvE, ad clearing
-dimwishlist:item=3847137620&perks=269888150,2590710093,2396489472#notes:Good in PvE, ad clearing
-dimwishlist:item=3847137620&perks=3666208348,2590710093,2396489472#notes:Good in PvE, ad clearing
-dimwishlist:item=3847137620&perks=2590710093,2396489472#notes:Good in PvE, ad clearing
+dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=3847137620&perks=269888150,2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=3847137620&perks=3666208348,2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=3847137620&perks=2590710093,2396489472#notes:Good in PvE
 
 (Jagged Edge, Swordmaster's Guard, Tireless Blade, Thresh)
 (___________, Swordmaster's Guard, Tireless Blade, Thresh)
 (Jagged Edge, ___________________, Tireless Blade, Thresh)
 (___________, ___________________, Tireless Blade, Thresh)
-dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,2726471870#notes:Good in PvE, ad clearing
-dimwishlist:item=3847137620&perks=269888150,2590710093,2726471870#notes:Good in PvE, ad clearing
-dimwishlist:item=3847137620&perks=3666208348,2590710093,2726471870#notes:Good in PvE, ad clearing
-dimwishlist:item=3847137620&perks=2590710093,2726471870#notes:Good in PvE, ad clearing
+dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=3847137620&perks=269888150,2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=3847137620&perks=3666208348,2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=3847137620&perks=2590710093,2726471870#notes:Good in PvE
 
 (Jagged Edge, Swordmaster's Guard, Relentless Strikes, Vorpal Weapon)
 (___________, Swordmaster's Guard, Relentless Strikes, Vorpal Weapon)
