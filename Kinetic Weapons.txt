@@ -1290,30 +1290,38 @@ dimwishlist:item=1097616550&perks=3436462433,4104185692#notes:Good in PvE
 
 
 FRICTION FIRE:
-(Tactical Mag, Killing Wind, Rampage)
-(Drop Mag____, Killing Wind, Rampage)
-(____________, Killing Wind, Rampage)
+(Accurized Rounds, Killing Wind, Rampage)
+(Tactical Mag____, Killing Wind, Rampage)
+(Drop Mag________, Killing Wind, Rampage)
+(________________, Killing Wind, Rampage)
+dimwishlist:item=1513993763&perks=3142289711,2450788523,3425386926#notes:Good in PvE
 dimwishlist:item=1513993763&perks=106909392,2450788523,3425386926#notes:Good in PvE
 dimwishlist:item=1513993763&perks=4134353779,2450788523,3425386926#notes:Good in PvE
 dimwishlist:item=1513993763&perks=2450788523,3425386926#notes:Good in PvE
 
-(Tactical Mag, Killing Wind, Wellspring)
-(Drop Mag____, Killing Wind, Wellspring)
-(____________, Killing Wind, Wellspring)
+(Accurized Rounds, Killing Wind, Wellspring)
+(Tactical Mag____, Killing Wind, Wellspring)
+(Drop Mag________, Killing Wind, Wellspring)
+(________________, Killing Wind, Wellspring)
+dimwishlist:item=1513993763&perks=3142289711,2450788523,3592538738#notes:Good in PvE
 dimwishlist:item=1513993763&perks=106909392,2450788523,3592538738#notes:Good in PvE
 dimwishlist:item=1513993763&perks=4134353779,2450788523,3592538738#notes:Good in PvE
 dimwishlist:item=1513993763&perks=2450788523,3592538738#notes:Good in PvE
 
-(Tactical Mag, Threat Detector, Rampage)
-(Drop Mag____, Threat Detector, Rampage)
-(____________, Threat Detector, Rampage)
+(Accurized Rounds, Threat Detector, Rampage)
+(Tactical Mag____, Threat Detector, Rampage)
+(Drop Mag________, Threat Detector, Rampage)
+(________________, Threat Detector, Rampage)
+dimwishlist:item=1513993763&perks=3142289711,4071163871,3425386926#notes:Good in PvE
 dimwishlist:item=1513993763&perks=106909392,4071163871,3425386926#notes:Good in PvE
 dimwishlist:item=1513993763&perks=4134353779,4071163871,3425386926#notes:Good in PvE
 dimwishlist:item=1513993763&perks=4071163871,3425386926#notes:Good in PvE
 
-(Tactical Mag, Threat Detector, Wellspring)
-(Drop Mag____, Threat Detector, Wellspring)
-(____________, Threat Detector, Wellspring)
+(Accurized Rounds, Threat Detector, Wellspring)
+(Tactical Mag____, Threat Detector, Wellspring)
+(Drop Mag________, Threat Detector, Wellspring)
+(________________, Threat Detector, Wellspring)
+dimwishlist:item=1513993763&perks=3142289711,4071163871,3592538738#notes:Good in PvE
 dimwishlist:item=1513993763&perks=106909392,4071163871,3592538738#notes:Good in PvE
 dimwishlist:item=1513993763&perks=4134353779,4071163871,3592538738#notes:Good in PvE
 dimwishlist:item=1513993763&perks=4071163871,3592538738#notes:Good in PvE
