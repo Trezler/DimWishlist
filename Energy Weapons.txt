@@ -1441,6 +1441,11 @@ dimwishlist:item=1392919471&perks=3436462433,2213355989#notes:Good in PvE
 dimwishlist:item=1392919471&perks=1168162263,2213355989#notes:Good in PvE
 dimwishlist:item=1392919471&perks=1168162263,3592538738#notes:Good in PvE
 
+(Under Pressure, High-Impact Reserves)
+(Under Pressure, Wellspring__________)
+dimwishlist:item=1392919471&perks=1645158859,2213355989
+dimwishlist:item=1392919471&perks=1645158859,3592538738
+
 
 
 VOUCHSAFE:
