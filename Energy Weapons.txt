@@ -1360,6 +1360,27 @@ dimwishlist:item=2050789284&perks=3230963543,3096702027,1683379515#notes:Good in
 dimwishlist:item=2050789284&perks=839105230,3096702027,1683379515#notes:Good in GM's
 dimwishlist:item=2050789284&perks=3096702027,1683379515#notes:Good in GM's
 
+(Surplus, Thresh_______)
+(Surplus, Demolitionist)
+(Surplus, Dragonfly____)
+dimwishlist:item=2050789284&perks=3436462433,2726471870#notes:Good in PvE
+dimwishlist:item=2050789284&perks=3436462433,3523296417#notes:Good in PvE
+dimwishlist:item=2050789284&perks=3436462433,2848615171#notes:Good in PvE
+
+(Feeding Frenzy, Thresh_______)
+(Feeding Frenzy, Demolitionist)
+(Feeding Frenzy, Dragonfly____)
+dimwishlist:item=2050789284&perks=2779035018,2726471870#notes:Good in PvE
+dimwishlist:item=2050789284&perks=2779035018,3523296417#notes:Good in PvE
+dimwishlist:item=2050789284&perks=2779035018,2848615171#notes:Good in PvE
+
+(Outlaw, Thresh_______)
+(Outlaw, Demolitionist)
+(Outlaw, Dragonfly____)
+dimwishlist:item=2050789284&perks=1168162263,2726471870#notes:Good in PvE
+dimwishlist:item=2050789284&perks=1168162263,3523296417#notes:Good in PvE
+dimwishlist:item=2050789284&perks=1168162263,2848615171#notes:Good in PvE
+
 
 
 THE THIRD AXIOM:
