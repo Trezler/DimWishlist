@@ -372,6 +372,15 @@ dimwishlist:item=2496242052&perks=3796465595,951095735,3927722942#notes:Good in 
 dimwishlist:item=2496242052&perks=981914802,951095735,3927722942#notes:Good in PvE, boss DPS
 dimwishlist:item=2496242052&perks=951095735,3927722942#notes:Good in PvE, boss DPS
 
+(Hard Launch, Impact Casing, Field Prep, Lasting Impression)
+(___________, Impact Casing, Field Prep, Lasting Impression)
+(Hard Launch, _____________, Field Prep, Lasting Impression)
+(___________, _____________, Field Prep, Lasting Impression)
+dimwishlist:item=2496242052&perks=981914802,3796465595,2869569095,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=3796465595,2869569095,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=981914802,2869569095,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=2869569095,3927722942#notes:Good in PvE, boss DPS
+
 (Quick Launch, Impact Casing, Auto-Loading, Lasting Impression)
 (____________, Impact Casing, Auto-Loading, Lasting Impression)
 (Quick Launch, _____________, Auto-Loading, Lasting Impression)
@@ -380,6 +389,42 @@ dimwishlist:item=2496242052&perks=3525010810,3796465595,3300816228,3927722942#no
 dimwishlist:item=2496242052&perks=3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
 dimwishlist:item=2496242052&perks=3525010810,3300816228,3927722942#notes:Good in PvE, boss DPS
 dimwishlist:item=2496242052&perks=3300816228,3927722942#notes:Good in PvE, boss DPS
+
+(Hard Launch, Impact Casing, Impulse Amplifier, Frenzy)
+(___________, Impact Casing, Impulse Amplifier, Frenzy)
+(Hard Launch, _____________, Impulse Amplifier, Frenzy)
+(___________, _____________, Impulse Amplifier, Frenzy)
+dimwishlist:item=2496242052&perks=981914802,3796465595,951095735,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=3796465595,951095735,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=981914802,951095735,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=951095735,4104185692#notes:Good in PvE, boss DPS
+
+(Hard Launch, Impact Casing, Field Prep, Frenzy)
+(___________, Impact Casing, Field Prep, Frenzy)
+(Hard Launch, _____________, Field Prep, Frenzy)
+(___________, _____________, Field Prep, Frenzy)
+dimwishlist:item=2496242052&perks=981914802,3796465595,2869569095,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=3796465595,2869569095,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=981914802,2869569095,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=2869569095,4104185692#notes:Good in PvE, boss DPS
+
+(Quick Launch, Impact Casing, Auto-Loading, Frenzy)
+(____________, Impact Casing, Auto-Loading, Frenzy)
+(Quick Launch, _____________, Auto-Loading, Frenzy)
+(____________, _____________, Auto-Loading, Frenzy)
+dimwishlist:item=2496242052&perks=3525010810,3796465595,3300816228,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=3796465595,3300816228,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=3525010810,3300816228,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=3300816228,4104185692#notes:Good in PvE, boss DPS
+
+(Hard Launch, Impact Casing, Field Prep, Cluster Bombs)
+(___________, Impact Casing, Field Prep, Cluster Bombs)
+(Hard Launch, _____________, Field Prep, Cluster Bombs)
+(___________, _____________, Field Prep, Cluster Bombs)
+dimwishlist:item=2496242052&perks=981914802,3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=981914802,2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=2869569095,1275731761#notes:Good in PvE, boss DPS
 
 (Quick Launch, High-Velocity Rounds, Auto-Loading, Chain Reaction)
 (____________, High-Velocity Rounds, Auto-Loading, Chain Reaction)
@@ -402,17 +447,35 @@ dimwishlist:item=3067821200&perks=3796465595,951095735,3927722942#notes:Good in 
 dimwishlist:item=3067821200&perks=981914802,951095735,3927722942#notes:Good in PvE, boss DPS
 dimwishlist:item=3067821200&perks=951095735,3927722942#notes:Good in PvE, boss DPS
 
+(Hard Launch, Impact Casing, Field Prep, Lasting Impression)
+(___________, Impact Casing, Field Prep, Lasting Impression)
+(Hard Launch, _____________, Field Prep, Lasting Impression)
+(___________, _____________, Field Prep, Lasting Impression)
+dimwishlist:item=3067821200&perks=981914802,3796465595,2869569095,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=3067821200&perks=3796465595,2869569095,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=3067821200&perks=981914802,2869569095,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=3067821200&perks=2869569095,3927722942#notes:Good in PvE, boss DPS
+
+(Hard Launch, Impact Casing, Field Prep, Cluster Bombs)
+(___________, Impact Casing, Field Prep, Cluster Bombs)
+(Hard Launch, _____________, Field Prep, Cluster Bombs)
+(___________, _____________, Field Prep, Cluster Bombs)
+dimwishlist:item=3067821200&perks=981914802,3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=3067821200&perks=3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=3067821200&perks=981914802,2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=3067821200&perks=2869569095,1275731761#notes:Good in PvE, boss DPS
+
 
 
 HOOSEGOW:
-(Hard Launch, Impact Casing, Snapshot Sights, Cluster Bombs)
-(___________, Impact Casing, Snapshot Sights, Cluster Bombs)
-(Hard Launch, Impact Casing, _______________, Cluster Bombs)
-(___________, Impact Casing, _______________, Cluster Bombs)
-dimwishlist:item=3669616453&perks=981914802,3796465595,957782887,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=3669616453&perks=3796465595,957782887,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=3669616453&perks=981914802,3796465595,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=3669616453&perks=3796465595,1275731761#notes:Good in PvE, boss DPS
+(Hard Launch, Impact Casing, Field Prep, Cluster Bombs)
+(___________, Impact Casing, Field Prep, Cluster Bombs)
+(Hard Launch, _____________, Field Prep, Cluster Bombs)
+(___________, _____________, Field Prep, Cluster Bombs)
+dimwishlist:item=3669616453&perks=981914802,3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=3669616453&perks=3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=3669616453&perks=981914802,2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=3669616453&perks=2869569095,1275731761#notes:Good in PvE, boss DPS
 
 
 
@@ -438,6 +501,15 @@ dimwishlist:item=2448907086&perks=3796465595,951095735,3927722942#notes:Good in 
 dimwishlist:item=2448907086&perks=981914802,951095735,3927722942#notes:Good in PvE, boss DPS
 dimwishlist:item=2448907086&perks=951095735,3927722942#notes:Good in PvE, boss DPS
 
+(Hard Launch, Impact Casing, Field Prep, Lasting Impression)
+(___________, Impact Casing, Field Prep, Lasting Impression)
+(Hard Launch, _____________, Field Prep, Lasting Impression)
+(___________, _____________, Field Prep, Lasting Impression)
+dimwishlist:item=2448907086&perks=981914802,3796465595,2869569095,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=2448907086&perks=3796465595,2869569095,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=2448907086&perks=981914802,2869569095,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=2448907086&perks=2869569095,3927722942#notes:Good in PvE, boss DPS
+
 (Quick Launch, Impact Casing, Auto-Loading, Lasting Impression)
 (____________, Impact Casing, Auto-Loading, Lasting Impression)
 (Quick Launch, _____________, Auto-Loading, Lasting Impression)
@@ -446,6 +518,15 @@ dimwishlist:item=2448907086&perks=3525010810,3796465595,3300816228,3927722942#no
 dimwishlist:item=2448907086&perks=3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
 dimwishlist:item=2448907086&perks=3525010810,3300816228,3927722942#notes:Good in PvE, boss DPS
 dimwishlist:item=2448907086&perks=3300816228,3927722942#notes:Good in PvE, boss DPS
+
+(Hard Launch, Impact Casing, Field Prep, Cluster Bombs)
+(___________, Impact Casing, Field Prep, Cluster Bombs)
+(Hard Launch, _____________, Field Prep, Cluster Bombs)
+(___________, _____________, Field Prep, Cluster Bombs)
+dimwishlist:item=2448907086&perks=981914802,3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=2448907086&perks=3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=2448907086&perks=981914802,2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=2448907086&perks=2869569095,1275731761#notes:Good in PvE, boss DPS
 
 
 
@@ -463,7 +544,6 @@ dimwishlist:item=3740842661&perks=3525010810,1996142143,3300816228,2396489472#no
 dimwishlist:item=3740842661&perks=1996142143,3300816228,2396489472#notes:Good in PvE
 dimwishlist:item=3740842661&perks=3525010810,3300816228,2396489472#notes:Good in PvE
 dimwishlist:item=3740842661&perks=3300816228,2396489472#notes:Good in PvE
-
 
 
 
