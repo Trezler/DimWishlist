@@ -587,6 +587,15 @@ dimwishlist:item=958384347&perks=2822142346,3300816228,2396489472#notes:Good in 
 dimwishlist:item=958384347&perks=3525010810,3300816228,2396489472#notes:Good in PvE
 dimwishlist:item=958384347&perks=3300816228,2396489472#notes:Good in PvE
 
+(Hard Launch, Alloy Casing, Ambitious Assassin, Chain Reaction)
+(___________, Alloy Casing, Ambitious Assassin, Chain Reaction)
+(Hard Launch, Alloy Casing, Ambitious Assassin, Chain Reaction)
+(___________, ____________, Ambitious Assassin, Chain Reaction)
+dimwishlist:item=958384347&perks=981914802,2985827016,2010801679,2396489472#notes:Good in PvE
+dimwishlist:item=958384347&perks=2985827016,2010801679,2396489472#notes:Good in PvE
+dimwishlist:item=958384347&perks=981914802,2010801679,2396489472#notes:Good in PvE
+dimwishlist:item=958384347&perks=2010801679,2396489472#notes:Good in PvE
+
 
 
 TOMORROW'S ANSWER (ADEPT):
@@ -616,6 +625,15 @@ dimwishlist:item=1366917989&perks=3525010810,2822142346,3300816228,2396489472#no
 dimwishlist:item=1366917989&perks=2822142346,3300816228,2396489472#notes:Good in PvE
 dimwishlist:item=1366917989&perks=3525010810,3300816228,2396489472#notes:Good in PvE
 dimwishlist:item=1366917989&perks=3300816228,2396489472#notes:Good in PvE
+
+(Hard Launch, Alloy Casing, Ambitious Assassin, Chain Reaction)
+(___________, Alloy Casing, Ambitious Assassin, Chain Reaction)
+(Hard Launch, Alloy Casing, Ambitious Assassin, Chain Reaction)
+(___________, ____________, Ambitious Assassin, Chain Reaction)
+dimwishlist:item=1366917989&perks=981914802,2985827016,2010801679,2396489472#notes:Good in PvE
+dimwishlist:item=1366917989&perks=2985827016,2010801679,2396489472#notes:Good in PvE
+dimwishlist:item=1366917989&perks=981914802,2010801679,2396489472#notes:Good in PvE
+dimwishlist:item=1366917989&perks=2010801679,2396489472#notes:Good in PvE
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
