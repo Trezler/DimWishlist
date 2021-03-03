@@ -1908,6 +1908,11 @@ dimwishlist:item=3473290087&perks=280464955,47981717#notes:Good in PvP
 dimwishlist:item=3473290087&perks=280464955,957782887#notes:Good in PvP
 dimwishlist:item=3473290087&perks=280464955,706527188#notes:Good in PvP
 
+(Tactical Mag, Genesis, Vorpal Weapon)
+(____________, Genesis, Vorpal Weapon)
+dimwishlist:item=3473290087&perks=106909392,3096702027,1546637391#notes:Good in GM's
+dimwishlist:item=3473290087&perks=3096702027,1546637391#notes:Good in GM's
+
 
 
 IKELOS_SR_v1.0.2:
