@@ -4,34 +4,34 @@
 GRENADE LAUNCHERS:
 
 BERENGER'S MEMORY:
-(Hard Launch, Spike Grenades, Quickdraw, Auto-Loading)
-(___________, Spike Grenades, Quickdraw, Auto-Loading)
-(Hard Launch, Spike Grenades, _________, Auto-Loading)
-(___________, Spike Grenades, _________, Auto-Loading)
+(Hard Launch_, Spike Grenades, Quickdraw, Auto-Loading)
+(____________, Spike Grenades, Quickdraw, Auto-Loading)
+(Quick Launch, Spike Grenades, _________, Auto-Loading)
+(____________, Spike Grenades, _________, Auto-Loading)
 dimwishlist:item=407621213&perks=981914802,3301904089,706527188,3300816228#notes:Good in PvE, boss DPS
 dimwishlist:item=407621213&perks=3301904089,706527188,3300816228#notes:Good in PvE, boss DPS
-dimwishlist:item=407621213&perks=981914802,3301904089,3300816228#notes:Good in PvE, boss DPS
+dimwishlist:item=407621213&perks=3525010810,3301904089,3300816228#notes:Good in PvE, boss DPS
 dimwishlist:item=407621213&perks=3301904089,3300816228#notes:Good in PvE, boss DPS
 
 
 
 BLAST BATTUE:
-(Volatile Launch, Spike Grenades, Clown Cartridge, Chain Reaction)
-(_______________, Spike Grenades, Clown Cartridge, Chain Reaction)
-(Volatile Launch, ______________, Clown Cartridge, Chain Reaction)
-(_______________, ______________, Clown Cartridge, Chain Reaction)
-dimwishlist:item=2453357042&perks=1478423395,3301904089,2284787283,2396489472#notes:Good in PvE
-dimwishlist:item=2453357042&perks=3301904089,2284787283,2396489472#notes:Good in PvE
+(Volatile Launch, Alloy Casing, Clown Cartridge, Chain Reaction)
+(_______________, Alloy Casing, Clown Cartridge, Chain Reaction)
+(Volatile Launch, ____________, Clown Cartridge, Chain Reaction)
+(_______________, ____________, Clown Cartridge, Chain Reaction)
+dimwishlist:item=2453357042&perks=1478423395,2985827016,2284787283,2396489472#notes:Good in PvE
+dimwishlist:item=2453357042&perks=2985827016,2284787283,2396489472#notes:Good in PvE
 dimwishlist:item=2453357042&perks=1478423395,2284787283,2396489472#notes:Good in PvE
 dimwishlist:item=2453357042&perks=2284787283,2396489472#notes:Good in PvE
 
-(Hard Launch, Spike Grenades, Quickdraw, Auto-Loading)
-(___________, Spike Grenades, Quickdraw, Auto-Loading)
-(Hard Launch, Spike Grenades, _________, Auto-Loading)
-(___________, Spike Grenades, _________, Auto-Loading)
+(Hard Launch_, Spike Grenades, Quickdraw, Auto-Loading)
+(____________, Spike Grenades, Quickdraw, Auto-Loading)
+(Quick Launch, Spike Grenades, _________, Auto-Loading)
+(____________, Spike Grenades, _________, Auto-Loading)
 dimwishlist:item=2453357042&perks=981914802,3301904089,706527188,3300816228#notes:Good in PvE, boss DPS
 dimwishlist:item=2453357042&perks=3301904089,706527188,3300816228#notes:Good in PvE, boss DPS
-dimwishlist:item=2453357042&perks=981914802,3301904089,3300816228#notes:Good in PvE, boss DPS
+dimwishlist:item=2453357042&perks=3525010810,3301904089,3300816228#notes:Good in PvE, boss DPS
 dimwishlist:item=2453357042&perks=3301904089,3300816228#notes:Good in PvE, boss DPS
 
 
@@ -540,12 +540,12 @@ ROYAL ENTRY:
 (Clown Cartridge)
 dimwishlist:item=2448907086&perks=2284787283#notes:Test this
 
-(Quick Launch, High-Velocity Rounds, Auto-Loading, Chain Reaction)
-(____________, High-Velocity Rounds, Auto-Loading, Chain Reaction)
-(Quick Launch, ____________________, Auto-Loading, Chain Reaction)
-(____________, ____________________, Auto-Loading, Chain Reaction)
-dimwishlist:item=2448907086&perks=3525010810,2822142346,3300816228,2396489472#notes:Good in PvE
-dimwishlist:item=2448907086&perks=2822142346,3300816228,2396489472#notes:Good in PvE
+(Quick Launch, Black Powder, Auto-Loading, Chain Reaction)
+(____________, Black Powder, Auto-Loading, Chain Reaction)
+(Quick Launch, ____________, Auto-Loading, Chain Reaction)
+(____________, ____________, Auto-Loading, Chain Reaction)
+dimwishlist:item=2448907086&perks=3525010810,1996142143,3300816228,2396489472#notes:Good in PvE
+dimwishlist:item=2448907086&perks=1996142143,3300816228,2396489472#notes:Good in PvE
 dimwishlist:item=2448907086&perks=3525010810,3300816228,2396489472#notes:Good in PvE
 dimwishlist:item=2448907086&perks=3300816228,2396489472#notes:Good in PvE
 
@@ -644,12 +644,12 @@ dimwishlist:item=958384347&perks=3796465595,3300816228,3927722942#notes:Good in 
 dimwishlist:item=958384347&perks=3525010810,3300816228,3927722942#notes:Good in PvE, boss DPS
 dimwishlist:item=958384347&perks=3300816228,3927722942#notes:Good in PvE, boss DPS
 
-(Quick Launch, High-Velocity Rounds, Auto-Loading, Chain Reaction)
-(____________, High-Velocity Rounds, Auto-Loading, Chain Reaction)
-(Quick Launch, ____________________, Auto-Loading, Chain Reaction)
-(____________, ____________________, Auto-Loading, Chain Reaction)
-dimwishlist:item=958384347&perks=3525010810,2822142346,3300816228,2396489472#notes:Good in PvE
-dimwishlist:item=958384347&perks=2822142346,3300816228,2396489472#notes:Good in PvE
+(Quick Launch, Black Powder, Auto-Loading, Chain Reaction)
+(____________, Black Powder, Auto-Loading, Chain Reaction)
+(Quick Launch, ____________, Auto-Loading, Chain Reaction)
+(____________, ____________, Auto-Loading, Chain Reaction)
+dimwishlist:item=958384347&perks=3525010810,1996142143,3300816228,2396489472#notes:Good in PvE
+dimwishlist:item=958384347&perks=1996142143,3300816228,2396489472#notes:Good in PvE
 dimwishlist:item=958384347&perks=3525010810,3300816228,2396489472#notes:Good in PvE
 dimwishlist:item=958384347&perks=3300816228,2396489472#notes:Good in PvE
 
@@ -683,12 +683,12 @@ dimwishlist:item=1366917989&perks=3796465595,3300816228,3927722942#notes:Good in
 dimwishlist:item=1366917989&perks=3525010810,3300816228,3927722942#notes:Good in PvE, boss DPS
 dimwishlist:item=1366917989&perks=3300816228,3927722942#notes:Good in PvE, boss DPS
 
-(Quick Launch, High-Velocity Rounds, Auto-Loading, Chain Reaction)
-(____________, High-Velocity Rounds, Auto-Loading, Chain Reaction)
-(Quick Launch, ____________________, Auto-Loading, Chain Reaction)
-(____________, ____________________, Auto-Loading, Chain Reaction)
-dimwishlist:item=1366917989&perks=3525010810,2822142346,3300816228,2396489472#notes:Good in PvE
-dimwishlist:item=1366917989&perks=2822142346,3300816228,2396489472#notes:Good in PvE
+(Quick Launch, Black Powder, Auto-Loading, Chain Reaction)
+(____________, Black Powder, Auto-Loading, Chain Reaction)
+(Quick Launch, ____________, Auto-Loading, Chain Reaction)
+(____________, ____________, Auto-Loading, Chain Reaction)
+dimwishlist:item=1366917989&perks=3525010810,1996142143,3300816228,2396489472#notes:Good in PvE
+dimwishlist:item=1366917989&perks=1996142143,3300816228,2396489472#notes:Good in PvE
 dimwishlist:item=1366917989&perks=3525010810,3300816228,2396489472#notes:Good in PvE
 dimwishlist:item=1366917989&perks=3300816228,2396489472#notes:Good in PvE
 
@@ -741,61 +741,61 @@ dimwishlist:item=-3629968765#notes:Trash
 
 SOLA'S SCAR:
 (Jagged Edge, Swordmaster's Guard, Tireless Blade, Chain Reaction)
-(___________, Swordmaster's Guard, Tireless Blade, Chain Reaction)
+(Jagged Edge, Swordmaster's Guard, ______________, Chain Reaction)
 (Jagged Edge, ___________________, Tireless Blade, Chain Reaction)
-(___________, ___________________, Tireless Blade, Chain Reaction)
+(Jagged Edge, ___________________, ______________, Chain Reaction)
 dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,2396489472#notes:Good in PvE
-dimwishlist:item=1313528549&perks=269888150,2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=1313528549&perks=3666208348,269888150,2396489472#notes:Good in PvE
 dimwishlist:item=1313528549&perks=3666208348,2590710093,2396489472#notes:Good in PvE
-dimwishlist:item=1313528549&perks=2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=1313528549&perks=3666208348,2396489472#notes:Good in PvE
 
 (Jagged Edge, Swordmaster's Guard, Tireless Blade, Thresh)
-(___________, Swordmaster's Guard, Tireless Blade, Thresh)
+(Jagged Edge, Swordmaster's Guard, ______________, Thresh)
 (Jagged Edge, ___________________, Tireless Blade, Thresh)
-(___________, ___________________, Tireless Blade, Thresh)
+(Jagged Edge, ___________________, ______________, Thresh)
 dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,2726471870#notes:Good in PvE
-dimwishlist:item=1313528549&perks=269888150,2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=1313528549&perks=3666208348,269888150,2726471870#notes:Good in PvE
 dimwishlist:item=1313528549&perks=3666208348,2590710093,2726471870#notes:Good in PvE
-dimwishlist:item=1313528549&perks=2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=1313528549&perks=3666208348,2726471870#notes:Good in PvE
 
 (Jagged Edge, Swordmaster's Guard, Relentless Strikes, Vorpal Weapon)
-(___________, Swordmaster's Guard, Relentless Strikes, Vorpal Weapon)
+(Jagged Edge, Swordmaster's Guard, __________________, Vorpal Weapon)
 (Jagged Edge, ___________________, Relentless Strikes, Vorpal Weapon)
-(___________, ___________________, Relentless Strikes, Vorpal Weapon)
+(Jagged Edge, ___________________, __________________, Vorpal Weapon)
 dimwishlist:item=1313528549&perks=3666208348,269888150,1749209109,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=1313528549&perks=269888150,1749209109,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=1313528549&perks=3666208348,269888150,1546637391#notes:Good in PvE, boss DPS
 dimwishlist:item=1313528549&perks=3666208348,1749209109,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=1313528549&perks=1749209109,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=1313528549&perks=3666208348,1546637391#notes:Good in PvE, boss DPS
 
 
 
 SOLA'S SCAR (ADEPT):
 (Jagged Edge, Swordmaster's Guard, Tireless Blade, Chain Reaction)
-(___________, Swordmaster's Guard, Tireless Blade, Chain Reaction)
+(Jagged Edge, Swordmaster's Guard, ______________, Chain Reaction)
 (Jagged Edge, ___________________, Tireless Blade, Chain Reaction)
-(___________, ___________________, Tireless Blade, Chain Reaction)
+(Jagged Edge, ___________________, ______________, Chain Reaction)
 dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,2396489472#notes:Good in PvE
-dimwishlist:item=3847137620&perks=269888150,2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=3847137620&perks=3666208348,269888150,2396489472#notes:Good in PvE
 dimwishlist:item=3847137620&perks=3666208348,2590710093,2396489472#notes:Good in PvE
-dimwishlist:item=3847137620&perks=2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=3847137620&perks=3666208348,2396489472#notes:Good in PvE
 
 (Jagged Edge, Swordmaster's Guard, Tireless Blade, Thresh)
-(___________, Swordmaster's Guard, Tireless Blade, Thresh)
+(Jagged Edge, Swordmaster's Guard, ______________, Thresh)
 (Jagged Edge, ___________________, Tireless Blade, Thresh)
-(___________, ___________________, Tireless Blade, Thresh)
+(Jagged Edge, ___________________, ______________, Thresh)
 dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,2726471870#notes:Good in PvE
-dimwishlist:item=3847137620&perks=269888150,2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=3847137620&perks=3666208348,269888150,2726471870#notes:Good in PvE
 dimwishlist:item=3847137620&perks=3666208348,2590710093,2726471870#notes:Good in PvE
-dimwishlist:item=3847137620&perks=2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=3847137620&perks=3666208348,2726471870#notes:Good in PvE
 
 (Jagged Edge, Swordmaster's Guard, Relentless Strikes, Vorpal Weapon)
-(___________, Swordmaster's Guard, Relentless Strikes, Vorpal Weapon)
+(Jagged Edge, Swordmaster's Guard, __________________, Vorpal Weapon)
 (Jagged Edge, ___________________, Relentless Strikes, Vorpal Weapon)
-(___________, ___________________, Relentless Strikes, Vorpal Weapon)
+(Jagged Edge, ___________________, __________________, Vorpal Weapon)
 dimwishlist:item=3847137620&perks=3666208348,269888150,1749209109,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3847137620&perks=269888150,1749209109,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=3847137620&perks=3666208348,269888150,1546637391#notes:Good in PvE, boss DPS
 dimwishlist:item=3847137620&perks=3666208348,1749209109,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3847137620&perks=1749209109,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=3847137620&perks=3666208348,1546637391#notes:Good in PvE, boss DPS
 
 
 
@@ -815,13 +815,13 @@ dimwishlist:item=35794111&perks=3666208348,2590710093,3913600130#notes:Good in P
 dimwishlist:item=35794111&perks=3666208348,3913600130#notes:Good in PvE
 
 (Jagged Edge, Swordmaster's Guard, Tireless Blade, Vorpal Weapon)
+(Jagged Edge, Swordmaster's Guard, ______________, Vorpal Weapon)
 (Jagged Edge, ___________________, Tireless Blade, Vorpal Weapon)
-(___________, Swordmaster's Guard, Tireless Blade, Vorpal Weapon)
-(___________, ___________________, Tireless Blade, Vorpal Weapon)
+(Jagged Edge, ___________________, ______________, Vorpal Weapon)
 dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391#notes:Good in PvE & PvP
+dimwishlist:item=35794111&perks=3666208348,269888150,1546637391#notes:Good in PvE & PvP
 dimwishlist:item=35794111&perks=3666208348,2590710093,1546637391#notes:Good in PvE & PvP
-dimwishlist:item=35794111&perks=269888150,2590710093,1546637391#notes:Good in PvE & PvP
-dimwishlist:item=35794111&perks=2590710093,1546637391#notes:Good in PvE & PvP
+dimwishlist:item=35794111&perks=3666208348,1546637391#notes:Good in PvE & PvP
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
