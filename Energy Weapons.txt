@@ -1280,7 +1280,7 @@ dimwishlist:item=188882152&perks=1168162263,1015611457#notes:Good in PvP
 
 
 
-PREMENITION:
+PREMONITION:
 (Feeding Frenzy, High-Impact Reserves)
 (Feeding Frenzy, Rampage_____________)
 (Feeding Frenzy, Thresh______________)
