@@ -364,15 +364,19 @@ dimwishlist:item=2582755344&perks=2869569095,1546637391#notes:boss DPS
 
 
 THE SWARM:
-(Outlaw_, Dragonfly)
-(Surplus, Dragonfly)
+(Outlaw__________, Dragonfly)
+(Surplus_________, Dragonfly)
+(Bottomless Grief, Dragonfly)
 dimwishlist:item=47772649&perks=1168162263,2848615171#notes:Good in PvE
 dimwishlist:item=47772649&perks=3436462433,2848615171#notes:Good in PvE
+dimwishlist:item=47772649&perks=4252909580,2848615171#notes:Good in PvE, solo activities
 
-(Outlaw_, One for All)
-(Surplus, One for All)
+(Outlaw__________, One for All)
+(Surplus_________, One for All)
+(Bottomless Grief, One for All)
 dimwishlist:item=47772649&perks=1168162263,4049631843#notes:Good in PvE
 dimwishlist:item=47772649&perks=1168162263,2848615171#notes:Good in PvE
+dimwishlist:item=47772649&perks=4252909580,4049631843#notes:Good in PvE, solo activities
 
 
 
