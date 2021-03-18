@@ -1272,10 +1272,10 @@ dimwishlist:item=1097616550&perks=3643424744,4104185692#notes:Good in PvE
 (Surplus, Rampage_______, Thresh_)
 (Surplus, Rampage_______, Frenzy_)
 (Surplus, Thresh________, Frenzy_)
-(Surplus, Multikill Clip)
-(Surplus, Rampage_______)
-(Surplus, Thresh________)
-(Surplus, Frenzy________)
+(Surplus, Multikill Clip, _______)
+(Surplus, Rampage_______, _______)
+(Surplus, Thresh________, _______)
+(Surplus, Frenzy________, _______)
 dimwishlist:item=1097616550&perks=3436462433,2458213969,3425386926#notes:Good in PvE
 dimwishlist:item=1097616550&perks=3436462433,2458213969,2726471870#notes:Good in PvE
 dimwishlist:item=1097616550&perks=3436462433,2458213969,4104185692#notes:Good in PvE
@@ -1286,6 +1286,27 @@ dimwishlist:item=1097616550&perks=3436462433,2458213969#notes:Good in PvE
 dimwishlist:item=1097616550&perks=3436462433,3425386926#notes:Good in PvE
 dimwishlist:item=1097616550&perks=3436462433,2726471870#notes:Good in PvE
 dimwishlist:item=1097616550&perks=3436462433,4104185692#notes:Good in PvE
+
+(Outlaw, Multikill Clip, Rampage)
+(Outlaw, Multikill Clip, Thresh_)
+(Outlaw, Multikill Clip, Frenzy_)
+(Outlaw, Rampage_______, Thresh_)
+(Outlaw, Rampage_______, Frenzy_)
+(Outlaw, Thresh________, Frenzy_)
+(Outlaw, Multikill Clip, _______)
+(Outlaw, Rampage_______, _______)
+(Outlaw, Thresh________, _______)
+(Outlaw, Frenzy________, _______)
+dimwishlist:item=1097616550&perks=1168162263,2458213969,3425386926#notes:Good in PvE
+dimwishlist:item=1097616550&perks=1168162263,2458213969,2726471870#notes:Good in PvE
+dimwishlist:item=1097616550&perks=1168162263,2458213969,4104185692#notes:Test Outlaw, Frenzy Combo
+dimwishlist:item=1097616550&perks=1168162263,3425386926,2726471870#notes:Good in PvE
+dimwishlist:item=1097616550&perks=1168162263,3425386926,4104185692#notes:Test Outlaw, Frenzy Combo
+dimwishlist:item=1097616550&perks=1168162263,2726471870,4104185692#notes:Test Outlaw, Frenzy Combo
+dimwishlist:item=1097616550&perks=1168162263,2458213969#notes:Good in PvE
+dimwishlist:item=1097616550&perks=1168162263,3425386926#notes:Good in PvE
+dimwishlist:item=1097616550&perks=1168162263,2726471870#notes:Good in PvE
+dimwishlist:item=1097616550&perks=1168162263,4104185692#notes:Test Outlaw, Frenzy Combo
 
 
 
