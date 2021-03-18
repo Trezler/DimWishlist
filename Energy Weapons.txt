@@ -409,7 +409,7 @@ dimwishlist:item=3460122497&perks=2801223209,47981717#notes:Good in PvP, go for 
 
 
 POINT OF THE STAG:
-dimwishlist:item=-3434944005#notes:Trash, what even are these perks
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:Good for GM's
 
 
 
