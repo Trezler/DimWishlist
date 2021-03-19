@@ -127,88 +127,70 @@ dimwishlist:item=1972985595&perks=3301904089,3300816228#notes:Good in PvE, boss 
 LINEAR FUSION RIFLES:
 
 CORSAIR'S WRATH:
-(Liquid Coils, Firmly Planted, High-Impact Reserves)
-(____________, Firmly Planted, High-Impact Reserves)
-dimwishlist:item=2714022207&perks=1687452232,280464955,2213355989#notes:Good in PvE, boss DPS
+(Accelerated Coils, Firmly Planted, High-Impact Reserves)
+(_________________, Firmly Planted, High-Impact Reserves)
+dimwishlist:item=2714022207&perks=689005463,280464955,2213355989#notes:Good in PvE, boss DPS
 dimwishlist:item=2714022207&perks=280464955,2213355989#notes:Good in PvE, boss DPS
 
-(Liquid Coils, No Distractions, High-Impact Reserves)
-(____________, No Distractions, High-Impact Reserves)
-(Liquid Coils, _______________, High-Impact Reserves)
-dimwishlist:item=2714022207&perks=1687452232,2866798147,2213355989#notes:Good in PvE, boss DPS
+(Accelerated Coils, No Distractions, High-Impact Reserves)
+(_________________, No Distractions, High-Impact Reserves)
+(Accelerated Coils, _______________, High-Impact Reserves)
+dimwishlist:item=2714022207&perks=689005463,2866798147,2213355989#notes:Good in PvE, boss DPS
 dimwishlist:item=2714022207&perks=2866798147,2213355989#notes:Good in PvE, boss DPS
-dimwishlist:item=2714022207&perks=1687452232,2213355989#notes:Good in PvE, boss DPS
+dimwishlist:item=2714022207&perks=689005463,2213355989#notes:Good in PvE, boss DPS
 
 
 
 TARANTULA:
-(Liquid Coils, Field Prep, Box Breathing)
-(____________, Field Prep, Box Breathing)
-(Liquid Coils, __________, Box Breathing)
-dimwishlist:item=3335343363&perks=1687452232,2869569095,2551157718#notes:Good in PvE, boss DPS
-dimwishlist:item=3335343363&perks=2869569095,2551157718#notes:Good in PvE, boss DPS
-dimwishlist:item=3335343363&perks=1687452232,2551157718#notes:Good in PvE, boss DPS
+dimwishlist:item=-3335343363#notes:Trash
 
 
 
 THREADED NEEDLE:
-(Liquid Coils, Clown Cartridge, Vorpal Weapon, Frenzy_______) x
-(____________, Clown Cartridge, Vorpal Weapon, Frenzy_______) x
-(Liquid Coils, Clown Cartridge, Vorpal Weapon, _____________)
-(Liquid Coils, Clown Cartridge, Frenzy_______, _____________)
-(____________, Clown Cartridge, Vorpal Weapon, _____________)
-(____________, Clown Cartridge, Frenzy_______, _____________)
-dimwishlist:item=3075224551&perks=1687452232,2284787283,1546637391,4104185692#notes:Good in PvE, boss DPS
+(Accelerated Coils, Clown Cartridge, Vorpal Weapon, Frenzy_______) x
+(_________________, Clown Cartridge, Vorpal Weapon, Frenzy_______) x
+(Accelerated Coils, Clown Cartridge, Vorpal Weapon, _____________)
+(Accelerated Coils, Clown Cartridge, Frenzy_______, _____________)
+(_________________, Clown Cartridge, Vorpal Weapon, _____________)
+(_________________, Clown Cartridge, Frenzy_______, _____________)
+dimwishlist:item=3075224551&perks=689005463,2284787283,1546637391,4104185692#notes:Good in PvE, boss DPS
 dimwishlist:item=3075224551&perks=2284787283,1546637391,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=1687452232,2284787283,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=1687452232,2284787283,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=3075224551&perks=689005463,2284787283,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=3075224551&perks=689005463,2284787283,4104185692#notes:Good in PvE, boss DPS
 dimwishlist:item=3075224551&perks=2284787283,1546637391#notes:Good in PvE, boss DPS
 dimwishlist:item=3075224551&perks=2284787283,4104185692#notes:Good in PvE, boss DPS
 
-(Liquid Coils, Rapid Hit, Vorpal Weapon, Frenzy_______) x
-(____________, Rapid Hit, Vorpal Weapon, Frenzy_______) x
-(Liquid Coils, Rapid Hit, Vorpal Weapon, _____________)
-(Liquid Coils, Rapid Hit, Frenzy_______, _____________)
-(____________, Rapid Hit, Vorpal Weapon, _____________)
-(____________, Rapid Hit, Frenzy_______, _____________)
-dimwishlist:item=3075224551&perks=1687452232,247725512,1546637391,4104185692#notes:Good in PvE, boss DPS
+(Accelerated Coils, Rapid Hit, Vorpal Weapon, Frenzy_______) x
+(_________________, Rapid Hit, Vorpal Weapon, Frenzy_______) x
+(Accelerated Coils, Rapid Hit, Vorpal Weapon, _____________)
+(Accelerated Coils, Rapid Hit, Frenzy_______, _____________)
+(_________________, Rapid Hit, Vorpal Weapon, _____________)
+(_________________, Rapid Hit, Frenzy_______, _____________)
+dimwishlist:item=3075224551&perks=689005463,247725512,1546637391,4104185692#notes:Good in PvE, boss DPS
 dimwishlist:item=3075224551&perks=247725512,1546637391,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=1687452232,247725512,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=1687452232,247725512,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=3075224551&perks=689005463,247725512,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=3075224551&perks=689005463,247725512,4104185692#notes:Good in PvE, boss DPS
 dimwishlist:item=3075224551&perks=247725512,1546637391#notes:Good in PvE, boss DPS
 dimwishlist:item=3075224551&perks=247725512,4104185692#notes:Good in PvE, boss DPS
 
-(Liquid Coils, Field Prep, Vorpal Weapon, Frenzy_______) x
-(____________, Field Prep, Vorpal Weapon, Frenzy_______) x
-(Liquid Coils, Field Prep, Vorpal Weapon, _____________)
-(Liquid Coils, Field Prep, Frenzy_______, _____________)
-(____________, Field Prep, Vorpal Weapon, _____________)
-(____________, Field Prep, Frenzy_______, _____________)
-dimwishlist:item=3075224551&perks=1687452232,2869569095,1546637391,4104185692#notes:Good in PvE, boss DPS
+(Accelerated Coils, Field Prep, Vorpal Weapon, Frenzy_______) x
+(_________________, Field Prep, Vorpal Weapon, Frenzy_______) x
+(Accelerated Coils, __________, Vorpal Weapon, Frenzy_______) x
+(Accelerated Coils, Field Prep, Vorpal Weapon, _____________)
+(Accelerated Coils, Field Prep, Frenzy_______, _____________)
+(Accelerated Coils, __________, Vorpal Weapon, _____________)
+(Accelerated Coils, __________, Frenzy_______, _____________)
+(_________________, Field Prep, Vorpal Weapon, _____________)
+(_________________, Field Prep, Frenzy_______, _____________)
+dimwishlist:item=3075224551&perks=689005463,2869569095,1546637391,4104185692#notes:Good in PvE, boss DPS
 dimwishlist:item=3075224551&perks=2869569095,1546637391,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=1687452232,2869569095,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=1687452232,2869569095,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=3075224551&perks=689005463,1546637391,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=3075224551&perks=689005463,2869569095,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=3075224551&perks=689005463,2869569095,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=3075224551&perks=689005463,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=3075224551&perks=689005463,4104185692#notes:Good in PvE, boss DPS
 dimwishlist:item=3075224551&perks=2869569095,1546637391#notes:Good in PvE, boss DPS
 dimwishlist:item=3075224551&perks=2869569095,4104185692#notes:Good in PvE, boss DPS
-
-(Liquid Coils, Auto-Loading, Vorpal Weapon, Frenzy_______) x
-(____________, Auto-Loading, Vorpal Weapon, Frenzy_______) x
-(Liquid Coils, ____________, Vorpal Weapon, Frenzy_______) x
-(Liquid Coils, Auto-Loading, Vorpal Weapon, _____________)
-(Liquid Coils, Auto-Loading, Frenzy_______, _____________)
-(____________, Auto-Loading, Vorpal Weapon, _____________)
-(____________, Auto-Loading, Frenzy_______, _____________)
-(Liquid Coils, ____________, Vorpal Weapon, _____________)
-(Liquid Coils, ____________, Frenzy_______, _____________)
-dimwishlist:item=3075224551&perks=1687452232,3300816228,1546637391,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=3300816228,1546637391,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=1687452232,1546637391,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=1687452232,3300816228,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=1687452232,3300816228,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=3300816228,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=3300816228,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=1687452232,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=1687452232,4104185692#notes:Good in PvE, boss DPS
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -338,28 +320,28 @@ dimwishlist:item=2582755344&perks=2869569095,1771339417#notes:Good in PvE, boss 
 (_______________, Extended Mag, Auto-Loading, Vorpal Weapon)
 (Arrowhead Brake, ____________, Auto-Loading, Vorpal Weapon)
 (_______________, ____________, Auto-Loading, Vorpal Weapon)
-dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1546637391#notes:boss DPS
-dimwishlist:item=2582755344&perks=2420895100,3300816228,1546637391#notes:boss DPS
-dimwishlist:item=2582755344&perks=839105230,3300816228,1546637391#notes:boss DPS
-dimwishlist:item=2582755344&perks=3300816228,1546637391#notes:boss DPS
+dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=2582755344&perks=2420895100,3300816228,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=2582755344&perks=839105230,3300816228,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=2582755344&perks=3300816228,1546637391#notes:Good in PvE, boss DPS
 
 (Arrowhead Brake, Extended Mag, Clown Cartridge, Vorpal Weapon)
 (_______________, Extended Mag, Clown Cartridge, Vorpal Weapon)
 (Arrowhead Brake, ____________, Clown Cartridge, Vorpal Weapon)
 (_______________, ____________, Clown Cartridge, Vorpal Weapon)
-dimwishlist:item=2582755344&perks=839105230,2420895100,2284787283,1546637391#notes:boss DPS
-dimwishlist:item=2582755344&perks=2420895100,2284787283,1546637391#notes:boss DPS
-dimwishlist:item=2582755344&perks=839105230,2284787283,1546637391#notes:boss DPS
-dimwishlist:item=2582755344&perks=2284787283,1546637391#notes:boss DPS
+dimwishlist:item=2582755344&perks=839105230,2420895100,2284787283,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=2582755344&perks=2420895100,2284787283,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=2582755344&perks=839105230,2284787283,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=2582755344&perks=2284787283,1546637391#notes:Good in PvE, boss DPS
 
 (Arrowhead Brake, Extended Mag, Field Prep, Vorpal Weapon)
 (_______________, Extended Mag, Field Prep, Vorpal Weapon)
 (Arrowhead Brake, ____________, Field Prep, Vorpal Weapon)
 (_______________, ____________, Field Prep, Vorpal Weapon)
-dimwishlist:item=2582755344&perks=839105230,2420895100,2869569095,1546637391#notes:boss DPS
-dimwishlist:item=2582755344&perks=2420895100,2869569095,1546637391#notes:boss DPS
-dimwishlist:item=2582755344&perks=839105230,2869569095,1546637391#notes:boss DPS
-dimwishlist:item=2582755344&perks=2869569095,1546637391#notes:boss DPS
+dimwishlist:item=2582755344&perks=839105230,2420895100,2869569095,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=2582755344&perks=2420895100,2869569095,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=2582755344&perks=839105230,2869569095,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=2582755344&perks=2869569095,1546637391#notes:Good in PvE, boss DPS
 
 
 
