@@ -12,6 +12,24 @@ dimwishlist:item=528834068&perks=1359896290,3108830275#notes:Good in PvP
 
 
 
+CHROMA RUSH:
+(Feeding Frenzy, Rampage)
+(Subsistence___, Rampage)
+dimwishlist:item=1119734784&perks=2779035018,3425386926#notes:Good in PvE
+dimwishlist:item=1119734784&perks=1820235745,3425386926#notes:Good in PvE
+
+(Feeding Frenzy, Thresh)
+(Subsistence___, Thresh)
+dimwishlist:item=1119734784&perks=2779035018,2726471870#notes:Good in PvE
+dimwishlist:item=1119734784&perks=1820235745,2726471870#notes:Good in PvE
+
+(Feeding Frenzy, Wellspring)
+(Subsistence___, Wellspring)
+dimwishlist:item=1119734784&perks=2779035018,3592538738#notes:Good in PvE
+dimwishlist:item=1119734784&perks=1820235745,3592538738#notes:Good in PvE
+
+
+
 FALSE PROMISES:
 (Chambered Compensator, Ricochet Rounds, Killing Wind, Unrelenting)
 (_____________________, Ricochet Rounds, Killing Wind, Unrelenting)
@@ -166,6 +184,48 @@ dimwishlist:item=211938782&perks=2801223209,4082225868#notes:Good in PvE & PvP, 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 GRENADE LAUNCHERS:
+
+IGNITION CODE:
+(Hard Launch, Blinding Grenades, Lead from Gold, Vorpal Weapon)
+(___________, Blinding Grenades, Lead from Gold, Vorpal Weapon)
+(___________, Blinding Grenades, Lead from Gold, _____________)
+dimwishlist:item=304659313&perks=981914802,3032599245,1556840489,1546637391#notes:Good in GM's
+dimwishlist:item=304659313&perks=3032599245,1556840489,1546637391#notes:Good in GM's
+dimwishlist:item=304659313&perks=3032599245,1556840489#notes:Good in GM's
+
+(Hard Launch, Blinding Grenades, Spike Grenades, Slideshot, Vorpal Weapon)x
+(___________, Blinding Grenades, Spike Grenades, Slideshot, Vorpal Weapon)x
+(___________, Blinding Grenades, Spike Grenades, Slideshot, _____________)x
+(___________, Blinding Grenades, Spike Grenades, _________, Vorpal Weapon)x
+(Hard Launch, Blinding Grenades, ______________, Slideshot, Vorpal Weapon)
+(___________, Blinding Grenades, ______________, Slideshot, Vorpal Weapon)
+(___________, Blinding Grenades, ______________, Slideshot, _____________)
+(___________, Blinding Grenades, ______________, _________, Vorpal Weapon)
+(Hard Launch, Spike Grenades___, ______________, Slideshot, Vorpal Weapon)
+(___________, Spike Grenades___, ______________, Slideshot, Vorpal Weapon)
+(___________, Spike Grenades___, ______________, Slideshot, _____________)
+(___________, Spike Grenades___, ______________, _________, Vorpal Weapon)
+dimwishlist:item=304659313&perks=981914802,3032599245,3301904089,3161816588,1546637391#notes:Good in PvE/GM's
+dimwishlist:item=304659313&perks=3032599245,3301904089,3161816588,1546637391#notes:Good in PvE/GM's
+dimwishlist:item=304659313&perks=3032599245,3301904089,3161816588#notes:Good in PvE/GM's
+dimwishlist:item=304659313&perks=3032599245,3301904089,1546637391#notes:Good in PvE/GM's
+dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,1546637391#notes:Good in GM's
+dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391#notes:Good in GM's
+dimwishlist:item=304659313&perks=3032599245,3161816588#notes:Good in GM's
+dimwishlist:item=304659313&perks=3032599245,1546637391#notes:Good in GM's
+dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391#notes:Good in PvE
+dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391#notes:Good in PvE
+dimwishlist:item=304659313&perks=3301904089,3161816588#notes:Good in PvE
+dimwishlist:item=304659313&perks=3301904089,1546637391#notes:Good in PvE
+
+(Hard Launch, Spike Grenades, Field Prep, Vorpal Weapon)
+(___________, Spike Grenades, Field Prep, Vorpal Weapon)
+(___________, Spike Grenades, Field Prep, _____________)
+dimwishlist:item=304659313&perks=981914802,3301904089,2869569095,1546637391#notes:Good in PvE
+dimwishlist:item=304659313&perks=3301904089,2869569095,1546637391#notes:Good in PvE
+dimwishlist:item=304659313&perks=3301904089,2869569095#notes:Good in PvE
+
+
 
 THE MOUNTAINTOP:
 (Hard Launch, Spike Grenades, Rangefinder, Micro-Missile)
@@ -407,6 +467,30 @@ dimwishlist:item=2742838701&perks=1926090091,47981717,2846385770#notes:Good in P
 dimwishlist:item=2742838701&perks=1926090095,47981717,2846385770#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1926090094,47981717,2846385770#notes:Good in PvP
 dimwishlist:item=2742838701&perks=47981717,2846385770#notes:Good in PvP
+
+
+
+FATEBRINGER:
+(Rewind Rounds___, Firefly)
+(Thresh__________, Firefly)
+(Explosive Rounds, Firefly)
+dimwishlist:item=2171478765&perks=3418782618,3824105627#notes:Good in PvE
+dimwishlist:item=2171478765&perks=2726471870,3824105627#notes:Good in PvE
+dimwishlist:item=2171478765&perks=3038247973,3824105627#notes:Good in PvE
+
+(Test rolls for PvP)
+
+
+
+FATEBRINGER (TIMELOST):
+(Rewind Rounds___, Firefly)
+(Thresh__________, Firefly)
+(Explosive Rounds, Firefly)
+dimwishlist:item=1216319404&perks=3418782618,3824105627#notes:Good in PvE
+dimwishlist:item=1216319404&perks=2726471870,3824105627#notes:Good in PvE
+dimwishlist:item=1216319404&perks=3038247973,3824105627#notes:Good in PvE
+
+(Test rolls for PvP)
 
 
 
@@ -654,8 +738,52 @@ dimwishlist:item=2220884262&perks=1926090095,1168162263,4082225868#notes:Good in
 dimwishlist:item=2220884262&perks=1926090094,1168162263,4082225868#notes:Good in PvP
 dimwishlist:item=2220884262&perks=1168162263,4082225868#notes:Good in PvP
 
+
+
+SURVIVOR'S EPITAPH:
+dimwishlist:item=-310708513#notes:Trash
+
+
+
 TRUE PROPHECY:
-Not obtainable.
+(Accurized Rounds, Rangefinder, Timed Payload___)
+(Accurized Rounds, Rangefinder, Explosive Rounds)
+(Accurized Rounds, Rangefinder, Rampage_________)
+(________________, Rangefinder, Timed Payload___)
+(________________, Rangefinder, Explosive Rounds)
+(________________, Rangefinder, Rampage_________)
+dimwishlist:item=2742838700&perks=3142289711,2846385770,1954620775,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=3142289711,2846385770,3038247973,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=3142289711,2846385770,3425386926,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=2846385770,1954620775,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=2846385770,3038247973,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=2846385770,3425386926,2697220197#notes:Good in PvP
+
+(Accurized Rounds, Opening Shot, Timed Payload___)
+(Accurized Rounds, Opening Shot, Explosive Rounds)
+(Accurized Rounds, Opening Shot, Rampage_________)
+(________________, Opening Shot, Timed Payload___)
+(________________, Opening Shot, Explosive Rounds)
+(________________, Opening Shot, Rampage_________)
+dimwishlist:item=2742838700&perks=3142289711,47981717,1954620775,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=3142289711,47981717,3038247973,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=3142289711,47981717,3425386926,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=47981717,1954620775,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=47981717,3038247973,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=47981717,3425386926,2697220197#notes:Good in PvP
+
+(Accurized Rounds, Overflow, Timed Payload___)
+(Accurized Rounds, Overflow, Explosive Rounds)
+(Accurized Rounds, Overflow, Rampage_________)
+(________________, Overflow, Timed Payload___)
+(________________, Overflow, Explosive Rounds)
+(________________, Overflow, Rampage_________)
+dimwishlist:item=2742838700&perks=3142289711,3643424744,1954620775,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=3142289711,3643424744,3038247973,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=3142289711,3643424744,3425386926,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=3643424744,1954620775,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=3643424744,3038247973,2697220197#notes:Good in PvP
+dimwishlist:item=2742838700&perks=3643424744,3425386926,2697220197#notes:Good in PvP
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -868,6 +996,41 @@ dimwishlist:item=3593598010&perks=1645158859,3425386926#notes:Good in PvP
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SCOUT RIFLES:
 
+HUNG JURY SR4:
+(Rapid Hit, Explosive Rounds)
+dimwishlist:item=4281371574&perks=247725512,3038247973#notes:Good in GM's
+
+(Subsistence, Wellspring)
+(Rapid Hit__, Wellspring)
+(Heating Up_, Wellspring)
+dimwishlist:item=4281371574&perks=1820235745,3592538738#notes:Good in PvE
+dimwishlist:item=4281371574&perks=247725512,3592538738#notes:Good in PvE
+dimwishlist:item=4281371574&perks=1570042021,3592538738#notes:Good in PvE
+
+(Subsistence, Firefly)
+(Heating Up_, Firefly)
+dimwishlist:item=4281371574&perks=1820235745,3824105627#notes:Good in PvE
+dimwishlist:item=4281371574&perks=1570042021,3824105627#notes:Good in PvE
+
+
+
+HUNG JURY SR4 (ADEPT):
+(Rapid Hit, Explosive Rounds)
+dimwishlist:item=681067419&perks=247725512,3038247973#notes:Good in GM's
+
+(Subsistence, Wellspring)
+(Rapid Hit__, Wellspring)
+(Heating Up_, Wellspring)
+dimwishlist:item=681067419&perks=1820235745,3592538738#notes:Good in PvE
+dimwishlist:item=681067419&perks=247725512,3592538738#notes:Good in PvE
+dimwishlist:item=681067419&perks=1570042021,3592538738#notes:Good in PvE
+
+(Subsistence, Firefly)
+(Heating Up_, Firefly)
+dimwishlist:item=681067419&perks=1820235745,3824105627#notes:Good in PvE
+dimwishlist:item=681067419&perks=1570042021,3824105627#notes:Good in PvE
+
+
 NIGHT WATCH:
 (Arrowhead Brake, Flared Magwell, Rapid Hit, Explosive Rounds)
 (_______________, Flared Magwell, Rapid Hit, Explosive Rounds)
@@ -1018,6 +1181,22 @@ dimwishlist:item=4248569242&perks=3300816228,469285294#notes:Good in PvE
 
 
 
+RIISWALKER:
+(Rifled Barrel, Accurized Rounds, Quickdraw, Iron Reach)
+(_____________, Accurized Rounds, Quickdraw, Iron Reach)
+(_____________, ________________, Quickdraw, Iron Reach)
+dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007#notes:Good in PvP
+dimwishlist:item=108221785&perks=3142289711,706527188,591790007#notes:Good in PvP
+dimwishlist:item=108221785&perks=706527188,591790007#notes:Good in PvP
+
+(Rifled Barrel, Accurized Rounds, Quickdraw, Vorpal Weapon)
+(_____________, Accurized Rounds, Quickdraw, Vorpal Weapon)
+(_____________, ________________, Quickdraw, Vorpal Weapon)
+dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,1546637391#notes:Good in PvP
+dimwishlist:item=108221785&perks=3142289711,706527188,1546637391#notes:Good in PvP
+dimwishlist:item=108221785&perks=706527188,1546637391#notes:Good in PvP
+
+
 TOIL AND TROUBLE:
 dimwishlist:item=-2957367743#notes:Trash
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1027,6 +1206,14 @@ SIDEARMS:
 
 ENIGMA'S DRAW:
 dimwishlist:item=-1723380073#notes:Trash
+
+
+
+FAREWELL:
+(Full-Auto, Multikill Clip)
+(Full-Auto, Thresh________)
+dimwishlist:item=541188001&perks=4267945040,2458213969#notes:Good in PvE
+dimwishlist:item=541188001&perks=4267945040,2726471870#notes:Good in PvE
 
 
 
@@ -1145,6 +1332,28 @@ dimwishlist:item=3745990145&perks=1087426260,3400784728#notes:Good in PvE, boss 
 (Extended Mag, _________, Triple Tap)
 dimwishlist:item=3745990145&perks=2420895100,247725512,3400784728#notes:Good in PvE, Extended Mag works, but Appended Mag is better
 dimwishlist:item=3745990145&perks=2420895100,3400784728#notes:Good in PvE, Extended Mag works, but Appended Mag is better
+
+
+
+PRAEDYTH'S REVENGE:
+(Rewind Rounds, High-Impact Reserves)
+dimwishlist:item=3653573172&perks=3418782618,2213355989#notes:Good in PvP
+
+(Quickdraw______, Opening Shot)
+(No Distractions, Opening Shot)
+dimwishlist:item=3653573172&perks=706527188,47981717#notes:Good in PvE
+dimwishlist:item=3653573172&perks=2866798147,47981717#notes:Good in PvE
+
+
+
+PRAEDYTH'S REVENGE (TIMELOST):
+(Rewind Rounds, High-Impact Reserves)
+dimwishlist:item=1987769101&perks=3418782618,2213355989#notes:Good in PvP
+
+(Quickdraw______, Opening Shot)
+(No Distractions, Opening Shot)
+dimwishlist:item=1987769101&perks=706527188,47981717#notes:Good in PvE
+dimwishlist:item=1987769101&perks=2866798147,47981717#notes:Good in PvE
 
 
 
