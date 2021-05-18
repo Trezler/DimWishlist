@@ -226,10 +226,10 @@ dimwishlist:item=304659313&perks=3161816588,1546637391#notes:Good in PvE
 (___________, Spike Grenades, Field Prep, Vorpal Weapon)
 (___________, Spike Grenades, Field Prep, _____________)
 (___________, ______________, Field Prep, Vorpal Weapon)
-dimwishlist:item=304659313&perks=981914802,3301904089,2869569095,1546637391#notes:Good in PvE
-dimwishlist:item=304659313&perks=3301904089,2869569095,1546637391#notes:Good in PvE
-dimwishlist:item=304659313&perks=3301904089,2869569095#notes:Good in PvE
-dimwishlist:item=304659313&perks=2869569095,1546637391#notes:Good in PvE
+dimwishlist:item=304659313&perks=981914802,3301904089,2869569095,1546637391#notes:Good in PvE, Boss DPS
+dimwishlist:item=304659313&perks=3301904089,2869569095,1546637391#notes:Good in PvE, Boss DPS
+dimwishlist:item=304659313&perks=3301904089,2869569095#notes:Good in PvE, Boss DPS
+dimwishlist:item=304659313&perks=2869569095,1546637391#notes:Good in PvE, Boss DPS
 
 
 
@@ -1343,23 +1343,31 @@ dimwishlist:item=3745990145&perks=2420895100,3400784728#notes:Good in PvE, Exten
 
 PRAEDYTH'S REVENGE:
 (Rewind Rounds, High-Impact Reserves)
-dimwishlist:item=3653573172&perks=3418782618,2213355989#notes:Good in PvP
+dimwishlist:item=3653573172&perks=3418782618,2213355989#notes:Good in PvE, Boss DPS
 
-(Quickdraw______, Opening Shot)
-(No Distractions, Opening Shot)
-dimwishlist:item=3653573172&perks=706527188,47981717#notes:Good in PvE
-dimwishlist:item=3653573172&perks=2866798147,47981717#notes:Good in PvE
+(Accurized Rounds, Quickdraw______, Opening Shot)
+(Accurized Rounds, No Distractions, Opening Shot)
+(________________, Quickdraw______, Opening Shot)
+(________________, No Distractions, Opening Shot)
+dimwishlist:item=3653573172&perks=3142289711,706527188,47981717#notes:Good in PvP
+dimwishlist:item=3653573172&perks=3142289711,2866798147,47981717#notes:Good in PvP
+dimwishlist:item=3653573172&perks=706527188,47981717#notes:Good in PvP
+dimwishlist:item=3653573172&perks=2866798147,47981717#notes:Good in PvP
 
 
 
 PRAEDYTH'S REVENGE (TIMELOST):
 (Rewind Rounds, High-Impact Reserves)
-dimwishlist:item=1987769101&perks=3418782618,2213355989#notes:Good in PvP
+dimwishlist:item=1987769101&perks=3418782618,2213355989#notes:Good in PvE, Boss DPS
 
-(Quickdraw______, Opening Shot)
-(No Distractions, Opening Shot)
-dimwishlist:item=1987769101&perks=706527188,47981717#notes:Good in PvE
-dimwishlist:item=1987769101&perks=2866798147,47981717#notes:Good in PvE
+(Accurized Rounds, Quickdraw______, Opening Shot)
+(Accurized Rounds, No Distractions, Opening Shot)
+(________________, Quickdraw______, Opening Shot)
+(________________, No Distractions, Opening Shot)
+dimwishlist:item=1987769101&perks=3142289711,706527188,47981717#notes:Good in PvP
+dimwishlist:item=1987769101&perks=3142289711,2866798147,47981717#notes:Good in PvP
+dimwishlist:item=1987769101&perks=706527188,47981717#notes:Good in PvP
+dimwishlist:item=1987769101&perks=2866798147,47981717#notes:Good in PvP
 
 
 
