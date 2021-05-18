@@ -206,6 +206,10 @@ dimwishlist:item=2147010335&perks=2450788523,3108830275#notes:Good in PvP
 dimwishlist:item=2147010335&perks=3436462433,3108830275#notes:Good in PvP
 
 
+THE NUMBER:
+dimwishlist:item=-2492081469#NOTES:Trash
+
+
 
 THE SUMMONER:
 (Overflow, Dragonfly)
@@ -577,6 +581,50 @@ dimwishlist:item=-253196586#notes:Trash
 
 
 
+NULL COMPOSURE:
+(Fluted Barrel, Projection Fuse, Feeding Frenzy, Reservoir Burst)
+dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713#notes:Good in PvE
+
+
+
+PLUG ONE.1:
+(Liquid Coils, Feeding Frenzy, Reservoir Burst)
+(Liquid Coils, Feeding Frenzy, Tresh__________)
+(____________, Feeding Frenzy, Reservoir Burst)
+(____________, Feeding Frenzy, Tresh__________)
+dimwishlist:item=1289000550&perks=1687452232,2779035018,1427256713#notes:Good in PvE#notes:Good in PvE
+dimwishlist:item=1289000550&perks=1687452232,2779035018,2726471870#notes:Good in PvE#notes:Good in PvE	
+dimwishlist:item=1289000550&perks=2779035018,1427256713#notes:Good in PvE
+dimwishlist:item=1289000550&perks=2779035018,2726471870#notes:Good in PvE
+
+(Heating Up____, Kickstart__)
+(Under Pressure, Kickstart__)
+(Quickdraw_____, Backup Plan)
+dimwishlist:item=1289000550&perks=1570042021,1754714824
+dimwishlist:item=1289000550&perks=1645158859,1754714824
+dimwishlist:item=1289000550&perks=706527188,1600092898
+
+
+
+PLUG ONE.1 (ADEPT):
+(Liquid Coils, Feeding Frenzy, Reservoir Burst)
+(Liquid Coils, Feeding Frenzy, Tresh__________)
+(____________, Feeding Frenzy, Reservoir Burst)
+(____________, Feeding Frenzy, Tresh__________)
+dimwishlist:item=534775659&perks=1687452232,2779035018,1427256713#notes:Good in PvE
+dimwishlist:item=534775659&perks=1687452232,2779035018,2726471870#notes:Good in PvE
+dimwishlist:item=534775659&perks=2779035018,1427256713#notes:Good in PvE
+dimwishlist:item=534775659&perks=2779035018,2726471870#notes:Good in PvE
+
+(Heating Up____, Kickstart__)
+(Under Pressure, Kickstart__)
+(Quickdraw_____, Backup Plan)
+dimwishlist:item=534775659&perks=1570042021,1754714824
+dimwishlist:item=534775659&perks=1645158859,1754714824
+dimwishlist:item=534775659&perks=706527188,1600092898
+
+
+
 TECHEUN FORCE:
 dimwishlist:item=-4094657108#notes:Trash
 
@@ -747,6 +795,26 @@ dimwishlist:item=981718087&perks=2822142346,2010801679,3592538738#notes:Good in 
 (___________, High Velocity Rounds, Ambitious Assassin, Rampage)
 dimwishlist:item=981718087&perks=981914802,2822142346,2010801679,3425386926#notes:Test how Rampage works
 dimwishlist:item=981718087&perks=2822142346,2010801679,3425386926#notes:Test how Rampage works
+
+
+
+EMPTY VESSEL:
+(Blinding Grenades, Auto-Loading, Disruption Break)
+(Blinding Grenades, ____________, Disruption Break)
+dimwishlist:item=4255586669&perks=3032599245,3300816228,1683379515#notes:Good in GM's
+dimwishlist:item=4255586669&perks=3032599245,1683379515#notes:Good in GM's
+
+(Blinding Grenades, Auto-Loading, Vorpal Weapon)
+(Blinding Grenades, ____________, Vorpal Weapon)
+(Blinding Grenades, Auto-Loading, _____________)
+dimwishlist:item=4255586669&perks=3032599245,3300816228,1546637391#notes:Good in GM's
+dimwishlist:item=4255586669&perks=3032599245,1546637391#notes:Good in GM's
+dimwishlist:item=4255586669&perks=3032599245,3300816228#notes:Good in GM's
+
+(Spike Grenades, Field-Prep, Vorpal Weapon)
+(Spike Grenades, __________, Vorpal Weapon)
+dimwishlist:item=4255586669&perks=3301904089,2869569095,1546637391#notes:Good in PvE, Boss DPS
+dimwishlist:item=4255586669&perks=3301904089,1546637391#notes:Good in PvE, Boss DPS
 
 
 
@@ -926,6 +994,11 @@ dimwishlist:item=1046651176&perks=1168162263,3425386926#notes:Good in PvP
 dimwishlist:item=1046651176&perks=1168162263,699525795#notes:Good in PvP
 dimwishlist:item=1046651176&perks=1168162263,3038247973#notes:Good in PvP
 dimwishlist:item=1046651176&perks=1168162263,47981717#notes:Good in PvP
+
+
+
+FINITE IMPACTOR:
+dimwishlist:item=-3813153080#notes:Trash
 
 
 
@@ -1244,6 +1317,16 @@ dimwishlist:item=334171687&perks=3436462433,1015611457#notes:Good in PvP
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 PULSE RIFLES:
 
+GRIDSKIPPER:
+(Heating Up, Thresh______________)
+(Heating Up, High-Impact Reserves)
+(Heating Up, Multikill Clip______)
+dimwishlist:item=1621558458&perks=1570042021,2726471870#notes:Good in PvE
+dimwishlist:item=1621558458&perks=1570042021,2213355989#notes:Good in GM's
+dimwishlist:item=1621558458&perks=1570042021,2458213969#notes:Good in PvE
+
+
+
 JIAN 7:
 (Armor-Piercing Round, Disruption Break, Dragonfly)
 (____________________, Disruption Break, Dragonfly)
@@ -1422,6 +1505,19 @@ dimwishlist:item=3514096004&perks=247725512,1015611457#notes:Good in PvP
 
 
 
+PLEIADES CORRECTOR:
+(Fourth Time's the Charm, Demolitionist)
+(Fourth Time's the Charm, Wellspring___)
+dimwishlist:item=3556999246&perks=1354429876,3523296417#notes:Good in PvE/GM's
+dimwishlist:item=3556999246&perks=1354429876,3592538738#notes:Good in PvE/GM's
+
+(Genesis, Demolitionist)
+(Genesis, Wellspring___)
+dimwishlist:item=3556999246&perks=3096702027,3523296417#notes:Good in GM's
+dimwishlist:item=3556999246&perks=3096702027,3592538738#notes:Good in GM's
+
+
+
 ROYAL CHASE:
 (Full Auto, Thresh___)
 (Full Auto, Dragonfly)
@@ -1445,6 +1541,44 @@ dimwishlist:item=1392919471&perks=1168162263,3592538738#notes:Good in PvE
 (Under Pressure, Wellspring__________)
 dimwishlist:item=1392919471&perks=1645158859,2213355989
 dimwishlist:item=1392919471&perks=1645158859,3592538738
+
+
+
+VISION OF CONFLUENCE:
+(Wellspring, Firefly_________)
+(Wellspring, Disruption Break)
+(Wellspring, Thresh__________)
+dimwishlist:item=3186018373&perks=3592538738,3824105627#notes:Good in PvE
+dimwishlist:item=3186018373&perks=3592538738,1683379515#notes:Good in GM's
+dimwishlist:item=3186018373&perks=3592538738,2726471870#notes:Good in PvE
+
+(Rewind Rounds, Firefly_________)
+(Rewind Rounds, Disruption Break)
+(Rewind Rounds, Thresh__________)
+(Rewind Rounds, Full Auto_______)
+dimwishlist:item=3186018373&perks=3418782618,3824105627#notes:Good in PvE
+dimwishlist:item=3186018373&perks=3418782618,1683379515#notes:Good in GM's
+dimwishlist:item=3186018373&perks=3418782618,2726471870#notes:Good in PvE
+dimwishlist:item=3186018373&perks=3418782618,4267945040#notes:Test this
+
+
+
+VISION OF CONFLUENCE (TIMELOST):
+(Wellspring, Firefly_________)
+(Wellspring, Disruption Break)
+(Wellspring, Thresh__________)
+dimwishlist:item=690668916&perks=3592538738,3824105627#notes:Good in PvE
+dimwishlist:item=690668916&perks=3592538738,1683379515#notes:Good in GM's
+dimwishlist:item=690668916&perks=3592538738,2726471870#notes:Good in PvE
+
+(Rewind Rounds, Firefly_________)
+(Rewind Rounds, Disruption Break)
+(Rewind Rounds, Thresh__________)
+(Rewind Rounds, Full Auto_______)
+dimwishlist:item=690668916&perks=3418782618,3824105627#notes:Good in PvE
+dimwishlist:item=690668916&perks=3418782618,1683379515#notes:Good in GM's
+dimwishlist:item=690668916&perks=3418782618,2726471870#notes:Good in PvE
+dimwishlist:item=690668916&perks=3418782618,4267945040#notes:Test this
 
 
 
@@ -1498,6 +1632,31 @@ dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,1546637391#note
 dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391#notes:Good in PvE
 dimwishlist:item=3616586446&perks=202670084,3300816228,1546637391#notes:Good in PvE
 dimwishlist:item=3616586446&perks=3300816228,1546637391#notes:Good in PvE
+
+
+
+FOUND VERDICT:
+(Assault Mag, Rewind Rounds, One-Two Punch)
+(___________, Rewind Rounds, One-Two Punch)
+dimwishlist:item=3197270240&perks=791862061,3418782618,2679249093#notes:Good in PvE
+dimwishlist:item=3197270240&perks=3418782618,2679249093#notes:Good in PvE
+
+(Assault Mag, Auto-Loading, One-Two Punch)
+(___________, Auto-Loading, One-Two Punch)
+dimwishlist:item=3197270240&perks=791862061,3300816228,2679249093#notes:Good in PvE
+dimwishlist:item=3197270240&perks=3300816228,2679249093#notes:Good in PvE
+
+
+FOUND VERDICT (TIMELOST):
+(Assault Mag, Rewind Rounds, One-Two Punch)
+(___________, Rewind Rounds, One-Two Punch)
+dimwishlist:item=631439337&perks=791862061,3418782618,2679249093#notes:Good in PvE
+dimwishlist:item=631439337&perks=3418782618,2679249093#notes:Good in PvE
+
+(Assault Mag, Auto-Loading, One-Two Punch)
+(___________, Auto-Loading, One-Two Punch)
+dimwishlist:item=631439337&perks=791862061,3300816228,2679249093#notes:Good in PvE
+dimwishlist:item=631439337&perks=3300816228,2679249093#notes:Good in PvE
 
 
 
@@ -1559,6 +1718,22 @@ dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,1546637391#not
 dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,1546637391#notes:Good in PvP, go for Range MW
 dimwishlist:item=1821724780&perks=3142289711,706527188,1546637391#notes:Good in PvP, go for Range MW
 dimwishlist:item=1821724780&perks=706527188,1546637391#notes:Good in PvP, go for Range MW
+
+
+
+SOJOURNER'S TALE:
+(Auto-Loading, Dragonfly)
+dimwishlist:item=599895591&perks=3300816228,2848615171#notes:Good in PvE
+
+(Assault Mag, Auto-Loading, Frenzy)
+(___________, Auto-Loading, Frenzy)
+dimwishlist:item=599895591&perks=791862061,3300816228,4104185692#notes:Good in PvE, Boss DPS
+dimwishlist:item=599895591&perks=3300816228,4104185692#notes:Good in PvE, Boss DPS
+
+
+
+THE DEICIDE:
+dimwishlist:item=-217140611#notes:Trash
 
 
 
@@ -1783,6 +1958,15 @@ dimwishlist:item=2009277538&perks=4267945040,2848615171#notes:Good in PvE
 (_______________, Outlaw, Dragonfly)
 dimwishlist:item=2009277538&perks=1885400500,1168162263,2848615171#notes:Good in PvE
 dimwishlist:item=2009277538&perks=1168162263,2848615171#notes:Good in PvE
+
+
+
+THE VISION:
+(Ambitious Assassin, Swashbuckler)
+dimwishlist:item=2414141462&perks=2010801679,4082225868
+
+(Full-Auto, Swashbuckler)
+dimwishlist:item=2414141462&perks=4267945040,4082225868
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1972,6 +2156,48 @@ dimwishlist:item=1253087083&perks=2420895100,3400784728#notes:Good in PvE, Boss 
 
 
 
+OCCLUDED FINALITY:
+(Ricochet Rounds, No Distractions, Iron Reach___)
+(Ricochet Rounds, No Distractions, Vorpal Weapon)
+(Ricochet Rounds, No Distractions, Opening Shot_)
+(_______________, No Distractions, Iron Reach___)
+(_______________, No Distractions, Vorpal Weapon)
+(_______________, No Distractions, Opening Shot_)
+dimwishlist:item=852551895&perks=1885400500,2866798147,591790007#notes:Good in PvP
+dimwishlist:item=852551895&perks=1885400500,2866798147,1546637391#notes:Good in PvP
+dimwishlist:item=852551895&perks=1885400500,2866798147,47981717#notes:Good in PvP
+dimwishlist:item=852551895&perks=2866798147,591790007#notes:Good in PvP
+dimwishlist:item=852551895&perks=2866798147,1546637391#notes:Good in PvP
+dimwishlist:item=852551895&perks=2866798147,47981717#notes:Good in PvP
+
+(Ricochet Rounds, Mulligan, Iron Reach___)
+(Ricochet Rounds, Mulligan, Vorpal Weapon)
+(Ricochet Rounds, Mulligan, Opening Shot_)
+(_______________, Mulligan, Iron Reach___)
+(_______________, Mulligan, Vorpal Weapon)
+(_______________, Mulligan, Opening Shot_)
+dimwishlist:item=852551895&perks=1885400500,3513791699,591790007#notes:Good in PvP
+dimwishlist:item=852551895&perks=1885400500,3513791699,1546637391#notes:Good in PvP
+dimwishlist:item=852551895&perks=1885400500,3513791699,47981717#notes:Good in PvP
+dimwishlist:item=852551895&perks=3513791699,591790007#notes:Good in PvP
+dimwishlist:item=852551895&perks=3513791699,1546637391#notes:Good in PvP
+dimwishlist:item=852551895&perks=3513791699,47981717#notes:Good in PvP
+
+(Ricochet Rounds, Snapshot, Iron Reach___)
+(Ricochet Rounds, Snapshot, Vorpal Weapon)
+(Ricochet Rounds, Snapshot, Opening Shot_)
+(_______________, Snapshot, Iron Reach___)
+(_______________, Snapshot, Vorpal Weapon)
+(_______________, Snapshot, Opening Shot_)
+dimwishlist:item=852551895&perks=1885400500,957782887,591790007#notes:Good in PvP
+dimwishlist:item=852551895&perks=1885400500,957782887,1546637391#notes:Good in PvP
+dimwishlist:item=852551895&perks=1885400500,957782887,47981717#notes:Good in PvP
+dimwishlist:item=852551895&perks=957782887,591790007#notes:Good in PvP
+dimwishlist:item=852551895&perks=957782887,1546637391#notes:Good in PvP
+dimwishlist:item=852551895&perks=957782887,47981717#notes:Good in PvP
+
+
+
 OMNICIENT EYE:
 (Accurized Rounds, No Distractions, Snapshot Sights)
 (________________, No Distractions, Snapshot Sights)
@@ -1985,12 +2211,70 @@ dimwishlist:item=3454326177&perks=3513791699,957782887#notes:Good in PvP
 
 
 
+UZUME RR4:
+(Triple Tap, Vorpal Weapon_______)
+(Triple Tap, High-Impact Reserves)
+dimwishlist:item=2065081837&perks=3400784728,1546637391#notes:Good in PvE, test mags
+dimwishlist:item=2065081837&perks=3400784728,2213355989#notes:Good in PvE, test mags
+
+(Clown Cartridge, Vorpal Weapon_______)
+(Clown Cartridge, High-Impact Reserves)
+dimwishlist:item=2065081837&perks=2284787283,1546637391#notes:Good in PvE, test mags
+dimwishlist:item=2065081837&perks=2284787283,2213355989#notes:Good in PvE, test mags
+
+
+
+UZUME RR4 (ADEPT):
+(Triple Tap, Vorpal Weapon_______)
+(Triple Tap, High-Impact Reserves)
+dimwishlist:item=852228780&perks=3400784728,1546637391#notes:Good in PvE, test mags
+dimwishlist:item=852228780&perks=3400784728,2213355989#notes:Good in PvE, test mags
+
+(Clown Cartridge, Vorpal Weapon_______)
+(Clown Cartridge, High-Impact Reserves)
+dimwishlist:item=852228780&perks=2284787283,1546637391#notes:Good in PvE, test mags
+dimwishlist:item=852228780&perks=2284787283,2213355989#notes:Good in PvE, test mags
+
+
 WIDOW'S BITE:
 dimwishlist:item=-1271343896#notes:Trash
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 SUBMACHINE GUNS:
+
+BORROWED TIME:
+(Overflow, Dragonfly____)
+(Overflow, Thresh_______)
+(Overflow, Frenzy_______)
+(Overflow, Wellspring___)
+(Overflow, Demolitionist)
+(Overflow, Swashbuckler_)
+(Overflow, Rampage______)
+dimwishlist:item=875848769&perks=3643424744,2848615171#notes:Good in PvE
+dimwishlist:item=875848769&perks=3643424744,2726471870#notes:Good in PvE
+dimwishlist:item=875848769&perks=3643424744,4104185692#notes:Good in PvE
+dimwishlist:item=875848769&perks=3643424744,3592538738#notes:Good in PvE
+dimwishlist:item=875848769&perks=3643424744,3523296417#notes:Good in PvE
+dimwishlist:item=875848769&perks=3643424744,4082225868#notes:Good in PvE
+dimwishlist:item=875848769&perks=3643424744,3425386926#notes:Good in PvE
+
+(Feeding Frenzy, Dragonfly____)
+(Feeding Frenzy, Thresh_______)
+(Feeding Frenzy, Frenzy_______)
+(Feeding Frenzy, Wellspring___)
+(Feeding Frenzy, Demolitionist)
+(Feeding Frenzy, Swashbuckler_)
+(Feeding Frenzy, Rampage______)
+dimwishlist:item=875848769&perks=2779035018,2848615171#notes:Good in PvE
+dimwishlist:item=875848769&perks=2779035018,2726471870#notes:Good in PvE
+dimwishlist:item=875848769&perks=2779035018,4104185692#notes:Good in PvE
+dimwishlist:item=875848769&perks=2779035018,3592538738#notes:Good in PvE
+dimwishlist:item=875848769&perks=2779035018,3523296417#notes:Good in PvE
+dimwishlist:item=875848769&perks=2779035018,4082225868#notes:Good in PvE
+dimwishlist:item=875848769&perks=2779035018,3425386926#notes:Good in PvE
+
+
 
 DEATH ADDER:
 (Accurized Rounds, Feeding Frenzy, Dragonfly)
@@ -2041,6 +2325,45 @@ dimwishlist:item=766323545&perks=3142289711,1354429876,2848615171#notes:Good in 
 dimwishlist:item=766323545&perks=4134353779,1354429876,2848615171#notes:Good in PvE, go for Range MW
 dimwishlist:item=766323545&perks=106909392,1354429876,2848615171#notes:Test this
 dimwishlist:item=766323545&perks=1354429876,2848615171#notes:Good in PvE, go for Reload MW
+
+
+
+SHAYURA'S WRATH:
+(Accurized Rounds, Tunnel Vision, Kill Clip)
+(________________, Tunnel Vision, Kill Clip)
+dimwishlist:item=3682803680&perks=3142289711,2946784966,1015611457#notes:Good in PvP
+dimwishlist:item=3682803680&perks=2946784966,1015611457#notes:Good in PvP
+
+(Accurized Rounds, Heating Up, Kill Clip)
+(________________, Heating Up, Kill Clip)
+dimwishlist:item=3682803680&perks=3142289711,1570042021,1015611457#notes:Good in PvP
+dimwishlist:item=3682803680&perks=1570042021,1015611457#notes:Good in PvP
+
+
+
+SHAYURA'S WRATH (ADEPT):
+(Accurized Rounds, Tunnel Vision, Kill Clip)
+(________________, Tunnel Vision, Kill Clip)
+dimwishlist:item=4023807721&perks=3142289711,2946784966,1015611457#notes:Good in PvP
+dimwishlist:item=4023807721&perks=2946784966,1015611457#notes:Good in PvP
+
+(Accurized Rounds, Heating Up, Kill Clip)
+(________________, Heating Up, Kill Clip)
+dimwishlist:item=4023807721&perks=3142289711,1570042021,1015611457#notes:Good in PvP
+dimwishlist:item=4023807721&perks=1570042021,1015611457#notes:Good in PvP
+
+
+
+STOCHASTIC VARIABLE:
+(Ambitious Assassin, Multikill Clip)
+dimwishlist:item=2272470786&perks=2010801679,2458213969#notes:Good in PvE
+
+(Feeding Frenzy, Dragonfly_____)
+(Feeding Frenzy, Multikill Clip)
+(Feeding Frenzy, Wellspring____)
+dimwishlist:item=2272470786&perks=2779035018,2848615171#notes:Good in PvE
+dimwishlist:item=2272470786&perks=2779035018,2458213969#notes:Good in PvE
+dimwishlist:item=2272470786&perks=2779035018,3592538738#notes:Good in PvE
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
