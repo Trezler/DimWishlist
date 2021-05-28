@@ -100,6 +100,18 @@ dimwishlist:item=2257180473&perks=3301904089,2888557110#notes:Good in PvE, boss 
 
 
 
+MEMORY INTERDICT:
+(Volatile Launch, High Explosive Ordnance, Auto-Loading, Chain Reaction)
+(_______________, High Explosive Ordnance, Auto-Loading, Chain Reaction)
+(Volatile Launch, _______________________, Auto-Loading, Chain Reaction)
+(_______________, _______________________, Auto-Loading, Chain Reaction)
+dimwishlist:item=3165547384&perks=1478423395,1380253176,3300816228,2396489472#notes:Good in PvP
+dimwishlist:item=3165547384&perks=1380253176,3300816228,2396489472#notes:Good in PvP
+dimwishlist:item=3165547384&perks=1478423395,3300816228,2396489472#notes:Good in PvP
+dimwishlist:item=3165547384&perks=3300816228,2396489472#notes:Good in PvP
+
+
+
 OUTRAGEOUS FORTUNE:
 (Hard Launch, Spike Grenades, Auto-Loading, Quickdraw)
 (___________, Spike Grenades, Auto-Loading, Quickdraw)
@@ -196,6 +208,17 @@ dimwishlist:item=3075224551&perks=2869569095,4104185692#notes:Good in PvE, boss 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MACHINE GUNS:
 
+ARCHON'S THUNDER:
+(Accurized Rounds, Killing Wind, Rampage)
+(________________, Killing Wind, Rampage)
+dimwishlist:item=1967303408&perks=3142289711,2450788523,3425386926#notes:Good in PvP
+dimwishlist:item=1967303408&perks=2450788523,3425386926#notes:Good in PvP
+
+(Field Prep, Rampage)
+dimwishlist:item=1967303408&perks=2869569095,3425386926#notes:Good in PvE
+
+
+
 AVALANCHE:
 (Extended Mag, Outlaw, Dragonfly)
 (____________, Outlaw, Dragonfly)
@@ -279,6 +302,22 @@ dimwishlist:item=4230965989&perks=2779035018,2848615171#notes:Good in PvE
 
 
 
+CORRECTIVE MEASURE:
+(Feeding Frenzy, Firefly)
+(Rewind Rounds_, Firefly)
+dimwishlist:item=471518543&perks=2779035018,3824105627#notes:Good in PvE
+dimwishlist:item=471518543&perks=3418782618,3824105627#notes:Good in PvE
+
+
+
+CORRECTIVE MEASURE (TIMELOST):
+(Feeding Frenzy, Firefly)
+(Rewind Rounds_, Firefly)
+dimwishlist:item=3796510434&perks=2779035018,3824105627#notes:Good in PvE
+dimwishlist:item=3796510434&perks=3418782618,3824105627#notes:Good in PvE
+
+
+
 SEVENTH SERAPH SAW:
 (Extended Mag, Clown Cartridge, Disruption Break)
 (Extended Mag, Auto-Loading___, Disruption Break)
@@ -342,6 +381,14 @@ dimwishlist:item=2582755344&perks=839105230,2420895100,2869569095,1546637391#not
 dimwishlist:item=2582755344&perks=2420895100,2869569095,1546637391#notes:Good in PvE, boss DPS
 dimwishlist:item=2582755344&perks=839105230,2869569095,1546637391#notes:Good in PvE, boss DPS
 dimwishlist:item=2582755344&perks=2869569095,1546637391#notes:Good in PvE, boss DPS
+
+
+
+SHATTERED CIPHER:
+(Extended Mag, Field Prep__, Rampage)
+(Extended Mag, Auto-Loading, Rampage)
+dimwishlist:item=2434225986&perks=2420895100,2869569095,3425386926#notes:Good in PvE
+dimwishlist:item=2434225986&perks=2420895100,3300816228,3425386926#notes:Good in PvE
 
 
 
@@ -507,6 +554,40 @@ dimwishlist:item=3067821200&perks=981914802,3796465595,2869569095,1275731761#not
 dimwishlist:item=3067821200&perks=3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
 dimwishlist:item=3067821200&perks=981914802,2869569095,1275731761#notes:Good in PvE, boss DPS
 dimwishlist:item=3067821200&perks=2869569095,1275731761#notes:Good in PvE, boss DPS
+
+
+
+HEZEN VENGANCE:
+(Quick Launch, Impact Casing, Auto-Loading, Lasting Impression)
+(____________, Impact Casing, Auto-Loading, Lasting Impression)
+(____________, _____________, Auto-Loading, Lasting Impression)
+dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=4050645223&perks=3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=4050645223&perks=3300816228,3927722942#notes:Good in PvE, boss DPS
+
+(Quick Launch, Impact Casing, Overflow, Lasting Impression)
+(____________, Impact Casing, Overflow, Lasting Impression)
+(____________, _____________, Overflow, Lasting Impression)
+dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=4050645223&perks=3796465595,3643424744,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=4050645223&perks=3643424744,3927722942#notes:Good in PvE, boss DPS
+
+
+
+HEZEN VENGANCE (TIMELOST):
+(Quick Launch, Impact Casing, Auto-Loading, Lasting Impression)
+(____________, Impact Casing, Auto-Loading, Lasting Impression)
+(____________, _____________, Auto-Loading, Lasting Impression)
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=1921159786&perks=3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=1921159786&perks=3300816228,3927722942#notes:Good in PvE, boss DPS
+
+(Quick Launch, Impact Casing, Overflow, Lasting Impression)
+(____________, Impact Casing, Overflow, Lasting Impression)
+(____________, _____________, Overflow, Lasting Impression)
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=1921159786&perks=3796465595,3643424744,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=1921159786&perks=3643424744,3927722942#notes:Good in PvE, boss DPS
 
 
 
@@ -703,6 +784,31 @@ dimwishlist:item=3366545721&perks=2726471870,354401740#notes:Good in PvE
 
 
 
+CROWN SPLITTER:
+(Jagged Edge, Heavy Guard, Relentless Strikes, Whirlwind)
+(Jagged Edge, Heavy Guard, __________________, Whirlwind)
+(___________, Heavy Guard, Relentless Strikes, Whirlwind)
+dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,3913600130#notes:Good in PvE, boss DPS
+dimwishlist:item=2782325302&perks=3666208348,2349202967,3913600130#notes:Good in PvE, boss DPS
+dimwishlist:item=2782325302&perks=2349202967,1749209109,3913600130#notes:Good in PvE, boss DPS
+
+
+
+ETERNITY'S EDGE:
+(Jagged Edge, Heavy Guard, Relentless Strikes, Flash Counter)
+(___________, Heavy Guard, Relentless Strikes, Flash Counter)
+(Jagged Edge, Heavy Guard, __________________, Flash Counter)
+dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,2244851822#notes:Good in PvE, boss DPS
+dimwishlist:item=2782325301&perks=2363751990,1749209109,2244851822#notes:Good in PvE, boss DPS
+dimwishlist:item=2782325301&perks=3666208348,2363751990,2244851822#notes:Good in PvE, boss DPS
+
+(Enduring Blade, Heavy Guard, Thresh, Assassin's Blade)
+(______________, Heavy Guard, Thresh, Assassin's Blade)
+dimwishlist:item=2782325301&perks=1261178282,2363751990,2726471870,354401740#notes:Good in PvE
+dimwishlist:item=2782325301&perks=2363751990,2726471870,354401740#notes:Good in PvE
+
+
+
 FALLING GUILLOTINE:
 (Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade)
 (Jagged Edge, Swordmaster's Guard, __________________, Whirlwind Blade)
@@ -808,6 +914,14 @@ dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391#notes
 dimwishlist:item=35794111&perks=3666208348,269888150,1546637391#notes:Good in PvE & PvP
 dimwishlist:item=35794111&perks=3666208348,2590710093,1546637391#notes:Good in PvE & PvP
 dimwishlist:item=35794111&perks=3666208348,1546637391#notes:Good in PvE & PvP
+
+
+
+QUICKFANG:
+(Enduring Blade, Swordmaster's Guard, Thresh, Assassin's Blade)
+(______________, Swordmaster's Guard, Thresh, Assassin's Blade)
+dimwishlist:item=2782325300&perks=1261178282,269888150,2726471870,354401740#notes:Good in PvE
+dimwishlist:item=2782325300&perks=269888150,2726471870,354401740#notes:Good in PvE
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
