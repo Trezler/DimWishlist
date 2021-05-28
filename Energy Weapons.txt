@@ -1646,6 +1646,21 @@ dimwishlist:item=3197270240&perks=3418782618,2679249093#notes:Good in PvE
 dimwishlist:item=3197270240&perks=791862061,3300816228,2679249093#notes:Good in PvE
 dimwishlist:item=3197270240&perks=3300816228,2679249093#notes:Good in PvE
 
+(Rifled Barrel, Accurized Rounds, Slideshot, Opening Shot)
+(_____________, Accurized Rounds, Slideshot, Opening Shot)
+(_____________, ________________, Slideshot, Opening Shot)
+dimwishlist:item=3197270240&perks=1332244541,3142289711,3161816588,47981717#notes:Good in PvP
+dimwishlist:item=3197270240&perks=3142289711,3161816588,47981717#notes:Good in PvP
+dimwishlist:item=3197270240&perks=3161816588,47981717#notes:Good in PvP
+
+(Rifled Barrel, Accurized Rounds, Slideshot, Vorpal Weapon)
+(_____________, Accurized Rounds, Slideshot, Vorpal Weapon)
+(_____________, Accurized Rounds, Slideshot, Vorpal Weapon)
+dimwishlist:item=3197270240&perks=1332244541,3142289711,3161816588,1546637391#notes:Good in PvP
+dimwishlist:item=3197270240&perks=3142289711,3161816588,1546637391#notes:Good in PvP
+dimwishlist:item=3197270240&perks=3161816588,1546637391#notes:Good in PvP
+
+
 
 FOUND VERDICT (TIMELOST):
 (Assault Mag, Rewind Rounds, One-Two Punch)
@@ -1657,6 +1672,20 @@ dimwishlist:item=631439337&perks=3418782618,2679249093#notes:Good in PvE
 (___________, Auto-Loading, One-Two Punch)
 dimwishlist:item=631439337&perks=791862061,3300816228,2679249093#notes:Good in PvE
 dimwishlist:item=631439337&perks=3300816228,2679249093#notes:Good in PvE
+
+(Rifled Barrel, Accurized Rounds, Slideshot, Opening Shot)
+(_____________, Accurized Rounds, Slideshot, Opening Shot)
+(_____________, ________________, Slideshot, Opening Shot)
+dimwishlist:item=631439337&perks=1332244541,3142289711,3161816588,47981717#notes:Good in PvP
+dimwishlist:item=631439337&perks=3142289711,3161816588,47981717#notes:Good in PvP
+dimwishlist:item=631439337&perks=3161816588,47981717#notes:Good in PvP
+
+(Rifled Barrel, Accurized Rounds, Slideshot, Vorpal Weapon)
+(_____________, Accurized Rounds, Slideshot, Vorpal Weapon)
+(_____________, Accurized Rounds, Slideshot, Vorpal Weapon)
+dimwishlist:item=631439337&perks=1332244541,3142289711,3161816588,1546637391#notes:Good in PvP
+dimwishlist:item=631439337&perks=3142289711,3161816588,1546637391#notes:Good in PvP
+dimwishlist:item=631439337&perks=3161816588,1546637391#notes:Good in PvP
 
 
 
