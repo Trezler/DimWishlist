@@ -280,90 +280,87 @@ dimwishlist:item=720351795&perks=3425386926,3365897133#notes:Good in PvE, go for
 
 
 IMPERIAL NEEDLE:
-(Elastic String, Impulse Amplifier, Thresh______, Wellspring__)
-(Elastic String, Impulse Amplifier, Thresh______, Swashbuckler)
-(Elastic String, Impulse Amplifier, Thresh______, Frenzy______)
-(Elastic String, Impulse Amplifier, Wellspring__, Swashbuckler)
-(Elastic String, Impulse Amplifier, Wellspring__, Frenzy______)
-(Elastic String, Impulse Amplifier, Swashbuckler, Frenzy______)
-dimwishlist:item=3460122497&perks=2801223209,951095735,2726471870,3592538738
-dimwishlist:item=3460122497&perks=2801223209,951095735,2726471870,4082225868
-dimwishlist:item=3460122497&perks=2801223209,951095735,2726471870,4104185692
-dimwishlist:item=3460122497&perks=2801223209,951095735,3592538738,4082225868
-dimwishlist:item=3460122497&perks=2801223209,951095735,3592538738,4104185692
-dimwishlist:item=3460122497&perks=2801223209,951095735,4082225868,4104185692
+(Elastic String, Impulse Amplifier, Thresh______, Wellspring__)x
+(Elastic String, Impulse Amplifier, Thresh______, Swashbuckler)x
+(Elastic String, Impulse Amplifier, Thresh______, Frenzy______)x
+(Elastic String, Impulse Amplifier, Wellspring__, Swashbuckler)x
+(Elastic String, Impulse Amplifier, Wellspring__, Frenzy______)x
+(Elastic String, Impulse Amplifier, Swashbuckler, Frenzy______)x
+dimwishlist:item=3460122497&perks=2801223209,951095735,2726471870,3592538738#notes:Good in PvE, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,951095735,2726471870,4082225868#notes:Good in PvE, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,951095735,2726471870,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,951095735,3592538738,4082225868#notes:Good in PvE, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,951095735,3592538738,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,951095735,4082225868,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
 
-(Impulse Amplifier, Thresh______, Wellspring__)
-(Impulse Amplifier, Thresh______, Swashbuckler)
-(Impulse Amplifier, Thresh______, Frenzy______)
-(Impulse Amplifier, Wellspring__, Swashbuckler)
-(Impulse Amplifier, Wellspring__, Frenzy______)
-(Impulse Amplifier, Swashbuckler, Frenzy______)
-dimwishlist:item=3460122497&perks=951095735,2726471870,3592538738
-dimwishlist:item=3460122497&perks=951095735,2726471870,4082225868
-dimwishlist:item=3460122497&perks=951095735,2726471870,4104185692
-dimwishlist:item=3460122497&perks=951095735,3592538738,4082225868
-dimwishlist:item=3460122497&perks=951095735,3592538738,4104185692
-dimwishlist:item=3460122497&perks=951095735,4082225868,4104185692
+(Impulse Amplifier, Thresh______, Wellspring__)x
+(Impulse Amplifier, Thresh______, Swashbuckler)x
+(Impulse Amplifier, Thresh______, Frenzy______)x
+(Impulse Amplifier, Wellspring__, Swashbuckler)x
+(Impulse Amplifier, Wellspring__, Frenzy______)x
+(Impulse Amplifier, Swashbuckler, Frenzy______)x
+dimwishlist:item=3460122497&perks=951095735,2726471870,3592538738#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=3460122497&perks=951095735,2726471870,4082225868#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=3460122497&perks=951095735,2726471870,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Draw Time MW
+dimwishlist:item=3460122497&perks=951095735,3592538738,4082225868#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=3460122497&perks=951095735,3592538738,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Draw Time MW
+dimwishlist:item=3460122497&perks=951095735,4082225868,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Draw Time MW
 
-(Elastic String, Thresh______, Wellspring__)
-(Elastic String, Thresh______, Swashbuckler)
-(Elastic String, Thresh______, Frenzy______)
-(Elastic String, Wellspring__, Swashbuckler)
-(Elastic String, Wellspring__, Frenzy______)
-(Elastic String, Swashbuckler, Frenzy______)
-dimwishlist:item=3460122497&perks=2801223209,2726471870,3592538738
-dimwishlist:item=3460122497&perks=2801223209,2726471870,4082225868
-dimwishlist:item=3460122497&perks=2801223209,2726471870,4104185692
-dimwishlist:item=3460122497&perks=2801223209,3592538738,4082225868
-dimwishlist:item=3460122497&perks=2801223209,3592538738,4104185692
-dimwishlist:item=3460122497&perks=2801223209,4082225868,4104185692
+(Elastic String, Thresh______, Wellspring__)x
+(Elastic String, Thresh______, Swashbuckler)x
+(Elastic String, Thresh______, Frenzy______)x
+(Elastic String, Wellspring__, Swashbuckler)x
+(Elastic String, Wellspring__, Frenzy______)x
+(Elastic String, Swashbuckler, Frenzy______)x
+dimwishlist:item=3460122497&perks=2801223209,2726471870,3592538738#notes:Good in PvE, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,2726471870,4082225868#notes:Good in PvE, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,2726471870,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,3592538738,4082225868#notes:Good in PvE, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,3592538738,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,4082225868,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
 
-(Elastic String, Impulse Amplifier, Thresh)
-(______________, Impulse Amplifier, Thresh)
+(Elastic String, Impulse Amplifier, Thresh______)x
+(______________, Impulse Amplifier, Thresh______)x
+(Elastic String, Impulse Amplifier, Wellspring__)x
+(______________, Impulse Amplifier, Wellspring__)x
+(Elastic String, Impulse Amplifier, Swashbuckler)x
+(______________, Impulse Amplifier, Swashbuckler)x
+(Elastic String, Impulse Amplifier, Frenzy______)x
+(______________, Impulse Amplifier, Frenzy______)x
 dimwishlist:item=3460122497&perks=2801223209,951095735,2726471870#notes:Good in PvE, go for Reload MW
 dimwishlist:item=3460122497&perks=951095735,2726471870#notes:Good in PvE, go for Draw Time MW
-
-(Elastic String, Impulse Amplifier, Wellspring)
-(______________, Impulse Amplifier, Wellspring)
 dimwishlist:item=3460122497&perks=2801223209,951095735,3592538738#notes:Good in PvE, go for Reload MW
 dimwishlist:item=3460122497&perks=951095735,3592538738#notes:Good in PvE, go for Draw Time MW
-
-(Elastic String, Impulse Amplifier, Swashbuckler)
-(______________, Impulse Amplifier, Swashbuckler)
 dimwishlist:item=3460122497&perks=2801223209,951095735,4082225868#notes:Good in PvE, go for Reload MW
 dimwishlist:item=3460122497&perks=951095735,4082225868#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=3460122497&perks=2801223209,951095735,4104185692#notes:Good in GM's, go for Reload MW
+dimwishlist:item=3460122497&perks=951095735,4104185692#notes:Good in GM's, go for Draw Time MW
 
-(Elastic String, Impulse Amplifier, Frenzy)
-(______________, Impulse Amplifier, Frenzy)
-dimwishlist:item=3460122497&perks=2801223209,951095735,4104185692#notes:Good in PvE, go for Reload MW
-dimwishlist:item=3460122497&perks=951095735,4104185692#notes:Good in PvE, go for Draw Time MW
+(Elastic String, Archer's Tempo, Thresh______, Wellspring__)x
+(Elastic String, Archer's Tempo, Thresh______, Swashbuckler)x
+(Elastic String, Archer's Tempo, Thresh______, Frenzy______)x
+(Elastic String, Archer's Tempo, Wellspring__, Swashbuckler)x
+(Elastic String, Archer's Tempo, Wellspring__, Frenzy______)x
+(Elastic String, Archer's Tempo, Swashbuckler, Frenzy______)x
+dimwishlist:item=3460122497&perks=2801223209,201365942,2726471870,3592538738#notes:Good in PvE, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,201365942,2726471870,4082225868#notes:Good in PvE, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,201365942,2726471870,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,201365942,3592538738,4082225868#notes:Good in PvE, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,201365942,3592538738,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,201365942,4082225868,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
 
-(Elastic String, Archer's Tempo, Thresh______, Wellspring__)
-(Elastic String, Archer's Tempo, Thresh______, Swashbuckler)
-(Elastic String, Archer's Tempo, Thresh______, Frenzy______)
-(Elastic String, Archer's Tempo, Wellspring__, Swashbuckler)
-(Elastic String, Archer's Tempo, Wellspring__, Frenzy______)
-(Elastic String, Archer's Tempo, Swashbuckler, Frenzy______)
-dimwishlist:item=3460122497&perks=2801223209,201365942,2726471870,3592538738
-dimwishlist:item=3460122497&perks=2801223209,201365942,2726471870,4082225868
-dimwishlist:item=3460122497&perks=2801223209,201365942,2726471870,4104185692
-dimwishlist:item=3460122497&perks=2801223209,201365942,3592538738,4082225868
-dimwishlist:item=3460122497&perks=2801223209,201365942,3592538738,4104185692
-dimwishlist:item=3460122497&perks=2801223209,201365942,4082225868,4104185692
-
-(Archer's Tempo, Thresh______, Wellspring__)
-(Archer's Tempo, Thresh______, Swashbuckler)
-(Archer's Tempo, Thresh______, Frenzy______)
-(Archer's Tempo, Wellspring__, Swashbuckler)
-(Archer's Tempo, Wellspring__, Frenzy______)
-(Archer's Tempo, Swashbuckler, Frenzy______)
-dimwishlist:item=3460122497&perks=201365942,2726471870,3592538738
-dimwishlist:item=3460122497&perks=201365942,2726471870,4082225868
-dimwishlist:item=3460122497&perks=201365942,2726471870,4104185692
-dimwishlist:item=3460122497&perks=201365942,3592538738,4082225868
-dimwishlist:item=3460122497&perks=201365942,3592538738,4104185692
-dimwishlist:item=3460122497&perks=201365942,4082225868,4104185692
+(Archer's Tempo, Thresh______, Wellspring__)x
+(Archer's Tempo, Thresh______, Swashbuckler)x
+(Archer's Tempo, Thresh______, Frenzy______)x
+(Archer's Tempo, Wellspring__, Swashbuckler)x
+(Archer's Tempo, Wellspring__, Frenzy______)x
+(Archer's Tempo, Swashbuckler, Frenzy______)x
+dimwishlist:item=3460122497&perks=201365942,2726471870,3592538738#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=3460122497&perks=201365942,2726471870,4082225868#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=3460122497&perks=201365942,2726471870,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Draw Time MW
+dimwishlist:item=3460122497&perks=201365942,3592538738,4082225868#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=3460122497&perks=201365942,3592538738,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Draw Time MW
+dimwishlist:item=3460122497&perks=201365942,4082225868,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Draw Time MW
 
 (Elastic String, Archer's Tempo, Thresh)
 (______________, Archer's Tempo, Thresh)
@@ -389,31 +386,14 @@ dimwishlist:item=3460122497&perks=2801223209,4082225868#notes:Good in PvE, go fo
 (Elastic String, Archer's Tempo, Frenzy)
 (______________, Archer's Tempo, Frenzy)
 (Elastic String, ______________, Frenzy)
-dimwishlist:item=3460122497&perks=2801223209,201365942,4104185692#notes:Good in PvE, go for Reload MW
-dimwishlist:item=3460122497&perks=201365942,4104185692#notes:Good in PvE, go for Draw Time MW
-dimwishlist:item=3460122497&perks=2801223209,4104185692#notes:Good in PvE, go for Reload MW
-
-(Elastic String, Hip-Fire Grip, Opening Shot)
-(______________, Hip-Fire Grip, Opening Shot)
-dimwishlist:item=3460122497&perks=2801223209,1866048759,47981717#notes:Good in PvP, go for Reload MW
-dimwishlist:item=3460122497&perks=1866048759,47981717#notes:Good in PvP, go for Draw Time MW
-
-(Elastic String, Impulse Amplifier, Opening Shot)
-(______________, Impulse Amplifier, Opening Shot)
-dimwishlist:item=3460122497&perks=2801223209,951095735,47981717#notes:Good in PvP, go for Reload MW
-dimwishlist:item=3460122497&perks=951095735,47981717#notes:Good in PvP, go for Draw Time MW
-
-(Elastic String, Archer's Tempo, Opening Shot)
-(______________, Archer's Tempo, Opening Shot)
-(Elastic String, ______________, Opening Shot)
-dimwishlist:item=3460122497&perks=2801223209,201365942,47981717#notes:Good in PvP, go for Reload MW
-dimwishlist:item=3460122497&perks=201365942,47981717#notes:Good in PvP, go for Draw Time MW
-dimwishlist:item=3460122497&perks=2801223209,47981717#notes:Good in PvP, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,201365942,4104185692#notes:Good in GM's, go for Reload MW
+dimwishlist:item=3460122497&perks=201365942,4104185692#notes:Good in GM's, go for Draw Time MW
+dimwishlist:item=3460122497&perks=2801223209,4104185692#notes:Good in GM's, go for Reload MW
 
 
 
 POINT OF THE STAG:
-dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:Good for GM's
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:Good for PvE & GM's
 
 
 
