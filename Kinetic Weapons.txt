@@ -557,13 +557,21 @@ dimwishlist:item=2171478765&perks=3418782618,3824105627#notes:Good in PvE
 dimwishlist:item=2171478765&perks=2726471870,3824105627#notes:Good in PvE
 dimwishlist:item=2171478765&perks=3038247973,3824105627#notes:Good in PvE
 
+(Explosive Rounds, Frenzy)
+dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:Good in GM's
+
 
 
 FATEBRINGER (TIMELOST):
 (Rewind Rounds, Explosive Rounds, Firefly)
 (Thresh_______, Explosive Rounds, Firefly)
+(_____________, Explosive Rounds, Firefly)
 dimwishlist:item=1216319404&perks=3418782618,3038247973,3824105627#notes:Good in PvE
 dimwishlist:item=1216319404&perks=2726471870,3038247973,3824105627#notes:Good in PvE
+dimwishlist:item=1216319404&perks=3038247973,3824105627#notes:Good in PvE
+
+(Explosive Rounds, Frenzy)
+dimwishlist:item=1216319404&perks=3038247973,4104185692#notes:Good in GM's
 
 
 
