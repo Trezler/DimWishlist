@@ -98,16 +98,16 @@ ACCRUED REDEMPTION:
 (Elastic String, Archer's Tempo, Explosive Head)
 (______________, Archer's Tempo, Explosive Head)
 (Elastic String, ______________, Explosive Head)
-dimwishlist:item=4095896073&perks=2801223209,201365942,3365897133#notes:Good in PvE & PvP, go for Draw Time MW
-dimwishlist:item=4095896073&perks=201365942,3365897133#notes:Good in PvE & PvP, go for Draw Time MW
-dimwishlist:item=4095896073&perks=2801223209,3365897133#notes:Good in PvE & PvP, go for Draw Time MW
+dimwishlist:item=4095896073&perks=2801223209,201365942,3365897133#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=4095896073&perks=201365942,3365897133#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=4095896073&perks=2801223209,3365897133#notes:Good in PvE, go for Draw Time MW
 
 (Elastic String, Archer's Tempo, Rampage)
 (______________, Archer's Tempo, Rampage)
 (Elastic String, ______________, Rampage)
-dimwishlist:item=4095896073&perks=2801223209,201365942,3425386926#notes:Good in PvE & PvP, can one-shot to the head in PvP with 3x Rampage, go for Draw Time MW
-dimwishlist:item=4095896073&perks=201365942,3425386926#notes:Good in PvE & PvP, can one-shot to the head in PvP with 3x Rampage, go for Draw Time MW
-dimwishlist:item=4095896073&perks=2801223209,3425386926#notes:Good in PvE & PvP, can one-shot to the head in PvP with 3x Rampage, go for Draw Time MW
+dimwishlist:item=4095896073&perks=2801223209,201365942,3425386926#notes:Good in PvE, can one-shot to the head in PvP with 3x Rampage, go for Draw Time MW
+dimwishlist:item=4095896073&perks=201365942,3425386926#notes:Good in PvE, can one-shot to the head in PvP with 3x Rampage, go for Draw Time MW
+dimwishlist:item=4095896073&perks=2801223209,3425386926#notes:Good in PvE, can one-shot to the head in PvP with 3x Rampage, go for Draw Time MW
 
 (Elastic String, Archer's Tempo, Rapid Hit)
 (______________, Archer's Tempo, Rapid Hit)
@@ -121,8 +121,8 @@ dimwishlist:item=4095896073&perks=2801223209,247725512#notes:Good in PvE, go for
 BITING WINDS:
 (Elastic String, Moving target, Swashbuckler)
 (______________, Moving target, Swashbuckler)
-dimwishlist:item=1621657423&perks=2801223209,588594999,4082225868#notes:Good in PvP, can one-shot to the head in PvP with Swashbuckler x5, go for Draw Time MW
-dimwishlist:item=1621657423&perks=588594999,4082225868#notes:Good in PvP, can one-shot to the head in PvP with Swashbuckler x5, go for Draw Time MW
+dimwishlist:item=1621657423&perks=2801223209,588594999,4082225868#notes:Good in PvP, can one-shot Guardians with Swashbuckler x5, go for Draw Time MW
+dimwishlist:item=1621657423&perks=588594999,4082225868#notes:Good in PvP, can one-shot Guardians with Swashbuckler x5, go for Draw Time MW
 
 (Elastic String, Rapid Hit, Swashbuckler)
 (______________, Rapid Hit, Swashbuckler)
@@ -189,6 +189,7 @@ dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391#notes:Good in 
 dimwishlist:item=304659313&perks=3301904089,1546637391#notes:Good in PvE
 dimwishlist:item=304659313&perks=3301904089,3161816588#notes:Good in PvE
 
+(Spike Grenades, Slideshot, Demolitionist)
 dimwishlist:item=304659313&perks=3301904089,3161816588,3523296417#notes: Suni's Roll
 
 
@@ -557,7 +558,7 @@ dimwishlist:item=2171478765&perks=3418782618,3824105627#notes:Good in PvE
 dimwishlist:item=2171478765&perks=2726471870,3824105627#notes:Good in PvE
 dimwishlist:item=2171478765&perks=3038247973,3824105627#notes:Good in PvE
 
-(Explosive Rounds, Frenzy)
+(Explosive Payload, Frenzy)
 dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:Good in GM's
 
 
@@ -595,15 +596,15 @@ SEVENTH SERAPH OFFICER REVOLVER:
 (Appended Mag__, __________________, Timed Payload)
 (Tactical Mag__, __________________, Timed Payload)
 (______________, Ambitious Assassin, Timed Payload)
-dimwishlist:item=3037520408&perks=4134353779,2010801679,1954620775#notes:Good in PvE & GM's
-dimwishlist:item=3037520408&perks=3230963543,2010801679,1954620775#notes:Good in PvE & GM's
-dimwishlist:item=3037520408&perks=1087426260,2010801679,1954620775#notes:Good in PvE & GM's
-dimwishlist:item=3037520408&perks=106909392,2010801679,1954620775#notes:Good in PvE & GM's
-dimwishlist:item=3037520408&perks=4134353779,1954620775#notes:Good in PvE & GM's
-dimwishlist:item=3037520408&perks=3230963543,1954620775#notes:Good in PvE & GM's
-dimwishlist:item=3037520408&perks=1087426260,1954620775#notes:Good in PvE & GM's
-dimwishlist:item=3037520408&perks=106909392,1954620775#notes:Good in PvE & GM's
-dimwishlist:item=3037520408&perks=2010801679,1954620775#notes:Good in PvE & GM's
+dimwishlist:item=3037520408&perks=4134353779,2010801679,1954620775#notes:Good in GM's
+dimwishlist:item=3037520408&perks=3230963543,2010801679,1954620775#notes:Good in GM's
+dimwishlist:item=3037520408&perks=1087426260,2010801679,1954620775#notes:Good in GM's
+dimwishlist:item=3037520408&perks=106909392,2010801679,1954620775#notes:Good in GM's
+dimwishlist:item=3037520408&perks=4134353779,1954620775#notes:Good in GM's
+dimwishlist:item=3037520408&perks=3230963543,1954620775#notes:Good in GM's
+dimwishlist:item=3037520408&perks=1087426260,1954620775#notes:Good in GM's
+dimwishlist:item=3037520408&perks=106909392,1954620775#notes:Good in GM's
+dimwishlist:item=3037520408&perks=2010801679,1954620775#notes:Good in GM's
 
 
 
@@ -906,45 +907,45 @@ dimwishlist:item=2870169846&perks=3436462433,3592538738#notes:Good in PvE
 SACRED PROVENANCE:
 (Full Bore, Ricochet Rounds, Rapid Hit, Kill Clip)
 (_________, Ricochet Rounds, Rapid Hit, Kill Clip)
-dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,1015611457#notes:Good in PvP, Full Bore might not be a community favorite, but it gets the range stat to 99 babyy, go for Range MW
-dimwishlist:item=2408405461&perks=1885400500,247725512,1015611457#notes:Good in PvP, go for Range MW
+dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,1015611457#notes:Good in PvP, Full Bore gets the range stat to 99, go for Range MW
+dimwishlist:item=2408405461&perks=1885400500,247725512,1015611457#notes:Good in PvP
 (Full Bore, High-Caliber Rounds, Rapid Hit, Kill Clip)
 (_________, High-Caliber Rounds, Rapid Hit, Kill Clip)
-dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,1015611457#notes:Good in PvP, Full Bore might not be a community favorite, but it gets the range stat to 99 babyy, go for Range MW
-dimwishlist:item=2408405461&perks=1561002382,247725512,1015611457#notes:Good in PvP, go for Range MW
+dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,1015611457#notes:Good in PvP, Full Bore gets the range stat to 99, go for Range MW
+dimwishlist:item=2408405461&perks=1561002382,247725512,1015611457#notes:Good in PvP
 (Full Bore, Armor-Piercing Rounds, Rapid Hit, Kill Clip)
 (_________, Armor-Piercing Rounds, Rapid Hit, Kill Clip)
-dimwishlist:item=2408405461&perks=202670084,1968497646,247725512,1015611457#notes:Good in PvP, Full Bore might not be a community favorite, but it gets the range stat to 99 babyy, go for Range MW
-dimwishlist:item=2408405461&perks=1968497646,247725512,1015611457#notes:Good in PvP, go for Range MW
+dimwishlist:item=2408405461&perks=202670084,1968497646,247725512,1015611457#notes:Good in PvP, Full Bore gets the range stat to 99, go for Range MW
+dimwishlist:item=2408405461&perks=1968497646,247725512,1015611457#notes:Good in PvP
 (Full Bore, Light Mag, Rapid Hit, Kill Clip)
 (_________, Light Mag, Rapid Hit, Kill Clip)
 (Full Bore, _________, Rapid Hit, Kill Clip)
 (_________, _________, Rapid Hit, Kill Clip)
-dimwishlist:item=2408405461&perks=202670084,679225683,247725512,1015611457#notes:Good in PvP, Full Bore might not be a community favorite, but it gets the range stat to 99 babyy, go for Range MW
-dimwishlist:item=2408405461&perks=679225683,247725512,1015611457#notes:Good in PvP, go for Range MW
-dimwishlist:item=2408405461&perks=202670084,247725512,1015611457#notes:Good in PvP, go for Range MW
-dimwishlist:item=2408405461&perks=247725512,1015611457#notes:Good in PvP, go for Range MW
+dimwishlist:item=2408405461&perks=202670084,679225683,247725512,1015611457#notes:Good in PvP, Full Bore gets the range stat to 99, go for Range MW
+dimwishlist:item=2408405461&perks=679225683,247725512,1015611457#notes:Good in PvP
+dimwishlist:item=2408405461&perks=202670084,247725512,1015611457#notes:Good in PvP
+dimwishlist:item=2408405461&perks=247725512,1015611457#notes:Good in PvP
 
 (Full Bore, Ricochet Rounds, Outlaw, Kill Clip)
 (_________, Ricochet Rounds, Outlaw, Kill Clip)
-dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,1015611457#notes:Good in PvP, Full Bore might not be a community favorite, but it gets the range stat to 99 babyy, go for Range MW
-dimwishlist:item=2408405461&perks=1885400500,1168162263,1015611457#notes:Good in PvP, go for Range MW
+dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,1015611457#notes:Good in PvP, Full Bore gets the range stat to 99, go for Range MW
+dimwishlist:item=2408405461&perks=1885400500,1168162263,1015611457#notes:Good in PvP
 (Full Bore, High-Caliber Rounds, Outlaw, Kill Clip)
 (_________, High-Caliber Rounds, Outlaw, Kill Clip)
-dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,1015611457#notes:Good in PvP, Full Bore might not be a community favorite, but it gets the range stat to 99 babyy, go for Range MW
-dimwishlist:item=2408405461&perks=1561002382,1168162263,1015611457#notes:Good in PvP, go for Range MW
+dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,1015611457#notes:Good in PvP, Full Bore gets the range stat to 99, go for Range MW
+dimwishlist:item=2408405461&perks=1561002382,1168162263,1015611457#notes:Good in PvP
 (Full Bore, Light Mag, Outlaw, Kill Clip)
 (_________, Light Mag, Outlaw, Kill Clip)
-dimwishlist:item=2408405461&perks=202670084,679225683,1168162263,1015611457#notes:Good in PvP, Full Bore might not be a community favorite, but it gets the range stat to 99 babyy, go for Range MW
-dimwishlist:item=2408405461&perks=679225683,1168162263,1015611457#notes:Good in PvP, go for Range MW
+dimwishlist:item=2408405461&perks=202670084,679225683,1168162263,1015611457#notes:Good in PvP, Full Bore gets the range stat to 99, go for Range MW
+dimwishlist:item=2408405461&perks=679225683,1168162263,1015611457#notes:Good in PvP
 (Full Bore, Armor-Piercing Rounds, Outlaw, Kill Clip)
 (_________, Armor-Piercing Rounds, Outlaw, Kill Clip)
 (Full Bore, _____________________, Outlaw, Kill Clip)
 (_________, _____________________, Outlaw, Kill Clip)
-dimwishlist:item=2408405461&perks=202670084,1968497646,1168162263,1015611457#notes:Good in PvP, Full Bore might not be a community favorite, but it gets the range stat to 99 babyy, go for Range MW
-dimwishlist:item=2408405461&perks=1968497646,1168162263,1015611457#notes:Good in PvP, go for Range MW
-dimwishlist:item=2408405461&perks=202670084,1168162263,1015611457#notes:Good in PvP, go for Range MW
-dimwishlist:item=2408405461&perks=1168162263,1015611457#notes:Good in PvP, go for Range MW
+dimwishlist:item=2408405461&perks=202670084,1968497646,1168162263,1015611457#notes:Good in PvP, Full Bore gets the range stat to 99, go for Range MW
+dimwishlist:item=2408405461&perks=1968497646,1168162263,1015611457#notes:Good in PvP
+dimwishlist:item=2408405461&perks=202670084,1168162263,1015611457#notes:Good in PvP
+dimwishlist:item=2408405461&perks=1168162263,1015611457#notes:Good in PvP
 
 
 
@@ -1086,17 +1087,17 @@ dimwishlist:item=681067419&perks=247725512,3038247973#notes:Good in GM's
 
 
 NIGHT WATCH:
-(Arrowhead Brake, Flared Magwell, Rapid Hit, Explosive Rounds)
-(_______________, Flared Magwell, Rapid Hit, Explosive Rounds)
-(Arrowhead Brake, ______________, Rapid Hit, Explosive Rounds)
-(_______________, ______________, Rapid Hit, Explosive Rounds)
-dimwishlist:item=3504336176&perks=839105230,3230963543,247725512,3038247973#notes:Good in PvE & GM's
-dimwishlist:item=3504336176&perks=3230963543,247725512,3038247973#notes:Good in PvE & GM's
-dimwishlist:item=3504336176&perks=839105230,247725512,3038247973#notes:Good in PvE & GM's
-dimwishlist:item=3504336176&perks=247725512,3038247973#notes:Good in PvE & GM's
+(Arrowhead Brake, Flared Magwell, Rapid Hit, Explosive Payload)
+(_______________, Flared Magwell, Rapid Hit, Explosive Payload)
+(Arrowhead Brake, ______________, Rapid Hit, Explosive Payload)
+(_______________, ______________, Rapid Hit, Explosive Payload)
+dimwishlist:item=3504336176&perks=839105230,3230963543,247725512,3038247973#notes:Good in GM's
+dimwishlist:item=3504336176&perks=3230963543,247725512,3038247973#notes:Good in GM's
+dimwishlist:item=3504336176&perks=839105230,247725512,3038247973#notes:Good in GM's
+dimwishlist:item=3504336176&perks=247725512,3038247973#notes:Good in GM's
 
 (Corkscrew Rifling, Extended Mag, Overflow, Explosive Payload) (Curated)
-dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:Good in PvE & GM's
+dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:Good in GM's
 
 
 
@@ -1122,7 +1123,7 @@ dimwishlist:item=3799980700&perks=4134353779,3425386926,1015611457#notes:Good in
 dimwishlist:item=3799980700&perks=3425386926,1015611457#notes:Good in PvP
 
 (Fluted Barrel, Light Mag, Outlaw, Explosive Payload) (Curated)
-dimwishlist:item=3799980700&perks=1840239774,679225683,1168162263,3038247973#notes:Good in PvE & GM's
+dimwishlist:item=3799980700&perks=1840239774,679225683,1168162263,3038247973#notes:Good in GM's
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1238,9 +1239,9 @@ dimwishlist:item=1197486957&perks=4267945040,3592538738#notes:Good in PvE
 (Ambitious Assaassin, High-Impact Reserves)
 (Ambitious Assaassin, Demolitionist_______)
 (Ambitious Assaassin, Wellspring__________)
-dimwishlist:item=1197486957&perks=2010801679,2213355989#notes:Good in PvE, each kill overflows +3 magazine on reload, up to 5 kills (total of 45 in the magazine)
-dimwishlist:item=1197486957&perks=2010801679,3523296417#notes:Good in PvE, each kill overflows +3 magazine on reload, up to 5 kills (total of 45 in the magazine)
-dimwishlist:item=1197486957&perks=2010801679,3592538738#notes:Good in PvE, each kill overflows +3 magazine on reload, up to 5 kills (total of 45 in the magazine)
+dimwishlist:item=1197486957&perks=2010801679,2213355989#notes:Good in PvE
+dimwishlist:item=1197486957&perks=2010801679,3523296417#notes:Good in PvE
+dimwishlist:item=1197486957&perks=2010801679,3592538738#notes:Good in PvE
 
 (Surplus, High-Impact Reserves)
 (Surplus, Demolitionist_______)
@@ -1353,8 +1354,8 @@ dimwishlist:item=3637570176&perks=3436462433,957782887#notes:Good in PvP
 LONG SHADOW:
 (Appended mag, Rapid Hit, Triple Tap)
 (Appended mag, _________, Triple Tap)
-dimwishlist:item=3745990145&perks=1087426260,247725512,3400784728#notes:Good in PvE, boss DPS
-dimwishlist:item=3745990145&perks=1087426260,3400784728#notes:Good in PvE, boss DPS
+dimwishlist:item=3745990145&perks=1087426260,247725512,3400784728#notes:Good in PvE
+dimwishlist:item=3745990145&perks=1087426260,3400784728#notes:Good in PvE
 
 (Extended Mag, Rapid Hit, Triple Tap)
 (Extended Mag, _________, Triple Tap)
@@ -1366,38 +1367,38 @@ dimwishlist:item=3745990145&perks=2420895100,3400784728#notes:Good in PvE, Exten
 PRAEDYTH'S REVENGE:
 (Tactical Mag, Rewind Rounds, High-Impact Reserves)
 (____________, Rewind Rounds, High-Impact Reserves)
-dimwishlist:item=3653573172&perks=106909392,3418782618,2213355989#notes:Good in PvE, Boss DPS
-dimwishlist:item=3653573172&perks=3418782618,2213355989#notes:Good in PvE, Boss DPS
+dimwishlist:item=3653573172&perks=106909392,3418782618,2213355989#notes:Good in PvE
+dimwishlist:item=3653573172&perks=3418782618,2213355989#notes:Good in PvE
 
 
 
 PRAEDYTH'S REVENGE (TIMELOST):
 (Tactical Mag, Rewind Rounds, High-Impact Reserves)
 (____________, Rewind Rounds, High-Impact Reserves)
-dimwishlist:item=1987769101&perks=106909392,3418782618,2213355989#notes:Good in PvE, Boss DPS
-dimwishlist:item=1987769101&perks=3418782618,2213355989#notes:Good in PvE, Boss DPS
+dimwishlist:item=1987769101&perks=106909392,3418782618,2213355989#notes:Good in PvE
+dimwishlist:item=1987769101&perks=3418782618,2213355989#notes:Good in PvE
 
 
 
 REVOKER:
 (Extended Barrel, Accurized Rounds, Snapshot, Reversal of Fortune)
-dimwishlist:item=654608616&perks=1467527085,3142289711,957782887,136456835#notes:Good in PvP, still usable in casual games
+dimwishlist:item=654608616&perks=1467527085,3142289711,957782887,136456835#notes:Good in PvP
 
 
 
 SUCCESSION:
 (Chambered Compensator, Tactical Mag, Reconstruction, Vorpal Weapon)
 (_____________________, Tactical Mag, Reconstruction, Vorpal Weapon)
-dimwishlist:item=2990047042&perks=3661387068,106909392,1523832109,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=2990047042&perks=106909392,1523832109,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=2990047042&perks=3661387068,106909392,1523832109,1546637391#notes:Good in PvE
+dimwishlist:item=2990047042&perks=106909392,1523832109,1546637391#notes:Good in PvE
 (Chambered Compensator, Extended Mag, Reconstruction, Vorpal Weapon)
 (_____________________, Extended Mag, Reconstruction, Vorpal Weapon)
 (Chambered Compensator, ____________, Reconstruction, Vorpal Weapon)
 (_____________________, ____________, Reconstruction, Vorpal Weapon)
-dimwishlist:item=2990047042&perks=3661387068,2420895100,1523832109,1546637391#notes:Good in PvE, boss DPS, if you're not gonna use Backup Mag mod then Tactical Mag is better
-dimwishlist:item=2990047042&perks=2420895100,1523832109,1546637391#notes:Good in PvE, boss DPS, if you're not gonna use Backup Mag mod then Tactical Mag is better
-dimwishlist:item=2990047042&perks=3661387068,1523832109,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=2990047042&perks=3661387068,2420895100,1523832109,1546637391#notes:Good in PvE, use Backup Mag mod, if not then Tactical Mag is better
+dimwishlist:item=2990047042&perks=2420895100,1523832109,1546637391#notes:Good in PvE, use Backup Mag mod, if not then Tactical Mag is better
+dimwishlist:item=2990047042&perks=3661387068,1523832109,1546637391#notes:Good in PvE
+dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:Good in PvE
 
 (Hammer-Forged Rifling, Accurized Rounds, No Distractions, Snapshot Sights)
 (Full Bore____________, Accurized Rounds, No Distractions, Snapshot Sights)
@@ -1433,8 +1434,8 @@ dimwishlist:item=2990047042&perks=106909392,1556840489,1546637391#notes:Good in 
 (_____________________, Extended Mag, Lead From Gold, Vorpal Weapon)
 (Chambered Compensator, ____________, Lead From Gold, Vorpal Weapon)
 (_____________________, ____________, Lead From Gold, Vorpal Weapon)
-dimwishlist:item=2990047042&perks=3661387068,2420895100,1556840489,1546637391#notes:Good in GM's, if you're not gonna use Backup Mag mod then Tactical Mag is better
-dimwishlist:item=2990047042&perks=2420895100,1556840489,1546637391#notes:Good in GM's, if you're not gonna use Backup Mag mod then Tactical Mag is better
+dimwishlist:item=2990047042&perks=3661387068,2420895100,1556840489,1546637391#notes:Good in GM's, use Backup Mag mod, if not then Tactical Mag is better
+dimwishlist:item=2990047042&perks=2420895100,1556840489,1546637391#notes:Good in GM's, use Backup Mag mod, if not then Tactical Mag is better
 dimwishlist:item=2990047042&perks=3661387068,1556840489,1546637391#notes:Good in GM's
 dimwishlist:item=2990047042&perks=1556840489,1546637391#notes:Good in GM's
 
@@ -1444,14 +1445,14 @@ SUPREMACY:
 (Appended mag, Snapshot Sights, Triple Tap)
 (Appended mag, _______________, Triple Tap)
 (____________, Snapshot Sights, Triple Tap)
-dimwishlist:item=686951703&perks=1087426260,957782887,3400784728#notes:Good in PvE, boss DPS
-dimwishlist:item=686951703&perks=1087426260,3400784728#notes:Good in PvE, boss DPS
-dimwishlist:item=686951703&perks=957782887,3400784728#notes:Good in PvE, boss DPS
+dimwishlist:item=686951703&perks=1087426260,957782887,3400784728#notes:Good in PvE
+dimwishlist:item=686951703&perks=1087426260,3400784728#notes:Good in PvE
+dimwishlist:item=686951703&perks=957782887,3400784728#notes:Good in PvE
 
 
 
 TRANQUILLITY:
-dimwishlist:item=-1645386487
+dimwishlist:item=-1645386487#notes:Trash
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1484,7 +1485,7 @@ dimwishlist:item=1786797708&perks=3643424744,3708227201#notes:Good in PvE
 
 
 EXTRAORDINARY RENDITION:
-(Overflow, Rampage, Thresh) x
+(Overflow, Rampage, Thresh)x
 (Overflow, Rampage, ______)
 (Overflow, _______, Thresh)
 dimwishlist:item=1097616550&perks=3643424744,3425386926,2726471870#notes:Good in PvE
