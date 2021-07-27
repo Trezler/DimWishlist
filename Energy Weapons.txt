@@ -1091,7 +1091,8 @@ dimwishlist:item=-4037745684#notes:Trash
 
 
 FELWINTER'S LIE:
-dimwishlist:item=1179141605&perks=1047830412,3142289711,706527188,47981717,1546637391#notes:Good in PvP
+(Full Choke, Accurized Rounds, Slideshot, Surplus, Opening Shot)
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,3436462433,47981717#notes:Good in PvP
 
 
 
