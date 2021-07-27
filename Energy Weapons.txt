@@ -1003,9 +1003,6 @@ dimwishlist:item=4156253727&perks=3096702027,1683379515#notes:Good in GM's
 (______________, Genesis, Vorpal Weapon)
 dimwishlist:item=4156253727&perks=1968497646,3096702027,1546637391#notes:Good in GM's
 dimwishlist:item=4156253727&perks=3096702027,1546637391#notes:Good in GM's
-
-(Subsistence)
-dimwishlist:item=4156253727&perks=1820235745#notes:Test how Subsistence works
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1467,9 +1464,6 @@ dimwishlist:item=875848769&perks=2779035018,3425386926#notes:Good in PvE
 
 (Surplus, Wellspring)
 dimwishlist:item=875848769&perks=3436462433,3592538738#notes:Good in PvE
-
-(Fourth Time's The Charm)
-dimwishlist:item=875848769&perks=1354429876#notes:Test Forth Time's The Charm
 
 
 
