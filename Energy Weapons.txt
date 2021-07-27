@@ -1507,22 +1507,43 @@ dimwishlist:item=4277547616&perks=2010801679,3592538738#notes:Good in PvE
 
 
 IKELOS_SMG_V1.0.2:
-(Seraph Rounds___, Threat Detector, Demolitionist)
-(Accurized Rounds, Threat Detector, Demolitionist)
-(________________, Threat Detector, Demolitionist)
+(Seraph Rounds___, Threat Detector, Surrounded, Demolitionist)
+(Accurized Rounds, Threat Detector, Surrounded, Demolitionist)
+(________________, Threat Detector, Surrounded, Demolitionist)
+(Seraph Rounds___, Threat Detector, __________, Demolitionist)
+(Accurized Rounds, Threat Detector, __________, Demolitionist)
+(________________, Threat Detector, __________, Demolitionist)
+(Seraph Rounds___, Threat Detector, Surrounded, _____________)
+(Accurized Rounds, Threat Detector, Surrounded, _____________)
+(________________, Threat Detector, Surrounded, _____________)
+dimwishlist:item=2222560548&perks=1140096971,4071163871,3708227201,3523296417#notes:Good in PvE
+dimwishlist:item=2222560548&perks=3142289711,4071163871,3708227201,3523296417#notes:Good in PvE
+dimwishlist:item=2222560548&perks=4071163871,3708227201,3523296417#notes:Good in PvE
 dimwishlist:item=2222560548&perks=1140096971,4071163871,3523296417#notes:Good in PvE
 dimwishlist:item=2222560548&perks=3142289711,4071163871,3523296417#notes:Good in PvE
 dimwishlist:item=2222560548&perks=4071163871,3523296417#notes:Good in PvE
-
-(Seraph Rounds___, Threat Detector, Surrounded)
-(Accurized Rounds, Threat Detector, Surrounded)
-(________________, Threat Detector, Surrounded)
 dimwishlist:item=2222560548&perks=1140096971,4071163871,3708227201#notes:Good in PvE
 dimwishlist:item=2222560548&perks=3142289711,4071163871,3708227201#notes:Good in PvE
 dimwishlist:item=2222560548&perks=4071163871,3708227201#notes:Good in PvE
 
-(Subsistence)
-dimwishlist:item=2222560548&perks=1820235745#notes:Test Subsistence
+(Seraph Rounds___, Subsistence, Surrounded, Demolitionist)
+(Accurized Rounds, Subsistence, Surrounded, Demolitionist)
+(________________, Subsistence, Surrounded, Demolitionist)
+(Seraph Rounds___, Subsistence, __________, Demolitionist)
+(Accurized Rounds, Subsistence, __________, Demolitionist)
+(________________, Subsistence, __________, Demolitionist)
+(Seraph Rounds___, Subsistence, Surrounded, _____________)
+(Accurized Rounds, Subsistence, Surrounded, _____________)
+(________________, Subsistence, Surrounded, _____________)
+dimwishlist:item=2222560548&perks=1140096971,1820235745,3708227201,3523296417#notes:Good in PvE
+dimwishlist:item=2222560548&perks=3142289711,1820235745,3708227201,3523296417#notes:Good in PvE
+dimwishlist:item=2222560548&perks=1820235745,3708227201,3523296417#notes:Good in PvE
+dimwishlist:item=2222560548&perks=1140096971,1820235745,3523296417#notes:Good in PvE
+dimwishlist:item=2222560548&perks=3142289711,1820235745,3523296417#notes:Good in PvE
+dimwishlist:item=2222560548&perks=1820235745,3523296417#notes:Good in PvE
+dimwishlist:item=2222560548&perks=1140096971,1820235745,3708227201#notes:Good in PvE
+dimwishlist:item=2222560548&perks=3142289711,1820235745,3708227201#notes:Good in PvE
+dimwishlist:item=2222560548&perks=1820235745,3708227201#notes:Good in PvE
 
 
 
