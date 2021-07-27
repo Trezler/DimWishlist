@@ -157,10 +157,10 @@ IMPERIAL NEEDLE:
 (Elastic String, Impulse Amplifier, Swashbuckler, Frenzy______)x
 dimwishlist:item=3460122497&perks=2801223209,951095735,2726471870,3592538738#notes:Good in PvE, go for Reload MW
 dimwishlist:item=3460122497&perks=2801223209,951095735,2726471870,4082225868#notes:Good in PvE, go for Reload MW
-dimwishlist:item=3460122497&perks=2801223209,951095735,2726471870,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,951095735,2726471870,4104185692#notes:Good in PvE & GM's, go for Reload MW
 dimwishlist:item=3460122497&perks=2801223209,951095735,3592538738,4082225868#notes:Good in PvE, go for Reload MW
-dimwishlist:item=3460122497&perks=2801223209,951095735,3592538738,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
-dimwishlist:item=3460122497&perks=2801223209,951095735,4082225868,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,951095735,3592538738,4104185692#notes:Good in PvE & GM's, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,951095735,4082225868,4104185692#notes:Good in PvE & GM's, go for Reload MW
 
 (Impulse Amplifier, Thresh______, Wellspring__)x
 (Impulse Amplifier, Thresh______, Swashbuckler)x
@@ -170,10 +170,10 @@ dimwishlist:item=3460122497&perks=2801223209,951095735,4082225868,4104185692#not
 (Impulse Amplifier, Swashbuckler, Frenzy______)x
 dimwishlist:item=3460122497&perks=951095735,2726471870,3592538738#notes:Good in PvE, go for Draw Time MW
 dimwishlist:item=3460122497&perks=951095735,2726471870,4082225868#notes:Good in PvE, go for Draw Time MW
-dimwishlist:item=3460122497&perks=951095735,2726471870,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Draw Time MW
+dimwishlist:item=3460122497&perks=951095735,2726471870,4104185692#notes:Good in PvE & GM's, go for Draw Time MW
 dimwishlist:item=3460122497&perks=951095735,3592538738,4082225868#notes:Good in PvE, go for Draw Time MW
-dimwishlist:item=3460122497&perks=951095735,3592538738,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Draw Time MW
-dimwishlist:item=3460122497&perks=951095735,4082225868,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Draw Time MW
+dimwishlist:item=3460122497&perks=951095735,3592538738,4104185692#notes:Good in PvE & GM's, go for Draw Time MW
+dimwishlist:item=3460122497&perks=951095735,4082225868,4104185692#notes:Good in PvE & GM's, go for Draw Time MW
 
 (Elastic String, Thresh______, Wellspring__)x
 (Elastic String, Thresh______, Swashbuckler)x
@@ -183,19 +183,19 @@ dimwishlist:item=3460122497&perks=951095735,4082225868,4104185692#notes:Good in 
 (Elastic String, Swashbuckler, Frenzy______)x
 dimwishlist:item=3460122497&perks=2801223209,2726471870,3592538738#notes:Good in PvE, go for Reload MW
 dimwishlist:item=3460122497&perks=2801223209,2726471870,4082225868#notes:Good in PvE, go for Reload MW
-dimwishlist:item=3460122497&perks=2801223209,2726471870,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,2726471870,4104185692#notes:Good in PvE & GM's, go for Reload MW
 dimwishlist:item=3460122497&perks=2801223209,3592538738,4082225868#notes:Good in PvE, go for Reload MW
-dimwishlist:item=3460122497&perks=2801223209,3592538738,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
-dimwishlist:item=3460122497&perks=2801223209,4082225868,4104185692#notes:Good in PvE, Frenzy is good in GM's, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,3592538738,4104185692#notes:Good in PvE & GM's, go for Reload MW
+dimwishlist:item=3460122497&perks=2801223209,4082225868,4104185692#notes:Good in PvE & GM's, go for Reload MW
 
-(Elastic String, Impulse Amplifier, Thresh______)x
-(______________, Impulse Amplifier, Thresh______)x
-(Elastic String, Impulse Amplifier, Wellspring__)x
-(______________, Impulse Amplifier, Wellspring__)x
-(Elastic String, Impulse Amplifier, Swashbuckler)x
-(______________, Impulse Amplifier, Swashbuckler)x
-(Elastic String, Impulse Amplifier, Frenzy______)x
-(______________, Impulse Amplifier, Frenzy______)x
+(Elastic String, Impulse Amplifier, Thresh______)
+(______________, Impulse Amplifier, Thresh______)
+(Elastic String, Impulse Amplifier, Wellspring__)
+(______________, Impulse Amplifier, Wellspring__)
+(Elastic String, Impulse Amplifier, Swashbuckler)
+(______________, Impulse Amplifier, Swashbuckler)
+(Elastic String, Impulse Amplifier, Frenzy______)
+(______________, Impulse Amplifier, Frenzy______)
 dimwishlist:item=3460122497&perks=2801223209,951095735,2726471870#notes:Good in PvE, go for Reload MW
 dimwishlist:item=3460122497&perks=951095735,2726471870#notes:Good in PvE, go for Draw Time MW
 dimwishlist:item=3460122497&perks=2801223209,951095735,3592538738#notes:Good in PvE, go for Reload MW
@@ -400,7 +400,7 @@ dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713#no
 PLUG ONE.1:
 (Liquid Coils, Feeding Frenzy, Reservoir Burst)
 (____________, Feeding Frenzy, Reservoir Burst)
-dimwishlist:item=1289000550&perks=1687452232,2779035018,1427256713#notes:Good in PvE#notes:Good in PvE
+dimwishlist:item=1289000550&perks=1687452232,2779035018,1427256713#notes:Good in PvE
 dimwishlist:item=1289000550&perks=2779035018,1427256713#notes:Good in PvE
 
 (Quickdraw, Backup Plan)
@@ -597,7 +597,7 @@ dimwishlist:item=1046651176&perks=1168162263,3038247973#notes:Good in PvE & PvP
 FINITE IMPACTOR:
 (Ricochet Rounds, Heating Up__, Iron Reach)
 (_______________, Heating Up__, Iron Reach)
-(Ricochet Rounds, Killing Wind, Iron Reach
+(Ricochet Rounds, Killing Wind, Iron Reach)
 (_______________, Killing Wind, Iron Reach)
 dimwishlist:item=3813153080&perks=1885400500,1570042021,591790007#notes:Good in PvP
 dimwishlist:item=3813153080&perks=1570042021,591790007#notes:Good in PvP
@@ -1027,19 +1027,19 @@ dimwishlist:item=-2776503072#notes:Trash
 TRUSTEE:
 (Surplus, High-Impact Reserves)
 (Surplus, Wellspring__________)
-dimwishlist:item=1392919471&perks=3436462433,2213355989#notes:Good in PvE & GM's
+dimwishlist:item=1392919471&perks=3436462433,2213355989#notes:Good in GM's
 dimwishlist:item=1392919471&perks=3436462433,2213355989#notes:Good in PvE
 
 (Outlaw, High-Impact Reserves)
 (Outlaw, Wellspring__________)
-dimwishlist:item=1392919471&perks=1168162263,2213355989#notes:Good in PvE & GM's
+dimwishlist:item=1392919471&perks=1168162263,2213355989#notes:Good in GM's
 dimwishlist:item=1392919471&perks=1168162263,3592538738#notes:Good in PvE
 
 
 
 VISION OF CONFLUENCE:
-(Wellspring, Firefly_________)
-(Wellspring, Thresh__________)
+(Wellspring, Firefly)
+(Wellspring, Thresh)
 dimwishlist:item=3186018373&perks=3592538738,3824105627#notes:Good in PvE
 dimwishlist:item=3186018373&perks=3592538738,2726471870#notes:Good in PvE
 
@@ -1330,9 +1330,9 @@ DISTANT TUMULUS:
 (Tactical Mag, Clown Cartridge, Firing Line)
 (____________, Clown Cartridge, Firing Line)
 (Tactical Mag, _______________, Firing Line)
-dimwishlist:item=2807687156&perks=106909392,2284787283,1771339417#notes:Good in PvE, Boss DPS
-dimwishlist:item=2807687156&perks=2284787283,1771339417#notes:Good in PvE, Boss DPS
-dimwishlist:item=2807687156&perks=106909392,1771339417#notes:Good in PvE, Boss DPS
+dimwishlist:item=2807687156&perks=106909392,2284787283,1771339417#notes:Good in PvE
+dimwishlist:item=2807687156&perks=2284787283,1771339417#notes:Good in PvE
+dimwishlist:item=2807687156&perks=106909392,1771339417#notes:Good in PvE
 
 
 
@@ -1362,7 +1362,7 @@ dimwishlist:item=3473290087&perks=588594999,957782887#notes:Good in PvP
 
 (Appended Mag, Triple Tap, Vorpal Weapon)
 (____________, Triple Tap, Vorpal Weapon)
-dimwishlist:item=3473290087&perks=1087426260,3400784728,1546637391#notes:Good in PvE & GM's, use Backup Mag
+dimwishlist:item=3473290087&perks=1087426260,3400784728,1546637391#notes:Good in PvE & GM's, use Backup Mag Mod
 dimwishlist:item=3473290087&perks=3400784728,1546637391#notes:Good in PvE & GM's
 
 
@@ -1421,7 +1421,7 @@ dimwishlist:item=3454326177&perks=3513791699,957782887#notes:Good in PvP
 UZUME RR4:
 (Appended Mag, Triple Tap, Vorpal Weapon)
 (____________, Triple Tap, Vorpal Weapon)
-dimwishlist:item=2065081837&perks=106909392,3400784728,1546637391#notes:Good in PvE, use Backup Mag
+dimwishlist:item=2065081837&perks=106909392,3400784728,1546637391#notes:Good in PvE, use Backup Mag Mod
 dimwishlist:item=2065081837&perks=3400784728,1546637391#notes:Good in PvE
 
 (Accurized Rounds, Snapshot, Vorpal Weapon)
@@ -1434,7 +1434,7 @@ dimwishlist:item=2065081837&perks=957782887,1546637391#notes:Good in PvP
 UZUME RR4 (ADEPT):
 (Tactical Mag, Triple Tap, Vorpal Weapon)
 (____________, Triple Tap, Vorpal Weapon)
-dimwishlist:item=852228780&perks=106909392,3400784728,1546637391#notes:Good in PvE, use Adept Backup Mag
+dimwishlist:item=852228780&perks=106909392,3400784728,1546637391#notes:Good in PvE, use Adept Backup Mag Mod
 dimwishlist:item=852228780&perks=3400784728,1546637391#notes:Good in PvE
 
 (Accurized Rounds, Snapshot, Vorpal Weapon)
@@ -1556,8 +1556,8 @@ dimwishlist:item=3089417788&perks=1840239774,1431678320,1866048759,1015611457#no
 SEVENTH SERAPH VY-7:
 (Ambitious Assassin_____, Dragonfly)
 (Fourth Time's the Charm, Dragonfly)
-dimwishlist:item=766323545&perks=2010801679,2848615171#notes:Good in PvE, go for Reload MW
-dimwishlist:item=766323545&perks=1354429876,2848615171#notes:Good in PvE, go for Reload MW
+dimwishlist:item=766323545&perks=2010801679,2848615171#notes:Good in PvE
+dimwishlist:item=766323545&perks=1354429876,2848615171#notes:Good in PvE
 
 
 
