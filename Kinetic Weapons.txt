@@ -1130,24 +1130,40 @@ dimwishlist:item=3799980700&perks=1840239774,679225683,1168162263,3038247973#not
 SHOTGUNS:
 
 ASTRAL HORIZON:
-(Rifled Barrel, Accurized Rounds, Surplus, Opening Shot)
-(_____________, Accurized Rounds, Surplus, Opening Shot)
-(Rifled Barrel, ________________, Surplus, Opening Shot)
-(_____________, ________________, Surplus, Opening Shot)
+(Rifled Barrel, Full Choke, Accurized Rounds, Surplus, Opening Shot)
+(_____________, Full Choke, Accurized Rounds, Surplus, Opening Shot)
+(Rifled Barrel, __________, Accurized Rounds, Surplus, Opening Shot)
+(_____________, __________, Accurized Rounds, Surplus, Opening Shot)
+(Rifled Barrel, Full Choke, ________________, Surplus, Opening Shot)
+(_____________, Full Choke, ________________, Surplus, Opening Shot)
+(Rifled Barrel, __________, ________________, Surplus, Opening Shot)
+(_____________, __________, ________________, Surplus, Opening Shot)
+dimwishlist:item=1697682876&perks=1332244541,1047830412,3142289711,3436462433,47981717#notes:Good in PvP
+dimwishlist:item=1697682876&perks=1047830412,3142289711,3436462433,47981717#notes:Good in PvP
 dimwishlist:item=1697682876&perks=1332244541,3142289711,3436462433,47981717#notes:Good in PvP
 dimwishlist:item=1697682876&perks=3142289711,3436462433,47981717#notes:Good in PvP
+dimwishlist:item=1697682876&perks=1332244541,1047830412,3436462433,47981717#notes:Good in PvP
+dimwishlist:item=1697682876&perks=1047830412,3436462433,47981717#notes:Good in PvP
 dimwishlist:item=1697682876&perks=1332244541,3436462433,47981717#notes:Good in PvP
 dimwishlist:item=1697682876&perks=3436462433,47981717#notes:Good in PvP
 
 
 
 ASTRAL HORIZON (ADEPT):
-(Rifled Barrel, Accurized Rounds, Surplus, Opening Shot)
-(_____________, Accurized Rounds, Surplus, Opening Shot)
-(Rifled Barrel, ________________, Surplus, Opening Shot)
-(_____________, ________________, Surplus, Opening Shot)
+(Rifled Barrel, Full Choke, Accurized Rounds, Surplus, Opening Shot)
+(_____________, Full Choke, Accurized Rounds, Surplus, Opening Shot)
+(Rifled Barrel, __________, Accurized Rounds, Surplus, Opening Shot)
+(_____________, __________, Accurized Rounds, Surplus, Opening Shot)
+(Rifled Barrel, Full Choke, ________________, Surplus, Opening Shot)
+(_____________, Full Choke, ________________, Surplus, Opening Shot)
+(Rifled Barrel, __________, ________________, Surplus, Opening Shot)
+(_____________, __________, ________________, Surplus, Opening Shot)
+dimwishlist:item=532746994&perks=1332244541,1047830412,3142289711,3436462433,47981717#notes:Good in PvP
+dimwishlist:item=532746994&perks=1047830412,3142289711,3436462433,47981717#notes:Good in PvP
 dimwishlist:item=532746994&perks=1332244541,3142289711,3436462433,47981717#notes:Good in PvP
 dimwishlist:item=532746994&perks=3142289711,3436462433,47981717#notes:Good in PvP
+dimwishlist:item=532746994&perks=1332244541,1047830412,3436462433,47981717#notes:Good in PvP
+dimwishlist:item=532746994&perks=1047830412,3436462433,47981717#notes:Good in PvP
 dimwishlist:item=532746994&perks=1332244541,3436462433,47981717#notes:Good in PvP
 dimwishlist:item=532746994&perks=3436462433,47981717#notes:Good in PvP
 
@@ -1194,16 +1210,20 @@ dimwishlist:item=-1016668089#notes:Trash
 RIISWALKER:
 (Rifled Barrel, Accurized Rounds, Quickdraw, Iron Reach)
 (_____________, Accurized Rounds, Quickdraw, Iron Reach)
+(Rifled Barrel, ________________, Quickdraw, Iron Reach)
 (_____________, ________________, Quickdraw, Iron Reach)
 dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007#notes:Good in PvP
 dimwishlist:item=108221785&perks=3142289711,706527188,591790007#notes:Good in PvP
+dimwishlist:item=108221785&perks=1332244541,706527188,591790007#notes:Good in PvP
 dimwishlist:item=108221785&perks=706527188,591790007#notes:Good in PvP
 
 (Rifled Barrel, Accurized Rounds, Quickdraw, Vorpal Weapon)
 (_____________, Accurized Rounds, Quickdraw, Vorpal Weapon)
+(Rifled Barrel, ________________, Quickdraw, Vorpal Weapon)
 (_____________, ________________, Quickdraw, Vorpal Weapon)
 dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,1546637391#notes:Good in PvP
 dimwishlist:item=108221785&perks=3142289711,706527188,1546637391#notes:Good in PvP
+dimwishlist:item=108221785&perks=1332244541,706527188,1546637391#notes:Good in PvP
 dimwishlist:item=108221785&perks=706527188,1546637391#notes:Good in PvP
 
 
