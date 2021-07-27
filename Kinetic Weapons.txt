@@ -112,9 +112,9 @@ dimwishlist:item=4095896073&perks=2801223209,3425386926#notes:Good in PvE & PvP,
 (Elastic String, Archer's Tempo, Rapid Hit)
 (______________, Archer's Tempo, Rapid Hit)
 (Elastic String, ______________, Rapid Hit)
-dimwishlist:item=4095896073&perks=2801223209,201365942,247725512#notes:Test this, go for Draw Time MW
-dimwishlist:item=4095896073&perks=201365942,247725512#notes:Test this, go for Draw Time MW
-dimwishlist:item=4095896073&perks=2801223209,247725512#notes:Test this, go for Draw Time MW
+dimwishlist:item=4095896073&perks=2801223209,201365942,247725512#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=4095896073&perks=201365942,247725512#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=4095896073&perks=2801223209,247725512#notes:Good in PvE, go for Draw Time MW
 
 
 
@@ -1058,7 +1058,7 @@ THE TIME-WORN SPIRE:
 (Feeding Frenzy, Rampage)
 (Subsistence___, Rampage)
 dimwishlist:item=3593598010&perks=2779035018,3425386926#notes:Good in PvE
-dimwishlist:item=3593598010&perks=1820235745,3425386926#notes:Test how Subsistence works
+dimwishlist:item=3593598010&perks=1820235745,3425386926#notes:Test Subsistence
 
 (Ricochet Rounds, Moving Target_, Rampage)
 (Ricochet Rounds, Under Pressure, Rampage)
