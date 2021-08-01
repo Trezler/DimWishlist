@@ -490,25 +490,39 @@ dimwishlist:item=4255586669&perks=1844523823,3032599245,3300816228,1683379515#no
 dimwishlist:item=4255586669&perks=3032599245,3300816228,1683379515#notes:Good in GM's
 dimwishlist:item=4255586669&perks=3032599245,1683379515#notes:Good in GM's
 
+(Confined Launch, Blinding Grenades, Auto-Loading, One for All)
+(_______________, Blinding Grenades, Auto-Loading, One for All)
+dimwishlist:item=4255586669&perks=1844523823,3032599245,3300816228,1683379515#notes:Good in GM's
+dimwishlist:item=4255586669&perks=3032599245,3300816228,4049631843#notes:Good in GM's
+
+(Confined Launch, Blinding Grenades, Field-Prep, One for All)
+(_______________, Blinding Grenades, Field-Prep, One for All)
+(_______________, Blinding Grenades, __________, One for All)
+dimwishlist:item=4255586669&perks=1844523823,3032599245,2869569095,4049631843#notes:Good in GM's
+dimwishlist:item=4255586669&perks=3032599245,2869569095,4049631843#notes:Good in GM's
+dimwishlist:item=4255586669&perks=3032599245,4049631843#notes:Good in GM's
+
 (Blinding Grenades, Spike Grenades, Auto-Loading, Vorpal Weapon)
 (_________________, Spike Grenades, Auto-Loading, Vorpal Weapon)
 (Blinding Grenades, ______________, Auto-Loading, Vorpal Weapon)
 (Blinding Grenades, ______________, Auto-Loading, _____________)
-(Blinding Grenades, ______________, ____________, Vorpal Weapon)
-dimwishlist:item=4255586669&perks=3032599245,3301904089,3300816228,1546637391#notes:Good in GM's
-dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391#notes:Good in GM's
+dimwishlist:item=4255586669&perks=3032599245,3301904089,3300816228,1546637391#notes:Good in PvE & GM's
+dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391#notes:Good in PvE
 dimwishlist:item=4255586669&perks=3032599245,3300816228,1546637391#notes:Good in GM's
 dimwishlist:item=4255586669&perks=3032599245,3300816228#notes:Good in GM's
-dimwishlist:item=4255586669&perks=3032599245,1546637391#notes:Good in GM's
 
-(Hard Launch, Blinding Grenades, Spike Grenades, Field-Prep, Vorpal)
-(___________, Blinding Grenades, Spike Grenades, Field-Prep, Vorpal)
-(___________, _________________, Spike Grenades, Field-Prep, Vorpal)
-(___________, _________________, Spike Grenades, __________, Vorpal)
-dimwishlist:item=4255586669&perks=981914802,3032599245,3301904089,2869569095,1546637391#notes:Good in PvE
-dimwishlist:item=4255586669&perks=3032599245,3301904089,2869569095,1546637391#notes:Good in PvE
+(Blinding Grenades, Spike Grenades, Field-Prep, Vorpal Weapon)
+(_________________, Spike Grenades, Field-Prep, Vorpal Weapon)
+(Blinding Grenades, ______________, Field-Prep, Vorpal Weapon)
+(_________________, ______________, Field-Prep, Vorpal Weapon)
+(_________________, Spike Grenades, __________, Vorpal Weapon)
+(Blinding Grenades, ______________, __________, Vorpal Weapon)
+dimwishlist:item=4255586669&perks=3032599245,3301904089,2869569095,1546637391#notes:Good in PvE & GM's
 dimwishlist:item=4255586669&perks=3301904089,2869569095,1546637391#notes:Good in PvE
+dimwishlist:item=4255586669&perks=3032599245,2869569095,1546637391#notes:Good in GM's
+dimwishlist:item=4255586669&perks=2869569095,1546637391#notes:Good in PvE
 dimwishlist:item=4255586669&perks=3301904089,1546637391#notes:Good in PvE
+dimwishlist:item=4255586669&perks=3032599245,1546637391#notes:Good in GM's
 
 
 
