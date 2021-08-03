@@ -8,10 +8,10 @@ BERENGER'S MEMORY:
 (____________, Spike Grenades, Quickdraw, Auto-Loading)
 (Quick Launch, Spike Grenades, _________, Auto-Loading)
 (____________, Spike Grenades, _________, Auto-Loading)
-dimwishlist:item=407621213&perks=981914802,3301904089,706527188,3300816228#notes:Good in PvE, boss DPS
-dimwishlist:item=407621213&perks=3301904089,706527188,3300816228#notes:Good in PvE, boss DPS
-dimwishlist:item=407621213&perks=3525010810,3301904089,3300816228#notes:Good in PvE, boss DPS
-dimwishlist:item=407621213&perks=3301904089,3300816228#notes:Good in PvE, boss DPS
+dimwishlist:item=407621213&perks=981914802,3301904089,706527188,3300816228#notes:Good in PvE
+dimwishlist:item=407621213&perks=3301904089,706527188,3300816228#notes:Good in PvE
+dimwishlist:item=407621213&perks=3525010810,3301904089,3300816228#notes:Good in PvE
+dimwishlist:item=407621213&perks=3301904089,3300816228#notes:Good in PvE
 
 
 
@@ -24,15 +24,6 @@ dimwishlist:item=2453357042&perks=1478423395,2985827016,2284787283,2396489472#no
 dimwishlist:item=2453357042&perks=2985827016,2284787283,2396489472#notes:Good in PvE
 dimwishlist:item=2453357042&perks=1478423395,2284787283,2396489472#notes:Good in PvE
 dimwishlist:item=2453357042&perks=2284787283,2396489472#notes:Good in PvE
-
-(Hard Launch_, Spike Grenades, Quickdraw, Auto-Loading)
-(____________, Spike Grenades, Quickdraw, Auto-Loading)
-(Quick Launch, Spike Grenades, _________, Auto-Loading)
-(____________, Spike Grenades, _________, Auto-Loading)
-dimwishlist:item=2453357042&perks=981914802,3301904089,706527188,3300816228#notes:Good in PvE, boss DPS
-dimwishlist:item=2453357042&perks=3301904089,706527188,3300816228#notes:Good in PvE, boss DPS
-dimwishlist:item=2453357042&perks=3525010810,3301904089,3300816228#notes:Good in PvE, boss DPS
-dimwishlist:item=2453357042&perks=3301904089,3300816228#notes:Good in PvE, boss DPS
 
 
 
@@ -55,15 +46,6 @@ dimwishlist:item=3565520715&perks=2985827016,2010801679,2396489472#notes:Good in
 dimwishlist:item=3565520715&perks=1478423395,2010801679,2396489472#notes:Good in PvE
 dimwishlist:item=3565520715&perks=2010801679,2396489472#notes:Good in PvE
 
-(Volatile Launch, High-Velocity Rounds, Field Prep, Chain Reaction)
-(_______________, High-Velocity Rounds, Field Prep, Chain Reaction)
-(Volatile Launch, ____________________, Field Prep, Chain Reaction)
-(_______________, ____________________, Field Prep, Chain Reaction)
-dimwishlist:item=3565520715&perks=1478423395,2822142346,2869569095,2396489472#notes:Good in PvE
-dimwishlist:item=3565520715&perks=2822142346,2869569095,2396489472#notes:Good in PvE
-dimwishlist:item=3565520715&perks=1478423395,2869569095,2396489472#notes:Good in PvE
-dimwishlist:item=3565520715&perks=2869569095,2396489472#notes:Good in PvE
-
 
 
 INTERFERENCE VI:
@@ -71,151 +53,156 @@ INTERFERENCE VI:
 (____________, Spike Grenades, Auto-Loading, Full Court)
 (Quick Launch, Spike Grenades, Auto-Loading, __________)
 (____________, Spike Grenades, Auto-Loading, __________)
-dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,2888557110#notes:Good in PvE, boss DPS
-dimwishlist:item=2257180473&perks=3301904089,3300816228,2888557110#notes:Good in PvE, boss DPS
-dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228#notes:Good in PvE, boss DPS
-dimwishlist:item=2257180473&perks=3301904089,3300816228#notes:Good in PvE, boss DPS
+dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,2888557110#notes:Good in PvE
+dimwishlist:item=2257180473&perks=3301904089,3300816228,2888557110#notes:Good in PvE
+dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228#notes:Good in PvE
+dimwishlist:item=2257180473&perks=3301904089,3300816228#notes:Good in PvE
 
 (Hard Launch, Spike Grenades, Field Prep, Full Court)
 (___________, Spike Grenades, Field Prep, Full Court)
 (Hard Launch, Spike Grenades, Field Prep, __________)
 (___________, Spike Grenades, Field Prep, __________)
-dimwishlist:item=2257180473&perks=981914802,3301904089,2869569095,2888557110#notes:Good in PvE, boss DPS
-dimwishlist:item=2257180473&perks=3301904089,2869569095,2888557110#notes:Good in PvE, boss DPS
-dimwishlist:item=2257180473&perks=981914802,3301904089,2869569095#notes:Good in PvE, boss DPS
-dimwishlist:item=2257180473&perks=3301904089,2869569095#notes:Good in PvE, boss DPS
+dimwishlist:item=2257180473&perks=981914802,3301904089,2869569095,2888557110#notes:Good in PvE
+dimwishlist:item=2257180473&perks=3301904089,2869569095,2888557110#notes:Good in PvE
+dimwishlist:item=2257180473&perks=981914802,3301904089,2869569095#notes:Good in PvE
+dimwishlist:item=2257180473&perks=3301904089,2869569095#notes:Good in PvE
 
-(Hard Launch, Spike Grenades, Clown Cartridge, Full Court)
-(___________, Spike Grenades, Clown Cartridge, Full Court)
-(Hard Launch, Spike Grenades, Clown Cartridge, __________)
-(___________, Spike Grenades, Clown Cartridge, __________)
-(Hard Launch, Spike Grenades, _______________, Full Court)
-(___________, Spike Grenades, _______________, Full Court)
-dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110#notes:Good in PvE, boss DPS
-dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110#notes:Good in PvE, boss DPS
-dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283#notes:Good in PvE, boss DPS
-dimwishlist:item=2257180473&perks=3301904089,2284787283#notes:Good in PvE, boss DPS
-dimwishlist:item=2257180473&perks=981914802,3301904089,2888557110#notes:Good in PvE, boss DPS
-dimwishlist:item=2257180473&perks=3301904089,2888557110#notes:Good in PvE, boss DPS
+
+
+LOVE AND DEATH:
+(Quick Launch, High-Explosive Ordnance, Auto-Loading, Chain Reaction)
+(____________, High-Explosive Ordnance, Auto-Loading, Chain Reaction)
+(Quick Launch, _______________________, Auto-Loading, Chain Reaction)
+(____________, _______________________, Auto-Loading, Chain Reaction)
+dimwishlist:item=3690523502&perks=3525010810,1380253176,3300816228,2396489472#notes:Good in PvE
+dimwishlist:item=3690523502&perks=1380253176,3300816228,2396489472#notes:Good in PvE
+dimwishlist:item=3690523502&perks=3525010810,3300816228,2396489472#notes:Good in PvE
+dimwishlist:item=3690523502&perks=3300816228,2396489472#notes:Good in PvE
+
+(Volatile Launch, Alloy Casing, Clown Cartridge, Chain Reaction)
+(_______________, Alloy Casing, Clown Cartridge, Chain Reaction)
+(Volatile Launch, ____________, Clown Cartridge, Chain Reaction)
+(_______________, ____________, Clown Cartridge, Chain Reaction)
+dimwishlist:item=3690523502&perks=1478423395,2985827016,2284787283,2396489472#notes:Good in PvE
+dimwishlist:item=3690523502&perks=2985827016,2284787283,2396489472#notes:Good in PvE
+dimwishlist:item=3690523502&perks=1478423395,2284787283,2396489472#notes:Good in PvE
+dimwishlist:item=3690523502&perks=2284787283,2396489472#notes:Good in PvE
 
 
 
 MEMORY INTERDICT:
-(Volatile Launch, High Explosive Ordnance, Auto-Loading, Chain Reaction)
-(_______________, High Explosive Ordnance, Auto-Loading, Chain Reaction)
-(Volatile Launch, _______________________, Auto-Loading, Chain Reaction)
-(_______________, _______________________, Auto-Loading, Chain Reaction)
-dimwishlist:item=3165547384&perks=1478423395,1380253176,3300816228,2396489472#notes:Good in PvP
-dimwishlist:item=3165547384&perks=1380253176,3300816228,2396489472#notes:Good in PvP
-dimwishlist:item=3165547384&perks=1478423395,3300816228,2396489472#notes:Good in PvP
-dimwishlist:item=3165547384&perks=3300816228,2396489472#notes:Good in PvP
+(Volatile Launch, Alloy Casing, Clown Cartridge, Chain Reaction)
+(_______________, Alloy Casing, Clown Cartridge, Chain Reaction)
+(Volatile Launch, ____________, Clown Cartridge, Chain Reaction)
+(_______________, ____________, Clown Cartridge, Chain Reaction)
+dimwishlist:item=3165547384&perks=1478423395,2985827016,2284787283,2396489472#notes:Good in PvE
+dimwishlist:item=3165547384&perks=2985827016,2284787283,2396489472#notes:Good in PvE
+dimwishlist:item=3165547384&perks=1478423395,2284787283,2396489472#notes:Good in PvE
+dimwishlist:item=3165547384&perks=2284787283,2396489472#notes:Good in PvE
+
+(Quick Launch, High-Explosive Ordnance, Auto-Loading, Chain Reaction)
+(____________, High-Explosive Ordnance, Auto-Loading, Chain Reaction)
+(Quick Launch, _______________________, Auto-Loading, Chain Reaction)
+(____________, _______________________, Auto-Loading, Chain Reaction)
+dimwishlist:item=3165547384&perks=3525010810,1380253176,3300816228,2396489472#notes:Good in PvE
+dimwishlist:item=3165547384&perks=1380253176,3300816228,2396489472#notes:Good in PvE
+dimwishlist:item=3165547384&perks=3525010810,3300816228,2396489472#notes:Good in PvE
+dimwishlist:item=3165547384&perks=3300816228,2396489472#notes:Good in PvE
+
+(Proximity Grenades_____, Impulse Amplifier, Chain Reaction)
+(High-Explosive Ordnance, Impulse Amplifier, Chain Reaction)
+(_______________________, Impulse Amplifier, Chain Reaction)
+dimwishlist:item=3165547384&perks=409831596,951095735,2396489472#notes:Good in PvP
+dimwishlist:item=3165547384&perks=1380253176,951095735,2396489472#notes:Good in PvP
+dimwishlist:item=3165547384&perks=951095735,2396489472#notes:Good in PvP
 
 
 
 OUTRAGEOUS FORTUNE:
-(Hard Launch, Spike Grenades, Auto-Loading, Quickdraw)
-(___________, Spike Grenades, Auto-Loading, Quickdraw)
-(Hard Launch, Spike Grenades, Auto-Loading, _________)
-(___________, Spike Grenades, Auto-Loading, _________)
-dimwishlist:item=4146702548&perks=981914802,3301904089,3300816228,706527188#notes:Good in PvE, boss DPS
-dimwishlist:item=4146702548&perks=3301904089,3300816228,706527188#notes:Good in PvE, boss DPS
-dimwishlist:item=4146702548&perks=981914802,3301904089,3300816228#notes:Good in PvE, boss DPS
-dimwishlist:item=4146702548&perks=3301904089,3300816228#notes:Good in PvE, boss DPS
+(Hard Launch_, Spike Grenades, Auto-Loading, Quickdraw)
+(____________, Spike Grenades, Auto-Loading, Quickdraw)
+(Quick Launch, Spike Grenades, Auto-Loading, _________)
+(____________, Spike Grenades, Auto-Loading, _________)
+dimwishlist:item=4146702548&perks=981914802,3301904089,3300816228,706527188#notes:Good in PvE
+dimwishlist:item=4146702548&perks=3301904089,3300816228,706527188#notes:Good in PvE
+dimwishlist:item=4146702548&perks=3525010810,3301904089,3300816228#notes:Good in PvE
+dimwishlist:item=4146702548&perks=3301904089,3300816228#notes:Good in PvE
 
 
 
 SWARM OF THE RAVEN:
-(Hard Launch, Spike Grenades, Auto-Loading, Quickdraw)
-(___________, Spike Grenades, Auto-Loading, Quickdraw)
-(Hard Launch, Spike Grenades, Auto-Loading, _________)
-(___________, Spike Grenades, Auto-Loading, _________)
-dimwishlist:item=1972985595&perks=981914802,3301904089,3300816228,706527188#notes:Good in PvE, boss DPS
-dimwishlist:item=1972985595&perks=3301904089,3300816228,706527188#notes:Good in PvE, boss DPS
-dimwishlist:item=1972985595&perks=981914802,3301904089,3300816228#notes:Good in PvE, boss DPS
-dimwishlist:item=1972985595&perks=3301904089,3300816228#notes:Good in PvE, boss DPS
+(Hard Launch_, Spike Grenades, Auto-Loading, Quickdraw)
+(____________, Spike Grenades, Auto-Loading, Quickdraw)
+(Quick Launch, Spike Grenades, Auto-Loading, _________)
+(____________, Spike Grenades, Auto-Loading, _________)
+dimwishlist:item=1972985595&perks=981914802,3301904089,3300816228,706527188#notes:Good in PvE
+dimwishlist:item=1972985595&perks=3301904089,3300816228,706527188#notes:Good in PvE
+dimwishlist:item=1972985595&perks=3525010810,3301904089,3300816228#notes:Good in PvE
+dimwishlist:item=1972985595&perks=3301904089,3300816228#notes:Good in PvE
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 LINEAR FUSION RIFLES:
 
 CORSAIR'S WRATH:
-(Accelerated Coils, Firmly Planted, High-Impact Reserves)
-(_________________, Firmly Planted, High-Impact Reserves)
-dimwishlist:item=2714022207&perks=689005463,280464955,2213355989#notes:Good in PvE, boss DPS
-dimwishlist:item=2714022207&perks=280464955,2213355989#notes:Good in PvE, boss DPS
-
-(Accelerated Coils, No Distractions, High-Impact Reserves)
-(_________________, No Distractions, High-Impact Reserves)
-(Accelerated Coils, _______________, High-Impact Reserves)
-dimwishlist:item=2714022207&perks=689005463,2866798147,2213355989#notes:Good in PvE, boss DPS
-dimwishlist:item=2714022207&perks=2866798147,2213355989#notes:Good in PvE, boss DPS
-dimwishlist:item=2714022207&perks=689005463,2213355989#notes:Good in PvE, boss DPS
+dimwishlist:item=2714022207#notes:Trash
 
 
 
 TARANTULA:
-dimwishlist:item=-3335343363#notes:Trash
+(Feeding Frenzy, Dragonfly)
+dimwishlist:item=3335343363&perks=2779035018,2848615171#notes:Good in PvE
 
 
 
 THREADED NEEDLE:
-(Accelerated Coils, Clown Cartridge, Vorpal Weapon, Frenzy_______) x
-(_________________, Clown Cartridge, Vorpal Weapon, Frenzy_______) x
-(Accelerated Coils, Clown Cartridge, Vorpal Weapon, _____________)
-(Accelerated Coils, Clown Cartridge, Frenzy_______, _____________)
-(_________________, Clown Cartridge, Vorpal Weapon, _____________)
-(_________________, Clown Cartridge, Frenzy_______, _____________)
-dimwishlist:item=3075224551&perks=689005463,2284787283,1546637391,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=2284787283,1546637391,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=689005463,2284787283,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=689005463,2284787283,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=2284787283,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=2284787283,4104185692#notes:Good in PvE, boss DPS
+(Field-Prep, Dragonfly)
+dimwishlist:item=3075224551&perks=2869569095,2848615171#notes:Good in PvE
 
-(Accelerated Coils, Rapid Hit, Vorpal Weapon, Frenzy_______) x
-(_________________, Rapid Hit, Vorpal Weapon, Frenzy_______) x
-(Accelerated Coils, Rapid Hit, Vorpal Weapon, _____________)
-(Accelerated Coils, Rapid Hit, Frenzy_______, _____________)
-(_________________, Rapid Hit, Vorpal Weapon, _____________)
-(_________________, Rapid Hit, Frenzy_______, _____________)
-dimwishlist:item=3075224551&perks=689005463,247725512,1546637391,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=247725512,1546637391,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=689005463,247725512,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=689005463,247725512,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=247725512,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=247725512,4104185692#notes:Good in PvE, boss DPS
+(Accelerated Coils, Rapid Hit, Vorpal Weapon)
+(_________________, Rapid Hit, Vorpal Weapon)
+dimwishlist:item=3075224551&perks=689005463,247725512,1546637391#notes:Good in PvE
+dimwishlist:item=3075224551&perks=247725512,1546637391#notes:Good in PvE
 
-(Accelerated Coils, Field Prep, Vorpal Weapon, Frenzy_______) x
-(_________________, Field Prep, Vorpal Weapon, Frenzy_______) x
-(Accelerated Coils, __________, Vorpal Weapon, Frenzy_______) x
-(Accelerated Coils, Field Prep, Vorpal Weapon, _____________)
-(Accelerated Coils, Field Prep, Frenzy_______, _____________)
-(Accelerated Coils, __________, Vorpal Weapon, _____________)
-(Accelerated Coils, __________, Frenzy_______, _____________)
-(_________________, Field Prep, Vorpal Weapon, _____________)
-(_________________, Field Prep, Frenzy_______, _____________)
-dimwishlist:item=3075224551&perks=689005463,2869569095,1546637391,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=2869569095,1546637391,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=689005463,1546637391,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=689005463,2869569095,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=689005463,2869569095,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=689005463,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=689005463,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=2869569095,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3075224551&perks=2869569095,4104185692#notes:Good in PvE, boss DPS
+(Accelerated Coils, Field Prep, Vorpal Weapon)
+(_________________, Field Prep, Vorpal Weapon)
+(Accelerated Coils, __________, Vorpal Weapon)
+dimwishlist:item=3075224551&perks=689005463,2869569095,1546637391#notes:Good in PvE
+dimwishlist:item=3075224551&perks=2869569095,1546637391#notes:Good in PvE
+dimwishlist:item=3075224551&perks=689005463,1546637391#notes:Good in PvE
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MACHINE GUNS:
 
-ARCHON'S THUNDER:
-(Accurized Rounds, Killing Wind, Rampage)
-(________________, Killing Wind, Rampage)
-dimwishlist:item=1967303408&perks=3142289711,2450788523,3425386926#notes:Good in PvP
-dimwishlist:item=1967303408&perks=2450788523,3425386926#notes:Good in PvP
+A FINE MEMORIAL:
+(Extended Mag, Subsistence, Wellspring)
+(____________, Subsistence, Wellspring)
+dimwishlist:item=3325778512&perks=2420895100,1820235745,3592538738#notes:Good in PvE
+dimwishlist:item=3325778512&perks=1820235745,3592538738#notes:Good in PvE
 
-(Field Prep, Rampage)
-dimwishlist:item=1967303408&perks=2869569095,3425386926#notes:Good in PvE
+(Extended Mag, Subsistence, One for All)
+(____________, Subsistence, One for All)
+dimwishlist:item=3325778512&perks=2420895100,1820235745,4049631843#notes:Good in PvE
+dimwishlist:item=3325778512&perks=1820235745,4049631843#notes:Good in PvE
+
+(Extended Mag, Field-Prep, Wellspring)
+(____________, Field-Prep, Wellspring)
+dimwishlist:item=3325778512&perks=2420895100,2869569095,3592538738#notes:Good in PvE
+dimwishlist:item=3325778512&perks=2869569095,3592538738#notes:Good in PvE
+
+(Extended Mag, Field-Prep, One for All)
+(____________, Field-Prep, One for All)
+dimwishlist:item=3325778512&perks=2420895100,2869569095,4049631843#notes:Good in PvE
+dimwishlist:item=3325778512&perks=2869569095,4049631843#notes:Good in PvE
+
+
+
+ARCHON'S THUNDER:
+(Accurized Rounds, Killing Wind, Iron Grip)
+(________________, Killing Wind, Iron Grip)
+dimwishlist:item=1967303408&perks=3142289711,2450788523,11551321#notes:Good in PvE
+dimwishlist:item=1967303408&perks=2450788523,11551321#notes:Good in PvE
 
 
 
@@ -230,211 +217,174 @@ dimwishlist:item=66875353&perks=1168162263,2848615171#notes:Good in PvE
 dimwishlist:item=66875353&perks=2420895100,1168162263,4082225868#notes:Good in PvE
 dimwishlist:item=66875353&perks=1168162263,4082225868#notes:Good in PvE
 
-(Surplus, Swashbuckler)
-(Surplus, Dragonfly___)
-dimwishlist:item=66875353&perks=3436462433,4082225868#notes:Good in PvE
-dimwishlist:item=66875353&perks=3436462433,2848615171#notes:Good in PvE
-
 
 
 COMMEMORATION:
-(Accurized Rounds, Surplus_______________, Under Pressure)
-(Accurized Rounds, Zen Moment____________, Under Pressure)
-(Steady Rounds___, Surplus_______________, Under Pressure)
-(Steady Rounds___, Zen Moment____________, Under Pressure)
-(________________, Surplus_______________, Under Pressure)
-(________________, Zen Moment____________, Under Pressure)
-dimwishlist:item=4230965989&perks=3142289711,3436462433,1645158859#notes:Good in PvP
-dimwishlist:item=4230965989&perks=3142289711,2387244414,1645158859#notes:Good in PvP
-dimwishlist:item=4230965989&perks=3177308360,3436462433,1645158859#notes:Good in PvP
-dimwishlist:item=4230965989&perks=3177308360,2387244414,1645158859#notes:Good in PvP
-dimwishlist:item=4230965989&perks=3436462433,1645158859#notes:Good in PvP
-dimwishlist:item=4230965989&perks=2387244414,1645158859#notes:Good in PvP
+(Dynamic Sway Reduction, Rampage_______)
+(No Distractions_______, Rampage_______)
+(Dynamic Sway Reduction, Under Pressure)
+(No Distractions_______, Under Pressure)
+dimwishlist:item=4230965989&perks=1359896290,3425386926#notes:Good in PvP
+dimwishlist:item=4230965989&perks=2866798147,3425386926#notes:Good in PvP
+dimwishlist:item=4230965989&perks=1359896290,1645158859#notes:Good in PvP
+dimwishlist:item=4230965989&perks=2866798147,1645158859#notes:Good in PvP
 
-(Accurized Rounds, Surplus_______________, Unrelenting)
-(Accurized Rounds, Zen Moment____________, Unrelenting)
-(Steady Rounds___, Surplus_______________, Unrelenting)
-(Steady Rounds___, Zen Moment____________, Unrelenting)
-(________________, Surplus_______________, Unrelenting)
-(________________, Zen Moment____________, Unrelenting)
-dimwishlist:item=4230965989&perks=3142289711,3436462433,3108830275#notes:Good in PvP
-dimwishlist:item=4230965989&perks=3142289711,2387244414,3108830275#notes:Good in PvP
-dimwishlist:item=4230965989&perks=3177308360,3436462433,3108830275#notes:Good in PvP
-dimwishlist:item=4230965989&perks=3177308360,2387244414,3108830275#notes:Good in PvP
-dimwishlist:item=4230965989&perks=3436462433,3108830275#notes:Good in PvP
-dimwishlist:item=4230965989&perks=2387244414,3108830275#notes:Good in PvP
-
-(Tactical Mag, Reconstruction, Rampage)
-(Appended Mag, Reconstruction, Rampage)
 (Extended Mag, Reconstruction, Rampage)
 (____________, Reconstruction, Rampage)
-dimwishlist:item=4230965989&perks=106909392,1523832109,3425386926#notes:Good in PvE
-dimwishlist:item=4230965989&perks=1087426260,1523832109,3425386926#notes:Good in PvE
 dimwishlist:item=4230965989&perks=2420895100,1523832109,3425386926#notes:Good in PvE
 dimwishlist:item=4230965989&perks=1523832109,3425386926#notes:Good in PvE
 
-(Tactical Mag, Feeding Frenzy, Rampage)
-(Appended Mag, Feeding Frenzy, Rampage)
 (Extended Mag, Feeding Frenzy, Rampage)
 (____________, Feeding Frenzy, Rampage)
-dimwishlist:item=4230965989&perks=106909392,2779035018,3425386926#notes:Good in PvE
-dimwishlist:item=4230965989&perks=1087426260,2779035018,3425386926#notes:Good in PvE
 dimwishlist:item=4230965989&perks=2420895100,2779035018,3425386926#notes:Good in PvE
 dimwishlist:item=4230965989&perks=2779035018,3425386926#notes:Good in PvE
 
-(Tactical Mag, Reconstruction, Dragonfly)
-(Appended Mag, Reconstruction, Dragonfly)
 (Extended Mag, Reconstruction, Dragonfly)
 (____________, Reconstruction, Dragonfly)
-dimwishlist:item=4230965989&perks=106909392,1523832109,2848615171#notes:Good in PvE
-dimwishlist:item=4230965989&perks=1087426260,1523832109,2848615171#notes:Good in PvE
 dimwishlist:item=4230965989&perks=2420895100,1523832109,2848615171#notes:Good in PvE
 dimwishlist:item=4230965989&perks=1523832109,2848615171#notes:Good in PvE
 
-(Tactical Mag, Feeding Frenzy, Dragonfly)
-(Appended Mag, Feeding Frenzy, Dragonfly)
 (Extended Mag, Feeding Frenzy, Dragonfly)
 (____________, Feeding Frenzy, Dragonfly)
-dimwishlist:item=4230965989&perks=106909392,2779035018,2848615171#notes:Good in PvE
-dimwishlist:item=4230965989&perks=1087426260,2779035018,2848615171#notes:Good in PvE
 dimwishlist:item=4230965989&perks=2420895100,2779035018,2848615171#notes:Good in PvE
 dimwishlist:item=4230965989&perks=2779035018,2848615171#notes:Good in PvE
 
 
 
 CORRECTIVE MEASURE:
-(Feeding Frenzy, Firefly)
-(Rewind Rounds_, Firefly)
+(Extended Mag, Feeding Frenzy, Thresh)
+(Extended Mag, Subsistence___, Thresh)
+(____________, Feeding Frenzy, Thresh)
+(____________, Subsistence___, Thresh)
+dimwishlist:item=471518543&perks=2420895100,2779035018,2726471870#notes:Good in PvE
+dimwishlist:item=471518543&perks=2420895100,1820235745,2726471870#notes:Good in PvE
+dimwishlist:item=471518543&perks=2779035018,2726471870#notes:Good in PvE
+dimwishlist:item=471518543&perks=1820235745,2726471870#notes:Good in PvE
+
+(Extended Mag, Feeding Frenzy, Firefly)
+(Extended Mag, Subsistence___, Firefly)
+(____________, Feeding Frenzy, Firefly)
+(____________, Subsistence___, Firefly)
+dimwishlist:item=471518543&perks=2420895100,2779035018,3824105627#notes:Good in PvE
+dimwishlist:item=471518543&perks=2420895100,1820235745,3824105627#notes:Good in PvE
 dimwishlist:item=471518543&perks=2779035018,3824105627#notes:Good in PvE
-dimwishlist:item=471518543&perks=3418782618,3824105627#notes:Good in PvE
+dimwishlist:item=471518543&perks=1820235745,3824105627#notes:Good in PvE
+
+(Dynamic Sway Reduction, High-Impact Reserves)
+dimwishlist:item=471518543&perks=1359896290,2213355989#notes:Good in PvP
 
 
 
 CORRECTIVE MEASURE (TIMELOST):
-(Feeding Frenzy, Firefly)
-(Rewind Rounds_, Firefly)
+(Extended Mag, Feeding Frenzy, Thresh)
+(Extended Mag, Subsistence___, Thresh)
+(____________, Feeding Frenzy, Thresh)
+(____________, Subsistence___, Thresh)
+dimwishlist:item=3796510434&perks=2420895100,2779035018,2726471870#notes:Good in PvE
+dimwishlist:item=3796510434&perks=2420895100,1820235745,2726471870#notes:Good in PvE
+dimwishlist:item=3796510434&perks=2779035018,2726471870#notes:Good in PvE
+dimwishlist:item=3796510434&perks=1820235745,2726471870#notes:Good in PvE
+
+(Extended Mag, Feeding Frenzy, Firefly)
+(Extended Mag, Subsistence___, Firefly)
+(____________, Feeding Frenzy, Firefly)
+(____________, Subsistence___, Firefly)
+dimwishlist:item=3796510434&perks=2420895100,2779035018,3824105627#notes:Good in PvE
+dimwishlist:item=3796510434&perks=2420895100,1820235745,3824105627#notes:Good in PvE
 dimwishlist:item=3796510434&perks=2779035018,3824105627#notes:Good in PvE
-dimwishlist:item=3796510434&perks=3418782618,3824105627#notes:Good in PvE
+dimwishlist:item=3796510434&perks=1820235745,3824105627#notes:Good in PvE
+
+(Dynamic Sway Reduction, High-Impact Reserves)
+dimwishlist:item=3796510434&perks=1359896290,2213355989#notes:Good in PvP
 
 
 
 SEVENTH SERAPH SAW:
-(Extended Mag, Clown Cartridge, Disruption Break)
-(Extended Mag, Auto-Loading___, Disruption Break)
-(____________, Clown Cartridge, Disruption Break)
-(____________, Auto-Loading___, Disruption Break)
-dimwishlist:item=2582755344&perks=2420895100,2284787283,1683379515#notes:Good in GM's
-dimwishlist:item=2582755344&perks=2420895100,3300816228,1683379515#notes:Good in GM's
-dimwishlist:item=2582755344&perks=2284787283,1683379515#notes:Good in GM's
-dimwishlist:item=2582755344&perks=3300816228,1683379515#notes:Good in GM's
-
 (Arrowhead Brake, Extended Mag, Auto-Loading, Firing Line)
 (_______________, Extended Mag, Auto-Loading, Firing Line)
 (Arrowhead Brake, ____________, Auto-Loading, Firing Line)
 (_______________, ____________, Auto-Loading, Firing Line)
-dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1771339417#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=2420895100,3300816228,1771339417#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=839105230,3300816228,1771339417#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=3300816228,1771339417#notes:Good in PvE, boss DPS
-
-(Arrowhead Brake, Extended Mag, Clown Cartridge, Firing Line)
-(_______________, Extended Mag, Clown Cartridge, Firing Line)
-(Arrowhead Brake, ____________, Clown Cartridge, Firing Line)
-(_______________, ____________, Clown Cartridge, Firing Line)
-dimwishlist:item=2582755344&perks=839105230,2420895100,2284787283,1771339417#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=2420895100,2284787283,1771339417#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=839105230,2284787283,1771339417#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=2284787283,1771339417#notes:Good in PvE, boss DPS
+dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1771339417#notes:Good in PvE & GM's
+dimwishlist:item=2582755344&perks=2420895100,3300816228,1771339417#notes:Good in PvE & GM's
+dimwishlist:item=2582755344&perks=839105230,3300816228,1771339417#notes:Good in PvE & GM's
+dimwishlist:item=2582755344&perks=3300816228,1771339417#notes:Good in PvE & GM's
 
 (Arrowhead Brake, Extended Mag, Field Prep, Firing Line)
 (_______________, Extended Mag, Field Prep, Firing Line)
 (Arrowhead Brake, ____________, Field Prep, Firing Line)
 (_______________, ____________, Field Prep, Firing Line)
-dimwishlist:item=2582755344&perks=839105230,2420895100,2869569095,1771339417#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=2420895100,2869569095,1771339417#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=839105230,2869569095,1771339417#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=2869569095,1771339417#notes:Good in PvE, boss DPS
+dimwishlist:item=2582755344&perks=839105230,2420895100,2869569095,1771339417#notes:Good in PvE & GM's
+dimwishlist:item=2582755344&perks=2420895100,2869569095,1771339417#notes:Good in PvE & GM's
+dimwishlist:item=2582755344&perks=839105230,2869569095,1771339417#notes:Good in PvE & GM's
+dimwishlist:item=2582755344&perks=2869569095,1771339417#notes:Good in PvE & GM's
 
 (Arrowhead Brake, Extended Mag, Auto-Loading, Vorpal Weapon)
 (_______________, Extended Mag, Auto-Loading, Vorpal Weapon)
 (Arrowhead Brake, ____________, Auto-Loading, Vorpal Weapon)
 (_______________, ____________, Auto-Loading, Vorpal Weapon)
-dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=2420895100,3300816228,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=839105230,3300816228,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=3300816228,1546637391#notes:Good in PvE, boss DPS
-
-(Arrowhead Brake, Extended Mag, Clown Cartridge, Vorpal Weapon)
-(_______________, Extended Mag, Clown Cartridge, Vorpal Weapon)
-(Arrowhead Brake, ____________, Clown Cartridge, Vorpal Weapon)
-(_______________, ____________, Clown Cartridge, Vorpal Weapon)
-dimwishlist:item=2582755344&perks=839105230,2420895100,2284787283,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=2420895100,2284787283,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=839105230,2284787283,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=2284787283,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1546637391#notes:Good in PvE
+dimwishlist:item=2582755344&perks=2420895100,3300816228,1546637391#notes:Good in PvE
+dimwishlist:item=2582755344&perks=839105230,3300816228,1546637391#notes:Good in PvE
+dimwishlist:item=2582755344&perks=3300816228,1546637391#notes:Good in PvE
 
 (Arrowhead Brake, Extended Mag, Field Prep, Vorpal Weapon)
 (_______________, Extended Mag, Field Prep, Vorpal Weapon)
 (Arrowhead Brake, ____________, Field Prep, Vorpal Weapon)
 (_______________, ____________, Field Prep, Vorpal Weapon)
-dimwishlist:item=2582755344&perks=839105230,2420895100,2869569095,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=2420895100,2869569095,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=839105230,2869569095,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=2582755344&perks=2869569095,1546637391#notes:Good in PvE, boss DPS
+dimwishlist:item=2582755344&perks=839105230,2420895100,2869569095,1546637391#notes:Good in PvE
+dimwishlist:item=2582755344&perks=2420895100,2869569095,1546637391#notes:Good in PvE
+dimwishlist:item=2582755344&perks=839105230,2869569095,1546637391#notes:Good in PvE
+dimwishlist:item=2582755344&perks=2869569095,1546637391#notes:Good in PvE
 
 
 
 SHATTERED CIPHER:
 (Extended Mag, Field Prep__, Rampage)
+(____________, Field Prep__, Rampage)
 (Extended Mag, Auto-Loading, Rampage)
+(____________, Auto-Loading, Rampage)
 dimwishlist:item=2434225986&perks=2420895100,2869569095,3425386926#notes:Good in PvE
+dimwishlist:item=2434225986&perks=2869569095,3425386926#notes:Good in PvE
 dimwishlist:item=2434225986&perks=2420895100,3300816228,3425386926#notes:Good in PvE
+dimwishlist:item=2434225986&perks=3300816228,3425386926#notes:Good in PvE
 
 
 
 THE SWARM:
-(Outlaw__________, Dragonfly)
-(Surplus_________, Dragonfly)
-(Bottomless Grief, Dragonfly)
+(Extended Mag, Outlaw, Dragonfly)
+(____________, Outlaw, Dragonfly)
+dimwishlist:item=47772649&perks=2420895100,1168162263,2848615171#notes:Good in PvE
 dimwishlist:item=47772649&perks=1168162263,2848615171#notes:Good in PvE
-dimwishlist:item=47772649&perks=3436462433,2848615171#notes:Good in PvE
-dimwishlist:item=47772649&perks=4252909580,2848615171#notes:Good in PvE, solo activities
-
-(Outlaw__________, One for All)
-(Surplus_________, One for All)
-(Bottomless Grief, One for All)
-dimwishlist:item=47772649&perks=1168162263,4049631843#notes:Good in PvE
-dimwishlist:item=47772649&perks=1168162263,2848615171#notes:Good in PvE
-dimwishlist:item=47772649&perks=4252909580,4049631843#notes:Good in PvE, solo activities
 
 
 
 THE SWARM (ADEPT):
-(Outlaw_, Dragonfly)
-(Surplus, Dragonfly)
-dimwishlist:item=3836861464&perks=1168162263,2848615171
-dimwishlist:item=3836861464&perks=3436462433,2848615171
-
-(Outlaw_, One for All)
-(Surplus, One for All)
-dimwishlist:item=3836861464&perks=1168162263,4049631843
-dimwishlist:item=3836861464&perks=3436462433,4049631843
+(Extended Mag, Outlaw, Dragonfly)
+(____________, Outlaw, Dragonfly)
+dimwishlist:item=3836861464&perks=2420895100,1168162263,2848615171#notes:Good in PvE
+dimwishlist:item=3836861464&perks=1168162263,2848615171#notes:Good in PvE
 
 
 
 THERMAL EROSION:
-(Extended Mag, Field Prep, Wellspring)
-(____________, Field Prep, Wellspring)
+(Arrowhead Brake, Extended Mag, Field Prep, Wellspring)
+(_______________, Extended Mag, Field Prep, Wellspring)
+(_______________, ____________, Field Prep, Wellspring)
+dimwishlist:item=1766088024&perks=839105230,2420895100,2869569095,3592538738#notes:Good in PvE
 dimwishlist:item=1766088024&perks=2420895100,2869569095,3592538738#notes:Good in PvE
 dimwishlist:item=1766088024&perks=2869569095,3592538738#notes:Good in PvE
 
-(Extended Mag, Field Prep, Demolitionist)
-(____________, Field Prep, Demolitionist)
+(Arrowhead Brake, Extended Mag, Field Prep, Demolitionist)
+(_______________, Extended Mag, Field Prep, Demolitionist)
+(_______________, ____________, Field Prep, Demolitionist)
+dimwishlist:item=1766088024&perks=839105230,2420895100,2869569095,3523296417#notes:Good in PvE
 dimwishlist:item=1766088024&perks=2420895100,2869569095,3523296417#notes:Good in PvE
 dimwishlist:item=1766088024&perks=2869569095,3523296417#notes:Good in PvE
 
-(Extended Mag, Field Prep, Dragonfly)
-(____________, Field Prep, Dragonfly)
+(Arrowhead Brake, Extended Mag, Field Prep, Dragonfly)
+(_______________, Extended Mag, Field Prep, Dragonfly)
+(_______________, ____________, Field Prep, Dragonfly)
+dimwishlist:item=1766088024&perks=839105230,2420895100,2869569095,2848615171#notes:Good in PvE
 dimwishlist:item=1766088024&perks=2420895100,2869569095,2848615171#notes:Good in PvE
 dimwishlist:item=1766088024&perks=2869569095,2848615171#notes:Good in PvE
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -453,68 +403,32 @@ dimwishlist:item=-991314988#notes:Trash, yes even with Tracking and Cluster Bomb
 
 
 CODE DUELLO:
-(Hard Launch, Impact Casing, Impulse Amplifier, Lasting Impression)
-(___________, Impact Casing, Impulse Amplifier, Lasting Impression)
-(Hard Launch, _____________, Impulse Amplifier, Lasting Impression)
-(___________, _____________, Impulse Amplifier, Lasting Impression)
-dimwishlist:item=2496242052&perks=981914802,3796465595,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=3796465595,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=981914802,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=951095735,3927722942#notes:Good in PvE, boss DPS
-
 (Hard Launch, Impact Casing, Field Prep, Lasting Impression)
 (___________, Impact Casing, Field Prep, Lasting Impression)
 (Hard Launch, _____________, Field Prep, Lasting Impression)
 (___________, _____________, Field Prep, Lasting Impression)
-dimwishlist:item=2496242052&perks=981914802,3796465595,2869569095,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=3796465595,2869569095,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=981914802,2869569095,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=2869569095,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=981914802,3796465595,2869569095,3927722942#notes:Good in PvE
+dimwishlist:item=2496242052&perks=3796465595,2869569095,3927722942#notes:Good in PvE
+dimwishlist:item=2496242052&perks=981914802,2869569095,3927722942#notes:Good in PvE
+dimwishlist:item=2496242052&perks=2869569095,3927722942#notes:Good in PvE
 
 (Quick Launch, Impact Casing, Auto-Loading, Lasting Impression)
 (____________, Impact Casing, Auto-Loading, Lasting Impression)
 (Quick Launch, _____________, Auto-Loading, Lasting Impression)
 (____________, _____________, Auto-Loading, Lasting Impression)
-dimwishlist:item=2496242052&perks=3525010810,3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=3525010810,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=3300816228,3927722942#notes:Good in PvE, boss DPS
-
-(Hard Launch, Impact Casing, Impulse Amplifier, Frenzy)
-(___________, Impact Casing, Impulse Amplifier, Frenzy)
-(Hard Launch, _____________, Impulse Amplifier, Frenzy)
-(___________, _____________, Impulse Amplifier, Frenzy)
-dimwishlist:item=2496242052&perks=981914802,3796465595,951095735,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=3796465595,951095735,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=981914802,951095735,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=951095735,4104185692#notes:Good in PvE, boss DPS
-
-(Hard Launch, Impact Casing, Field Prep, Frenzy)
-(___________, Impact Casing, Field Prep, Frenzy)
-(Hard Launch, _____________, Field Prep, Frenzy)
-(___________, _____________, Field Prep, Frenzy)
-dimwishlist:item=2496242052&perks=981914802,3796465595,2869569095,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=3796465595,2869569095,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=981914802,2869569095,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=2869569095,4104185692#notes:Good in PvE, boss DPS
-
-(Quick Launch, Impact Casing, Auto-Loading, Frenzy)
-(____________, Impact Casing, Auto-Loading, Frenzy)
-(Quick Launch, _____________, Auto-Loading, Frenzy)
-(____________, _____________, Auto-Loading, Frenzy)
-dimwishlist:item=2496242052&perks=3525010810,3796465595,3300816228,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=3796465595,3300816228,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=3525010810,3300816228,4104185692#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=3300816228,4104185692#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=3525010810,3796465595,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=2496242052&perks=3796465595,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=2496242052&perks=3525010810,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=2496242052&perks=3300816228,3927722942#notes:Good in PvE
 
 (Hard Launch, Impact Casing, Field Prep, Cluster Bombs)
 (___________, Impact Casing, Field Prep, Cluster Bombs)
 (Hard Launch, _____________, Field Prep, Cluster Bombs)
 (___________, _____________, Field Prep, Cluster Bombs)
-dimwishlist:item=2496242052&perks=981914802,3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=981914802,2869569095,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=2496242052&perks=2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=2496242052&perks=981914802,3796465595,2869569095,1275731761#notes:Good in PvE
+dimwishlist:item=2496242052&perks=3796465595,2869569095,1275731761#notes:Good in PvE
+dimwishlist:item=2496242052&perks=981914802,2869569095,1275731761#notes:Good in PvE
+dimwishlist:item=2496242052&perks=2869569095,1275731761#notes:Good in PvE
 
 (Quick Launch, High-Velocity Rounds, Auto-Loading, Chain Reaction)
 (____________, High-Velocity Rounds, Auto-Loading, Chain Reaction)
@@ -528,66 +442,47 @@ dimwishlist:item=2496242052&perks=3300816228,2396489472#notes:Good in PvE
 
 
 HERETIC:
-(Hard Launch, Impact Casing, Impulse Amplifier, Lasting Impression)
-(___________, Impact Casing, Impulse Amplifier, Lasting Impression)
-(Hard Launch, _____________, Impulse Amplifier, Lasting Impression)
-(___________, _____________, Impulse Amplifier, Lasting Impression)
-dimwishlist:item=3067821200&perks=981914802,3796465595,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=3067821200&perks=3796465595,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=3067821200&perks=981914802,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=3067821200&perks=951095735,3927722942#notes:Good in PvE, boss DPS
-
 (Hard Launch, Impact Casing, Field Prep, Lasting Impression)
 (___________, Impact Casing, Field Prep, Lasting Impression)
 (Hard Launch, _____________, Field Prep, Lasting Impression)
 (___________, _____________, Field Prep, Lasting Impression)
-dimwishlist:item=3067821200&perks=981914802,3796465595,2869569095,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=3067821200&perks=3796465595,2869569095,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=3067821200&perks=981914802,2869569095,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=3067821200&perks=2869569095,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=3067821200&perks=981914802,3796465595,2869569095,3927722942#notes:Good in PvE
+dimwishlist:item=3067821200&perks=3796465595,2869569095,3927722942#notes:Good in PvE
+dimwishlist:item=3067821200&perks=981914802,2869569095,3927722942#notes:Good in PvE
+dimwishlist:item=3067821200&perks=2869569095,3927722942#notes:Good in PvE
 
 (Hard Launch, Impact Casing, Field Prep, Cluster Bombs)
 (___________, Impact Casing, Field Prep, Cluster Bombs)
 (Hard Launch, _____________, Field Prep, Cluster Bombs)
 (___________, _____________, Field Prep, Cluster Bombs)
-dimwishlist:item=3067821200&perks=981914802,3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=3067821200&perks=3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=3067821200&perks=981914802,2869569095,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=3067821200&perks=2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=3067821200&perks=981914802,3796465595,2869569095,1275731761#notes:Good in PvE
+dimwishlist:item=3067821200&perks=3796465595,2869569095,1275731761#notes:Good in PvE
+dimwishlist:item=3067821200&perks=981914802,2869569095,1275731761#notes:Good in PvE
+dimwishlist:item=3067821200&perks=2869569095,1275731761#notes:Good in PvE
 
 
 
 HEZEN VENGANCE:
 (Quick Launch, Impact Casing, Auto-Loading, Lasting Impression)
 (____________, Impact Casing, Auto-Loading, Lasting Impression)
+(Quick Launch, _____________, Auto-Loading, Lasting Impression)
 (____________, _____________, Auto-Loading, Lasting Impression)
-dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=4050645223&perks=3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=4050645223&perks=3300816228,3927722942#notes:Good in PvE, boss DPS
-
-(Quick Launch, Impact Casing, Overflow, Lasting Impression)
-(____________, Impact Casing, Overflow, Lasting Impression)
-(____________, _____________, Overflow, Lasting Impression)
-dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=4050645223&perks=3796465595,3643424744,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=4050645223&perks=3643424744,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=4050645223&perks=3796465595,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=4050645223&perks=3525010810,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=4050645223&perks=3300816228,3927722942#notes:Good in PvE
 
 
 
 HEZEN VENGANCE (TIMELOST):
 (Quick Launch, Impact Casing, Auto-Loading, Lasting Impression)
 (____________, Impact Casing, Auto-Loading, Lasting Impression)
+(Quick Launch, _____________, Auto-Loading, Lasting Impression)
 (____________, _____________, Auto-Loading, Lasting Impression)
-dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=1921159786&perks=3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=1921159786&perks=3300816228,3927722942#notes:Good in PvE, boss DPS
-
-(Quick Launch, Impact Casing, Overflow, Lasting Impression)
-(____________, Impact Casing, Overflow, Lasting Impression)
-(____________, _____________, Overflow, Lasting Impression)
-dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=1921159786&perks=3796465595,3643424744,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=1921159786&perks=3643424744,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=1921159786&perks=3796465595,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=1921159786&perks=3525010810,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=1921159786&perks=3300816228,3927722942#notes:Good in PvE
 
 
 
@@ -596,16 +491,22 @@ HOOSEGOW:
 (___________, Impact Casing, Field Prep, Cluster Bombs)
 (Hard Launch, _____________, Field Prep, Cluster Bombs)
 (___________, _____________, Field Prep, Cluster Bombs)
-dimwishlist:item=3669616453&perks=981914802,3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=3669616453&perks=3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=3669616453&perks=981914802,2869569095,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=3669616453&perks=2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=3669616453&perks=981914802,3796465595,2869569095,1275731761#notes:Good in PvE
+dimwishlist:item=3669616453&perks=3796465595,2869569095,1275731761#notes:Good in PvE
+dimwishlist:item=3669616453&perks=981914802,2869569095,1275731761#notes:Good in PvE
+dimwishlist:item=3669616453&perks=2869569095,1275731761#notes:Good in PvE
 
 
 
 ROYAL ENTRY:
-(Clown Cartridge)
-dimwishlist:item=2448907086&perks=2284787283#notes:Test this
+(Hard Launch, Impact Casing, Field-Prep, Clown Cartridge)
+(___________, Impact Casing, Field-Prep, Clown Cartridge)
+(Hard Launch, _____________, Field-Prep, Clown Cartridge)
+(___________, _____________, Field-Prep, Clown Cartridge)
+dimwishlist:item=2448907086&perks=981914802,3796465595,2869569095,2284787283#notes:Good in PvE
+dimwishlist:item=2448907086&perks=3796465595,2869569095,2284787283#notes:Good in PvE
+dimwishlist:item=2448907086&perks=981914802,2869569095,2284787283#notes:Good in PvE
+dimwishlist:item=2448907086&perks=2869569095,2284787283#notes:Good in PvE
 
 (Quick Launch, Black Powder, Auto-Loading, Chain Reaction)
 (____________, Black Powder, Auto-Loading, Chain Reaction)
@@ -616,41 +517,32 @@ dimwishlist:item=2448907086&perks=1996142143,3300816228,2396489472#notes:Good in
 dimwishlist:item=2448907086&perks=3525010810,3300816228,2396489472#notes:Good in PvE
 dimwishlist:item=2448907086&perks=3300816228,2396489472#notes:Good in PvE
 
-(Hard Launch, Impact Casing, Impulse Amplifier, Lasting Impression)
-(___________, Impact Casing, Impulse Amplifier, Lasting Impression)
-(Hard Launch, _____________, Impulse Amplifier, Lasting Impression)
-(___________, _____________, Impulse Amplifier, Lasting Impression)
-dimwishlist:item=2448907086&perks=981914802,3796465595,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2448907086&perks=3796465595,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2448907086&perks=981914802,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2448907086&perks=951095735,3927722942#notes:Good in PvE, boss DPS
-
 (Hard Launch, Impact Casing, Field Prep, Lasting Impression)
 (___________, Impact Casing, Field Prep, Lasting Impression)
 (Hard Launch, _____________, Field Prep, Lasting Impression)
 (___________, _____________, Field Prep, Lasting Impression)
-dimwishlist:item=2448907086&perks=981914802,3796465595,2869569095,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2448907086&perks=3796465595,2869569095,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2448907086&perks=981914802,2869569095,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2448907086&perks=2869569095,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=2448907086&perks=981914802,3796465595,2869569095,3927722942#notes:Good in PvE
+dimwishlist:item=2448907086&perks=3796465595,2869569095,3927722942#notes:Good in PvE
+dimwishlist:item=2448907086&perks=981914802,2869569095,3927722942#notes:Good in PvE
+dimwishlist:item=2448907086&perks=2869569095,3927722942#notes:Good in PvE
 
 (Quick Launch, Impact Casing, Auto-Loading, Lasting Impression)
 (____________, Impact Casing, Auto-Loading, Lasting Impression)
 (Quick Launch, _____________, Auto-Loading, Lasting Impression)
 (____________, _____________, Auto-Loading, Lasting Impression)
-dimwishlist:item=2448907086&perks=3525010810,3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2448907086&perks=3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2448907086&perks=3525010810,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=2448907086&perks=3300816228,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=2448907086&perks=3525010810,3796465595,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=2448907086&perks=3796465595,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=2448907086&perks=3525010810,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=2448907086&perks=3300816228,3927722942#notes:Good in PvE
 
 (Hard Launch, Impact Casing, Field Prep, Cluster Bombs)
 (___________, Impact Casing, Field Prep, Cluster Bombs)
 (Hard Launch, _____________, Field Prep, Cluster Bombs)
 (___________, _____________, Field Prep, Cluster Bombs)
-dimwishlist:item=2448907086&perks=981914802,3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=2448907086&perks=3796465595,2869569095,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=2448907086&perks=981914802,2869569095,1275731761#notes:Good in PvE, boss DPS
-dimwishlist:item=2448907086&perks=2869569095,1275731761#notes:Good in PvE, boss DPS
+dimwishlist:item=2448907086&perks=981914802,3796465595,2869569095,1275731761#notes:Good in PvE
+dimwishlist:item=2448907086&perks=3796465595,2869569095,1275731761#notes:Good in PvE
+dimwishlist:item=2448907086&perks=981914802,2869569095,1275731761#notes:Good in PvE
+dimwishlist:item=2448907086&perks=2869569095,1275731761#notes:Good in PvE
 
 
 
@@ -669,15 +561,6 @@ dimwishlist:item=3740842661&perks=1996142143,3300816228,2396489472#notes:Good in
 dimwishlist:item=3740842661&perks=3525010810,3300816228,2396489472#notes:Good in PvE
 dimwishlist:item=3740842661&perks=3300816228,2396489472#notes:Good in PvE
 
-(Linear Compensator, Alloy Casing, Field Prep, Chain Reaction)
-(__________________, Alloy Casing, Field Prep, Chain Reaction)
-(Linear Compensator, ____________, Field Prep, Chain Reaction)
-(__________________, ____________, Field Prep, Chain Reaction)
-dimwishlist:item=3740842661&perks=1441682018,2985827016,2869569095,2396489472#notes:Good in PvE
-dimwishlist:item=3740842661&perks=2985827016,2869569095,2396489472#notes:Good in PvE
-dimwishlist:item=3740842661&perks=1441682018,2869569095,2396489472#notes:Good in PvE
-dimwishlist:item=3740842661&perks=2869569095,2396489472#notes:Good in PvE
-
 
 
 SUBZERO SALVO:
@@ -693,23 +576,14 @@ dimwishlist:item=42351395&perks=2010801679,2396489472#notes:Good in PvE
 
 
 TOMORROW'S ANSWER:
-(Hard Launch, Impact Casing, Impulse Amplifier, Lasting Impression)
-(___________, Impact Casing, Impulse Amplifier, Lasting Impression)
-(Hard Launch, _____________, Impulse Amplifier, Lasting Impression)
-(___________, _____________, Impulse Amplifier, Lasting Impression)
-dimwishlist:item=958384347&perks=981914802,3796465595,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=958384347&perks=3796465595,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=958384347&perks=981914802,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=958384347&perks=951095735,3927722942#notes:Good in PvE, boss DPS
-
 (Quick Launch, Impact Casing, Auto-Loading, Lasting Impression)
 (____________, Impact Casing, Auto-Loading, Lasting Impression)
 (Quick Launch, _____________, Auto-Loading, Lasting Impression)
 (____________, _____________, Auto-Loading, Lasting Impression)
-dimwishlist:item=958384347&perks=3525010810,3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=958384347&perks=3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=958384347&perks=3525010810,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=958384347&perks=3300816228,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=958384347&perks=3525010810,3796465595,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=958384347&perks=3796465595,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=958384347&perks=3525010810,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=958384347&perks=3300816228,3927722942#notes:Good in PvE
 
 (Quick Launch, Black Powder, Auto-Loading, Chain Reaction)
 (____________, Black Powder, Auto-Loading, Chain Reaction)
@@ -732,23 +606,14 @@ dimwishlist:item=958384347&perks=2010801679,2396489472#notes:Good in PvE
 
 
 TOMORROW'S ANSWER (ADEPT):
-(Hard Launch, Impact Casing, Impulse Amplifier, Lasting Impression)
-(___________, Impact Casing, Impulse Amplifier, Lasting Impression)
-(Hard Launch, _____________, Impulse Amplifier, Lasting Impression)
-(___________, _____________, Impulse Amplifier, Lasting Impression)
-dimwishlist:item=1366917989&perks=981914802,3796465595,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=1366917989&perks=3796465595,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=1366917989&perks=981914802,951095735,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=1366917989&perks=951095735,3927722942#notes:Good in PvE, boss DPS
-
 (Quick Launch, Impact Casing, Auto-Loading, Lasting Impression)
 (____________, Impact Casing, Auto-Loading, Lasting Impression)
 (Quick Launch, _____________, Auto-Loading, Lasting Impression)
 (____________, _____________, Auto-Loading, Lasting Impression)
-dimwishlist:item=1366917989&perks=3525010810,3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=1366917989&perks=3796465595,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=1366917989&perks=3525010810,3300816228,3927722942#notes:Good in PvE, boss DPS
-dimwishlist:item=1366917989&perks=3300816228,3927722942#notes:Good in PvE, boss DPS
+dimwishlist:item=1366917989&perks=3525010810,3796465595,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=1366917989&perks=3796465595,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=1366917989&perks=3525010810,3300816228,3927722942#notes:Good in PvE
+dimwishlist:item=1366917989&perks=3300816228,3927722942#notes:Good in PvE
 
 (Quick Launch, Black Powder, Auto-Loading, Chain Reaction)
 (____________, Black Powder, Auto-Loading, Chain Reaction)
@@ -772,35 +637,57 @@ dimwishlist:item=1366917989&perks=2010801679,2396489472#notes:Good in PvE
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SWORDS:
 
+ABIDE THE RETURN:
+(Enduring Blade, Heavy Guard, Tireless Blade, Thresh)
+(______________, Heavy Guard, Tireless Blade, Thresh)
+(Enduring Blade, ___________, Tireless Blade, Thresh)
+(______________, ___________, Tireless Blade, Thresh)
+dimwishlist:item=1644160541&perks=1261178282,2349202967,2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=1644160541&perks=2349202967,2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=1644160541&perks=1261178282,2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=1644160541&perks=2590710093,2726471870#notes:Good in PvE
+
+
+
 BEQUEST:
-(Hungry Edge, Heavy Guard, Thresh, Assassin's Blade)
-(Hungry Edge, ___________, Thresh, Assassin's Blade)
-(___________, Heavy Guard, Thresh, Assassin's Blade)
-(___________, ___________, Thresh, Assassin's Blade)
-dimwishlist:item=3366545721&perks=436053704,2349202967,2726471870,354401740#notes:Good in PvE
-dimwishlist:item=3366545721&perks=436053704,2726471870,354401740#notes:Good in PvE
+(Enduring Blade, Heavy Guard, Thresh, Assassin's Blade)
+(Enduring Blade, ___________, Thresh, Assassin's Blade)
+(______________, Heavy Guard, Thresh, Assassin's Blade)
+(______________, ___________, Thresh, Assassin's Blade)
+dimwishlist:item=3366545721&perks=1261178282,2349202967,2726471870,354401740#notes:Good in PvE
+dimwishlist:item=3366545721&perks=1261178282,2726471870,354401740#notes:Good in PvE
 dimwishlist:item=3366545721&perks=2349202967,2726471870,354401740#notes:Good in PvE
 dimwishlist:item=3366545721&perks=2726471870,354401740#notes:Good in PvE
 
 
 
 CROWN SPLITTER:
-(Jagged Edge, Heavy Guard, Relentless Strikes, Whirlwind)
-(Jagged Edge, Heavy Guard, __________________, Whirlwind)
-(___________, Heavy Guard, Relentless Strikes, Whirlwind)
-dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,3913600130#notes:Good in PvE, boss DPS
-dimwishlist:item=2782325302&perks=3666208348,2349202967,3913600130#notes:Good in PvE, boss DPS
-dimwishlist:item=2782325302&perks=2349202967,1749209109,3913600130#notes:Good in PvE, boss DPS
+(Jagged Edge, Heavy Guard, Relentless Strikes, Whirlwind Blade)
+(Jagged Edge, Heavy Guard, __________________, Whirlwind Blade)
+(___________, Heavy Guard, Relentless Strikes, Whirlwind Blade)
+dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,3913600130#notes:Good in PvE
+dimwishlist:item=2782325302&perks=3666208348,2349202967,3913600130#notes:Good in PvE
+dimwishlist:item=2782325302&perks=2349202967,1749209109,3913600130#notes:Good in PvE
+
+(Jagged Edge, Heavy Guard, Relentless Strikes, Vorpal Weapon)
+(Jagged Edge, Heavy Guard, __________________, Vorpal Weapon)
+(___________, Heavy Guard, Relentless Strikes, Vorpal Weapon)
+dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391#notes:Good in PvE
+dimwishlist:item=2782325302&perks=3666208348,2349202967,1546637391#notes:Good in PvE
+dimwishlist:item=2782325302&perks=2349202967,1749209109,1546637391#notes:Good in PvE
+
+(Enduring Blade, Heavy Guard, Tireless Blade, Whirlwind Blade)
+dimwishlist:item=2782325302&perks=1261178282,2349202967,2590710093,3913600130#notes:Nukyyy's Roll
 
 
 
 ETERNITY'S EDGE:
-(Jagged Edge, Heavy Guard, Relentless Strikes, Flash Counter)
-(___________, Heavy Guard, Relentless Strikes, Flash Counter)
-(Jagged Edge, Heavy Guard, __________________, Flash Counter)
-dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,2244851822#notes:Good in PvE, boss DPS
-dimwishlist:item=2782325301&perks=2363751990,1749209109,2244851822#notes:Good in PvE, boss DPS
-dimwishlist:item=2782325301&perks=3666208348,2363751990,2244851822#notes:Good in PvE, boss DPS
+(Jagged Edge, Heavy Guard, Relentless Strikes, Counterattack)
+(___________, Heavy Guard, Relentless Strikes, Counterattack)
+(Jagged Edge, Heavy Guard, __________________, Counterattack)
+dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3016987351#notes:Good in PvE
+dimwishlist:item=2782325301&perks=2363751990,1749209109,3016987351#notes:Good in PvE
+dimwishlist:item=2782325301&perks=3666208348,2363751990,3016987351#notes:Good in PvE
 
 (Enduring Blade, Heavy Guard, Thresh, Assassin's Blade)
 (______________, Heavy Guard, Thresh, Assassin's Blade)
@@ -831,63 +718,39 @@ dimwishlist:item=-3629968765#notes:Trash
 
 
 
+NIGHT TERROR:
+(Enduring Blade, Heavy Guard, Tireless Blade, Thresh)
+(______________, Heavy Guard, Tireless Blade, Thresh)
+(Enduring Blade, ___________, Tireless Blade, Thresh)
+(______________, ___________, Tireless Blade, Thresh)
+dimwishlist:item=3870811754&perks=1261178282,2349202967,2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=3870811754&perks=2349202967,2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=3870811754&perks=1261178282,2590710093,2726471870#notes:Good in PvE
+dimwishlist:item=3870811754&perks=2590710093,2726471870#notes:Good in PvE
+
+
+
 SOLA'S SCAR:
-(Jagged Edge, Swordmaster's Guard, Tireless Blade, Chain Reaction)
-(Jagged Edge, Swordmaster's Guard, ______________, Chain Reaction)
-(Jagged Edge, ___________________, Tireless Blade, Chain Reaction)
-(Jagged Edge, ___________________, ______________, Chain Reaction)
-dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,2396489472#notes:Good in PvE
-dimwishlist:item=1313528549&perks=3666208348,269888150,2396489472#notes:Good in PvE
-dimwishlist:item=1313528549&perks=3666208348,2590710093,2396489472#notes:Good in PvE
-dimwishlist:item=1313528549&perks=3666208348,2396489472#notes:Good in PvE
-
-(Jagged Edge, Swordmaster's Guard, Tireless Blade, Thresh)
-(Jagged Edge, Swordmaster's Guard, ______________, Thresh)
-(Jagged Edge, ___________________, Tireless Blade, Thresh)
-(Jagged Edge, ___________________, ______________, Thresh)
-dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,2726471870#notes:Good in PvE
-dimwishlist:item=1313528549&perks=3666208348,269888150,2726471870#notes:Good in PvE
-dimwishlist:item=1313528549&perks=3666208348,2590710093,2726471870#notes:Good in PvE
-dimwishlist:item=1313528549&perks=3666208348,2726471870#notes:Good in PvE
-
-(Jagged Edge, Swordmaster's Guard, Relentless Strikes, Vorpal Weapon)
-(Jagged Edge, Swordmaster's Guard, __________________, Vorpal Weapon)
-(Jagged Edge, ___________________, Relentless Strikes, Vorpal Weapon)
-(Jagged Edge, ___________________, __________________, Vorpal Weapon)
-dimwishlist:item=1313528549&perks=3666208348,269888150,1749209109,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=1313528549&perks=3666208348,269888150,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=1313528549&perks=3666208348,1749209109,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=1313528549&perks=3666208348,1546637391#notes:Good in PvE, boss DPS
+(Enduring Blade, Swordmaster's Guard, Tireless Blade, Chain Reaction)
+(______________, Swordmaster's Guard, Tireless Blade, Chain Reaction)
+(Enduring Blade, ___________________, Tireless Blade, Chain Reaction)
+(______________, ___________________, Tireless Blade, Chain Reaction)
+dimwishlist:item=1313528549&perks=1261178282,269888150,2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=1313528549&perks=269888150,2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=1313528549&perks=1261178282,2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=1313528549&perks=2590710093,2396489472#notes:Good in PvE
 
 
 
 SOLA'S SCAR (ADEPT):
-(Jagged Edge, Swordmaster's Guard, Tireless Blade, Chain Reaction)
-(Jagged Edge, Swordmaster's Guard, ______________, Chain Reaction)
-(Jagged Edge, ___________________, Tireless Blade, Chain Reaction)
-(Jagged Edge, ___________________, ______________, Chain Reaction)
-dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,2396489472#notes:Good in PvE
-dimwishlist:item=3847137620&perks=3666208348,269888150,2396489472#notes:Good in PvE
-dimwishlist:item=3847137620&perks=3666208348,2590710093,2396489472#notes:Good in PvE
-dimwishlist:item=3847137620&perks=3666208348,2396489472#notes:Good in PvE
-
-(Jagged Edge, Swordmaster's Guard, Tireless Blade, Thresh)
-(Jagged Edge, Swordmaster's Guard, ______________, Thresh)
-(Jagged Edge, ___________________, Tireless Blade, Thresh)
-(Jagged Edge, ___________________, ______________, Thresh)
-dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,2726471870#notes:Good in PvE
-dimwishlist:item=3847137620&perks=3666208348,269888150,2726471870#notes:Good in PvE
-dimwishlist:item=3847137620&perks=3666208348,2590710093,2726471870#notes:Good in PvE
-dimwishlist:item=3847137620&perks=3666208348,2726471870#notes:Good in PvE
-
-(Jagged Edge, Swordmaster's Guard, Relentless Strikes, Vorpal Weapon)
-(Jagged Edge, Swordmaster's Guard, __________________, Vorpal Weapon)
-(Jagged Edge, ___________________, Relentless Strikes, Vorpal Weapon)
-(Jagged Edge, ___________________, __________________, Vorpal Weapon)
-dimwishlist:item=3847137620&perks=3666208348,269888150,1749209109,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3847137620&perks=3666208348,269888150,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3847137620&perks=3666208348,1749209109,1546637391#notes:Good in PvE, boss DPS
-dimwishlist:item=3847137620&perks=3666208348,1546637391#notes:Good in PvE, boss DPS
+(Enduring Blade, Swordmaster's Guard, Tireless Blade, Chain Reaction)
+(______________, Swordmaster's Guard, Tireless Blade, Chain Reaction)
+(Enduring Blade, ___________________, Tireless Blade, Chain Reaction)
+(______________, ___________________, Tireless Blade, Chain Reaction)
+dimwishlist:item=3847137620&perks=1261178282,269888150,2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=3847137620&perks=269888150,2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=3847137620&perks=1261178282,2590710093,2396489472#notes:Good in PvE
+dimwishlist:item=3847137620&perks=2590710093,2396489472#notes:Good in PvE
 
 
 
@@ -897,23 +760,14 @@ dimwishlist:item=-4230993599#notes:Trash
 
 
 TEMPTATION'S HOOK:
-(Jagged Edge, Swordmaster's Guard, Tireless Blade, Wirlwind Blade)
-(Jagged Edge, Swordmaster's Guard, ______________, Wirlwind Blade)
-(Jagged Edge, ___________________, Tireless Blade, Wirlwind Blade)
-(Jagged Edge, ___________________, ______________, Wirlwind Blade)
-dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,3913600130#notes:Good in PvE
-dimwishlist:item=35794111&perks=3666208348,269888150,3913600130#notes:Good in PvE
-dimwishlist:item=35794111&perks=3666208348,2590710093,3913600130#notes:Good in PvE
-dimwishlist:item=35794111&perks=3666208348,3913600130#notes:Good in PvE
-
-(Jagged Edge, Swordmaster's Guard, Tireless Blade, Vorpal Weapon)
-(Jagged Edge, Swordmaster's Guard, ______________, Vorpal Weapon)
-(Jagged Edge, ___________________, Tireless Blade, Vorpal Weapon)
-(Jagged Edge, ___________________, ______________, Vorpal Weapon)
-dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391#notes:Good in PvE & PvP
-dimwishlist:item=35794111&perks=3666208348,269888150,1546637391#notes:Good in PvE & PvP
-dimwishlist:item=35794111&perks=3666208348,2590710093,1546637391#notes:Good in PvE & PvP
-dimwishlist:item=35794111&perks=3666208348,1546637391#notes:Good in PvE & PvP
+(Enduring Blade, Swordmaster's Guard, Tireless Blade, Vorpal Weapon)
+(______________, Swordmaster's Guard, Tireless Blade, Vorpal Weapon)
+(Enduring Blade, ___________________, Tireless Blade, Vorpal Weapon)
+(______________, ___________________, Tireless Blade, Vorpal Weapon)
+dimwishlist:item=35794111&perks=1261178282,269888150,2590710093,1546637391#notes:Good in PvE
+dimwishlist:item=35794111&perks=269888150,2590710093,1546637391#notes:Good in PvE
+dimwishlist:item=35794111&perks=1261178282,2590710093,1546637391#notes:Good in PvE
+dimwishlist:item=35794111&perks=2590710093,1546637391#notes:Good in PvE
 
 
 
