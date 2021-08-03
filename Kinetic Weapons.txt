@@ -148,6 +148,23 @@ dimwishlist:item=-211938782
 GRENADE LAUNCHERS:
 
 IGNITION CODE:
+(Confined Launch, Blinding Grenades, Slideshot, One for All)
+(_______________, Blinding Grenades, Slideshot, One for All)
+dimwishlist:item=304659313&perks=1844523823,3032599245,3161816588,4049631843#notes:Good in GM's
+dimwishlist:item=304659313&perks=3032599245,3161816588,4049631843#notes:Good in GM's
+
+(Confined Launch, Blinding Grenades, Lead from Gold, One for All)
+(_______________, Blinding Grenades, Lead from Gold, One for All)
+dimwishlist:item=304659313&perks=1844523823,3032599245,1556840489,4049631843#notes:Good in GM's
+dimwishlist:item=304659313&perks=3032599245,1556840489,4049631843#notes:Good in GM's
+
+(Confined Launch, Blinding Grenades, Field-Prep, One for All)
+(_______________, Blinding Grenades, Field-Prep, One for All)
+(_______________, Blinding Grenades, __________, One for All)
+dimwishlist:item=304659313&perks=1844523823,3032599245,2869569095,4049631843#notes:Good in GM's
+dimwishlist:item=304659313&perks=3032599245,2869569095,4049631843#notes:Good in GM's
+dimwishlist:item=304659313&perks=3032599245,4049631843#notes:Good in GM's
+
 (Hard Launch, Blinding Grenades, Spike Grenades, Lead from Gold, Vorpal Weapon)x
 (___________, Blinding Grenades, Spike Grenades, Lead from Gold, Vorpal Weapon)x
 (Hard Launch, Blinding Grenades, ______________, Lead from Gold, Vorpal Weapon)
@@ -188,23 +205,6 @@ dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391#note
 dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391#notes:Good in PvE
 dimwishlist:item=304659313&perks=3301904089,1546637391#notes:Good in PvE
 dimwishlist:item=304659313&perks=3301904089,3161816588#notes:Good in PvE
-
-(Confined Launch, Blinding Grenades, Slideshot, One for All)
-(_______________, Blinding Grenades, Slideshot, One for All)
-dimwishlist:item=304659313&perks=1844523823,3032599245,3161816588,4049631843#notes:Good in GM's
-dimwishlist:item=304659313&perks=3032599245,3161816588,4049631843#notes:Good in GM's
-
-(Confined Launch, Blinding Grenades, Lead from Gold, One for All)
-(_______________, Blinding Grenades, Lead from Gold, One for All)
-dimwishlist:item=304659313&perks=1844523823,3032599245,1556840489,4049631843#notes:Good in GM's
-dimwishlist:item=304659313&perks=3032599245,1556840489,4049631843#notes:Good in GM's
-
-(Confined Launch, Blinding Grenades, Field-Prep, One for All)
-(_______________, Blinding Grenades, Field-Prep, One for All)
-(_______________, Blinding Grenades, __________, One for All)
-dimwishlist:item=304659313&perks=1844523823,3032599245,2869569095,4049631843#notes:Good in GM's
-dimwishlist:item=304659313&perks=3032599245,2869569095,4049631843#notes:Good in GM's
-dimwishlist:item=304659313&perks=3032599245,4049631843#notes:Good in GM's
 
 (Spike Grenades, Slideshot, Demolitionist)
 dimwishlist:item=304659313&perks=3301904089,3161816588,3523296417#notes: Suni's Roll
