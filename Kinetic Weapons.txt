@@ -570,7 +570,7 @@ dimwishlist:item=2742838701&perks=957782887,2846385770#notes:Good in PvP
 FATEBRINGER:
 (Rewind Rounds___, Firefly)
 (Thresh__________, Firefly)
-(Explosive Rounds, Firefly)
+(Explosive Payload, Firefly)
 dimwishlist:item=2171478765&perks=3418782618,3824105627#notes:Good in PvE
 dimwishlist:item=2171478765&perks=2726471870,3824105627#notes:Good in PvE
 dimwishlist:item=2171478765&perks=3038247973,3824105627#notes:Good in PvE
@@ -581,14 +581,14 @@ dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:Good in GM's
 
 
 FATEBRINGER (TIMELOST):
-(Rewind Rounds, Explosive Rounds, Firefly)
-(Thresh_______, Explosive Rounds, Firefly)
-(_____________, Explosive Rounds, Firefly)
+(Rewind Rounds, Explosive Payload, Firefly)
+(Thresh_______, Explosive Payload, Firefly)
+(_____________, Explosive Payload, Firefly)
 dimwishlist:item=1216319404&perks=3418782618,3038247973,3824105627#notes:Good in PvE
 dimwishlist:item=1216319404&perks=2726471870,3038247973,3824105627#notes:Good in PvE
 dimwishlist:item=1216319404&perks=3038247973,3824105627#notes:Good in PvE
 
-(Explosive Rounds, Frenzy)
+(Explosive Payload, Frenzy)
 dimwishlist:item=1216319404&perks=3038247973,4104185692#notes:Good in GM's
 
 
@@ -860,19 +860,19 @@ dimwishlist:item=-310708513#notes:Trash
 
 
 TRUE PROPHECY:
-(Accurized Rounds, Rangefinder, Timed Payload___)
-(Accurized Rounds, Rangefinder, Explosive Rounds)
-(________________, Rangefinder, Timed Payload___)
-(________________, Rangefinder, Explosive Rounds)
+(Accurized Rounds, Rangefinder, Timed Payload____)
+(Accurized Rounds, Rangefinder, Explosive Payload)
+(________________, Rangefinder, Timed Payload____)
+(________________, Rangefinder, Explosive Payload)
 dimwishlist:item=2742838700&perks=3142289711,2846385770,1954620775,2697220197#notes:Good in PvP
 dimwishlist:item=2742838700&perks=3142289711,2846385770,3038247973,2697220197#notes:Good in PvP
 dimwishlist:item=2742838700&perks=2846385770,1954620775,2697220197#notes:Good in PvP
 dimwishlist:item=2742838700&perks=2846385770,3038247973,2697220197#notes:Good in PvP
 
-(Accurized Rounds, Opening Shot, Timed Payload___)
-(Accurized Rounds, Opening Shot, Explosive Rounds)
-(________________, Opening Shot, Timed Payload___)
-(________________, Opening Shot, Explosive Rounds)
+(Accurized Rounds, Opening Shot, Timed Payload____)
+(Accurized Rounds, Opening Shot, Explosive Payload)
+(________________, Opening Shot, Timed Payload____)
+(________________, Opening Shot, Explosive Payload)
 dimwishlist:item=2742838700&perks=3142289711,47981717,1954620775,2697220197#notes:Good in PvP
 dimwishlist:item=2742838700&perks=3142289711,47981717,3038247973,2697220197#notes:Good in PvP
 dimwishlist:item=2742838700&perks=47981717,1954620775,2697220197#notes:Good in PvP
@@ -1092,13 +1092,13 @@ dimwishlist:item=3593598010&perks=1645158859,3425386926#notes:Good in PvP
 SCOUT RIFLES:
 
 HUNG JURY SR4:
-(Rapid Hit, Explosive Rounds)
+(Rapid Hit, Explosive Payload)
 dimwishlist:item=4281371574&perks=247725512,3038247973#notes:Good in GM's
 
 
 
 HUNG JURY SR4 (ADEPT):
-(Rapid Hit, Explosive Rounds)
+(Rapid Hit, Explosive Payload)
 dimwishlist:item=681067419&perks=247725512,3038247973#notes:Good in GM's
 
 
