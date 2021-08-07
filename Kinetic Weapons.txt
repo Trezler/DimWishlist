@@ -28,12 +28,6 @@ dimwishlist:item=1119734784&perks=1820235745,3592538738#notes:Good in PvE
 
 
 FALSE PROMISES:
-
-(Overflow, Rampage_____)
-(Overflow, Swashbuckler)
-dimwishlist:item=3143732432&perks=3643424744,3425386926#notes:Good in PvE
-dimwishlist:item=3143732432&perks=3643424744,4082225868#notes:Good in PvE
-
 (Subsistence, Rampage_____)
 (Subsistence, Swashbuckler)
 dimwishlist:item=3143732432&perks=1820235745,3425386926#notes:Good in PvE
@@ -84,11 +78,6 @@ dimwishlist:item=640114618&perks=2010801679,3523296417#notes:Good in PvE
 (Subsistence, Demolitionist)
 dimwishlist:item=640114618&perks=1820235745,4082225868#notes:Good in PvE
 dimwishlist:item=640114618&perks=1820235745,3523296417#notes:Good in PvE
-
-(Overflow, Swashbuckler)
-(Overflow, Demolitionist)
-dimwishlist:item=640114618&perks=3643424744,4082225868#notes:Good in PvE
-dimwishlist:item=640114618&perks=3643424744,3523296417#notes:Good in PvE
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
