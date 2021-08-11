@@ -567,18 +567,40 @@ dimwishlist:item=2171478765&perks=3038247973,3824105627#notes:Good in PvE
 (Explosive Payload, Frenzy)
 dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:Good in GM's
 
+(Accurized Rounds, Explosive Payload, Kill Clip)
+(________________, Explosive Payload, Kill Clip)
+dimwishlist:item=2171478765&perks=3142289711,3038247973,1015611457#notes:Good in PvP
+dimwishlist:item=2171478765&perks=3038247973,1015611457#notes:Good in PvP
+
+(Accurized Rounds, Explosive Payload, Opening Shot)
+(________________, Explosive Payload, Opening Shot)
+dimwishlist:item=2171478765&perks=3142289711,3038247973,47981717#notes:Good in PvP
+dimwishlist:item=2171478765&perks=3038247973,47981717#notes:Good in PvP
 
 
 FATEBRINGER (TIMELOST):
-(Rewind Rounds, Explosive Payload, Firefly)
-(Thresh_______, Explosive Payload, Firefly)
-(_____________, Explosive Payload, Firefly)
+(Accurized Rounds, Explosive Payload, Firefly, Kill Clip)
+(________________, Explosive Payload, Firefly, Kill Clip)
+dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627,1015611457#notes:Good in PvP
+dimwishlist:item=1216319404&perks=3038247973,3824105627,1015611457#notes:Good in PvP
+
+(Accurized Rounds, Explosive Payload, Firefly, Opening Shot)
+(________________, Explosive Payload, Firefly, Opening Shot)
+dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627,47981717#notes:Good in PvP
+dimwishlist:item=1216319404&perks=3038247973,3824105627,47981717#notes:Good in PvP
+
+(Rewind Rounds, Explosive Payload, Firefly, Frenzy)
+(Thresh_______, Explosive Payload, Firefly, Frenzy)
+(_____________, Explosive Payload, Firefly, Frenzy)
+(Rewind Rounds, Explosive Payload, Firefly, ______)
+(Thresh_______, Explosive Payload, Firefly, ______)
+(_____________, Explosive Payload, Firefly, ______)
+dimwishlist:item=1216319404&perks=3418782618,3038247973,3824105627,4104185692#notes:Good in PvE & GM's
+dimwishlist:item=1216319404&perks=2726471870,3038247973,3824105627,4104185692#notes:Good in PvE & GM's
+dimwishlist:item=1216319404&perks=3038247973,3824105627,4104185692#notes:Good in PvE & GM's
 dimwishlist:item=1216319404&perks=3418782618,3038247973,3824105627#notes:Good in PvE
 dimwishlist:item=1216319404&perks=2726471870,3038247973,3824105627#notes:Good in PvE
 dimwishlist:item=1216319404&perks=3038247973,3824105627#notes:Good in PvE
-
-(Explosive Payload, Frenzy)
-dimwishlist:item=1216319404&perks=3038247973,4104185692#notes:Good in GM's
 
 
 
