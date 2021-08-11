@@ -562,9 +562,18 @@ dimwishlist:item=1946491241&perks=981914802,409831596#notes:Good in PvP, go for 
 
 (Confined Launch, Blinding Grenades, Auto-Loading, Disruption Break)
 (_______________, Blinding Grenades, Auto-Loading, Disruption Break)
-(_______________, Blinding Grenades, ____________, Disruption Break)
+(_______________, Blinding Grenades, Auto-Loading, ________________)
 dimwishlist:item=1946491241&perks=1844523823,3032599245,3300816228,1683379515#notes:Good in GM's
 dimwishlist:item=1946491241&perks=3032599245,3300816228,1683379515#notes:Good in GM's
+dimwishlist:item=1946491241&perks=3032599245,3300816228#notes:Good in GM's
+
+(Confined Launch, Blinding Grenades, Field-Prep, Disruption Break)
+(_______________, Blinding Grenades, Field-Prep, Disruption Break)
+(_______________, Blinding Grenades, Field-Prep, ________________)
+(_______________, Blinding Grenades, __________, Disruption Break)
+dimwishlist:item=1946491241&perks=1844523823,3032599245,2869569095,1683379515#notes:Good in GM's
+dimwishlist:item=1946491241&perks=3032599245,2869569095,1683379515#notes:Good in GM's
+dimwishlist:item=1946491241&perks=3032599245,2869569095#notes:Good in GM's
 dimwishlist:item=1946491241&perks=3032599245,1683379515#notes:Good in GM's
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
