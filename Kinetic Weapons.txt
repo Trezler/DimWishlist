@@ -61,6 +61,11 @@ dimwishlist:item=1561006927&perks=1885400500,4082225868#notes:Good in PvE
 dimwishlist:item=1561006927&perks=1885400500,1354429876,3425386926#notes:Good in PvE
 dimwishlist:item=1561006927&perks=1885400500,3425386926#notes:Good in PvE
 
+(Fourth Time's the Charm, Vorpal Weapon)
+(Auto-Loading___________, Vorpal Weapon)
+dimwishlist:item=1561006927&perks=1354429876,1546637391#notes:Good in GM's
+dimwishlist:item=1561006927&perks=3300816228,1546637391#notes:Good in GM's
+
 
 
 THE FORWARD PATH:
@@ -581,13 +586,13 @@ dimwishlist:item=2171478765&perks=3038247973,47981717#notes:Good in PvP
 FATEBRINGER (TIMELOST):
 (Accurized Rounds, Explosive Payload, Firefly, Kill Clip)
 (________________, Explosive Payload, Firefly, Kill Clip)
-dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627,1015611457#notes:Good in PvP
-dimwishlist:item=1216319404&perks=3038247973,3824105627,1015611457#notes:Good in PvP
+dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627,1015611457#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=3038247973,3824105627,1015611457#notes:Good in PvE & PvP
 
 (Accurized Rounds, Explosive Payload, Firefly, Opening Shot)
 (________________, Explosive Payload, Firefly, Opening Shot)
-dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627,47981717#notes:Good in PvP
-dimwishlist:item=1216319404&perks=3038247973,3824105627,47981717#notes:Good in PvP
+dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627,47981717#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=3038247973,3824105627,47981717#notes:Good in PvE & PvP
 
 (Rewind Rounds, Explosive Payload, Firefly, Frenzy)
 (Thresh_______, Explosive Payload, Firefly, Frenzy)
