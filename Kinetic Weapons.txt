@@ -562,8 +562,8 @@ dimwishlist:item=2742838701&perks=957782887,2846385770#notes:Good in PvP
 
 
 FATEBRINGER:
-(Rewind Rounds___, Firefly)
-(Thresh__________, Firefly)
+(Rewind Rounds____, Firefly)
+(Thresh___________, Firefly)
 (Explosive Payload, Firefly)
 dimwishlist:item=2171478765&perks=3418782618,3824105627#notes:Good in PvE
 dimwishlist:item=2171478765&perks=2726471870,3824105627#notes:Good in PvE
@@ -572,26 +572,61 @@ dimwishlist:item=2171478765&perks=3038247973,3824105627#notes:Good in PvE
 (Explosive Payload, Frenzy)
 dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:Good in GM's
 
-(Accurized Rounds, Explosive Payload, Kill Clip)
-(________________, Explosive Payload, Kill Clip)
-dimwishlist:item=2171478765&perks=3142289711,3038247973,1015611457#notes:Good in PvP
-dimwishlist:item=2171478765&perks=3038247973,1015611457#notes:Good in PvP
+(Fluted Barrel, Accurized Rounds, Explosive Payload, Eye of the Storm)
+(_____________, Accurized Rounds, Explosive Payload, Eye of the Storm)
+(Fluted Barrel, ________________, Explosive Payload, Eye of the Storm)
+(_____________, ________________, Explosive Payload, Eye of the Storm)
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,699525795#notes:Good in PvP
+dimwishlist:item=1216319404&perks=3142289711,3038247973,699525795#notes:Good in PvP
+dimwishlist:item=1216319404&perks=1840239774,3038247973,699525795#notes:Good in PvP
+dimwishlist:item=1216319404&perks=3038247973,699525795#notes:Good in PvP
 
-(Accurized Rounds, Explosive Payload, Opening Shot)
-(________________, Explosive Payload, Opening Shot)
-dimwishlist:item=2171478765&perks=3142289711,3038247973,47981717#notes:Good in PvP
-dimwishlist:item=2171478765&perks=3038247973,47981717#notes:Good in PvP
+(Fluted Barrel, Accurized Rounds, Explosive Payload, Kill Clip)
+(_____________, Accurized Rounds, Explosive Payload, Kill Clip)
+(Fluted Barrel, ________________, Explosive Payload, Kill Clip)
+(_____________, ________________, Explosive Payload, Kill Clip)
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,1015611457#notes:Good in PvP
+dimwishlist:item=1216319404&perks=3142289711,3038247973,1015611457#notes:Good in PvP
+dimwishlist:item=1216319404&perks=1840239774,3038247973,1015611457#notes:Good in PvP
+dimwishlist:item=1216319404&perks=3038247973,1015611457#notes:Good in PvP
+
+(Fluted Barrel, Accurized Rounds, Explosive Payload, Opening Shot)
+(_____________, Accurized Rounds, Explosive Payload, Opening Shot)
+(Fluted Barrel, ________________, Explosive Payload, Opening Shot)
+(_____________, ________________, Explosive Payload, Opening Shot)
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,47981717#notes:Good in PvP
+dimwishlist:item=1216319404&perks=3142289711,3038247973,47981717#notes:Good in PvP
+dimwishlist:item=1216319404&perks=1840239774,3038247973,47981717#notes:Good in PvP
+dimwishlist:item=1216319404&perks=3038247973,47981717#notes:Good in PvP
+
 
 
 FATEBRINGER (TIMELOST):
-(Accurized Rounds, Explosive Payload, Firefly, Kill Clip)
-(________________, Explosive Payload, Firefly, Kill Clip)
+(Fluted Barrel, Accurized Rounds, Explosive Payload, Firefly, Eye of the Storm)
+(_____________, Accurized Rounds, Explosive Payload, Firefly, Eye of the Storm)
+(Fluted Barrel, ________________, Explosive Payload, Firefly, Eye of the Storm)
+(_____________, ________________, Explosive Payload, Firefly, Eye of the Storm)
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,3824105627,699525795#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627,699525795#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=1840239774,3038247973,3824105627,699525795#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=3038247973,3824105627,699525795#notes:Good in PvE & PvP
+
+(Fluted Barrel, Accurized Rounds, Explosive Payload, Firefly, Kill Clip)
+(_____________, Accurized Rounds, Explosive Payload, Firefly, Kill Clip)
+(Fluted Barrel, ________________, Explosive Payload, Firefly, Kill Clip)
+(_____________, ________________, Explosive Payload, Firefly, Kill Clip)
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,3824105627,1015611457#notes:Good in PvE & PvP
 dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627,1015611457#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=1840239774,3038247973,3824105627,1015611457#notes:Good in PvE & PvP
 dimwishlist:item=1216319404&perks=3038247973,3824105627,1015611457#notes:Good in PvE & PvP
 
-(Accurized Rounds, Explosive Payload, Firefly, Opening Shot)
-(________________, Explosive Payload, Firefly, Opening Shot)
+(Fluted Barrel, Accurized Rounds, Explosive Payload, Firefly, Opening Shot)
+(_____________, Accurized Rounds, Explosive Payload, Firefly, Opening Shot)
+(Fluted Barrel, ________________, Explosive Payload, Firefly, Opening Shot)
+(_____________, ________________, Explosive Payload, Firefly, Opening Shot)
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,3824105627,47981717#notes:Good in PvE & PvP
 dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627,47981717#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=1840239774,3038247973,3824105627,47981717#notes:Good in PvE & PvP
 dimwishlist:item=1216319404&perks=3038247973,3824105627,47981717#notes:Good in PvE & PvP
 
 (Rewind Rounds, Explosive Payload, Firefly, Frenzy)
@@ -606,6 +641,69 @@ dimwishlist:item=1216319404&perks=3038247973,3824105627,4104185692#notes:Good in
 dimwishlist:item=1216319404&perks=3418782618,3038247973,3824105627#notes:Good in PvE
 dimwishlist:item=1216319404&perks=2726471870,3038247973,3824105627#notes:Good in PvE
 dimwishlist:item=1216319404&perks=3038247973,3824105627#notes:Good in PvE
+
+
+
+HAWKMOON:
+(Fluted Barrel, Alloy Magazine, Opening Shot, Textured Grip)
+(_____________, Alloy Magazine, Opening Shot, Textured Grip)
+(_____________, ______________, Opening Shot, Textured Grip)
+(_____________, Alloy Magazine, Opening Shot, _____________)
+(Fluted Barrel, ______________, Opening Shot, Textured Grip)
+(Fluted Barrel, ______________, Opening Shot, _____________)
+(Fluted Barrel, Alloy Magazine, Opening Shot, _____________)
+dimwishlist:item=3856705927&perks=1840239774,1431678320,47981717,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1431678320,47981717,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=47981717,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1431678320,47981717#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1840239774,47981717,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1840239774,47981717#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1840239774,1431678320,47981717#notes:Good in PvP
+
+(Fluted Barrel, Alloy Magazine, Rangefinder, Textured Grip)
+(_____________, Alloy Magazine, Rangefinder, Textured Grip)
+(_____________, ______________, Rangefinder, Textured Grip)
+(_____________, Alloy Magazine, Rangefinder, _____________)
+(Fluted Barrel, ______________, Rangefinder, Textured Grip)
+(Fluted Barrel, ______________, Rangefinder, _____________)
+(Fluted Barrel, Alloy Magazine, Rangefinder, _____________)
+dimwishlist:item=3856705927&perks=1840239774,1431678320,2846385770,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1431678320,2846385770,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=2846385770,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1431678320,2846385770#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1840239774,2846385770,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1840239774,2846385770#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1840239774,1431678320,2846385770#notes:Good in PvP
+
+(Fluted Barrel, Alloy Magazine, Killing Wind, Textured Grip)
+(_____________, Alloy Magazine, Killing Wind, Textured Grip)
+(_____________, ______________, Killing Wind, Textured Grip)
+(_____________, Alloy Magazine, Killing Wind, _____________)
+(Fluted Barrel, ______________, Killing Wind, Textured Grip)
+(Fluted Barrel, ______________, Killing Wind, _____________)
+(Fluted Barrel, Alloy Magazine, Killing Wind, _____________)
+dimwishlist:item=3856705927&perks=1840239774,1431678320,2450788523,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1431678320,2450788523,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=2450788523,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1431678320,2450788523#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1840239774,2450788523,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1840239774,2450788523#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1840239774,1431678320,2450788523#notes:Good in PvP
+
+(Fluted Barrel, Alloy Magazine, Eye of the Storm, Textured Grip)
+(_____________, Alloy Magazine, Eye of the Storm, Textured Grip)
+(_____________, ______________, Eye of the Storm, Textured Grip)
+(_____________, Alloy Magazine, Eye of the Storm, _____________)
+(Fluted Barrel, ______________, Eye of the Storm, Textured Grip)
+(Fluted Barrel, ______________, Eye of the Storm, _____________)
+(Fluted Barrel, Alloy Magazine, Eye of the Storm, _____________)
+dimwishlist:item=3856705927&perks=1840239774,1431678320,699525795,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1431678320,699525795,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=699525795,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1431678320,699525795#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1840239774,699525795,3917450714#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1840239774,699525795#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1840239774,1431678320,699525795#notes:Good in PvP
 
 
 
@@ -1106,6 +1204,45 @@ dimwishlist:item=3593598010&perks=1645158859,3425386926#notes:Good in PvP
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SCOUT RIFLES:
+
+DEAD MAN'S TALE:
+(Fluted Barrel, Ricochet Rounds, Killing Wind, Composite Stock)
+(_____________, Ricochet Rounds, Killing Wind, Composite Stock)
+(_____________, _______________, Killing Wind, Composite Stock)
+(_____________, Ricochet Rounds, Killing Wind, _______________)
+(Fluted Barrel, _______________, Killing Wind, Composite Stock)
+(Fluted Barrel, _______________, Killing Wind, _______________)
+(Fluted Barrel, Ricochet Rounds, Killing Wind, _______________)
+dimwishlist:item=3654674561&perks=1840239774,1885400500,2450788523,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1885400500,2450788523,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=2450788523,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1885400500,2450788523#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,2450788523,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,2450788523#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1885400500,2450788523#notes:Good in PvP
+
+(Fluted Barrel, Ricochet Rounds, Moving Target, Composite Stock)
+(_____________, Ricochet Rounds, Moving Target, Composite Stock)
+(_____________, _______________, Moving Target, Composite Stock)
+(_____________, Ricochet Rounds, Moving Target, _______________)
+(Fluted Barrel, _______________, Moving Target, Composite Stock)
+(Fluted Barrel, Ricochet Rounds, Moving Target, _______________)
+(Fluted Barrel, _______________, Moving Target, _______________)
+dimwishlist:item=3654674561&perks=1840239774,1885400500,588594999,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1885400500,588594999,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=588594999,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1885400500,588594999#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,588594999,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,588594999#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1885400500,588594999#notes:Good in PvP
+
+(Vorpal Weapon)
+dimwishlist:item=3654674561&perks=1546637391#notes:Good in GM's
+
+(Fourth Time's the Charm)
+dimwishlist:item=3654674561&perks=1354429876#notes:Good in GM's
+
+
 
 HUNG JURY SR4:
 (Rapid Hit, Explosive Payload)
