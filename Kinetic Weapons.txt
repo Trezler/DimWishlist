@@ -576,28 +576,28 @@ dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:Good in GM's
 (_____________, Accurized Rounds, Explosive Payload, Eye of the Storm)
 (Fluted Barrel, ________________, Explosive Payload, Eye of the Storm)
 (_____________, ________________, Explosive Payload, Eye of the Storm)
-dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,699525795#notes:Good in PvP
-dimwishlist:item=1216319404&perks=3142289711,3038247973,699525795#notes:Good in PvP
-dimwishlist:item=1216319404&perks=1840239774,3038247973,699525795#notes:Good in PvP
-dimwishlist:item=1216319404&perks=3038247973,699525795#notes:Good in PvP
+dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,699525795#notes:Good in PvP
+dimwishlist:item=2171478765&perks=3142289711,3038247973,699525795#notes:Good in PvP
+dimwishlist:item=2171478765&perks=1840239774,3038247973,699525795#notes:Good in PvP
+dimwishlist:item=2171478765&perks=3038247973,699525795#notes:Good in PvP
 
 (Fluted Barrel, Accurized Rounds, Explosive Payload, Kill Clip)
 (_____________, Accurized Rounds, Explosive Payload, Kill Clip)
 (Fluted Barrel, ________________, Explosive Payload, Kill Clip)
 (_____________, ________________, Explosive Payload, Kill Clip)
-dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,1015611457#notes:Good in PvP
-dimwishlist:item=1216319404&perks=3142289711,3038247973,1015611457#notes:Good in PvP
-dimwishlist:item=1216319404&perks=1840239774,3038247973,1015611457#notes:Good in PvP
-dimwishlist:item=1216319404&perks=3038247973,1015611457#notes:Good in PvP
+dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,1015611457#notes:Good in PvP
+dimwishlist:item=2171478765&perks=3142289711,3038247973,1015611457#notes:Good in PvP
+dimwishlist:item=2171478765&perks=1840239774,3038247973,1015611457#notes:Good in PvP
+dimwishlist:item=2171478765&perks=3038247973,1015611457#notes:Good in PvP
 
 (Fluted Barrel, Accurized Rounds, Explosive Payload, Opening Shot)
 (_____________, Accurized Rounds, Explosive Payload, Opening Shot)
 (Fluted Barrel, ________________, Explosive Payload, Opening Shot)
 (_____________, ________________, Explosive Payload, Opening Shot)
-dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,47981717#notes:Good in PvP
-dimwishlist:item=1216319404&perks=3142289711,3038247973,47981717#notes:Good in PvP
-dimwishlist:item=1216319404&perks=1840239774,3038247973,47981717#notes:Good in PvP
-dimwishlist:item=1216319404&perks=3038247973,47981717#notes:Good in PvP
+dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,47981717#notes:Good in PvP
+dimwishlist:item=2171478765&perks=3142289711,3038247973,47981717#notes:Good in PvP
+dimwishlist:item=2171478765&perks=1840239774,3038247973,47981717#notes:Good in PvP
+dimwishlist:item=2171478765&perks=3038247973,47981717#notes:Good in PvP
 
 
 
