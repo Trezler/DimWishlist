@@ -811,6 +811,14 @@ dimwishlist:item=2742838700&perks=3142289711,47981717,1954620775,2697220197#note
 dimwishlist:item=2742838700&perks=3142289711,47981717,3038247973,2697220197#notes:Good in PvP
 dimwishlist:item=2742838700&perks=47981717,1954620775,2697220197#notes:Good in PvP
 dimwishlist:item=2742838700&perks=47981717,3038247973,2697220197#notes:Good in PvP
+
+
+
+VULPECULA:
+(Outlaw, Multikill Clip)
+(Outlaw, Explosive Payload)
+dimwishlist:item=1622998472&perks=1168162263,2458213969
+dimwishlist:item=1622998472&perks=1168162263,3038247973
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1160,6 +1168,42 @@ dimwishlist:item=2782847179&perks=706527188,47981717#notes:Good in PvP
 
 
 
+FRACTETHYST:
+(Smoothbore, Barrel Shroud, Accurized Rounds, Quickdraw, Opening Shot) x
+(Smoothbore, _____________, Accurized Rounds, Quickdraw, Opening Shot)
+(__________, Barrel Shroud, Accurized Rounds, Quickdraw, Opening Shot)
+(__________, _____________, Accurized Rounds, Quickdraw, Opening Shot)
+(Smoothbore, Barrel Shroud, ________________, Quickdraw, Opening Shot) x
+(Smoothbore, _____________, ________________, Quickdraw, Opening Shot)
+(__________, Barrel Shroud, ________________, Quickdraw, Opening Shot)
+(__________, _____________, ________________, Quickdraw, Opening Shot)
+dimwishlist:item=3184681056&perks=466087222,1300023272,3142289711,706527188,47981717#notes:Good in PvP
+dimwishlist:item=3184681056&perks=466087222,3142289711,706527188,47981717#notes:Good in PvP
+dimwishlist:item=3184681056&perks=1300023272,3142289711,706527188,47981717#notes:Good in PvP
+dimwishlist:item=3184681056&perks=3142289711,706527188,47981717#notes:Good in PvP
+dimwishlist:item=3184681056&perks=466087222,1300023272,706527188,47981717#notes:Good in PvP
+dimwishlist:item=3184681056&perks=466087222,706527188,47981717#notes:Good in PvP
+dimwishlist:item=3184681056&perks=1300023272,706527188,47981717#notes:Good in PvP
+dimwishlist:item=3184681056&perks=706527188,47981717#notes:Good in PvP
+
+(Smoothbore, Barrel Shroud, Accurized Rounds, Quickdraw, Harmony) x
+(Smoothbore, _____________, Accurized Rounds, Quickdraw, Harmony)
+(__________, Barrel Shroud, Accurized Rounds, Quickdraw, Harmony)
+(__________, _____________, Accurized Rounds, Quickdraw, Harmony)
+(Smoothbore, Barrel Shroud, ________________, Quickdraw, Harmony) x
+(Smoothbore, _____________, ________________, Quickdraw, Harmony)
+(__________, Barrel Shroud, ________________, Quickdraw, Harmony)
+(__________, _____________, ________________, Quickdraw, Harmony)
+dimwishlist:item=3184681056&perks=466087222,1300023272,3142289711,706527188,438098033#notes:Good in PvP
+dimwishlist:item=3184681056&perks=466087222,3142289711,706527188,438098033#notes:Good in PvP
+dimwishlist:item=3184681056&perks=1300023272,3142289711,706527188,438098033#notes:Good in PvP
+dimwishlist:item=3184681056&perks=3142289711,706527188,438098033#notes:Good in PvP
+dimwishlist:item=3184681056&perks=466087222,1300023272,706527188,438098033#notes:Good in PvP
+dimwishlist:item=3184681056&perks=466087222,706527188,438098033#notes:Good in PvP
+dimwishlist:item=3184681056&perks=1300023272,706527188,438098033#notes:Good in PvP
+dimwishlist:item=3184681056&perks=706527188,438098033#notes:Good in PvP
+
+
 HERITAGE:
 (Fluted Barrel, Assault Mag, Reconstruction, Recombination)
 (_____________, Assault Mag, Reconstruction, Recombination)
@@ -1247,6 +1291,19 @@ dimwishlist:item=1197486957&perks=3436462433,3592538738#notes:Good in PvE
 
 LONESOME:
 dimwishlist:item=-2199171672#notes:Trash
+
+
+
+PEACEBOND:
+(Subsistence Swashbuckler)
+dimwishlist:item=829330711&perks=1820235745,4082225868#notes:Good in PvE
+
+(Tunnel Vision, Iron Reach)
+(Killing Wind_, Iron Reach)
+(Rangefinder__, Iron Reach)
+dimwishlist:item=829330711&perks=2946784966,591790007#notes:Test this
+dimwishlist:item=829330711&perks=2450788523,591790007#notes:Test this
+dimwishlist:item=829330711&perks=2846385770,591790007#notes:Test this
 
 
 
