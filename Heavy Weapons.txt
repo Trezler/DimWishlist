@@ -149,6 +149,16 @@ dimwishlist:item=2714022207#notes:Trash
 
 
 
+REED'S REGRET:
+()
+
+
+
+REED'S REGRET (ADEPT):
+()
+
+
+
 TARANTULA:
 (Feeding Frenzy, Dragonfly)
 dimwishlist:item=3335343363&perks=2779035018,2848615171#notes:Good in PvE
@@ -397,6 +407,11 @@ dimwishlist:item=-2545083870#notes:Trash
 
 
 
+ASCENDANCY:
+()
+
+
+
 BAD OMENS:
 dimwishlist:item=-991314988#notes:Trash, yes even with Tracking and Cluster Bombs
 
@@ -572,6 +587,16 @@ dimwishlist:item=42351395&perks=1478423395,2985827016,2010801679,2396489472#note
 dimwishlist:item=42351395&perks=2985827016,2010801679,2396489472#notes:Good in PvE
 dimwishlist:item=42351395&perks=1478423395,2010801679,2396489472#notes:Good in PvE
 dimwishlist:item=42351395&perks=2010801679,2396489472#notes:Good in PvE
+
+
+
+THE HOTHEAD:
+()
+
+
+
+THE HOTHEAD (ADEPT):
+()
 
 
 
