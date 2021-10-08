@@ -1710,7 +1710,7 @@ UZUME RR4:
 (Appended Mag, Triple Tap, Vorpal Weapon)
 (____________, Triple Tap, Vorpal Weapon)
 dimwishlist:item=2065081837&perks=106909392,3400784728,1546637391#notes:Good in PvE, use Backup Mag Mod
-dimwishlist:item=2065081837&perks=3400784728,1546637391#notes:Good in PvE
+dimwishlist:item=2065081837&perks=3400784728,1546637391#notes:Good in PvE, go for Appended mag
 
 (Accurized Rounds, Snapshot, Vorpal Weapon)
 (________________, Snapshot, Vorpal Weapon)
@@ -1723,7 +1723,7 @@ UZUME RR4 (ADEPT):
 (Tactical Mag, Triple Tap, Vorpal Weapon)
 (____________, Triple Tap, Vorpal Weapon)
 dimwishlist:item=852228780&perks=106909392,3400784728,1546637391#notes:Good in PvE, use Adept Backup Mag Mod
-dimwishlist:item=852228780&perks=3400784728,1546637391#notes:Good in PvE
+dimwishlist:item=852228780&perks=3400784728,1546637391#notes:Good in PvE, go for Tactical mag
 
 (Accurized Rounds, Snapshot, Vorpal Weapon)
 (________________, Snapshot, Vorpal Weapon)
