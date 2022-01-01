@@ -7,12 +7,19 @@ BRAYTECH WEREWOLF:
 (Fourth Time's the Charm, Swashbuckler)
 dimwishlist:item=528834068&perks=1354429876,4082225868#notes:Good in PvE
 
-(Fourth Time's the Charm, Vorpal Weapon)
+(Armor-Piercing Rounds, Fourth Time's the Charm, Vorpal Weapon)
+(_____________________, Fourth Time's the Charm, Vorpal Weapon)
+dimwishlist:item=528834068&perks=1968497646,1354429876,1546637391#notes:Good in GM's
 dimwishlist:item=528834068&perks=1354429876,1546637391#notes:Good in GM's
 
 
 
 CHROMA RUSH:
+(Feeding Frenzy, Adrenaline Junkie)
+(Subsistence___, Adrenaline Junkie)
+dimwishlist:item=1119734784&perks=2779035018,11612903#notes:Good in PvE
+dimwishlist:item=1119734784&perks=1820235745,11612903#notes:Good in PvE
+
 (Feeding Frenzy, Rampage)
 (Subsistence___, Rampage)
 dimwishlist:item=1119734784&perks=2779035018,3425386926#notes:Good in PvE
@@ -31,47 +38,60 @@ dimwishlist:item=1119734784&perks=1820235745,3592538738#notes:Good in PvE
 
 
 FALSE PROMISES:
-(Subsistence, Rampage_____)
-(Subsistence, Swashbuckler)
-dimwishlist:item=3143732432&perks=1820235745,3425386926#notes:Good in PvE
+(Feeding Frenzy, Swashbuckler)
+(Subsistence___, Swashbuckler)
+dimwishlist:item=3143732432&perks=2779035018,4082225868#notes:Good in PvE
 dimwishlist:item=3143732432&perks=1820235745,4082225868#notes:Good in PvE
 
-(Feeding Frenzy, Rampage_____)
-(Feeding Frenzy, Swashbuckler)
+(Feeding Frenzy, Rampage)
+(Subsistence___, Rampage)
 dimwishlist:item=3143732432&perks=2779035018,3425386926#notes:Good in PvE
-dimwishlist:item=3143732432&perks=2779035018,4082225868#notes:Good in PvE
+dimwishlist:item=3143732432&perks=1820235745,3425386926#notes:Good in PvE
 
 
 
 HORROR STORY:
-(Subsistence_______, Demolitionist)
-(Outlaw____________, Demolitionist)
+(Subsistence, Demolitionist)
+(Outlaw_____, Demolitionist)
 dimwishlist:item=3829285960&perks=1820235745,3523296417#notes:Good in PvE
 dimwishlist:item=3829285960&perks=1168162263,3523296417#notes:Good in PvE
 
 
 
 SCATHELOCKE:
-(Subsistence, Rampage)
+(Subsistence, Rampage__________)
+(Subsistence, Multikill Clip___)
+(Subsistence, Adrenaline Junkie)
 dimwishlist:item=602618796&perks=1820235745,3425386926#notes:Good in PvE
+dimwishlist:item=602618796&perks=1820235745,2458213969#notes:Good in PvE
+dimwishlist:item=602618796&perks=1820235745,11612903#notes:Good in PvE
 
 
 
 SEVENTH SERAPH CARBINE:
+(Armor-Piercing Rounds, Fourth Time's the Charm, Vorpal Weapon)
+(_____________________, Fourth Time's the Charm, Vorpal Weapon)
+dimwishlist:item=1561006927&perks=1968497646,1354429876,1546637391#notes:Good in GM's
+dimwishlist:item=1561006927&perks=1354429876,1546637391#notes:Good in GM's
+
+(Armor-Piercing Rounds, Auto-Loading, Vorpal Weapon)
+(_____________________, Auto-Loading, Vorpal Weapon)
+dimwishlist:item=1561006927&perks=1968497646,3300816228,1546637391#notes:Good in GM's
+dimwishlist:item=1561006927&perks=3300816228,1546637391#notes:Good in GM's
+
 (Ricochet Rounds, Fouth Time's the Charm, Swashbuckler)
 (Ricochet Rounds, ______________________, Swashbuckler)
+(_______________, Fouth Time's the Charm, Swashbuckler)
 dimwishlist:item=1561006927&perks=1885400500,1354429876,4082225868#notes:Good in PvE
 dimwishlist:item=1561006927&perks=1885400500,4082225868#notes:Good in PvE
+dimwishlist:item=1561006927&perks=1354429876,4082225868#notes:Good in PvE
 
 (Ricochet Rounds, Fouth Time's the Charm, Rampage)
 (Ricochet Rounds, _____________________ , Rampage)
+(_______________, Fouth Time's the Charm, Rampage)
 dimwishlist:item=1561006927&perks=1885400500,1354429876,3425386926#notes:Good in PvE
 dimwishlist:item=1561006927&perks=1885400500,3425386926#notes:Good in PvE
-
-(Fourth Time's the Charm, Vorpal Weapon)
-(Auto-Loading___________, Vorpal Weapon)
-dimwishlist:item=1561006927&perks=1354429876,1546637391#notes:Good in GM's
-dimwishlist:item=1561006927&perks=3300816228,1546637391#notes:Good in GM's
+dimwishlist:item=1561006927&perks=1354429876,3425386926#notes:Good in PvE
 
 
 
@@ -87,15 +107,15 @@ dimwishlist:item=507038823&perks=2450788523,2846385770#notes:Good in PvP
 
 
 TIGERSPITE:
-(Outlaw, Swashbuckler)
-(Outlaw, Demolitionist)
-dimwishlist:item=640114618&perks=1168162263,4082225868#notes:Good in PvE
-dimwishlist:item=640114618&perks=1168162263,3523296417#notes:Good in PvE
-
 (Subsistence, Swashbuckler)
-(Subsistence, Demolitionist)
+(Outlaw_____, Swashbuckler)
 dimwishlist:item=640114618&perks=1820235745,4082225868#notes:Good in PvE
+dimwishlist:item=640114618&perks=1168162263,4082225868#notes:Good in PvE
+
+(Subsistence, Demolitionist)
+(Outlaw_____, Demolitionist)
 dimwishlist:item=640114618&perks=1820235745,3523296417#notes:Good in PvE
+dimwishlist:item=640114618&perks=1168162263,3523296417#notes:Good in PvE
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
