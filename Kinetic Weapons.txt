@@ -807,7 +807,7 @@ dimwishlist:item=2742838700&perks=47981717,3038247973,2697220197#notes:Good in P
 
 
 VULPECULA:
-(Outlaw, Multikill Clip)
+(Outlaw, Multikill Clip___)
 (Outlaw, Explosive Payload)
 dimwishlist:item=1622998472&perks=1168162263,2458213969#notes:Good in PvE
 dimwishlist:item=1622998472&perks=1168162263,3038247973#notes:Good in PvE
