@@ -1231,26 +1231,23 @@ dimwishlist:item=-1723380073#notes:Trash
 
 
 FAREWELL:
-(Full-Auto, Multikill Clip)
-(Full-Auto, Thresh)
-dimwishlist:item=541188001&perks=4267945040,2458213969#notes:Good in PvE
-dimwishlist:item=541188001&perks=4267945040,2726471870#notes:Good in PvE
+dimwishlist:item=-541188001#notes:Trash
 
 
 
 HIGH ALBEDO:
 (Full Auto, Demolitionist)
-(Full Auto, Wellspring)
+(Full Auto, Wellspring___)
 dimwishlist:item=1197486957&perks=4267945040,3523296417#notes:Good in PvE
 dimwishlist:item=1197486957&perks=4267945040,3592538738#notes:Good in PvE
 
 (Ambitious Assaassin, Demolitionist)
-(Ambitious Assaassin, Wellspring)
+(Ambitious Assaassin, Wellspring___)
 dimwishlist:item=1197486957&perks=2010801679,3523296417#notes:Good in PvE
 dimwishlist:item=1197486957&perks=2010801679,3592538738#notes:Good in PvE
 
 (Surplus, Demolitionist)
-(Surplus, Wellspring)
+(Surplus, Wellspring___)
 dimwishlist:item=1197486957&perks=3436462433,3523296417#notes:Good in PvE
 dimwishlist:item=1197486957&perks=3436462433,3592538738#notes:Good in PvE
 
@@ -1262,15 +1259,10 @@ dimwishlist:item=-2199171672#notes:Trash
 
 
 PEACEBOND:
-(Subsistence Swashbuckler)
+(Subsistence Swashbuckler_)
+(Subsistence Demolitionist)
 dimwishlist:item=829330711&perks=1820235745,4082225868#notes:Good in PvE
-
-(Tunnel Vision, Iron Reach)
-(Killing Wind_, Iron Reach)
-(Rangefinder__, Iron Reach)
-dimwishlist:item=829330711&perks=2946784966,591790007#notes:Test this
-dimwishlist:item=829330711&perks=2450788523,591790007#notes:Test this
-dimwishlist:item=829330711&perks=2846385770,591790007#notes:Test this
+dimwishlist:item=829330711&perks=1820235745,3523296417#notes:Good in PvE
 
 
 
@@ -1490,75 +1482,83 @@ SUBMACHINE GUNS:
 
 COLD FRONT:
 (Surplus, Swashbuckler)
-(Surplus, Rampage)
-(Surplus, Thresh)
+(Surplus, Rampage_____)
+(Surplus, Thresh______)
 dimwishlist:item=1506719573&perks=3436462433,4082225868#notes:Good in PvE
 dimwishlist:item=1506719573&perks=3436462433,3425386926#notes:Good in PvE
 dimwishlist:item=1506719573&perks=3436462433,2726471870#notes:Good in PvE
 
 (Subsistence, Swashbuckler)
-(Subsistence, Rampage)
-(Subsistence, Thresh)
+(Subsistence, Rampage_____)
+(Subsistence, Thresh______)
 dimwishlist:item=1506719573&perks=1820235745,4082225868#notes:Good in PvE
 dimwishlist:item=1506719573&perks=1820235745,3425386926#notes:Good in PvE
 dimwishlist:item=1506719573&perks=1820235745,2726471870#notes:Good in PvE
+
+(Perpetual Motion, Swashbuckler)
+(Perpetual Motion, Rampage_____)
+(Perpetual Motion, Thresh______)
+dimwishlist:item=1506719573&perks=1428297954,4082225868#notes:Good in PvE
+dimwishlist:item=1506719573&perks=1428297954,3425386926#notes:Good in PvE
+dimwishlist:item=1506719573&perks=1428297954,2726471870#notes:Good in PvE
 
 
 
 ESCAPE VELOCITY:
 (Threat Detector, Surrounded)
-(Overflow_______, Surrounded)
 dimwishlist:item=1786797708&perks=4071163871,3708227201#notes:Good in PvE
-dimwishlist:item=1786797708&perks=3643424744,3708227201#notes:Good in PvE
 
 
 
 EXTRAORDINARY RENDITION:
-(Overflow, Rampage, Thresh)x
-(Overflow, Rampage, ______)
-(Overflow, _______, Thresh)
-dimwishlist:item=1097616550&perks=3643424744,3425386926,2726471870#notes:Good in PvE
-dimwishlist:item=1097616550&perks=3643424744,3425386926#notes:Good in PvE
-dimwishlist:item=1097616550&perks=3643424744,2726471870#notes:Good in PvE
-
-(Surplus, Multikill Clip, Rampage)x
 (Surplus, Multikill Clip, Thresh_)x
-(Surplus, Rampage_______, Thresh_)x
+(Surplus, Multikill Clip, Rampage)x
+(Surplus, Multikill Clip, Frenzy_)x
+(Surplus, Thresh________, Rampage)x
+(Surplus, Thresh________, Frenzy_)x
 (Surplus, Multikill Clip, _______)
-(Surplus, Rampage_______, _______)
 (Surplus, Thresh________, _______)
-dimwishlist:item=1097616550&perks=3436462433,2458213969,3425386926#notes:Good in PvE
+(Surplus, Rampage_______, _______)
+(Surplus, Frenzy________, _______)
 dimwishlist:item=1097616550&perks=3436462433,2458213969,2726471870#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3436462433,2458213969,3425386926#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3436462433,2458213969,4104185692#notes:Good in PvE
 dimwishlist:item=1097616550&perks=3436462433,3425386926,2726471870#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3436462433,3425386926,4104185692#notes:Good in PvE
 dimwishlist:item=1097616550&perks=3436462433,2458213969#notes:Good in PvE
-dimwishlist:item=1097616550&perks=3436462433,3425386926#notes:Good in PvE
 dimwishlist:item=1097616550&perks=3436462433,2726471870#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3436462433,3425386926#notes:Good in PvE
+dimwishlist:item=1097616550&perks=3436462433,4104185692#notes:Good in PvE
 
-(Outlaw, Multikill Clip, Rampage)
-(Outlaw, Multikill Clip, Thresh_)
-(Outlaw, Rampage_______, Thresh_)
-(Outlaw, Multikill Clip, _______)
-(Outlaw, Rampage_______, _______)
-(Outlaw, Thresh________, _______)
-dimwishlist:item=1097616550&perks=1168162263,2458213969,3425386926#notes:Good in PvE
+(Surplus, Multikill Clip, Thresh_)x
+(Surplus, Multikill Clip, Rampage)x
+(Surplus, Multikill Clip, Frenzy_)x
+(Surplus, Thresh________, Rampage)x
+(Surplus, Thresh________, Frenzy_)x
+(Surplus, Multikill Clip, _______)
+(Surplus, Thresh________, _______)
+(Surplus, Rampage_______, _______)
+(Surplus, Frenzy________, _______)
 dimwishlist:item=1097616550&perks=1168162263,2458213969,2726471870#notes:Good in PvE
+dimwishlist:item=1097616550&perks=1168162263,2458213969,3425386926#notes:Good in PvE
+dimwishlist:item=1097616550&perks=1168162263,2458213969,4104185692#notes:Good in PvE
 dimwishlist:item=1097616550&perks=1168162263,3425386926,2726471870#notes:Good in PvE
+dimwishlist:item=1097616550&perks=1168162263,3425386926,4104185692#notes:Good in PvE
 dimwishlist:item=1097616550&perks=1168162263,2458213969#notes:Good in PvE
-dimwishlist:item=1097616550&perks=1168162263,3425386926#notes:Good in PvE
 dimwishlist:item=1097616550&perks=1168162263,2726471870#notes:Good in PvE
+dimwishlist:item=1097616550&perks=1168162263,3425386926#notes:Good in PvE
+dimwishlist:item=1097616550&perks=1168162263,4104185692#notes:Good in PvE
 
 
 
 FRICTION FIRE:
-(Subsistence, Rampage)
-(Subsistence, Wellspring)
-dimwishlist:item=1513993763&perks=1820235745,3425386926#notes:Good in PvE
-dimwishlist:item=1513993763&perks=1820235745,3592538738#notes:Good in PvE
-
-(Threat Detector, Rampage)
 (Threat Detector, Wellspring)
-dimwishlist:item=1513993763&perks=4071163871,3425386926#notes:Good in PvE
+(Threat Detector, Rampage___)
 dimwishlist:item=1513993763&perks=4071163871,3592538738#notes:Good in PvE
+dimwishlist:item=1513993763&perks=4071163871,3425386926#notes:Good in PvE
+
+(Full Bore, Accurized Rounds, Killing Wind, Rampage)
+dimwishlist:item=1513993763&perks=202670084,3142289711,2450788523,3425386926#notes:Good in PvP
 
 
 
