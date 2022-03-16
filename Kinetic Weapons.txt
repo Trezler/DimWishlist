@@ -40,6 +40,20 @@ dimwishlist:item=1119734784&perks=2946784966,1015611457#notes:Good in PvP
 
 
 
+DUTY BOUND:
+(Stats for All, One for All)
+
+
+(Triple Tap, Fourth time's the Charm)
+
+
+
+
+DUTY BOUND (ADEPT):
+(
+
+
+
 FALSE PROMISES:
 (Feeding Frenzy, Swashbuckler)
 (Subsistence___, Swashbuckler)
@@ -53,11 +67,21 @@ dimwishlist:item=3143732432&perks=1820235745,3425386926#notes:Good in PvE
 
 
 
+HEROD-C:
+(
+
+
+
 HORROR STORY:
 (Subsistence, Demolitionist)
 (Outlaw_____, Demolitionist)
 dimwishlist:item=3829285960&perks=1820235745,3523296417#notes:Good in PvE
 dimwishlist:item=3829285960&perks=1168162263,3523296417#notes:Good in PvE
+
+
+
+KRAIT:
+(
 
 
 
@@ -156,9 +180,26 @@ dimwishlist:item=1621657423&perks=2801223209,3365897133#notes:Good in PvE, go fo
 
 
 
+FEL TARADIDDLEDIDDLEDIDDLE:
+(
+
+
+
 WHISPERING SLAB:
 (Elastic String, Archer's Tempo, Vorpal Weapon)
 dimwishlist:item=211938782&perks=2801223209,201365942,1546637391#notes:Good in GM's
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FUSION RIFLES:
+
+DELIVERANCE:
+(
+
+
+
+DELIVERANCE (ADEPT):
+(
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -792,6 +833,11 @@ dimwishlist:item=3409645497&perks=2779035018,2726471870#notes:Good in PvE
 
 
 
+PIECE OF MIND:
+(
+
+
+
 SACRED PROVENANCE:
 (Ricochet Rounds, Rapid Hit, Kill Clip)
 (_______________, Rapid Hit, Kill Clip)
@@ -805,6 +851,11 @@ dimwishlist:item=2408405461&perks=1168162263,1015611457#notes:Good in PvP
 
 (Rapid Hit, Headseeker)
 dimwishlist:item=2408405461&perks=247725512,460017080#notes:Good in GM's
+
+
+
+SYNCOPATION-53:
+(
 
 
 
@@ -980,6 +1031,11 @@ dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#no
 
 
 
+PERSES-D:
+(
+
+
+
 SERVANT LEADER:
 (Tunnel Vision, Kill Clip)
 dimwishlist:item=1107446438&perks=2946784966,1015611457#notes:Good in PvP
@@ -1091,6 +1147,11 @@ dimwishlist:item=2782847179&perks=706527188,47981717#notes:Good in PvP
 
 
 
+FORTISSIMO-11:
+(
+
+
+
 FRACTETHYST:
 (Smoothbore, Barrel Shroud, Accurized Rounds, Quickdraw, Opening Shot) x
 (Smoothbore, _____________, Accurized Rounds, Quickdraw, Opening Shot)
@@ -1134,6 +1195,16 @@ dimwishlist:item=4248569242&perks=3300816228,469285294#notes:Good in PvE
 
 ONE SMALL STEP:
 dimwishlist:item=-1016668089#notes:Trash
+
+
+
+RAGNHILD-D:
+(
+
+
+
+RECKLESS ENDANGERMENT:
+(
 
 
 
@@ -1224,6 +1295,11 @@ dimwishlist:item=1679868061&perks=,1428297954,47981717#notes:Good in PvP
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SIDEARMS:
+
+EMPIRICAL EVIDENCE:
+(
+
+
 
 ENIGMA'S DRAW:
 dimwishlist:item=-1723380073#notes:Trash
@@ -1411,6 +1487,16 @@ dimwishlist:item=3743729616&perks=2866798147,957782887#notes:Good in PvP
 
 
 
+SILICON NEUROMA:
+(
+
+
+
+SILICON NEUROMA (ADEPT):
+(
+
+
+
 SUCCESSION:
 (Chambered Compensator, Tactical Mag, Reconstruction, Vorpal Weapon)
 (_____________________, Tactical Mag, Reconstruction, Vorpal Weapon)
@@ -1454,6 +1540,11 @@ SUPREMACY:
 dimwishlist:item=686951703&perks=1087426260,957782887,3400784728#notes:Good in PvE
 dimwishlist:item=686951703&perks=1087426260,3400784728#notes:Good in PvE
 dimwishlist:item=686951703&perks=957782887,3400784728#notes:Good in PvE
+
+
+
+THOUGHTLESS:
+(
 
 
 
@@ -1551,6 +1642,11 @@ dimwishlist:item=1097616550&perks=1168162263,4104185692#notes:Good in PvE
 
 
 
+FORENSIC NIGHTMARE:
+(
+
+
+
 FRICTION FIRE:
 (Threat Detector, Wellspring)
 (Threat Detector, Rampage___)
@@ -1598,6 +1694,16 @@ dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,591790007#note
 dimwishlist:item=3717177717&perks=663495154,2450788523,591790007#notes:Good in PvP
 dimwishlist:item=3717177717&perks=3142289711,2450788523,591790007#notes:Good in PvP
 dimwishlist:item=3717177717&perks=2450788523,591790007#notes:Good in PvP
+
+
+
+SUBMISSION:
+(
+
+
+
+SUBMISSION (ADEPT):
+(
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
