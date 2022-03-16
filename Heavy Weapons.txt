@@ -13,9 +13,6 @@ dimwishlist:item=407621213&perks=3301904089,706527188,3300816228#notes:Good in P
 dimwishlist:item=407621213&perks=3525010810,3301904089,3300816228#notes:Good in PvE
 dimwishlist:item=407621213&perks=3301904089,3300816228#notes:Good in PvE
 
-dimwishlist:item=2534546147,3800201097,1546637391#notes:wut
-dimwishlist:item=2534546147,3800201097,3078487919
-
 BLAST BATTUE:
 (Volatile Launch, Alloy Casing, Clown Cartridge, Chain Reaction)
 (_______________, Alloy Casing, Clown Cartridge, Chain Reaction)
