@@ -13,7 +13,7 @@ dimwishlist:item=407621213&perks=3301904089,706527188,3300816228#notes:Good in P
 dimwishlist:item=407621213&perks=3525010810,3301904089,3300816228#notes:Good in PvE
 dimwishlist:item=407621213&perks=3301904089,3300816228#notes:Good in PvE
 
-
+dimwishlist:item=2534546147,3800201097,1546637391
 
 BLAST BATTUE:
 (Volatile Launch, Alloy Casing, Clown Cartridge, Chain Reaction)
@@ -24,6 +24,11 @@ dimwishlist:item=2453357042&perks=1478423395,2985827016,2284787283,2396489472#no
 dimwishlist:item=2453357042&perks=2985827016,2284787283,2396489472#notes:Good in PvE
 dimwishlist:item=2453357042&perks=1478423395,2284787283,2396489472#notes:Good in PvE
 dimwishlist:item=2453357042&perks=2284787283,2396489472#notes:Good in PvE
+
+
+
+CANIS MAJOR:
+()
 
 
 
@@ -139,10 +144,30 @@ dimwishlist:item=1972985595&perks=981914802,3301904089,3300816228,706527188#note
 dimwishlist:item=1972985595&perks=3301904089,3300816228,706527188#notes:Good in PvE
 dimwishlist:item=1972985595&perks=3525010810,3301904089,3300816228#notes:Good in PvE
 dimwishlist:item=1972985595&perks=3301904089,3300816228#notes:Good in PvE
+
+
+
+TARNATION:
+(
+
+
+
+TYPHON GL5:
+(
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 LINEAR FUSION RIFLES:
+
+CATACLYSMIC:
+(
+
+
+
+CATACLYSMIC (ADEPT):
+(
+
+
 
 CORSAIR'S WRATH:
 dimwishlist:item=2714022207#notes:Trash
@@ -306,6 +331,11 @@ dimwishlist:item=3796510434&perks=1820235745,3824105627#notes:Good in PvE
 
 (Dynamic Sway Reduction, High-Impact Reserves)
 dimwishlist:item=3796510434&perks=1359896290,2213355989#notes:Good in PvP
+
+
+
+RECURRENT IMPACT:
+(
 
 
 
@@ -510,6 +540,16 @@ dimwishlist:item=3669616453&perks=981914802,3796465595,2869569095,1275731761#not
 dimwishlist:item=3669616453&perks=3796465595,2869569095,1275731761#notes:Good in PvE
 dimwishlist:item=3669616453&perks=981914802,2869569095,1275731761#notes:Good in PvE
 dimwishlist:item=3669616453&perks=2869569095,1275731761#notes:Good in PvE
+
+
+
+PALMYRA-B:
+(
+
+
+
+RED HERRING:
+(
 
 
 
@@ -733,6 +773,16 @@ dimwishlist:item=614426548&perks=3666208348,3913600130#notes:Good in PvE
 
 
 
+HALF-TRUTHS:
+()
+
+
+
+HERO OF AGES:
+()
+
+
+
 HONOR'S EDGE:
 dimwishlist:item=-2857348871#notes:Trash
 
@@ -752,6 +802,19 @@ dimwishlist:item=3870811754&perks=1261178282,2349202967,2590710093,2726471870#no
 dimwishlist:item=3870811754&perks=2349202967,2590710093,2726471870#notes:Good in PvE
 dimwishlist:item=3870811754&perks=1261178282,2590710093,2726471870#notes:Good in PvE
 dimwishlist:item=3870811754&perks=2590710093,2726471870#notes:Good in PvE
+
+
+
+QUICKFANG:
+(Enduring Blade, Swordmaster's Guard, Thresh, Assassin's Blade)
+(______________, Swordmaster's Guard, Thresh, Assassin's Blade)
+dimwishlist:item=2782325300&perks=1261178282,269888150,2726471870,354401740#notes:Good in PvE
+dimwishlist:item=2782325300&perks=269888150,2726471870,354401740#notes:Good in PvE
+
+
+
+RAZOR'S EDGE:
+(
 
 
 
@@ -796,11 +859,13 @@ dimwishlist:item=35794111&perks=2590710093,1546637391#notes:Good in PvE
 
 
 
-QUICKFANG:
-(Enduring Blade, Swordmaster's Guard, Thresh, Assassin's Blade)
-(______________, Swordmaster's Guard, Thresh, Assassin's Blade)
-dimwishlist:item=2782325300&perks=1261178282,269888150,2726471870,354401740#notes:Good in PvE
-dimwishlist:item=2782325300&perks=269888150,2726471870,354401740#notes:Good in PvE
+THE OTHER HALF:
+()
+
+
+
+ZEPHYR:
+()
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
