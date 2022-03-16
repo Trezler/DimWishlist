@@ -29,7 +29,12 @@ dimwishlist:item=20935540&perks=1820235745,2726471870#notes:Good in PvE
 
 
 CHRYSURA MELO:
-()
+(
+
+
+
+COME TO PASS:
+(
 
 
 
@@ -99,7 +104,12 @@ dimwishlist:item=2147010335&perks=3643424744,1683379515#notes:Good in GM's
 
 
 SORROW'S VERSE:
-()
+(
+
+
+
+SWEET SORROW:
+(
 
 
 
@@ -296,8 +306,13 @@ dimwishlist:item=2721249463&perks=4067834857,3827198035,908147344,2848615171#not
 
 
 
+UNDER YOUR SKIN:
+(
+
+
+
 WOLFTONE DRAW:
-()
+(
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -402,7 +417,12 @@ dimwishlist:item=-607191995#notes:Trash
 
 
 IOTA DRACONIS:
-()
+(
+
+
+
+LIKELY SUSPECT:
+(
 
 
 
@@ -436,6 +456,11 @@ dimwishlist:item=534775659&perks=2779035018,1427256713#notes:Good in PvE
 
 (Quickdraw, Backup Plan)
 dimwishlist:item=534775659&perks=706527188,1600092898#notes:Good in PvP
+
+
+
+SNORRI FR5:
+(
 
 
 
@@ -484,6 +509,23 @@ dimwishlist:item=3258665412&perks=2779035018,3523296417#notes:Good in PvE
 
 ZEALOT'S REWARD:
 dimwishlist:item=-2209003210#notes:Trash
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+GLAIVES:
+
+LUBRAE'S RUIN:
+(
+
+
+
+LUBRAE'S RUIN (ADEPT):
+(
+
+
+
+THE ENIGMA:
+(
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -543,6 +585,21 @@ dimwishlist:item=4255586669&perks=3032599245,2869569095,1546637391#notes:Good in
 dimwishlist:item=4255586669&perks=2869569095,1546637391#notes:Good in PvE
 dimwishlist:item=4255586669&perks=3301904089,1546637391#notes:Good in PvE
 dimwishlist:item=4255586669&perks=3032599245,1546637391#notes:Good in GM's
+
+
+
+EXPLOSIVE PERSONALITY:
+(
+
+
+
+FORBERANCE:
+(
+
+
+
+FORBERANCE (ADEPT):
+(
 
 
 
@@ -644,6 +701,16 @@ dimwishlist:item=1046651176&perks=1168162263,3038247973#notes:Good in PvE & PvP
 
 
 
+CANTATA-57:
+(
+
+
+
+CRISIS INVERTED:
+(
+
+
+
 FINITE IMPACTOR:
 (Ricochet Rounds, Heating Up__, Iron Reach)
 (_______________, Heating Up__, Iron Reach)
@@ -653,6 +720,11 @@ dimwishlist:item=3813153080&perks=1885400500,1570042021,591790007#notes:Good in 
 dimwishlist:item=3813153080&perks=1570042021,591790007#notes:Good in PvP
 dimwishlist:item=3813153080&perks=1885400500,2450788523,591790007#notes:Good in PvP
 dimwishlist:item=3813153080&perks=2450788523,591790007#notes:Good in PvP
+
+
+
+FRONTIER'S CRY:
+(
 
 
 
@@ -937,6 +1009,11 @@ dimwishlist:item=334171687&perks=2846385770,1015611457#notes:Good in PvP
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 PULSE RIFLES:
 
+BxR-55 Battler:
+()
+
+
+
 DARKEST BEFORE:
 ()
 
@@ -1008,6 +1085,16 @@ dimwishlist:item=1621558458&perks=1570042021,2726471870#notes:Good in PvP
 
 
 
+INSIDIOUS:
+(
+
+
+
+INSIDIOUS (ADEPT):
+(
+
+
+
 JIAN 7:
 (Armor-Piercing Round, Disruption Break, Dragonfly)
 (____________________, Disruption Break, Dragonfly)
@@ -1026,6 +1113,11 @@ dimwishlist:item=1162247618&perks=1683379515,1168162263#notes:Good in GM's
 
 
 
+Jurassic Green:
+()
+
+
+
 LAST PERDITION:
 (Outlaw, Rampage)
 dimwishlist:item=188882152&perks=1168162263,3425386926#notes:Good in PvE
@@ -1034,6 +1126,11 @@ dimwishlist:item=188882152&perks=1168162263,3425386926#notes:Good in PvE
 (Under Pressure, High-Impact Reserves)
 dimwishlist:item=188882152&perks=1168162263,2213355989#notes:Good in GM's
 dimwishlist:item=188882152&perks=1645158859,2213355989#notes:Good in GM's
+
+
+
+OGMA PR6:
+(
 
 
 
@@ -1115,6 +1212,16 @@ dimwishlist:item=4156253727&perks=3096702027,1546637391#notes:Good in GM's
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 SCOUT RIFLES:
 
+AISHA'S EMBRACE:
+(
+
+
+
+AISHA'S EMBRACE (ADEPT):
+(
+
+
+
 CONTINGENCY PLAN:
 ()
 
@@ -1128,6 +1235,11 @@ dimwishlist:item=3514096004&perks=247725512,1683379515#notes:Good in GM's
 
 PLEIADES CORRECTOR:
 dimwishlist:item=-3556999246#notes:Trash
+
+
+
+POINTED INQUIRY:
+(
 
 
 
@@ -1400,6 +1512,11 @@ dimwishlist:item=-1096206669#notes:Trash
 
 
 
+MATADOR 64:
+()
+
+
+
 PROPHET OF DOOM:
 dimwishlist:item=-4020742303#notes:Trash
 
@@ -1524,7 +1641,12 @@ dimwishlist:item=2362471600&perks=1482024992,3425386926,588594999,3142289711#not
 
 
 PUNCHING OUT:
-()
+(
+
+
+
+REDBACK-5SI:
+(
 
 
 
@@ -1593,6 +1715,11 @@ dimwishlist:item=2414141462&perks=2450788523,4082225868#notes:Good in PvE
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 SNIPERS:
 
+1000 YARD STARE:
+()
+
+
+
 ADORED:
 (Hammer-Forged Rifling, Accutized Rounds, Triple Tap, Killing Wind, Vorpal Weapon, Snapshot Sights)
 dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,2450788523,1546637391,957782887#notes:Good in PvE & PvP
@@ -1619,6 +1746,11 @@ dimwishlist:item=-893527433#notes:Trash
 
 
 
+FATHER'S SINS:
+(
+
+
+
 FROZEN ORBIT:
 (Accurized Rounds, Surplus, Kill Clip)
 (________________, Surplus, Kill Clip)
@@ -1642,6 +1774,11 @@ dimwishlist:item=3473290087&perks=588594999,957782887#notes:Good in PvP
 (____________, Triple Tap, Vorpal Weapon)
 dimwishlist:item=3473290087&perks=1087426260,3400784728,1546637391#notes:Good in PvE & GM's, use Backup Mag Mod
 dimwishlist:item=3473290087&perks=3400784728,1546637391#notes:Good in PvE & GM's
+
+
+
+FUGUE-55:
+(
 
 
 
@@ -1794,6 +1931,11 @@ dimwishlist:item=4277547616&perks=2010801679,3592538738#notes:Good in PvE
 
 
 
+FUNNELWEB:
+(
+
+
+
 IKELOS_SMG_V1.0.2:
 (Seraph Rounds___, Threat Detector, Surrounded, Demolitionist)
 (Accurized Rounds, Threat Detector, Surrounded, Demolitionist)
@@ -1876,6 +2018,13 @@ dimwishlist:item=2272470786&perks=830282363,2779035018,2458213969#notes:Good in 
 dimwishlist:item=2272470786&perks=830282363,2779035018,3592538738#notes:Good in PvE
 dimwishlist:item=2272470786&perks=2779035018,2458213969#notes:Good in PvE
 dimwishlist:item=2272470786&perks=2779035018,3592538738#notes:Good in PvE
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+TRACE RIFLES:
+
+RETRACED PATH:
+()
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
