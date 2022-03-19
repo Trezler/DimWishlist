@@ -669,63 +669,39 @@ dimwishlist:item=1216319404&perks=3038247973,3824105627#notes:Good in PvE
 HAWKMOON:
 (Fluted Barrel, Alloy Magazine, Opening Shot, Textured Grip)
 (_____________, Alloy Magazine, Opening Shot, Textured Grip)
-(_____________, ______________, Opening Shot, Textured Grip)
-(_____________, Alloy Magazine, Opening Shot, _____________)
-(Fluted Barrel, ______________, Opening Shot, Textured Grip)
-(Fluted Barrel, ______________, Opening Shot, _____________)
 (Fluted Barrel, Alloy Magazine, Opening Shot, _____________)
+(_____________, Alloy Magazine, Opening Shot, _____________)
 dimwishlist:item=3856705927&perks=1840239774,1431678320,47981717,3917450714#notes:Good in PvP
 dimwishlist:item=3856705927&perks=1431678320,47981717,3917450714#notes:Good in PvP
-dimwishlist:item=3856705927&perks=47981717,3917450714#notes:Good in PvP
-dimwishlist:item=3856705927&perks=1431678320,47981717#notes:Good in PvP
-dimwishlist:item=3856705927&perks=1840239774,47981717,3917450714#notes:Good in PvP
-dimwishlist:item=3856705927&perks=1840239774,47981717#notes:Good in PvP
 dimwishlist:item=3856705927&perks=1840239774,1431678320,47981717#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1431678320,47981717#notes:Good in PvP
 
 (Fluted Barrel, Alloy Magazine, Rangefinder, Textured Grip)
 (_____________, Alloy Magazine, Rangefinder, Textured Grip)
-(_____________, ______________, Rangefinder, Textured Grip)
-(_____________, Alloy Magazine, Rangefinder, _____________)
-(Fluted Barrel, ______________, Rangefinder, Textured Grip)
-(Fluted Barrel, ______________, Rangefinder, _____________)
 (Fluted Barrel, Alloy Magazine, Rangefinder, _____________)
+(_____________, Alloy Magazine, Rangefinder, _____________)
 dimwishlist:item=3856705927&perks=1840239774,1431678320,2846385770,3917450714#notes:Good in PvP
 dimwishlist:item=3856705927&perks=1431678320,2846385770,3917450714#notes:Good in PvP
-dimwishlist:item=3856705927&perks=2846385770,3917450714#notes:Good in PvP
-dimwishlist:item=3856705927&perks=1431678320,2846385770#notes:Good in PvP
-dimwishlist:item=3856705927&perks=1840239774,2846385770,3917450714#notes:Good in PvP
-dimwishlist:item=3856705927&perks=1840239774,2846385770#notes:Good in PvP
 dimwishlist:item=3856705927&perks=1840239774,1431678320,2846385770#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1431678320,2846385770#notes:Good in PvP
 
 (Fluted Barrel, Alloy Magazine, Killing Wind, Textured Grip)
 (_____________, Alloy Magazine, Killing Wind, Textured Grip)
-(_____________, ______________, Killing Wind, Textured Grip)
-(_____________, Alloy Magazine, Killing Wind, _____________)
-(Fluted Barrel, ______________, Killing Wind, Textured Grip)
-(Fluted Barrel, ______________, Killing Wind, _____________)
 (Fluted Barrel, Alloy Magazine, Killing Wind, _____________)
+(_____________, Alloy Magazine, Killing Wind, _____________)
 dimwishlist:item=3856705927&perks=1840239774,1431678320,2450788523,3917450714#notes:Good in PvP
 dimwishlist:item=3856705927&perks=1431678320,2450788523,3917450714#notes:Good in PvP
-dimwishlist:item=3856705927&perks=2450788523,3917450714#notes:Good in PvP
-dimwishlist:item=3856705927&perks=1431678320,2450788523#notes:Good in PvP
-dimwishlist:item=3856705927&perks=1840239774,2450788523,3917450714#notes:Good in PvP
-dimwishlist:item=3856705927&perks=1840239774,2450788523#notes:Good in PvP
 dimwishlist:item=3856705927&perks=1840239774,1431678320,2450788523#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1431678320,2450788523#notes:Good in PvP
 
 (Fluted Barrel, Alloy Magazine, Eye of the Storm, Textured Grip)
 (_____________, Alloy Magazine, Eye of the Storm, Textured Grip)
-(_____________, ______________, Eye of the Storm, Textured Grip)
-(_____________, Alloy Magazine, Eye of the Storm, _____________)
-(Fluted Barrel, ______________, Eye of the Storm, Textured Grip)
-(Fluted Barrel, ______________, Eye of the Storm, _____________)
 (Fluted Barrel, Alloy Magazine, Eye of the Storm, _____________)
+(_____________, Alloy Magazine, Eye of the Storm, _____________)
 dimwishlist:item=3856705927&perks=1840239774,1431678320,699525795,3917450714#notes:Good in PvP
 dimwishlist:item=3856705927&perks=1431678320,699525795,3917450714#notes:Good in PvP
-dimwishlist:item=3856705927&perks=699525795,3917450714#notes:Good in PvP
-dimwishlist:item=3856705927&perks=1431678320,699525795#notes:Good in PvP
-dimwishlist:item=3856705927&perks=1840239774,699525795,3917450714#notes:Good in PvP
-dimwishlist:item=3856705927&perks=1840239774,699525795#notes:Good in PvP
 dimwishlist:item=3856705927&perks=1840239774,1431678320,699525795#notes:Good in PvP
+dimwishlist:item=3856705927&perks=1431678320,699525795#notes:Good in PvP
 
 
 
