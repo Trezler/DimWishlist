@@ -896,63 +896,139 @@ dimwishlist:item=568515759&perks=1168162263,3425386926#notes:Good in PvE
 
 
 COLD DENIAL:
-(Arrowhead Brake, Ricochet Rounds, Killing wind, Headseeker)
-(_______________, Ricochet Rounds, Killing wind, Headseeker)
-(Arrowhead Brake, _______________, Killing wind, Headseeker)
-(_______________, _______________, Killing wind, Headseeker)
+(Arrowhead Brake, High-Caliber Rounds, Ricochet Rounds, Killing wind, Headseeker)
+(Arrowhead Brake, High-Caliber Rounds, _______________, Killing wind, Headseeker)
+(Arrowhead Brake, ___________________, Ricochet Rounds, Killing wind, Headseeker)
+(Arrowhead Brake, ___________________, _______________, Killing wind, Headseeker)
+(_______________, High-Caliber Rounds, Ricochet Rounds, Killing wind, Headseeker)
+(_______________, High-Caliber Rounds, _______________, Killing wind, Headseeker)
+(_______________, ___________________, Ricochet Rounds, Killing wind, Headseeker)
+(_______________, ___________________, _______________, Killing wind, Headseeker)
+dimwishlist:item=1216130969&perks=839105230,1561002382,1885400500,2450788523,460017080#notes:Good in PvP
+dimwishlist:item=1216130969&perks=839105230,1561002382,2450788523,460017080#notes:Good in PvP
 dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,460017080#notes:Good in PvP
-dimwishlist:item=1216130969&perks=1885400500,2450788523,460017080#notes:Good in PvP
 dimwishlist:item=1216130969&perks=839105230,2450788523,460017080#notes:Good in PvP
+dimwishlist:item=1216130969&perks=1561002382,1885400500,2450788523,460017080#notes:Good in PvP
+dimwishlist:item=1216130969&perks=1561002382,2450788523,460017080#notes:Good in PvP
+dimwishlist:item=1216130969&perks=1885400500,2450788523,460017080#notes:Good in PvP
 dimwishlist:item=1216130969&perks=2450788523,460017080#notes:Good in PvP
 
 (Feeding Frenzy, Swashbuckler)
-(Feeding Frenzy, Multikill Clip)
 dimwishlist:item=1216130969&perks=2779035018,4082225868#notes:Good in PvE
-dimwishlist:item=1216130969&perks=2779035018,2458213969#notes:Good in PvE
 
 
 
 HAILING CONFUSION:
 (Outlaw, Demolitionist)
-(Outlaw, Wellspring)
+(Outlaw, Wellspring___)
 dimwishlist:item=2870169846&perks=1168162263,3523296417#notes:Good in PvE
 dimwishlist:item=2870169846&perks=1168162263,3592538738#notes:Good in PvE
-
-(Surplus, Demolitionist)
-(Surplus, Wellspring)
-dimwishlist:item=2870169846&perks=3436462433,3523296417#notes:Good in PvE
-dimwishlist:item=2870169846&perks=3436462433,3592538738#notes:Good in PvE
 
 
 
 LEGAL ACTION II:
 (Feeding Frenzy, Adrenaline Junkie)
+(Feeding Frenzy, Wellspring_______)
+(Feeding Frenzy, Frenzy___________)
 (Feeding Frenzy, Rampage__________)
 (Feeding Frenzy, Thresh___________)
 dimwishlist:item=3409645497&perks=2779035018,11612903#notes:Good in PvE
+dimwishlist:item=3409645497&perks=2779035018,3592538738#notes:Good in PvE
+dimwishlist:item=3409645497&perks=2779035018,4104185692#notes:Good in PvE
 dimwishlist:item=3409645497&perks=2779035018,3425386926#notes:Good in PvE
 dimwishlist:item=3409645497&perks=2779035018,2726471870#notes:Good in PvE
 
 
 
 PIECE OF MIND:
-(
+(Arrowhead Brake, High-Caliber Rounds, Ricochet Rounds, Perpetual Motion, Moving Target)x
+(Arrowhead Brake, High-Caliber Rounds, _______________, Perpetual Motion, Moving Target)
+(Arrowhead Brake, ___________________, Ricochet Rounds, Perpetual Motion, Moving Target)
+(Arrowhead Brake, ___________________, _______________, Perpetual Motion, Moving Target)
+(_______________, High-Caliber Rounds, Ricochet Rounds, Perpetual Motion, Moving Target)x
+(_______________, High-Caliber Rounds, _______________, Perpetual Motion, Moving Target)
+(_______________, ___________________, Ricochet Rounds, Perpetual Motion, Moving Target)
+(_______________, ___________________, _______________, Perpetual Motion, Moving Target)
+dimwishlist:item=2097055732&perks=839105230,1561002382,1885400500,1428297954,588594999#notes:Good in PvP
+dimwishlist:item=2097055732&perks=839105230,1561002382,1428297954,588594999#notes:Good in PvP
+dimwishlist:item=2097055732&perks=839105230,1885400500,1428297954,588594999#notes:Good in PvP
+dimwishlist:item=2097055732&perks=839105230,1428297954,588594999#notes:Good in PvP
+dimwishlist:item=2097055732&perks=1561002382,1885400500,1428297954,588594999#notes:Good in PvP
+dimwishlist:item=2097055732&perks=1561002382,1428297954,588594999#notes:Good in PvP
+dimwishlist:item=2097055732&perks=1885400500,1428297954,588594999#notes:Good in PvP
+dimwishlist:item=2097055732&perks=1428297954,588594999#notes:Good in PvP
 
 
 
 SACRED PROVENANCE:
-(Ricochet Rounds, Rapid Hit, Kill Clip)
-(_______________, Rapid Hit, Kill Clip)
+(Arrowhead Brake, High-Caliber Rounds, Ricochet Rounds, Rapid Hit, Kill Clip)
+(Arrowhead Brake, High-Caliber Rounds, _______________, Rapid Hit, Kill Clip)
+(Arrowhead Brake, ___________________, Ricochet Rounds, Rapid Hit, Kill Clip)
+(Arrowhead Brake, ___________________, _______________, Rapid Hit, Kill Clip)
+(_______________, High-Caliber Rounds, Ricochet Rounds, Rapid Hit, Kill Clip)
+(_______________, High-Caliber Rounds, _______________, Rapid Hit, Kill Clip)
+(_______________, ___________________, Ricochet Rounds, Rapid Hit, Kill Clip)
+(_______________, ___________________, _______________, Rapid Hit, Kill Clip)
+dimwishlist:item=2408405461&perks=839105230,1561002382,1885400500,247725512,1015611457#notes:Good in PvP
+dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457#notes:Good in PvP
+dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457#notes:Good in PvP
+dimwishlist:item=2408405461&perks=839105230,247725512,1015611457#notes:Good in PvP
+dimwishlist:item=2408405461&perks=1561002382,1885400500,247725512,1015611457#notes:Good in PvP
+dimwishlist:item=2408405461&perks=1561002382,247725512,1015611457#notes:Good in PvP
 dimwishlist:item=2408405461&perks=1885400500,247725512,1015611457#notes:Good in PvP
 dimwishlist:item=2408405461&perks=247725512,1015611457#notes:Good in PvP
 
-(Ricochet Rounds, Outlaw, Kill Clip)
-(_______________, Outlaw, Kill Clip)
+(Arrowhead Brake, High-Caliber Rounds, Ricochet Rounds, Outlaw, Kill Clip)
+(Arrowhead Brake, High-Caliber Rounds, _______________, Outlaw, Kill Clip)
+(Arrowhead Brake, ___________________, Ricochet Rounds, Outlaw, Kill Clip)
+(Arrowhead Brake, ___________________, _______________, Outlaw, Kill Clip)
+(_______________, High-Caliber Rounds, Ricochet Rounds, Outlaw, Kill Clip)
+(_______________, High-Caliber Rounds, _______________, Outlaw, Kill Clip)
+(_______________, ___________________, Ricochet Rounds, Outlaw, Kill Clip)
+(_______________, ___________________, _______________, Outlaw, Kill Clip)
+dimwishlist:item=2408405461&perks=839105230,1561002382,1885400500,1168162263,1015611457#notes:Good in PvP
+dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,1015611457#notes:Good in PvP
+dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,1015611457#notes:Good in PvP
+dimwishlist:item=2408405461&perks=839105230,1168162263,1015611457#notes:Good in PvP
+dimwishlist:item=2408405461&perks=1561002382,1885400500,1168162263,1015611457#notes:Good in PvP
+dimwishlist:item=2408405461&perks=1561002382,1168162263,1015611457#notes:Good in PvP
 dimwishlist:item=2408405461&perks=1885400500,1168162263,1015611457#notes:Good in PvP
 dimwishlist:item=2408405461&perks=1168162263,1015611457#notes:Good in PvP
 
-(Rapid Hit, Headseeker)
-dimwishlist:item=2408405461&perks=247725512,460017080#notes:Good in GM's
+(Arrowhead Brake, High-Caliber Rounds, Ricochet Rounds, Rapid Hit, Headseeker)
+(Arrowhead Brake, High-Caliber Rounds, _______________, Rapid Hit, Headseeker)
+(Arrowhead Brake, ___________________, Ricochet Rounds, Rapid Hit, Headseeker)
+(Arrowhead Brake, ___________________, _______________, Rapid Hit, Headseeker)
+(_______________, High-Caliber Rounds, Ricochet Rounds, Rapid Hit, Headseeker)
+(_______________, High-Caliber Rounds, _______________, Rapid Hit, Headseeker)
+(_______________, ___________________, Ricochet Rounds, Rapid Hit, Headseeker)
+(_______________, ___________________, _______________, Rapid Hit, Headseeker)
+dimwishlist:item=2408405461&perks=839105230,1561002382,1885400500,247725512,460017080#notes:Good in PvP
+dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,460017080#notes:Good in PvP
+dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,460017080#notes:Good in PvP
+dimwishlist:item=2408405461&perks=839105230,247725512,460017080#notes:Good in PvP
+dimwishlist:item=2408405461&perks=1561002382,1885400500,247725512,460017080#notes:Good in PvP
+dimwishlist:item=2408405461&perks=1561002382,247725512,460017080#notes:Good in PvP
+dimwishlist:item=2408405461&perks=1885400500,247725512,460017080#notes:Good in PvP
+dimwishlist:item=2408405461&perks=247725512,460017080#notes:Good in PvP
+
+(Arrowhead Brake, High-Caliber Rounds, Ricochet Rounds, Outlaw, Headseeker)
+(Arrowhead Brake, High-Caliber Rounds, _______________, Outlaw, Headseeker)
+(Arrowhead Brake, ___________________, Ricochet Rounds, Outlaw, Headseeker)
+(Arrowhead Brake, ___________________, _______________, Outlaw, Headseeker)
+(_______________, High-Caliber Rounds, Ricochet Rounds, Outlaw, Headseeker)
+(_______________, High-Caliber Rounds, _______________, Outlaw, Headseeker)
+(_______________, ___________________, Ricochet Rounds, Outlaw, Headseeker)
+(_______________, ___________________, _______________, Outlaw, Headseeker)
+dimwishlist:item=2408405461&perks=839105230,1561002382,1885400500,1168162263,460017080#notes:Good in PvP
+dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,460017080#notes:Good in PvP
+dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,460017080#notes:Good in PvP
+dimwishlist:item=2408405461&perks=839105230,1168162263,460017080#notes:Good in PvP
+dimwishlist:item=2408405461&perks=1561002382,1885400500,1168162263,460017080#notes:Good in PvP
+dimwishlist:item=2408405461&perks=1561002382,1168162263,460017080#notes:Good in PvP
+dimwishlist:item=2408405461&perks=1885400500,1168162263,460017080#notes:Good in PvP
+dimwishlist:item=2408405461&perks=1168162263,460017080#notes:Good in PvP
+
 
 
 
