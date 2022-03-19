@@ -122,7 +122,7 @@ dimwishlist:item=3829285960&perks=1168162263,3523296417#notes:Good in PvE
 KRAIT:
 (Stats for All, One for All)
 (Subsistence__, One for All)
-dimwishlist:item=2852052802,2420895100,1583705720,4049631843#notes:Good in PvE
+dimwishlist:item=2852052802&perks=1583705720,4049631843#notes:Good in PvE
 dimwishlist:item=2852052802&perks=1820235745,4049631843#notes:Good in PvE
 
 (Armor-Piercing Rounds, Auto-Loading, Vorpal Weapon)
@@ -188,52 +188,112 @@ dimwishlist:item=640114618&perks=1168162263,4104185692#notes:Good in PvE
 BOWS:
 
 ACCRUED REDEMPTION:
-(Elastic String, Archer's Tempo, Explosive Head)
-(______________, Archer's Tempo, Explosive Head)
-(Elastic String, ______________, Explosive Head)
-dimwishlist:item=4095896073&perks=2801223209,201365942,3365897133#notes:Good in PvE, go for Draw Time MW
-dimwishlist:item=4095896073&perks=201365942,3365897133#notes:Good in PvE, go for Draw Time MW
-dimwishlist:item=4095896073&perks=2801223209,3365897133#notes:Good in PvE, go for Draw Time MW
+(Elastic String, Compact Arrow Shaft, Archer's Tempo, Explosive Head)
+(Elastic String, ___________________, Archer's Tempo, Explosive Head)
+(______________, Compact Arrow Shaft, Archer's Tempo, Explosive Head)
+(______________, ___________________, Archer's Tempo, Explosive Head)
+dimwishlist:item=4095896073&perks=2801223209,16392701,201365942,3365897133#notes:Good in PvE & GM's, go for Draw Time MW
+dimwishlist:item=4095896073&perks=2801223209,201365942,3365897133#notes:Good in PvE & GM's, go for Draw Time MW
+dimwishlist:item=4095896073&perks=16392701,201365942,3365897133#notes:Good in PvE & GM's, go for Draw Time MW
+dimwishlist:item=4095896073&perks=201365942,3365897133#notes:Good in PvE & GM's, go for Draw Time MW
 
-(Elastic String, Archer's Tempo, Rapid Hit)
-(______________, Archer's Tempo, Rapid Hit)
-(Elastic String, ______________, Rapid Hit)
+(Elastic String, Compact Arrow Shaft, Archer's Tempo, Rapid Hit)
+(Elastic String, ___________________, Archer's Tempo, Rapid Hit)
+(______________, Compact Arrow Shaft, Archer's Tempo, Rapid Hit)
+(______________, ___________________, Archer's Tempo, Rapid Hit)
+dimwishlist:item=4095896073&perks=2801223209,16392701,201365942,247725512#notes:Good in PvE, go for Draw Time MW
 dimwishlist:item=4095896073&perks=2801223209,201365942,247725512#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=4095896073&perks=16392701,201365942,247725512#notes:Good in PvE, go for Draw Time MW
 dimwishlist:item=4095896073&perks=201365942,247725512#notes:Good in PvE, go for Draw Time MW
-dimwishlist:item=4095896073&perks=2801223209,247725512#notes:Good in PvE, go for Draw Time MW
 
 
 
 BITING WINDS:
-(Elastic String, Moving target, Swashbuckler)
-(______________, Moving target, Swashbuckler)
+(Elastic String, Compact Arrow Shaft, Moving target, Swashbuckler)
+(Elastic String, ___________________, Moving target, Swashbuckler)
+(______________, Compact Arrow Shaft, Moving target, Swashbuckler)
+(______________, ___________________, Moving target, Swashbuckler)
+dimwishlist:item=1621657423&perks=2801223209,16392701,588594999,4082225868#notes:Good in PvP, can one-shot Guardians with Swashbuckler x5, go for Draw Time MW
 dimwishlist:item=1621657423&perks=2801223209,588594999,4082225868#notes:Good in PvP, can one-shot Guardians with Swashbuckler x5, go for Draw Time MW
+dimwishlist:item=1621657423&perks=16392701,588594999,4082225868#notes:Good in PvP, can one-shot Guardians with Swashbuckler x5, go for Draw Time MW
 dimwishlist:item=1621657423&perks=588594999,4082225868#notes:Good in PvP, can one-shot Guardians with Swashbuckler x5, go for Draw Time MW
 
-(Elastic String, Rapid Hit, Swashbuckler)
-(______________, Rapid Hit, Swashbuckler)
-(Elastic String, _________, Swashbuckler)
+(Elastic String, Compact Arrow Shaft, Rapid Hit, Swashbuckler)
+(Elastic String, ___________________, Rapid Hit, Swashbuckler)
+(______________, Compact Arrow Shaft, Rapid Hit, Swashbuckler)
+(______________, ___________________, Rapid Hit, Swashbuckler)
+dimwishlist:item=1621657423&perks=2801223209,16392701,247725512,4082225868#notes:Good in PvE & PvP, can one-shot Guardians with Swashbuckler x5, go for Draw Time MW
 dimwishlist:item=1621657423&perks=2801223209,247725512,4082225868#notes:Good in PvE & PvP, can one-shot Guardians with Swashbuckler x5, go for Draw Time MW
+dimwishlist:item=1621657423&perks=16392701,247725512,4082225868#notes:Good in PvE & PvP, can one-shot Guardians with Swashbuckler x5, go for Draw Time MW
 dimwishlist:item=1621657423&perks=247725512,4082225868#notes:Good in PvE & PvP, can one-shot Guardians with Swashbuckler x5, go for Draw Time MW
-dimwishlist:item=1621657423&perks=2801223209,4082225868#notes:Good in PvE & PvP, can one-shot Guardians with Swashbuckler x5, go for Draw Time MW
 
-(Elastic String, Rapid Hit, Explosive Head)
-(______________, Rapid Hit, Explosive Head)
-(Elastic String, _________, Explosive Head)
-dimwishlist:item=1621657423&perks=2801223209,247725512,3365897133#notes:Good in PvE, go for Draw Time MW
-dimwishlist:item=1621657423&perks=247725512,3365897133#notes:Good in PvE, go for Draw Time MW
-dimwishlist:item=1621657423&perks=2801223209,3365897133#notes:Good in PvE, go for Draw Time MW
+(Elastic String, Compact Arrow Shaft, Rapid Hit, Explosive Head)
+(Elastic String, ___________________, Rapid Hit, Explosive Head)
+(______________, Compact Arrow Shaft, Rapid Hit, Explosive Head)
+(______________, ___________________, Rapid Hit, Explosive Head)
+dimwishlist:item=1621657423&perks=2801223209,16392701,247725512,3365897133#notes:Good in PvE & GM's, go for Draw Time MW
+dimwishlist:item=1621657423&perks=2801223209,247725512,3365897133#notes:Good in PvE & GM's, go for Draw Time MW
+dimwishlist:item=1621657423&perks=16392701,247725512,3365897133#notes:Good in PvE & GM's, go for Draw Time MW
+dimwishlist:item=1621657423&perks=247725512,3365897133#notes:Good in PvE & GM's, go for Draw Time MW
 
 
 
-FEL TARADIDDLEDIDDLEDIDDLE:
-(
+FEL TARADIDDLE:
+(Elastic String, Compact Arrow Shaft, Archer's Tempo, Explosive Head)
+(Elastic String, ___________________, Archer's Tempo, Explosive Head)
+(______________, Compact Arrow Shaft, Archer's Tempo, Explosive Head)
+(______________, ___________________, Archer's Tempo, Explosive Head)
+dimwishlist:item=1399109800&perks=2801223209,16392701,201365942,3365897133#notes:Good in PvE & GM's, go for Reload MW
+dimwishlist:item=1399109800&perks=2801223209,201365942,3365897133#notes:Good in PvE & GM's, go for Reload MW
+dimwishlist:item=1399109800&perks=16392701,201365942,3365897133#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=1399109800&perks=201365942,3365897133#notes:Good in PvE, go for Draw Time MW
 
+(Elastic String, Compact Arrow Shaft, Archer's Tempo, Thresh)
+(Elastic String, ___________________, Archer's Tempo, Thresh)
+(______________, Compact Arrow Shaft, Archer's Tempo, Thresh)
+(______________, ___________________, Archer's Tempo, Thresh)
+dimwishlist:item=1399109800&perks=2801223209,16392701,201365942,2726471870#notes:Good in PvE, go for Reload MW
+dimwishlist:item=1399109800&perks=2801223209,201365942,2726471870#notes:Good in PvE, go for Reload MW
+dimwishlist:item=1399109800&perks=16392701,201365942,2726471870#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=1399109800&perks=201365942,2726471870#notes:Good in PvE, go for Draw Time MW
+
+(Elastic String, Compact Arrow Shaft, Archer's Tempo, Successful Warm-Up)
+(Elastic String, ___________________, Archer's Tempo, Successful Warm-Up)
+(______________, Compact Arrow Shaft, Archer's Tempo, Successful Warm-Up)
+(______________, ___________________, Archer's Tempo, Successful Warm-Up)
+dimwishlist:item=1399109800&perks=2801223209,16392701,201365942,2652708987#notes:Good in PvE, go for Reload MW
+dimwishlist:item=1399109800&perks=2801223209,201365942,2652708987#notes:Good in PvE, go for Reload MW
+dimwishlist:item=1399109800&perks=16392701,201365942,2652708987#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=1399109800&perks=201365942,2652708987#notes:Good in PvE, go for Draw Time MW
 
 
 WHISPERING SLAB:
-(Elastic String, Archer's Tempo, Vorpal Weapon)
-dimwishlist:item=211938782&perks=2801223209,201365942,1546637391#notes:Good in GM's
+(Elastic String, Fiberglass Arrow Shaft, Archer's Tempo, Demolitionist)
+(Elastic String, ______________________, Archer's Tempo, Demolitionist)
+(______________, Fiberglass Arrow Shaft, Archer's Tempo, Demolitionist)
+(______________, ______________________, Archer's Tempo, Demolitionist)
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,3523296417#notes:Good in PvE, go for Reload MW
+dimwishlist:item=211938782&perks=2801223209,201365942,3523296417#notes:Good in PvE, go for Reload MW
+dimwishlist:item=211938782&perks=3429800428,201365942,3523296417#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=211938782&perks=201365942,3523296417#notes:Good in PvE, go for Draw Time MW
+
+(Elastic String, Fiberglass Arrow Shaft, Archer's Tempo, Swashbuckler)
+(Elastic String, ______________________, Archer's Tempo, Swashbuckler)
+(______________, Fiberglass Arrow Shaft, Archer's Tempo, Swashbuckler)
+(______________, ______________________, Archer's Tempo, Swashbuckler)
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,4082225868#notes:Good in PvE, go for Reload MW
+dimwishlist:item=211938782&perks=2801223209,201365942,4082225868#notes:Good in PvE, go for Reload MW
+dimwishlist:item=211938782&perks=3429800428,201365942,4082225868#notes:Good in PvE, go for Draw Time MW
+dimwishlist:item=211938782&perks=201365942,4082225868#notes:Good in PvE, go for Draw Time MW
+
+(Elastic String, Fiberglass Arrow Shaft, Archer's Tempo, Vorpal Weapon)
+(Elastic String, ______________________, Archer's Tempo, Vorpal Weapon)
+(______________, Fiberglass Arrow Shaft, Archer's Tempo, Vorpal Weapon)
+(______________, ______________________, Archer's Tempo, Vorpal Weapon)
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,1546637391#notes:Good in GM's, go for Reload MW
+dimwishlist:item=211938782&perks=2801223209,201365942,1546637391#notes:Good in GM's, go for Reload MW
+dimwishlist:item=211938782&perks=3429800428,201365942,1546637391#notes:Good in GM's, go for Draw Time MW
+dimwishlist:item=211938782&perks=201365942,1546637391#notes:Good in GM's, go for Draw Time MW
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -252,33 +312,28 @@ DELIVERANCE (ADEPT):
 GRENADE LAUNCHERS:
 
 IGNITION CODE:
-(Blinding Grenades, Field-Prep____, One for All)
-(Blinding Grenades, Slideshot_____, One for All)
-(Blinding Grenades, Lead from Gold, One for All)
-dimwishlist:item=304659313&perks=3032599245,2869569095,4049631843#notes:Good in GM's
-dimwishlist:item=304659313&perks=3032599245,3161816588,4049631843#notes:Good in GM's
-dimwishlist:item=304659313&perks=3032599245,1556840489,4049631843#notes:Good in GM's
+(Blinding Grenades, Field-Prep, One for All)
+(Blinding Grenades, Slideshot_, One for All)
+dimwishlist:item=304659313&perks=3032599245,2869569095,4049631843#notes:Good in PvE & GM's
+dimwishlist:item=304659313&perks=3032599245,3161816588,4049631843#notes:Good in PvE & GM's
 
 (Blinding Grenades, Spike Grenades, Field Prep, Vorpal Weapon)x
 (_________________, Spike Grenades, Field Prep, Vorpal Weapon)
 dimwishlist:item=304659313&perks=3032599245,3301904089,2869569095,1546637391#notes:Good in PvE & GM's
 dimwishlist:item=304659313&perks=3301904089,2869569095,1546637391#notes:Good in PvE
 
-(Blinding Grenades, Spike Grenades, Lead from Gold, Vorpal Weapon)x
-(Blinding Grenades, ______________, Lead from Gold, Vorpal Weapon)
-dimwishlist:item=304659313&perks=3032599245,3301904089,1556840489,1546637391#notes:Good in GM's
-dimwishlist:item=304659313&perks=3032599245,1556840489,1546637391#notes:Good in GM's
-
 (Blinding Grenades, Spike Grenades, Slideshot, Vorpal Weapon)x
-(Blinding Grenades, Spike Grenades, _________, Vorpal Weapon)x
 (Blinding Grenades, ______________, Slideshot, Vorpal Weapon)
-(Blinding Grenades, ______________, _________, Vorpal Weapon)
 (_________________, Spike Grenades, Slideshot, Vorpal Weapon)
+(Blinding Grenades, Spike Grenades, _________, Vorpal Weapon)x
+(_________________, Spike Grenades, _________, Vorpal Weapon)
+(Blinding Grenades, ______________, _________, Vorpal Weapon)
 dimwishlist:item=304659313&perks=3032599245,3301904089,3161816588,1546637391#notes:Good in PvE & GM's
-dimwishlist:item=304659313&perks=3032599245,3301904089,1546637391#notes:Good in PvE & GM's
-dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391#notes:Good in GM's
-dimwishlist:item=304659313&perks=3032599245,1546637391#notes:Good in GM's
+dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391#notes:Good in PvE & GM's
 dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391#notes:Good in PvE
+dimwishlist:item=304659313&perks=3032599245,3301904089,1546637391#notes:Good in PvE & GM's
+dimwishlist:item=304659313&perks=3301904089,1546637391#notes:Good in PvE
+dimwishlist:item=304659313&perks=3032599245,1546637391#notes:Good in PvE & GM's
 
 (Spike Grenades, Slideshot, Demolitionist)
 dimwishlist:item=304659313&perks=3301904089,3161816588,3523296417#notes: Suni's Roll
@@ -288,8 +343,8 @@ dimwishlist:item=304659313&perks=3301904089,3161816588,3523296417#notes: Suni's 
 PARDON OUR DUST:
 (Blinding Grenades, Auto-Loading, Vorpal Weapon)
 (Blinding Grenades, Auto-Loading, _____________)
-dimwishlist:item=3849810018&perks=3032599245,3300816228,1546637391
-dimwishlist:item=3849810018&perks=3032599245,3300816228
+dimwishlist:item=3849810018&perks=3032599245,3300816228,1546637391#notes:Good in PvE & GM's
+dimwishlist:item=3849810018&perks=3032599245,3300816228#notes:Good in PvE & GM's
 
 
 
@@ -302,205 +357,141 @@ dimwishlist:item=3993415705&perks=981914802,3301904089,2846385770,3713839994#not
 HANDCANNONS:
 
 CRIMIL'S DAGGER:
-(Steadyhand HCS, Fastdraw HCS, Accurized Rounds, Outlaw, Kill Clip) x
-(______________, Fastdraw HCS, Accurized Rounds, Outlaw, Kill Clip)
-(Steadyhand HCS, ____________, Accurized Rounds, Outlaw, Kill Clip)
-(______________, ____________, Accurized Rounds, Outlaw, Kill Clip)
-(Steadyhand HCS, Fastdraw HCS, ________________, Outlaw, Kill Clip) x
-(______________, Fastdraw HCS, ________________, Outlaw, Kill Clip)
-(Steadyhand HCS, ____________, ________________, Outlaw, Kill Clip)
-(______________, ____________, ________________, Outlaw, Kill Clip)
-dimwishlist:item=4292849692&perks=1926090095,1926090094,3142289711,1168162263,1015611457#notes:Good in PvP
+(Fastdraw HCS, Steadyhand HCS, Accurized Rounds, Outlaw, Kill Clip) x
+(Fastdraw HCS, ______________, Accurized Rounds, Outlaw, Kill Clip)
+(____________, Steadyhand HCS, Accurized Rounds, Outlaw, Kill Clip)
+(____________, ______________, Accurized Rounds, Outlaw, Kill Clip)
+(Fastdraw HCS, Steadyhand HCS, ________________, Outlaw, Kill Clip) x
+(Fastdraw HCS, ______________, ________________, Outlaw, Kill Clip)
+(____________, Steadyhand HCS, ________________, Outlaw, Kill Clip)
+(____________, ______________, ________________, Outlaw, Kill Clip)
+dimwishlist:item=4292849692&perks=1926090094,1926090095,3142289711,1168162263,1015611457#notes:Good in PvP
 dimwishlist:item=4292849692&perks=1926090094,3142289711,1168162263,1015611457#notes:Good in PvP
 dimwishlist:item=4292849692&perks=1926090095,3142289711,1168162263,1015611457#notes:Good in PvP
 dimwishlist:item=4292849692&perks=3142289711,1168162263,1015611457#notes:Good in PvP
-dimwishlist:item=4292849692&perks=1926090095,1926090094,1168162263,1015611457#notes:Good in PvP
+dimwishlist:item=4292849692&perks=1926090094,1926090095,1168162263,1015611457#notes:Good in PvP
 dimwishlist:item=4292849692&perks=1926090094,1168162263,1015611457#notes:Good in PvP
 dimwishlist:item=4292849692&perks=1926090095,1168162263,1015611457#notes:Good in PvP
 dimwishlist:item=4292849692&perks=1168162263,1015611457#notes:Good in PvP
 
-(Steadyhand HCS, Fastdraw HCS, Accurized Rounds, Snapshot, Kill Clip) x
-(Steadyhand HCS, ____________, Accurized Rounds, Snapshot, Kill Clip)
-(______________, Fastdraw HCS, Accurized Rounds, Snapshot, Kill Clip)
-(______________, ____________, Accurized Rounds, Snapshot, Kill Clip)
-(Steadyhand HCS, Fastdraw HCS, ________________, Snapshot, Kill Clip) x
-(Steadyhand HCS, ____________, ________________, Snapshot, Kill Clip)
-(______________, Fastdraw HCS, ________________, Snapshot, Kill Clip)
-(______________, ____________, ________________, Snapshot, Kill Clip)
-dimwishlist:item=4292849692&perks=1926090095,1926090094,3142289711,957782887,1015611457#notes:Good in PvP
-dimwishlist:item=4292849692&perks=1926090095,3142289711,957782887,1015611457#notes:Good in PvP
+(Fastdraw HCS, Steadyhand HCS, Accurized Rounds, Snapshot, Kill Clip) x
+(Fastdraw HCS, ______________, Accurized Rounds, Snapshot, Kill Clip)
+(____________, Steadyhand HCS, Accurized Rounds, Snapshot, Kill Clip)
+(____________, ______________, Accurized Rounds, Snapshot, Kill Clip)
+(Fastdraw HCS, Steadyhand HCS, ________________, Snapshot, Kill Clip) x
+(Fastdraw HCS, ______________, ________________, Snapshot, Kill Clip)
+(____________, Steadyhand HCS, ________________, Snapshot, Kill Clip)
+(____________, ______________, ________________, Snapshot, Kill Clip)
+dimwishlist:item=4292849692&perks=1926090094,1926090095,3142289711,957782887,1015611457#notes:Good in PvP
 dimwishlist:item=4292849692&perks=1926090094,3142289711,957782887,1015611457#notes:Good in PvP
+dimwishlist:item=4292849692&perks=1926090095,3142289711,957782887,1015611457#notes:Good in PvP
 dimwishlist:item=4292849692&perks=3142289711,957782887,1015611457#notes:Good in PvP
-dimwishlist:item=4292849692&perks=1926090095,1926090094,957782887,1015611457#notes:Good in PvP
-dimwishlist:item=4292849692&perks=1926090095,957782887,1015611457#notes:Good in PvP
+dimwishlist:item=4292849692&perks=1926090094,1926090095,957782887,1015611457#notes:Good in PvP
 dimwishlist:item=4292849692&perks=1926090094,957782887,1015611457#notes:Good in PvP
+dimwishlist:item=4292849692&perks=1926090095,957782887,1015611457#notes:Good in PvP
 dimwishlist:item=4292849692&perks=957782887,1015611457#notes:Good in PvP
 
 
 
 DIRE PROMISE:
-(Steadyhand HCS, Fastdraw HCS, Ricochet Rounds, Opening Shot, Swashbuckler) x
-(Steadyhand HCS, ____________, Ricochet Rounds, Opening Shot, Swashbuckler)
-(______________, Fastdraw HCS, Ricochet Rounds, Opening Shot, Swashbuckler)
-(______________, ____________, Ricochet Rounds, Opening Shot, Swashbuckler)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,1885400500,47981717,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,4082225868#notes:Good in PvP
+(Fastdraw HCS, Steadyhand HCS, Ricochet Rounds, Opening Shot, Swashbuckler) x
+(Fastdraw HCS, ______________, Ricochet Rounds, Opening Shot, Swashbuckler)
+(____________, Steadyhand HCS, Ricochet Rounds, Opening Shot, Swashbuckler)
+(____________, ______________, Ricochet Rounds, Opening Shot, Swashbuckler)
+dimwishlist:item=2742838701&perks=1926090094,1926090095,1885400500,47981717,4082225868#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1926090094,1885400500,47981717,4082225868#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,4082225868#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1885400500,47981717,4082225868#notes:Good in PvP
-(Steadyhand HCS, Fastdraw HCS, High-Caliber Rounds, Opening Shot, Swashbuckler) x
-(Steadyhand HCS, ____________, High-Caliber Rounds, Opening Shot, Swashbuckler)
-(______________, Fastdraw HCS, High-Caliber Rounds, Opening Shot, Swashbuckler)
-(______________, ____________, High-Caliber Rounds, Opening Shot, Swashbuckler)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,1561002382,47981717,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,4082225868#notes:Good in PvP
+(Fastdraw HCS, Steadyhand HCS, High-Caliber Rounds, Opening Shot, Swashbuckler) x
+(Fastdraw HCS, ______________, High-Caliber Rounds, Opening Shot, Swashbuckler)
+(____________, Steadyhand HCS, High-Caliber Rounds, Opening Shot, Swashbuckler)
+(____________, ______________, High-Caliber Rounds, Opening Shot, Swashbuckler)
+(Fastdraw HCS, Steadyhand HCS, ___________________, Opening Shot, Swashbuckler) x
+(Fastdraw HCS, ______________, ___________________, Opening Shot, Swashbuckler)
+(____________, Steadyhand HCS, ___________________, Opening Shot, Swashbuckler)
+(____________, ______________, ___________________, Opening Shot, Swashbuckler)
+dimwishlist:item=2742838701&perks=1926090094,1926090095,1561002382,47981717,4082225868#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,4082225868#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,4082225868#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1561002382,47981717,4082225868#notes:Good in PvP
-(Steadyhand HCS, Fastdraw HCS, Light Mag, Opening Shot, Swashbuckler) x
-(Steadyhand HCS, ____________, Light Mag, Opening Shot, Swashbuckler)
-(______________, Fastdraw HCS, Light Mag, Opening Shot, Swashbuckler)
-(______________, ____________, Light Mag, Opening Shot, Swashbuckler)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,679225683,47981717,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,679225683,47981717,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090094,679225683,47981717,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=679225683,47981717,4082225868#notes:Good in PvP
-(Steadyhand HCS, Fastdraw HCS, Armor-Piercing Rounds, Opening Shot, Swashbuckler) x
-(Steadyhand HCS, ____________, Armor-Piercing Rounds, Opening Shot, Swashbuckler)
-(______________, Fastdraw HCS, Armor-Piercing Rounds, Opening Shot, Swashbuckler)
-(______________, ____________, Armor-Piercing Rounds, Opening Shot, Swashbuckler)
-(Steadyhand HCS, Fastdraw HCS, _____________________, Opening Shot, Swashbuckler) x
-(Steadyhand HCS, ____________, _____________________, Opening Shot, Swashbuckler)
-(______________, Fastdraw HCS, _____________________, Opening Shot, Swashbuckler)
-(______________, ____________, _____________________, Opening Shot, Swashbuckler)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,1968497646,47981717,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1968497646,47981717,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090094,1968497646,47981717,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1968497646,47981717,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1926090094,47981717,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,47981717,4082225868#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090094,1926090095,47981717,4082225868#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1926090094,47981717,4082225868#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090095,47981717,4082225868#notes:Good in PvP
 dimwishlist:item=2742838701&perks=47981717,4082225868#notes:Good in PvP
 
-(Steadyhand HCS, Fastdraw HCS, Ricochet Rounds, Opening Shot, Rangefinder) x
-(Steadyhand HCS, ____________, Ricochet Rounds, Opening Shot, Rangefinder)
-(______________, Fastdraw HCS, Ricochet Rounds, Opening Shot, Rangefinder)
-(______________, ____________, Ricochet Rounds, Opening Shot, Rangefinder)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,1885400500,47981717,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:Good in PvP
+(Fastdraw HCS, Steadyhand HCS, Ricochet Rounds, Opening Shot, Rangefinder) x
+(Fastdraw HCS, ______________, Ricochet Rounds, Opening Shot, Rangefinder)
+(____________, Steadyhand HCS, Ricochet Rounds, Opening Shot, Rangefinder)
+(____________, ______________, Ricochet Rounds, Opening Shot, Rangefinder)
+dimwishlist:item=2742838701&perks=1926090094,1926090095,1885400500,47981717,2846385770#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1926090094,1885400500,47981717,2846385770#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1885400500,47981717,2846385770#notes:Good in PvP
-(Steadyhand HCS, Fastdraw HCS, High-Caliber Rounds, Opening Shot, Rangefinder) x
-(Steadyhand HCS, ____________, High-Caliber Rounds, Opening Shot, Rangefinder)
-(______________, Fastdraw HCS, High-Caliber Rounds, Opening Shot, Rangefinder)
-(______________, ____________, High-Caliber Rounds, Opening Shot, Rangefinder)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,1561002382,47981717,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770#notes:Good in PvP
+(Fastdraw HCS, Steadyhand HCS, High-Caliber Rounds, Opening Shot, Rangefinder) x
+(Fastdraw HCS, ______________, High-Caliber Rounds, Opening Shot, Rangefinder)
+(____________, Steadyhand HCS, High-Caliber Rounds, Opening Shot, Rangefinder)
+(____________, ______________, High-Caliber Rounds, Opening Shot, Rangefinder)
+(Fastdraw HCS, Steadyhand HCS, ___________________, Opening Shot, Rangefinder) x
+(Fastdraw HCS, ______________, ___________________, Opening Shot, Rangefinder)
+(____________, Steadyhand HCS, ___________________, Opening Shot, Rangefinder)
+(____________, ______________, ___________________, Opening Shot, Rangefinder)
+dimwishlist:item=2742838701&perks=1926090094,1926090095,1561002382,47981717,2846385770#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,2846385770#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1561002382,47981717,2846385770#notes:Good in PvP
-(Steadyhand HCS, Fastdraw HCS, Light Mag, Opening Shot, Rangefinder) x
-(Steadyhand HCS, ____________, Light Mag, Opening Shot, Rangefinder)
-(______________, Fastdraw HCS, Light Mag, Opening Shot, Rangefinder)
-(______________, ____________, Light Mag, Opening Shot, Rangefinder)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,679225683,47981717,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,679225683,47981717,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090094,679225683,47981717,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=679225683,47981717,2846385770#notes:Good in PvP
-(Steadyhand HCS, Fastdraw HCS, Armor-Piercing Rounds, Opening Shot, Rangefinder) x
-(Steadyhand HCS, ____________, Armor-Piercing Rounds, Opening Shot, Rangefinder)
-(______________, Fastdraw HCS, Armor-Piercing Rounds, Opening Shot, Rangefinder)
-(______________, ____________, Armor-Piercing Rounds, Opening Shot, Rangefinder)
-(Steadyhand HCS, Fastdraw HCS, _____________________, Opening Shot, Rangefinder) x
-(Steadyhand HCS, ____________, _____________________, Opening Shot, Rangefinder)
-(______________, Fastdraw HCS, _____________________, Opening Shot, Rangefinder)
-(______________, ____________, _____________________, Opening Shot, Rangefinder)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,1968497646,47981717,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1968497646,47981717,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090094,1968497646,47981717,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1968497646,47981717,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1926090094,47981717,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,47981717,2846385770#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090094,1926090095,47981717,2846385770#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1926090094,47981717,2846385770#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090095,47981717,2846385770#notes:Good in PvP
 dimwishlist:item=2742838701&perks=47981717,2846385770#notes:Good in PvP
 
-(Steadyhand HCS, Fastdraw HCS, Ricochet Rounds, Snapshot, Swashbuckler) x
-(Steadyhand HCS, ____________, Ricochet Rounds, Snapshot, Swashbuckler)
-(______________, Fastdraw HCS, Ricochet Rounds, Snapshot, Swashbuckler)
-(______________, ____________, Ricochet Rounds, Snapshot, Swashbuckler)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,1885400500,957782887,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,4082225868#notes:Good in PvP
+(Fastdraw HCS, Steadyhand HCS, Ricochet Rounds, Snapshot, Swashbuckler) x
+(Fastdraw HCS, ______________, Ricochet Rounds, Snapshot, Swashbuckler)
+(____________, Steadyhand HCS, Ricochet Rounds, Snapshot, Swashbuckler)
+(____________, ______________, Ricochet Rounds, Snapshot, Swashbuckler)
+dimwishlist:item=2742838701&perks=1926090094,1926090095,1885400500,957782887,4082225868#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1926090094,1885400500,957782887,4082225868#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,4082225868#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1885400500,957782887,4082225868#notes:Good in PvP
-(Steadyhand HCS, Fastdraw HCS, High-Caliber Rounds, Snapshot, Swashbuckler) x
-(Steadyhand HCS, ____________, High-Caliber Rounds, Snapshot, Swashbuckler)
-(______________, Fastdraw HCS, High-Caliber Rounds, Snapshot, Swashbuckler)
-(______________, ____________, High-Caliber Rounds, Snapshot, Swashbuckler)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,1561002382,957782887,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,4082225868#notes:Good in PvP
+(Fastdraw HCS, Steadyhand HCS, High-Caliber Rounds, Snapshot, Swashbuckler) x
+(Fastdraw HCS, ______________, High-Caliber Rounds, Snapshot, Swashbuckler)
+(____________, Steadyhand HCS, High-Caliber Rounds, Snapshot, Swashbuckler)
+(____________, ______________, High-Caliber Rounds, Snapshot, Swashbuckler)
+(Fastdraw HCS, Steadyhand HCS, ___________________, Snapshot, Swashbuckler) x
+(Fastdraw HCS, ______________, ___________________, Snapshot, Swashbuckler)
+(____________, Steadyhand HCS, ___________________, Snapshot, Swashbuckler)
+(____________, ______________, ___________________, Snapshot, Swashbuckler)
+dimwishlist:item=2742838701&perks=1926090094,1926090095,1561002382,957782887,4082225868#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1926090094,1561002382,957782887,4082225868#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,4082225868#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1561002382,957782887,4082225868#notes:Good in PvP
-(Steadyhand HCS, Fastdraw HCS, Light Mag, Snapshot, Swashbuckler) x
-(Steadyhand HCS, ____________, Light Mag, Snapshot, Swashbuckler)
-(______________, Fastdraw HCS, Light Mag, Snapshot, Swashbuckler)
-(______________, ____________, Light Mag, Snapshot, Swashbuckler)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,679225683,957782887,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,679225683,957782887,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090094,679225683,957782887,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=679225683,957782887,4082225868#notes:Good in PvP
-(Steadyhand HCS, Fastdraw HCS, Armor-Piercing Rounds, Snapshot, Swashbuckler) x
-(Steadyhand HCS, ____________, Armor-Piercing Rounds, Snapshot, Swashbuckler)
-(______________, Fastdraw HCS, Armor-Piercing Rounds, Snapshot, Swashbuckler)
-(______________, ____________, Armor-Piercing Rounds, Snapshot, Swashbuckler)
-(Steadyhand HCS, Fastdraw HCS, _____________________, Snapshot, Swashbuckler) x
-(Steadyhand HCS, ____________, _____________________, Snapshot, Swashbuckler)
-(______________, Fastdraw HCS, _____________________, Snapshot, Swashbuckler)
-(______________, ____________, _____________________, Snapshot, Swashbuckler)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,1968497646,957782887,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1968497646,957782887,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090094,1968497646,957782887,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1968497646,957782887,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1926090094,957782887,4082225868#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,957782887,4082225868#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090094,1926090095,957782887,4082225868#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1926090094,957782887,4082225868#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090095,957782887,4082225868#notes:Good in PvP
 dimwishlist:item=2742838701&perks=957782887,4082225868#notes:Good in PvP
 
-(Steadyhand HCS, Fastdraw HCS, Ricochet Rounds, Snapshot, Rangefinder) x
-(Steadyhand HCS, ____________, Ricochet Rounds, Snapshot, Rangefinder)
-(______________, Fastdraw HCS, Ricochet Rounds, Snapshot, Rangefinder)
-(______________, ____________, Ricochet Rounds, Snapshot, Rangefinder)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,1885400500,957782887,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770#notes:Good in PvP
+(Fastdraw HCS, Steadyhand HCS, Ricochet Rounds, Snapshot, Rangefinder) x
+(Fastdraw HCS, ______________, Ricochet Rounds, Snapshot, Rangefinder)
+(____________, Steadyhand HCS, Ricochet Rounds, Snapshot, Rangefinder)
+(____________, ______________, Ricochet Rounds, Snapshot, Rangefinder)
+dimwishlist:item=2742838701&perks=1926090094,1926090095,1885400500,957782887,2846385770#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1926090094,1885400500,957782887,2846385770#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1885400500,957782887,2846385770#notes:Good in PvP
-(Steadyhand HCS, Fastdraw HCS, High-Caliber Rounds, Snapshot, Rangefinder) x
-(Steadyhand HCS, ____________, High-Caliber Rounds, Snapshot, Rangefinder)
-(______________, Fastdraw HCS, High-Caliber Rounds, Snapshot, Rangefinder)
-(______________, ____________, High-Caliber Rounds, Snapshot, Rangefinder)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,1561002382,957782887,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,2846385770#notes:Good in PvP
+(Fastdraw HCS, Steadyhand HCS, High-Caliber Rounds, Snapshot, Rangefinder) x
+(Fastdraw HCS, ______________, High-Caliber Rounds, Snapshot, Rangefinder)
+(____________, Steadyhand HCS, High-Caliber Rounds, Snapshot, Rangefinder)
+(____________, ______________, High-Caliber Rounds, Snapshot, Rangefinder)
+(Fastdraw HCS, Steadyhand HCS, ___________________, Snapshot, Rangefinder) x
+(Fastdraw HCS, ______________, ___________________, Snapshot, Rangefinder)
+(____________, Steadyhand HCS, ___________________, Snapshot, Rangefinder)
+(____________, ______________, ___________________, Snapshot, Rangefinder)
+dimwishlist:item=2742838701&perks=1926090094,1926090095,1561002382,957782887,2846385770#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1926090094,1561002382,957782887,2846385770#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,2846385770#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1561002382,957782887,2846385770#notes:Good in PvP
-(Steadyhand HCS, Fastdraw HCS, Light Mag, Snapshot, Rangefinder) x
-(Steadyhand HCS, ____________, Light Mag, Snapshot, Rangefinder)
-(______________, Fastdraw HCS, Light Mag, Snapshot, Rangefinder)
-(______________, ____________, Light Mag, Snapshot, Rangefinder)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,679225683,957782887,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,679225683,957782887,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090094,679225683,957782887,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=679225683,957782887,2846385770#notes:Good in PvP
-(Steadyhand HCS, Fastdraw HCS, Armor-Piercing Rounds, Snapshot, Rangefinder) x
-(Steadyhand HCS, ____________, Armor-Piercing Rounds, Snapshot, Rangefinder)
-(______________, Fastdraw HCS, Armor-Piercing Rounds, Snapshot, Rangefinder)
-(______________, ____________, Armor-Piercing Rounds, Snapshot, Rangefinder)
-(Steadyhand HCS, Fastdraw HCS, _____________________, Snapshot, Rangefinder) x
-(Steadyhand HCS, ____________, _____________________, Snapshot, Rangefinder)
-(______________, Fastdraw HCS, _____________________, Snapshot, Rangefinder)
-(______________, ____________, _____________________, Snapshot, Rangefinder)
-dimwishlist:item=2742838701&perks=1926090095,1926090094,1968497646,957782887,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1968497646,957782887,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090094,1968497646,957782887,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1968497646,957782887,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,1926090094,957782887,2846385770#notes:Good in PvP
-dimwishlist:item=2742838701&perks=1926090095,957782887,2846385770#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090094,1926090095,957782887,2846385770#notes:Good in PvP
 dimwishlist:item=2742838701&perks=1926090094,957782887,2846385770#notes:Good in PvP
+dimwishlist:item=2742838701&perks=1926090095,957782887,2846385770#notes:Good in PvP
 dimwishlist:item=2742838701&perks=957782887,2846385770#notes:Good in PvP
 
 
