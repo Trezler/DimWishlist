@@ -122,8 +122,8 @@ dimwishlist:item=3829285960&perks=1168162263,3523296417#notes:Good in PvE
 KRAIT:
 (Stats for All, One for All)
 (Subsistence__, One for All)
-dimwishlist:item=2852052802,1583705720,4049631843#notes:Good in PvE
-dimwishlist:item=2852052802,1820235745,4049631843#notes:Good in PvE
+dimwishlist:item=2852052802,2420895100,1583705720,4049631843#notes:Good in PvE
+dimwishlist:item=2852052802&perks=1820235745,4049631843#notes:Good in PvE
 
 (Armor-Piercing Rounds, Auto-Loading, Vorpal Weapon)
 (_____________________, Auto-Loading, Vorpal Weapon)
@@ -159,30 +159,29 @@ dimwishlist:item=1561006927&perks=1354429876,3425386926#notes:Good in PvE
 
 
 THE FORWARD PATH:
-(Feeding Frenzy, Swashbuckler__)
-(Feeding Frenzy, Multikill Clip)
+(Feeding Frenzy, Swashbuckler)
 dimwishlist:item=1690783811&perks=2779035018,4082225868#notes:Good in PvE
-dimwishlist:item=1690783811&perks=2779035018,2458213969#notes:Good in PvE
 
 
 
 THE LAST BREATH:
 (Demolitionist, Adrenaline Junkie)
+(Demolitionist, Frenzy___________)
 dimwishlist:item=507038823&perks=3523296417,11612903#notes:Good in PvE
+dimwishlist:item=507038823&perks=3523296417,4104185692#notes:Good in PvE
 
 (Subsistence, One For All)
-dimwishlist:item=507038823&perks=1820235745,4049631843#notes:Nukyyy's Roll
-
-(Killing Wind, Rangefinder)
-dimwishlist:item=507038823&perks=2450788523,2846385770#notes:Good in PvP
+dimwishlist:item=507038823&perks=1820235745,4049631843#notes:Good in PvE
 
 
 
 TIGERSPITE:
 (Outlaw, Swashbuckler_)
 (Outlaw, Demolitionist)
+(Outlaw, Frenzy_______)
 dimwishlist:item=640114618&perks=1168162263,4082225868#notes:Good in PvE
 dimwishlist:item=640114618&perks=1168162263,3523296417#notes:Good in PvE
+dimwishlist:item=640114618&perks=1168162263,4104185692#notes:Good in PvE
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
