@@ -558,15 +558,33 @@ dimwishlist:item=235827225&perks=2846385770,957782887#notes:Good in PvP
 
 
 FATEBRINGER:
-(Rewind Rounds____, Firefly)
+
+(Thresh___________, Frenzy)
+(Explosive Payload, Frenzy)
+dimwishlist:item=2171478765&perks=2726471870,4104185692#notes:Good in PvE
+dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:Good in PvE & GM's
+
 (Thresh___________, Firefly)
 (Explosive Payload, Firefly)
-dimwishlist:item=2171478765&perks=3418782618,3824105627#notes:Good in PvE
 dimwishlist:item=2171478765&perks=2726471870,3824105627#notes:Good in PvE
 dimwishlist:item=2171478765&perks=3038247973,3824105627#notes:Good in PvE
 
-(Explosive Payload, Frenzy)
-dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:Good in GM's
+(Fluted Barrel, Accurized Rounds, Killing Wind, Eye of the Storm)
+(_____________, Accurized Rounds, Killing Wind, Eye of the Storm)
+(Fluted Barrel, ________________, Killing Wind, Eye of the Storm)
+(_____________, ________________, Killing Wind, Eye of the Storm)
+dimwishlist:item=2171478765&perks=1840239774,3142289711,2450788523,699525795#notes:Good in PvP
+dimwishlist:item=2171478765&perks=3142289711,2450788523,699525795#notes:Good in PvP
+dimwishlist:item=2171478765&perks=1840239774,2450788523,699525795#notes:Good in PvP
+dimwishlist:item=2171478765&perks=2450788523,699525795#notes:Good in PvP
+(Fluted Barrel, Accurized Rounds, Killing Wind, Opening Shot)
+(_____________, Accurized Rounds, Killing Wind, Opening Shot)
+(Fluted Barrel, ________________, Killing Wind, Opening Shot)
+(_____________, ________________, Killing Wind, Opening Shot)
+dimwishlist:item=2171478765&perks=1840239774,3142289711,2450788523,47981717#notes:Good in PvP
+dimwishlist:item=2171478765&perks=3142289711,2450788523,47981717#notes:Good in PvP
+dimwishlist:item=2171478765&perks=1840239774,2450788523,47981717#notes:Good in PvP
+dimwishlist:item=2171478765&perks=2450788523,47981717#notes:Good in PvP
 
 (Fluted Barrel, Accurized Rounds, Explosive Payload, Eye of the Storm)
 (_____________, Accurized Rounds, Explosive Payload, Eye of the Storm)
@@ -576,7 +594,6 @@ dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,699525795#not
 dimwishlist:item=2171478765&perks=3142289711,3038247973,699525795#notes:Good in PvP
 dimwishlist:item=2171478765&perks=1840239774,3038247973,699525795#notes:Good in PvP
 dimwishlist:item=2171478765&perks=3038247973,699525795#notes:Good in PvP
-
 (Fluted Barrel, Accurized Rounds, Explosive Payload, Opening Shot)
 (_____________, Accurized Rounds, Explosive Payload, Opening Shot)
 (Fluted Barrel, ________________, Explosive Payload, Opening Shot)
@@ -589,50 +606,62 @@ dimwishlist:item=2171478765&perks=3038247973,47981717#notes:Good in PvP
 
 
 FATEBRINGER (TIMELOST):
-(Fluted Barrel, Accurized Rounds, Rewind Rounds, Explosive Payload, Firefly, Eye of the Storm)
-(_____________, Accurized Rounds, Rewind Rounds, Explosive Payload, Firefly, Eye of the Storm)
-(Fluted Barrel, ________________, Rewind Rounds, Explosive Payload, Firefly, Eye of the Storm)
-(_____________, ________________, Rewind Rounds, Explosive Payload, Firefly, Eye of the Storm)
-(Fluted Barrel, Accurized Rounds, _____________, Explosive Payload, Firefly, Eye of the Storm)
-(_____________, Accurized Rounds, _____________, Explosive Payload, Firefly, Eye of the Storm)
-(Fluted Barrel, ________________, _____________, Explosive Payload, Firefly, Eye of the Storm)
-(_____________, ________________, _____________, Explosive Payload, Firefly, Eye of the Storm)
-dimwishlist:item=1216319404&perks=1840239774,3142289711,3418782618,3038247973,3824105627,699525795#notes:Good in PvE & PvP
-dimwishlist:item=1216319404&perks=3142289711,3418782618,3038247973,3824105627,699525795#notes:Good in PvE & PvP
-dimwishlist:item=1216319404&perks=1840239774,3418782618,3038247973,3824105627,699525795#notes:Good in PvE & PvP
-dimwishlist:item=1216319404&perks=3418782618,3038247973,3824105627,699525795#notes:Good in PvE & PvP
+(Fluted Barrel, Accurized Rounds, Killing Wind, Explosive Payload, Firefly, Eye of the Storm)
+(_____________, Accurized Rounds, Killing Wind, Explosive Payload, Firefly, Eye of the Storm)
+(Fluted Barrel, ________________, Killing Wind, Explosive Payload, Firefly, Eye of the Storm)
+(_____________, ________________, Killing Wind, Explosive Payload, Firefly, Eye of the Storm)
+(Fluted Barrel, Accurized Rounds, Thresh______, Explosive Payload, Firefly, Eye of the Storm)
+(_____________, Accurized Rounds, Thresh______, Explosive Payload, Firefly, Eye of the Storm)
+(Fluted Barrel, ________________, Thresh______, Explosive Payload, Firefly, Eye of the Storm)
+(_____________, ________________, Thresh______, Explosive Payload, Firefly, Eye of the Storm)
+(Fluted Barrel, Accurized Rounds, ____________, Explosive Payload, Firefly, Eye of the Storm)
+(_____________, Accurized Rounds, ____________, Explosive Payload, Firefly, Eye of the Storm)
+(Fluted Barrel, ________________, ____________, Explosive Payload, Firefly, Eye of the Storm)
+(_____________, ________________, ____________, Explosive Payload, Firefly, Eye of the Storm)
+dimwishlist:item=1216319404&perks=1840239774,3142289711,2450788523,3038247973,3824105627,699525795#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=3142289711,2450788523,3038247973,3824105627,699525795#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=1840239774,2450788523,3038247973,3824105627,699525795#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=2450788523,3038247973,3824105627,699525795#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=1840239774,3142289711,2726471870,3038247973,3824105627,699525795#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=3142289711,2726471870,3038247973,3824105627,699525795#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=1840239774,2726471870,3038247973,3824105627,699525795#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=2726471870,3038247973,3824105627,699525795#notes:Good in PvE & PvP
 dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,3824105627,699525795#notes:Good in PvE & PvP
 dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627,699525795#notes:Good in PvE & PvP
 dimwishlist:item=1216319404&perks=1840239774,3038247973,3824105627,699525795#notes:Good in PvE & PvP
 dimwishlist:item=1216319404&perks=3038247973,3824105627,699525795#notes:Good in PvE & PvP
 
-(Fluted Barrel, Accurized Rounds, Rewind Rounds, Explosive Payload, Firefly, Opening Shot)
-(_____________, Accurized Rounds, Rewind Rounds, Explosive Payload, Firefly, Opening Shot)
-(Fluted Barrel, ________________, Rewind Rounds, Explosive Payload, Firefly, Opening Shot)
-(_____________, ________________, Rewind Rounds, Explosive Payload, Firefly, Opening Shot)
-(Fluted Barrel, Accurized Rounds, _____________, Explosive Payload, Firefly, Opening Shot)
-(_____________, Accurized Rounds, _____________, Explosive Payload, Firefly, Opening Shot)
-(Fluted Barrel, ________________, _____________, Explosive Payload, Firefly, Opening Shot)
-(_____________, ________________, _____________, Explosive Payload, Firefly, Opening Shot)
-dimwishlist:item=1216319404&perks=1840239774,3142289711,3418782618,3038247973,3824105627,47981717#notes:Good in PvE & PvP
-dimwishlist:item=1216319404&perks=3142289711,3418782618,3038247973,3824105627,47981717#notes:Good in PvE & PvP
-dimwishlist:item=1216319404&perks=1840239774,3418782618,3038247973,3824105627,47981717#notes:Good in PvE & PvP
-dimwishlist:item=1216319404&perks=3418782618,3038247973,3824105627,47981717#notes:Good in PvE & PvP
+(Fluted Barrel, Accurized Rounds, Killing Wind, Explosive Payload, Firefly, Opening Shot)
+(_____________, Accurized Rounds, Killing Wind, Explosive Payload, Firefly, Opening Shot)
+(Fluted Barrel, ________________, Killing Wind, Explosive Payload, Firefly, Opening Shot)
+(_____________, ________________, Killing Wind, Explosive Payload, Firefly, Opening Shot)
+(Fluted Barrel, Accurized Rounds, Thresh______, Explosive Payload, Firefly, Opening Shot)
+(_____________, Accurized Rounds, Thresh______, Explosive Payload, Firefly, Opening Shot)
+(Fluted Barrel, ________________, Thresh______, Explosive Payload, Firefly, Opening Shot)
+(_____________, ________________, Thresh______, Explosive Payload, Firefly, Opening Shot)
+(Fluted Barrel, Accurized Rounds, ____________, Explosive Payload, Firefly, Opening Shot)
+(_____________, Accurized Rounds, ____________, Explosive Payload, Firefly, Opening Shot)
+(Fluted Barrel, ________________, ____________, Explosive Payload, Firefly, Opening Shot)
+(_____________, ________________, ____________, Explosive Payload, Firefly, Opening Shot)
+dimwishlist:item=1216319404&perks=1840239774,3142289711,2450788523,3038247973,3824105627,3824105627#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=3142289711,2450788523,3038247973,3824105627,3824105627#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=1840239774,2450788523,3038247973,3824105627,3824105627#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=2450788523,3038247973,3824105627,3824105627#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=1840239774,3142289711,2726471870,3038247973,3824105627,47981717#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=3142289711,2726471870,3038247973,3824105627,47981717#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=1840239774,2726471870,3038247973,3824105627,47981717#notes:Good in PvE & PvP
+dimwishlist:item=1216319404&perks=2726471870,3038247973,3824105627,47981717#notes:Good in PvE & PvP
 dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,3824105627,47981717#notes:Good in PvE & PvP
 dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627,47981717#notes:Good in PvE & PvP
 dimwishlist:item=1216319404&perks=1840239774,3038247973,3824105627,47981717#notes:Good in PvE & PvP
 dimwishlist:item=1216319404&perks=3038247973,3824105627,47981717#notes:Good in PvE & PvP
 
-(Rewind Rounds, Explosive Payload, Firefly, Frenzy)
-(Thresh_______, Explosive Payload, Firefly, Frenzy)
-(_____________, Explosive Payload, Firefly, Frenzy)
-(Rewind Rounds, Explosive Payload, Firefly, ______)
-(Thresh_______, Explosive Payload, Firefly, ______)
-(_____________, Explosive Payload, Firefly, ______)
-dimwishlist:item=1216319404&perks=3418782618,3038247973,3824105627,4104185692#notes:Good in PvE & GM's
+(Thresh, Explosive Payload, Firefly, Frenzy)
+(______, Explosive Payload, Firefly, Frenzy)
+(Thresh, Explosive Payload, Firefly, ______)
+(______, Explosive Payload, Firefly, ______)
 dimwishlist:item=1216319404&perks=2726471870,3038247973,3824105627,4104185692#notes:Good in PvE & GM's
 dimwishlist:item=1216319404&perks=3038247973,3824105627,4104185692#notes:Good in PvE & GM's
-dimwishlist:item=1216319404&perks=3418782618,3038247973,3824105627#notes:Good in PvE
 dimwishlist:item=1216319404&perks=2726471870,3038247973,3824105627#notes:Good in PvE
 dimwishlist:item=1216319404&perks=3038247973,3824105627#notes:Good in PvE
 
