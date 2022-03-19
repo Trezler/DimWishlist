@@ -1033,81 +1033,82 @@ dimwishlist:item=2408405461&perks=1168162263,460017080#notes:Good in PvP
 
 
 SYNCOPATION-53:
-(
+(Outlaw, Frenzy)
+dimwishlist:item=2856514843&perks=1168162263,4104185692#notes:Good in PvE
 
 
 
 THE MESSENGER:
-(Ricochet Rounds______, High-Caliber Rounds__, Rapid Hit, Desperado) x
-(Ricochet Rounds______, _____________________, Rapid Hit, Desperado)
-(High-Caliber Rounds__, _____________________, Rapid Hit, Desperado)
-(_____________________, _____________________, Rapid Hit, Desperado)
-(Ricochet Rounds______, High-Caliber Rounds__, Outlaw___, Desperado) x
-(Ricochet Rounds______, _____________________, Outlaw___, Desperado)
-(High-Caliber Rounds__, _____________________, Outlaw___, Desperado)
-(_____________________, _____________________, Outlaw___, Desperado)
-dimwishlist:item=3658188704&perks=1885400500,1561002382,247725512,3047969693#notes:Good in PvP
-dimwishlist:item=3658188704&perks=1885400500,247725512,3047969693#notes:Good in PvP
-dimwishlist:item=3658188704&perks=1561002382,247725512,3047969693#notes:Good in PvP
-dimwishlist:item=3658188704&perks=247725512,3047969693#notes:Good in PvP
-dimwishlist:item=3658188704&perks=1885400500,1561002382,1168162263,3047969693#notes:Good in PvP
-dimwishlist:item=3658188704&perks=1885400500,1168162263,3047969693#notes:Good in PvP
-dimwishlist:item=3658188704&perks=1561002382,1168162263,3047969693#notes:Good in PvP
-dimwishlist:item=3658188704&perks=1168162263,3047969693#notes:Good in PvP
+(Arrowhead Brake, High-Caliber Rounds, Ricochet Rounds, Rapid Hit, Desperado)
+(Arrowhead Brake, High-Caliber Rounds, _______________, Rapid Hit, Desperado)
+(Arrowhead Brake, ___________________, Ricochet Rounds, Rapid Hit, Desperado)
+(Arrowhead Brake, ___________________, _______________, Rapid Hit, Desperado)
+(_______________, High-Caliber Rounds, Ricochet Rounds, Rapid Hit, Desperado)
+(_______________, High-Caliber Rounds, _______________, Rapid Hit, Desperado)
+(_______________, ___________________, Ricochet Rounds, Rapid Hit, Desperado)
+(_______________, ___________________, _______________, Rapid Hit, Desperado)
+dimwishlist:item=3658188704&perks=839105230,1561002382,1885400500,247725512,3047969693#notes:Good in PvE
+dimwishlist:item=3658188704&perks=839105230,1561002382,247725512,3047969693#notes:Good in PvE
+dimwishlist:item=3658188704&perks=839105230,1885400500,247725512,3047969693#notes:Good in PvE
+dimwishlist:item=3658188704&perks=1885400500,247725512,3047969693#notes:Good in PvE
+dimwishlist:item=3658188704&perks=1561002382,1885400500,247725512,3047969693#notes:Good in PvE
+dimwishlist:item=3658188704&perks=1561002382,247725512,3047969693#notes:Good in PvE
+dimwishlist:item=3658188704&perks=1885400500,247725512,3047969693#notes:Good in PvE
+dimwishlist:item=3658188704&perks=247725512,3047969693#notes:Good in PvE
 
-(Ricochet Rounds______, High-Caliber Rounds__, Rapid Hit, Kill Clip) x
-(Ricochet Rounds______, _____________________, Rapid Hit, Kill Clip)
-(High-Caliber Rounds__, _____________________, Rapid Hit, Kill Clip)
-(_____________________, _____________________, Rapid Hit, Kill Clip)
-(Ricochet Rounds______, High-Caliber Rounds__, Outlaw___, Kill Clip) x
-(Ricochet Rounds______, _____________________, Outlaw___, Kill Clip)
-(High-Caliber Rounds__, _____________________, Outlaw___, Kill Clip)
-(_____________________, _____________________, Outlaw___, Kill Clip)
-dimwishlist:item=3658188704&perks=1885400500,1561002382,247725512,1015611457#notes:Good in PvP
-dimwishlist:item=3658188704&perks=1885400500,247725512,1015611457#notes:Good in PvP
-dimwishlist:item=3658188704&perks=1561002382,247725512,1015611457#notes:Good in PvP
-dimwishlist:item=3658188704&perks=247725512,1015611457#notes:Good in PvP
-dimwishlist:item=3658188704&perks=1885400500,1561002382,1168162263,1015611457#notes:Good in PvP
-dimwishlist:item=3658188704&perks=1885400500,1168162263,1015611457#notes:Good in PvP
-dimwishlist:item=3658188704&perks=1561002382,1168162263,1015611457#notes:Good in PvP
-dimwishlist:item=3658188704&perks=1168162263,1015611457#notes:Good in PvP
+(Arrowhead Brake, High-Caliber Rounds, Ricochet Rounds, Outlaw, Desperado)
+(Arrowhead Brake, High-Caliber Rounds, _______________, Outlaw, Desperado)
+(Arrowhead Brake, ___________________, Ricochet Rounds, Outlaw, Desperado)
+(Arrowhead Brake, ___________________, _______________, Outlaw, Desperado)
+(_______________, High-Caliber Rounds, Ricochet Rounds, Outlaw, Desperado)
+(_______________, High-Caliber Rounds, _______________, Outlaw, Desperado)
+(_______________, ___________________, Ricochet Rounds, Outlaw, Desperado)
+(_______________, ___________________, _______________, Outlaw, Desperado)
+dimwishlist:item=3658188704&perks=839105230,1561002382,1885400500,1168162263,3047969693#notes:Good in PvE
+dimwishlist:item=3658188704&perks=839105230,1561002382,1168162263,3047969693#notes:Good in PvE
+dimwishlist:item=3658188704&perks=839105230,1885400500,1168162263,3047969693#notes:Good in PvE
+dimwishlist:item=3658188704&perks=1885400500,1168162263,3047969693#notes:Good in PvE
+dimwishlist:item=3658188704&perks=1561002382,1885400500,1168162263,3047969693#notes:Good in PvE
+dimwishlist:item=3658188704&perks=1561002382,1168162263,3047969693#notes:Good in PvE
+dimwishlist:item=3658188704&perks=1885400500,1168162263,3047969693#notes:Good in PvE
+dimwishlist:item=3658188704&perks=1168162263,3047969693#notes:Good in PvE
 
 
 
 THE MESSENGER (ADEPT):
-(Ricochet Rounds______, High-Caliber Rounds__, Rapid Hit, Desperado) x
-(Ricochet Rounds______, _____________________, Rapid Hit, Desperado)
-(High-Caliber Rounds__, _____________________, Rapid Hit, Desperado)
-(_____________________, _____________________, Rapid Hit, Desperado)
-(Ricochet Rounds______, High-Caliber Rounds__, Outlaw___, Desperado) x
-(Ricochet Rounds______, _____________________, Outlaw___, Desperado)
-(High-Caliber Rounds__, _____________________, Outlaw___, Desperado)
-(_____________________, _____________________, Outlaw___, Desperado)
-dimwishlist:item=1173780905&perks=1885400500,1561002382,247725512,3047969693#notes:Good in PvP
-dimwishlist:item=1173780905&perks=1885400500,247725512,3047969693#notes:Good in PvP
-dimwishlist:item=1173780905&perks=1561002382,247725512,3047969693#notes:Good in PvP
-dimwishlist:item=1173780905&perks=247725512,3047969693#notes:Good in PvP
-dimwishlist:item=1173780905&perks=1885400500,1561002382,1168162263,3047969693#notes:Good in PvP
-dimwishlist:item=1173780905&perks=1885400500,1168162263,3047969693#notes:Good in PvP
-dimwishlist:item=1173780905&perks=1561002382,1168162263,3047969693#notes:Good in PvP
-dimwishlist:item=1173780905&perks=1168162263,3047969693#notes:Good in PvP
+(Arrowhead Brake, High-Caliber Rounds, Ricochet Rounds, Rapid Hit, Desperado)
+(Arrowhead Brake, High-Caliber Rounds, _______________, Rapid Hit, Desperado)
+(Arrowhead Brake, ___________________, Ricochet Rounds, Rapid Hit, Desperado)
+(Arrowhead Brake, ___________________, _______________, Rapid Hit, Desperado)
+(_______________, High-Caliber Rounds, Ricochet Rounds, Rapid Hit, Desperado)
+(_______________, High-Caliber Rounds, _______________, Rapid Hit, Desperado)
+(_______________, ___________________, Ricochet Rounds, Rapid Hit, Desperado)
+(_______________, ___________________, _______________, Rapid Hit, Desperado)
+dimwishlist:item=1173780905&perks=839105230,1561002382,1885400500,247725512,3047969693#notes:Good in PvE
+dimwishlist:item=1173780905&perks=839105230,1561002382,247725512,3047969693#notes:Good in PvE
+dimwishlist:item=1173780905&perks=839105230,1885400500,247725512,3047969693#notes:Good in PvE
+dimwishlist:item=1173780905&perks=1885400500,247725512,3047969693#notes:Good in PvE
+dimwishlist:item=1173780905&perks=1561002382,1885400500,247725512,3047969693#notes:Good in PvE
+dimwishlist:item=1173780905&perks=1561002382,247725512,3047969693#notes:Good in PvE
+dimwishlist:item=1173780905&perks=1885400500,247725512,3047969693#notes:Good in PvE
+dimwishlist:item=1173780905&perks=247725512,3047969693#notes:Good in PvE
 
-(Ricochet Rounds______, High-Caliber Rounds__, Rapid Hit, Kill Clip) x
-(Ricochet Rounds______, _____________________, Rapid Hit, Kill Clip)
-(High-Caliber Rounds__, _____________________, Rapid Hit, Kill Clip)
-(_____________________, _____________________, Rapid Hit, Kill Clip)
-(Ricochet Rounds______, High-Caliber Rounds__, Outlaw___, Kill Clip) x
-(Ricochet Rounds______, _____________________, Outlaw___, Kill Clip)
-(High-Caliber Rounds__, _____________________, Outlaw___, Kill Clip)
-(_____________________, _____________________, Outlaw___, Kill Clip)
-dimwishlist:item=1173780905&perks=1885400500,1561002382,247725512,1015611457#notes:Good in PvP
-dimwishlist:item=1173780905&perks=1885400500,247725512,1015611457#notes:Good in PvP
-dimwishlist:item=1173780905&perks=1561002382,247725512,1015611457#notes:Good in PvP
-dimwishlist:item=1173780905&perks=247725512,1015611457#notes:Good in PvP
-dimwishlist:item=1173780905&perks=1885400500,1561002382,1168162263,1015611457#notes:Good in PvP
-dimwishlist:item=1173780905&perks=1885400500,1168162263,1015611457#notes:Good in PvP
-dimwishlist:item=1173780905&perks=1561002382,1168162263,1015611457#notes:Good in PvP
-dimwishlist:item=1173780905&perks=1168162263,1015611457#notes:Good in PvP
+(Arrowhead Brake, High-Caliber Rounds, Ricochet Rounds, Outlaw, Desperado)
+(Arrowhead Brake, High-Caliber Rounds, _______________, Outlaw, Desperado)
+(Arrowhead Brake, ___________________, Ricochet Rounds, Outlaw, Desperado)
+(Arrowhead Brake, ___________________, _______________, Outlaw, Desperado)
+(_______________, High-Caliber Rounds, Ricochet Rounds, Outlaw, Desperado)
+(_______________, High-Caliber Rounds, _______________, Outlaw, Desperado)
+(_______________, ___________________, Ricochet Rounds, Outlaw, Desperado)
+(_______________, ___________________, _______________, Outlaw, Desperado)
+dimwishlist:item=1173780905&perks=839105230,1561002382,1885400500,1168162263,3047969693#notes:Good in PvE
+dimwishlist:item=1173780905&perks=839105230,1561002382,1168162263,3047969693#notes:Good in PvE
+dimwishlist:item=1173780905&perks=839105230,1885400500,1168162263,3047969693#notes:Good in PvE
+dimwishlist:item=1173780905&perks=1885400500,1168162263,3047969693#notes:Good in PvE
+dimwishlist:item=1173780905&perks=1561002382,1885400500,1168162263,3047969693#notes:Good in PvE
+dimwishlist:item=1173780905&perks=1561002382,1168162263,3047969693#notes:Good in PvE
+dimwishlist:item=1173780905&perks=1885400500,1168162263,3047969693#notes:Good in PvE
+dimwishlist:item=1173780905&perks=1168162263,3047969693#notes:Good in PvE
 
 
 
@@ -1115,70 +1116,167 @@ THE TIME-WORN SPIRE:
 (Feeding Frenzy, Rampage)
 (Subsistence___, Rampage)
 dimwishlist:item=3593598010&perks=2779035018,3425386926#notes:Good in PvE
-dimwishlist:item=3593598010&perks=1820235745,3425386926#notes:Test Subsistence
+dimwishlist:item=3593598010&perks=1820235745,3425386926#notes:Good in PvE
 
-(Ricochet Rounds, Moving Target_, Rampage)
-(Ricochet Rounds, Under Pressure, Rampage)
-(_______________, Moving Target_, Rampage)
-(_______________, Under Pressure, Rampage)
+(High-Caliber Rounds, Ricochet Rounds, Moving Target, Rampage)
+(High-Caliber Rounds, _______________, Moving Target, Rampage)
+(___________________, Ricochet Rounds, Moving Target, Rampage)
+(___________________, _______________, Moving Target, Rampage)
+dimwishlist:item=3593598010&perks=1561002382,1885400500,588594999,3425386926#notes:Good in PvP
+dimwishlist:item=3593598010&perks=1561002382,588594999,3425386926#notes:Good in PvP
 dimwishlist:item=3593598010&perks=1885400500,588594999,3425386926#notes:Good in PvP
-dimwishlist:item=3593598010&perks=1885400500,1645158859,3425386926#notes:Good in PvP
 dimwishlist:item=3593598010&perks=588594999,3425386926#notes:Good in PvP
-dimwishlist:item=3593598010&perks=1645158859,3425386926#notes:Good in PvP
 
-(Ricochet Rounds, Moving Target_, Iron Grip)
-(Ricochet Rounds, Under Pressure, Iron Grip)
-(_______________, Moving Target_, Iron Grip)
-(_______________, Under Pressure, Iron Grip)
+(High-Caliber Rounds, Ricochet Rounds, Moving Target, Iron Grip)
+(High-Caliber Rounds, _______________, Moving Target, Iron Grip)
+(___________________, Ricochet Rounds, Moving Target, Iron Grip)
+(___________________, _______________, Moving Target, Iron Grip)
+dimwishlist:item=3593598010&perks=1561002382,1885400500,588594999,11551321#notes:Good in PvP
+dimwishlist:item=3593598010&perks=1561002382,588594999,11551321#notes:Good in PvP
 dimwishlist:item=3593598010&perks=1885400500,588594999,11551321#notes:Good in PvP
-dimwishlist:item=3593598010&perks=1885400500,1645158859,11551321#notes:Good in PvP
 dimwishlist:item=3593598010&perks=588594999,11551321#notes:Good in PvP
-dimwishlist:item=3593598010&perks=1645158859,11551321#notes:Good in PvP
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SCOUT RIFLES:
 
 DEAD MAN'S TALE:
-(Fluted Barrel, Ricochet Rounds, Killing Wind, Composite Stock)
-(_____________, Ricochet Rounds, Killing Wind, Composite Stock)
-(_____________, _______________, Killing Wind, Composite Stock)
-(_____________, Ricochet Rounds, Killing Wind, _______________)
-(Fluted Barrel, _______________, Killing Wind, Composite Stock)
-(Fluted Barrel, _______________, Killing Wind, _______________)
-(Fluted Barrel, Ricochet Rounds, Killing Wind, _______________)
+(Fluted Barrel, High-Caliber Rounds, Ricochet Rounds, Killing Wind, Composite Stock)x
+(Fluted Barrel, High-Caliber Rounds, _______________, Killing Wind, Composite Stock)
+(Fluted Barrel, ___________________, Ricochet Rounds, Killing Wind, Composite Stock)
+(Fluted Barrel, ___________________, _______________, Killing Wind, Composite Stock)
+(_____________, High-Caliber Rounds, Ricochet Rounds, Killing Wind, Composite Stock)x
+(_____________, High-Caliber Rounds, _______________, Killing Wind, Composite Stock)
+(_____________, ___________________, Ricochet Rounds, Killing Wind, Composite Stock)
+(_____________, ___________________, _______________, Killing Wind, Composite Stock)
+(Fluted Barrel, High-Caliber Rounds, Ricochet Rounds, Killing Wind, _______________)x
+(Fluted Barrel, High-Caliber Rounds, _______________, Killing Wind, _______________)
+(Fluted Barrel, ___________________, Ricochet Rounds, Killing Wind, _______________)
+(Fluted Barrel, ___________________, _______________, Killing Wind, _______________)
+(_____________, High-Caliber Rounds, Ricochet Rounds, Killing Wind, _______________)x
+(_____________, High-Caliber Rounds, _______________, Killing Wind, _______________)
+(_____________, ___________________, Ricochet Rounds, Killing Wind, _______________)
+(_____________, ___________________, _______________, Killing Wind, _______________)
+dimwishlist:item=3654674561&perks=1840239774,1561002382,1885400500,2450788523,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1561002382,2450788523,3465198467#notes:Good in PvP
 dimwishlist:item=3654674561&perks=1840239774,1885400500,2450788523,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,2450788523,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,1885400500,2450788523,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,2450788523,3465198467#notes:Good in PvP
 dimwishlist:item=3654674561&perks=1885400500,2450788523,3465198467#notes:Good in PvP
 dimwishlist:item=3654674561&perks=2450788523,3465198467#notes:Good in PvP
-dimwishlist:item=3654674561&perks=1885400500,2450788523#notes:Good in PvP
-dimwishlist:item=3654674561&perks=1840239774,2450788523,3465198467#notes:Good in PvP
-dimwishlist:item=3654674561&perks=1840239774,2450788523#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1561002382,1885400500,2450788523#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1561002382,2450788523#notes:Good in PvP
 dimwishlist:item=3654674561&perks=1840239774,1885400500,2450788523#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,2450788523#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,1885400500,2450788523#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,2450788523#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1885400500,2450788523#notes:Good in PvP
+dimwishlist:item=3654674561&perks=2450788523#notes:Good in PvP
 
-(Fluted Barrel, Ricochet Rounds, Moving Target, Composite Stock)
-(_____________, Ricochet Rounds, Moving Target, Composite Stock)
-(_____________, _______________, Moving Target, Composite Stock)
-(_____________, Ricochet Rounds, Moving Target, _______________)
-(Fluted Barrel, _______________, Moving Target, Composite Stock)
-(Fluted Barrel, Ricochet Rounds, Moving Target, _______________)
-(Fluted Barrel, _______________, Moving Target, _______________)
+(Fluted Barrel, High-Caliber Rounds, Ricochet Rounds, Snapshot, Composite Stock)x
+(Fluted Barrel, High-Caliber Rounds, _______________, Snapshot, Composite Stock)
+(Fluted Barrel, ___________________, Ricochet Rounds, Snapshot, Composite Stock)
+(Fluted Barrel, ___________________, _______________, Snapshot, Composite Stock)
+(_____________, High-Caliber Rounds, Ricochet Rounds, Snapshot, Composite Stock)x
+(_____________, High-Caliber Rounds, _______________, Snapshot, Composite Stock)
+(_____________, ___________________, Ricochet Rounds, Snapshot, Composite Stock)
+(_____________, ___________________, _______________, Snapshot, Composite Stock)
+(Fluted Barrel, High-Caliber Rounds, Ricochet Rounds, Snapshot, _______________)x
+(Fluted Barrel, High-Caliber Rounds, _______________, Snapshot, _______________)
+(Fluted Barrel, ___________________, Ricochet Rounds, Snapshot, _______________)
+(Fluted Barrel, ___________________, _______________, Snapshot, _______________)
+(_____________, High-Caliber Rounds, Ricochet Rounds, Snapshot, _______________)x
+(_____________, High-Caliber Rounds, _______________, Snapshot, _______________)
+(_____________, ___________________, Ricochet Rounds, Snapshot, _______________)
+(_____________, ___________________, _______________, Snapshot, _______________)
+dimwishlist:item=3654674561&perks=1840239774,1561002382,1885400500,957782887,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1561002382,957782887,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1885400500,957782887,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,957782887,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,1885400500,957782887,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,957782887,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1885400500,957782887,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=957782887,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1561002382,1885400500,957782887#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1561002382,957782887#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1885400500,957782887#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,957782887#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,1885400500,957782887#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,957782887#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1885400500,957782887#notes:Good in PvP
+dimwishlist:item=3654674561&perks=957782887#notes:Good in PvP
+
+(Fluted Barrel, High-Caliber Rounds, Ricochet Rounds, Moving Target, Composite Stock)x
+(Fluted Barrel, High-Caliber Rounds, _______________, Moving Target, Composite Stock)
+(Fluted Barrel, ___________________, Ricochet Rounds, Moving Target, Composite Stock)
+(Fluted Barrel, ___________________, _______________, Moving Target, Composite Stock)
+(_____________, High-Caliber Rounds, Ricochet Rounds, Moving Target, Composite Stock)x
+(_____________, High-Caliber Rounds, _______________, Moving Target, Composite Stock)
+(_____________, ___________________, Ricochet Rounds, Moving Target, Composite Stock)
+(_____________, ___________________, _______________, Moving Target, Composite Stock)
+(Fluted Barrel, High-Caliber Rounds, Ricochet Rounds, Moving Target, _______________)x
+(Fluted Barrel, High-Caliber Rounds, _______________, Moving Target, _______________)
+(Fluted Barrel, ___________________, Ricochet Rounds, Moving Target, _______________)
+(Fluted Barrel, ___________________, _______________, Moving Target, _______________)
+(_____________, High-Caliber Rounds, Ricochet Rounds, Moving Target, _______________)x
+(_____________, High-Caliber Rounds, _______________, Moving Target, _______________)
+(_____________, ___________________, Ricochet Rounds, Moving Target, _______________)
+(_____________, ___________________, _______________, Moving Target, _______________)
+dimwishlist:item=3654674561&perks=1840239774,1561002382,1885400500,588594999,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1561002382,588594999,3465198467#notes:Good in PvP
 dimwishlist:item=3654674561&perks=1840239774,1885400500,588594999,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,588594999,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,1885400500,588594999,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,588594999,3465198467#notes:Good in PvP
 dimwishlist:item=3654674561&perks=1885400500,588594999,3465198467#notes:Good in PvP
 dimwishlist:item=3654674561&perks=588594999,3465198467#notes:Good in PvP
-dimwishlist:item=3654674561&perks=1885400500,588594999#notes:Good in PvP
-dimwishlist:item=3654674561&perks=1840239774,588594999,3465198467#notes:Good in PvP
-dimwishlist:item=3654674561&perks=1840239774,588594999#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1561002382,1885400500,588594999#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1561002382,588594999#notes:Good in PvP
 dimwishlist:item=3654674561&perks=1840239774,1885400500,588594999#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,588594999#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,1885400500,588594999#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,588594999#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1885400500,588594999#notes:Good in PvP
+dimwishlist:item=3654674561&perks=588594999#notes:Good in PvP
+
+(Fluted Barrel, High-Caliber Rounds, Ricochet Rounds, Vorpal Weapon, Composite Stock)x
+(Fluted Barrel, High-Caliber Rounds, _______________, Vorpal Weapon, Composite Stock)
+(Fluted Barrel, ___________________, Ricochet Rounds, Vorpal Weapon, Composite Stock)
+(Fluted Barrel, ___________________, _______________, Vorpal Weapon, Composite Stock)
+(_____________, High-Caliber Rounds, Ricochet Rounds, Vorpal Weapon, Composite Stock)x
+(_____________, High-Caliber Rounds, _______________, Vorpal Weapon, Composite Stock)
+(_____________, ___________________, Ricochet Rounds, Vorpal Weapon, Composite Stock)
+(_____________, ___________________, _______________, Vorpal Weapon, Composite Stock)
+(Fluted Barrel, High-Caliber Rounds, Ricochet Rounds, Vorpal Weapon, _______________)x
+(Fluted Barrel, High-Caliber Rounds, _______________, Vorpal Weapon, _______________)
+(Fluted Barrel, ___________________, Ricochet Rounds, Vorpal Weapon, _______________)
+(Fluted Barrel, ___________________, _______________, Vorpal Weapon, _______________)
+(_____________, High-Caliber Rounds, Ricochet Rounds, Vorpal Weapon, _______________)x
+(_____________, High-Caliber Rounds, _______________, Vorpal Weapon, _______________)
+(_____________, ___________________, Ricochet Rounds, Vorpal Weapon, _______________)
+(_____________, ___________________, _______________, Vorpal Weapon, _______________)
+dimwishlist:item=3654674561&perks=1840239774,1561002382,1885400500,1546637391,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1561002382,1546637391,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1885400500,1546637391,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1546637391,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,1885400500,1546637391,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,1546637391,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1885400500,1546637391,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1546637391,3465198467#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1561002382,1885400500,1546637391#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1561002382,1546637391#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1885400500,1546637391#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1840239774,1546637391#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,1885400500,1546637391#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1561002382,1546637391#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1885400500,1546637391#notes:Good in PvP
+dimwishlist:item=3654674561&perks=1546637391#notes:Good in PvP
 
 (Armor-Piercing Rounds, Vorpal Weapon)
 (_____________________, Vorpal Weapon)
 dimwishlist:item=3654674561&perks=1968497646,1546637391#notes:Good in GM's
 dimwishlist:item=3654674561&perks=1546637391#notes:Good in GM's
-
-(Armor-Piercing Rounds, Fourth Time's the Charm)
-(_____________________, Fourth Time's the Charm)
-dimwishlist:item=3654674561&perks=1968497646,1354429876#notes:Good in GM's
-dimwishlist:item=3654674561&perks=1354429876#notes:Good in GM's
 
 
 
@@ -1195,12 +1293,8 @@ dimwishlist:item=681067419&perks=247725512,3038247973#notes:Good in GM's
 
 
 NIGHT WATCH:
-(Arrowhead Brake, Flared Magwell, Rapid Hit, Explosive Payload)
-(_______________, Flared Magwell, Rapid Hit, Explosive Payload)
-(Arrowhead Brake, ______________, Rapid Hit, Explosive Payload)
-(_______________, ______________, Rapid Hit, Explosive Payload)
-dimwishlist:item=3504336176&perks=839105230,3230963543,247725512,3038247973#notes:Good in GM's
-dimwishlist:item=3504336176&perks=3230963543,247725512,3038247973#notes:Good in GM's
+(Arrowhead Brake, Rapid Hit, Explosive Payload)
+(_______________, Rapid Hit, Explosive Payload)
 dimwishlist:item=3504336176&perks=839105230,247725512,3038247973#notes:Good in GM's
 dimwishlist:item=3504336176&perks=247725512,3038247973#notes:Good in GM's
 
@@ -1210,30 +1304,37 @@ dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#no
 
 
 PERSES-D:
-(
+(Rapid Hit, Vorpal Weapon____)
+(Rapid Hit, Explosive Payload)
+dimwishlist:item=1019000888&perks=247725512,1546637391
+dimwishlist:item=1019000888&perks=247725512,3038247973
 
 
 
 SERVANT LEADER:
-(Tunnel Vision, Kill Clip)
+(Tunnel Vision__, Kill Clip)
+(Killing Wind___, Kill Clip)
+(No Distractions, Kill Clip)
+(Outlaw_________, Kill Clip)
+(Rapid Hit______, Kill Clip)
 dimwishlist:item=1107446438&perks=2946784966,1015611457#notes:Good in PvP
+dimwishlist:item=1107446438&perks=2450788523,1015611457#notes:Good in PvP
+dimwishlist:item=1107446438&perks=2866798147,1015611457#notes:Good in PvP
+dimwishlist:item=1107446438&perks=1168162263,1015611457#notes:Good in PvP
+dimwishlist:item=1107446438&perks=247725512,1015611457#notes:Good in PvP
 
-(Outlaw, Rampage_______)
-(Outlaw, Thresh________)
-(Outlaw, Multikill Clip)
-(Outlaw, Frenzy________)
+(Outlaw, Rampage)
+(Outlaw, Thresh_)
+(Outlaw, Frenzy_)
 dimwishlist:item=1107446438&perks=1168162263,3425386926#notes:Good in PvE
 dimwishlist:item=1107446438&perks=1168162263,2726471870#notes:Good in PvE
-dimwishlist:item=1107446438&perks=1168162263,2458213969#notes:Good in PvE
 dimwishlist:item=1107446438&perks=1168162263,4104185692#notes:Good in PvE
 
-(Rapid Hit, Rampage_______)
-(Rapid Hit, Thresh________)
-(Rapid Hit, Multikill Clip)
-(Rapid Hit, Frenzy________)
+(Rapid Hit, Rampage)
+(Rapid Hit, Thresh_)
+(Rapid Hit, Frenzy_)
 dimwishlist:item=1107446438&perks=247725512,3425386926#notes:Good in PvE
 dimwishlist:item=1107446438&perks=247725512,2726471870#notes:Good in PvE
-dimwishlist:item=1107446438&perks=247725512,2458213969#notes:Good in PvE
 dimwishlist:item=1107446438&perks=247725512,4104185692#notes:Good in PvE
 
 
@@ -1247,7 +1348,9 @@ dimwishlist:item=1982711279&perks=1168162263,3038247973#notes:Good in PvE
 
 
 THE GUIDING SIGHT:
-(Rapid Hit, Vorpal Weapon)
+(Armor-Piercing Rounds, Rapid Hit, Vorpal Weapon)
+(_____________________, Rapid Hit, Vorpal Weapon)
+dimwishlist:item=1641430382&perks=1968497646,247725512,1546637391#notes:Good in GM's
 dimwishlist:item=1641430382&perks=247725512,1546637391#notes:Good in GM's
 
 
@@ -1274,99 +1377,78 @@ dimwishlist:item=3799980700&perks=1840239774,679225683,1168162263,3038247973#not
 SHOTGUNS:
 
 ASTRAL HORIZON:
-(Barrel Shroud, Full Choke, Accurized Rounds, Surplus, Opening Shot)
-(_____________, Full Choke, Accurized Rounds, Surplus, Opening Shot)
-(Barrel Shroud, __________, Accurized Rounds, Surplus, Opening Shot)
-(_____________, __________, Accurized Rounds, Surplus, Opening Shot)
-(Barrel Shroud, Full Choke, ________________, Surplus, Opening Shot)
-(_____________, Full Choke, ________________, Surplus, Opening Shot)
-(Barrel Shroud, __________, ________________, Surplus, Opening Shot)
-(_____________, __________, ________________, Surplus, Opening Shot)
-dimwishlist:item=1697682876&perks=1300023272,1047830412,3142289711,3436462433,47981717#notes:Good in PvP
+(Full Choke, Accurized Rounds, Surplus, Opening Shot)
+(Full Choke, ________________, Surplus, Opening Shot)
+(__________, Accurized Rounds, Surplus, Opening Shot)
+(__________, ________________, Surplus, Opening Shot)
 dimwishlist:item=1697682876&perks=1047830412,3142289711,3436462433,47981717#notes:Good in PvP
-dimwishlist:item=1697682876&perks=1300023272,3142289711,3436462433,47981717#notes:Good in PvP
-dimwishlist:item=1697682876&perks=3142289711,3436462433,47981717#notes:Good in PvP
-dimwishlist:item=1697682876&perks=1300023272,1047830412,3436462433,47981717#notes:Good in PvP
 dimwishlist:item=1697682876&perks=1047830412,3436462433,47981717#notes:Good in PvP
-dimwishlist:item=1697682876&perks=1300023272,3436462433,47981717#notes:Good in PvP
+dimwishlist:item=1697682876&perks=3142289711,3436462433,47981717#notes:Good in PvP
 dimwishlist:item=1697682876&perks=3436462433,47981717#notes:Good in PvP
 
 
 
 ASTRAL HORIZON (ADEPT):
-(Barrel Shroud, Full Choke, Accurized Rounds, Surplus, Opening Shot)
-(_____________, Full Choke, Accurized Rounds, Surplus, Opening Shot)
-(Barrel Shroud, __________, Accurized Rounds, Surplus, Opening Shot)
-(_____________, __________, Accurized Rounds, Surplus, Opening Shot)
-(Barrel Shroud, Full Choke, ________________, Surplus, Opening Shot)
-(_____________, Full Choke, ________________, Surplus, Opening Shot)
-(Barrel Shroud, __________, ________________, Surplus, Opening Shot)
-(_____________, __________, ________________, Surplus, Opening Shot)
-dimwishlist:item=532746994&perks=1300023272,1047830412,3142289711,3436462433,47981717#notes:Good in PvP
+(Full Choke, Accurized Rounds, Surplus, Opening Shot)
+(Full Choke, ________________, Surplus, Opening Shot)
+(__________, Accurized Rounds, Surplus, Opening Shot)
+(__________, ________________, Surplus, Opening Shot)
 dimwishlist:item=532746994&perks=1047830412,3142289711,3436462433,47981717#notes:Good in PvP
-dimwishlist:item=532746994&perks=1300023272,3142289711,3436462433,47981717#notes:Good in PvP
-dimwishlist:item=532746994&perks=3142289711,3436462433,47981717#notes:Good in PvP
-dimwishlist:item=532746994&perks=1300023272,1047830412,3436462433,47981717#notes:Good in PvP
 dimwishlist:item=532746994&perks=1047830412,3436462433,47981717#notes:Good in PvP
-dimwishlist:item=532746994&perks=1300023272,3436462433,47981717#notes:Good in PvP
+dimwishlist:item=532746994&perks=3142289711,3436462433,47981717#notes:Good in PvP
 dimwishlist:item=532746994&perks=3436462433,47981717#notes:Good in PvP
 
 
 
 BLASPHEMER:
 (Fluted Barrel, Accurized Rounds, Quickdraw, Opening Shot)
-(_____________, Accurized Rounds, Quickdraw, Opening Shot)
 (Fluted Barrel, ________________, Quickdraw, Opening Shot)
+(_____________, Accurized Rounds, Quickdraw, Opening Shot)
 (_____________, ________________, Quickdraw, Opening Shot)
 dimwishlist:item=2782847179&perks=1840239774,3142289711,706527188,47981717#notes:Good in PvP
-dimwishlist:item=2782847179&perks=3142289711,706527188,47981717#notes:Good in PvP
 dimwishlist:item=2782847179&perks=1840239774,706527188,47981717#notes:Good in PvP
+dimwishlist:item=2782847179&perks=3142289711,706527188,47981717#notes:Good in PvP
 dimwishlist:item=2782847179&perks=706527188,47981717#notes:Good in PvP
 
 
 
 FORTISSIMO-11:
-(
+(Tactical Mag, Fourth Time's the Charm, Vorpal Weapon)
+(____________, Fourth Time's the Charm, Vorpal Weapon)
+dimwishlist:item=2821430069,106909392,1354429876,1546637391#notes:Good in PvE
+dimwishlist:item=2821430069,1354429876,1546637391#notes:Good in PvE
 
 
 
 FRACTETHYST:
-(Smoothbore, Barrel Shroud, Accurized Rounds, Quickdraw, Opening Shot) x
-(Smoothbore, _____________, Accurized Rounds, Quickdraw, Opening Shot)
-(__________, Barrel Shroud, Accurized Rounds, Quickdraw, Opening Shot)
-(__________, _____________, Accurized Rounds, Quickdraw, Opening Shot)
-(Smoothbore, Barrel Shroud, ________________, Quickdraw, Opening Shot) x
-(Smoothbore, _____________, ________________, Quickdraw, Opening Shot)
-(__________, Barrel Shroud, ________________, Quickdraw, Opening Shot)
-(__________, _____________, ________________, Quickdraw, Opening Shot)
-dimwishlist:item=3184681056&perks=466087222,1300023272,3142289711,706527188,47981717#notes:Good in PvP
+(Smoothbore, Accurized Rounds, Quickdraw, Opening Shot)
+(Smoothbore, ________________, Quickdraw, Opening Shot)
+(__________, Accurized Rounds, Quickdraw, Opening Shot)
+(__________, ________________, Quickdraw, Opening Shot)
 dimwishlist:item=3184681056&perks=466087222,3142289711,706527188,47981717#notes:Good in PvP
-dimwishlist:item=3184681056&perks=1300023272,3142289711,706527188,47981717#notes:Good in PvP
-dimwishlist:item=3184681056&perks=3142289711,706527188,47981717#notes:Good in PvP
-dimwishlist:item=3184681056&perks=466087222,1300023272,706527188,47981717#notes:Good in PvP
 dimwishlist:item=3184681056&perks=466087222,706527188,47981717#notes:Good in PvP
-dimwishlist:item=3184681056&perks=1300023272,706527188,47981717#notes:Good in PvP
+dimwishlist:item=3184681056&perks=3142289711,706527188,47981717#notes:Good in PvP
 dimwishlist:item=3184681056&perks=706527188,47981717#notes:Good in PvP
 
 
 
 HERITAGE:
 (Fluted Barrel, Assault Mag, Reconstruction, Recombination)
-(_____________, Assault Mag, Reconstruction, Recombination)
 (Fluted Barrel, ___________, Reconstruction, Recombination)
+(_____________, Assault Mag, Reconstruction, Recombination)
 (_____________, ___________, Reconstruction, Recombination)
 dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294#notes:Good in PvE
-dimwishlist:item=4248569242&perks=791862061,1523832109,469285294#notes:Good in PvE
 dimwishlist:item=4248569242&perks=1840239774,1523832109,469285294#notes:Good in PvE
+dimwishlist:item=4248569242&perks=791862061,1523832109,469285294#notes:Good in PvE
 dimwishlist:item=4248569242&perks=1523832109,469285294#notes:Good in PvE
 
 (Fluted Barrel, Assault Mag, Auto-Loading, Recombination)
-(_____________, Assault Mag, Auto-Loading, Recombination)
 (Fluted Barrel, ___________, Auto-Loading, Recombination)
+(_____________, Assault Mag, Auto-Loading, Recombination)
 (_____________, ___________, Auto-Loading, Recombination)
 dimwishlist:item=4248569242&perks=1840239774,791862061,3300816228,469285294#notes:Good in PvE
-dimwishlist:item=4248569242&perks=791862061,3300816228,469285294#notes:Good in PvE
 dimwishlist:item=4248569242&perks=1840239774,3300816228,469285294#notes:Good in PvE
+dimwishlist:item=4248569242&perks=791862061,3300816228,469285294#notes:Good in PvE
 dimwishlist:item=4248569242&perks=3300816228,469285294#notes:Good in PvE
 
 
@@ -1377,51 +1459,32 @@ dimwishlist:item=-1016668089#notes:Trash
 
 
 RAGNHILD-D:
-(
+(Full Choke, Accurized Rounds, Perpetual Motion, Elemental Capacitor)
+(Full Choke, ________________, Perpetual Motion, Elemental Capacitor)
+(__________, Accurized Rounds, Perpetual Motion, Elemental Capacitor)
+(__________, ________________, Perpetual Motion, Elemental Capacitor)
+dimwishlist:item=4225322581&perks=1047830412,3142289711,1428297954,3511092054#notes:Good in PvP
+dimwishlist:item=4225322581&perks=1047830412,1428297954,3511092054#notes:Good in PvP
+dimwishlist:item=4225322581&perks=3142289711,1428297954,3511092054#notes:Good in PvP
+dimwishlist:item=4225322581&perks=1428297954,3511092054#notes:Good in PvP
 
 
 
 RECKLESS ENDANGERMENT:
-(
+(Full Choke, Assault Mag, Perpetual Motion, Snapshot)
+dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,957782887#notes:Good in PvP
 
 
 
 RIISWALKER:
-(Barrel Shroud, Full Choke, Assault Mag, Accurized Rounds, Quickdraaw, Iron Reach)x
-(_____________, Full Choke, Assault Mag, Accurized Rounds, Quickdraaw, Iron Reach)x
-(Barrel Shroud, __________, Assault Mag, Accurized Rounds, Quickdraaw, Iron Reach)x
-(_____________, __________, Assault Mag, Accurized Rounds, Quickdraaw, Iron Reach)x
-dimwishlist:item=108221785&perks=1300023272,1047830412,791862061,3142289711,706527188,591790007#notes:Good in PvP
-dimwishlist:item=108221785&perks=1047830412,791862061,3142289711,706527188,591790007#notes:Good in PvP
-dimwishlist:item=108221785&perks=1300023272,791862061,3142289711,706527188,591790007#notes:Good in PvP
-dimwishlist:item=108221785&perks=791862061,3142289711,706527188,591790007#notes:Good in PvP
-
-(Barrel Shroud, Full Choke, ___________, Accurized Rounds, Quickdraaw, Iron Reach)x
-(_____________, Full Choke, ___________, Accurized Rounds, Quickdraaw, Iron Reach)
-(Barrel Shroud, __________, ___________, Accurized Rounds, Quickdraaw, Iron Reach)
-(_____________, __________, ___________, Accurized Rounds, Quickdraaw, Iron Reach)
-dimwishlist:item=108221785&perks=1300023272,1047830412,3142289711,706527188,591790007#notes:Good in PvP
+(Full Choke, Accurized Rounds, Quickdraaw, Iron Reach)
+(Full Choke, ________________, Quickdraaw, Iron Reach)
+(__________, Accurized Rounds, Quickdraaw, Iron Reach)
+(__________, ________________, Quickdraaw, Iron Reach)
 dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007#notes:Good in PvP
-dimwishlist:item=108221785&perks=1300023272,3142289711,706527188,591790007#notes:Good in PvP
-dimwishlist:item=108221785&perks=3142289711,706527188,591790007#notes:Good in PvP
-
-(Barrel Shroud, Full Choke, Assault Mag, ________________, Quickdraaw, Iron Reach)x
-(_____________, Full Choke, Assault Mag, ________________, Quickdraaw, Iron Reach)
-(Barrel Shroud, __________, Assault Mag, ________________, Quickdraaw, Iron Reach)
-(_____________, __________, Assault Mag, ________________, Quickdraaw, Iron Reach)
-dimwishlist:item=108221785&perks=1300023272,1047830412,791862061,706527188,591790007#notes:Good in PvP
-dimwishlist:item=108221785&perks=1047830412,791862061,706527188,591790007#notes:Good in PvP
-dimwishlist:item=108221785&perks=1300023272,791862061,706527188,591790007#notes:Good in PvP
-dimwishlist:item=108221785&perks=791862061,706527188,591790007#notes:Good in PvP
-
-(Barrel Shroud, Full Choke, ___________, ________________, Quickdraaw, Iron Reach)x
-(_____________, Full Choke, ___________, ________________, Quickdraaw, Iron Reach)
-(Barrel Shroud, __________, ___________, ________________, Quickdraaw, Iron Reach)
-(_____________, __________, ___________, ________________, Quickdraaw, Iron Reach)
-dimwishlist:item=108221785&perks=1300023272,1047830412,706527188,591790007#notes:Good in PvP
 dimwishlist:item=108221785&perks=1047830412,706527188,591790007#notes:Good in PvP
-dimwishlist:item=108221785&perks=1300023272,706527188,591790007#notes:Good in PvP
-dimwishlist:item=108221785&perks=,706527188,591790007#notes:Good in PvP
+dimwishlist:item=108221785&perks=3142289711,706527188,591790007#notes:Good in PvP
+dimwishlist:item=108221785&perks=706527188,591790007#notes:Good in PvP
 
 
 
@@ -1434,41 +1497,14 @@ dimwishlist:item=-2957367743#notes:Trash
 
 
 WASTELANDER:
-(Barrel Shroud, Full Choke, Assault Mag, Accurized Rounds, Perpetual Motion, Opening Shot)x
-(_____________, Full Choke, Assault Mag, Accurized Rounds, Perpetual Motion, Opening Shot)x
-(Barrel Shroud, __________, Assault Mag, Accurized Rounds, Perpetual Motion, Opening Shot)x
-(_____________, __________, Assault Mag, Accurized Rounds, Perpetual Motion, Opening Shot)x
-dimwishlist:item=1679868061&perks=1300023272,1047830412,791862061,3142289711,1428297954,47981717#notes:Good in PvP
-dimwishlist:item=1679868061&perks=1047830412,791862061,3142289711,1428297954,47981717#notes:Good in PvP
-dimwishlist:item=1679868061&perks=1300023272,791862061,3142289711,1428297954,47981717#notes:Good in PvP
-dimwishlist:item=1679868061&perks=791862061,3142289711,1428297954,47981717#notes:Good in PvP
-
-(Barrel Shroud, Full Choke, ___________, Accurized Rounds, Perpetual Motion, Opening Shot)x
-(_____________, Full Choke, ___________, Accurized Rounds, Perpetual Motion, Opening Shot)
-(Barrel Shroud, __________, ___________, Accurized Rounds, Perpetual Motion, Opening Shot)
-(_____________, __________, ___________, Accurized Rounds, Perpetual Motion, Opening Shot)
-dimwishlist:item=1679868061&perks=1300023272,1047830412,3142289711,1428297954,47981717#notes:Good in PvP
+(Full Choke, Accurized Rounds, Perpetual Motion, Opening Shot)
+(Full Choke, ________________, Perpetual Motion, Opening Shot)
+(__________, Accurized Rounds, Perpetual Motion, Opening Shot)
+(__________, ________________, Perpetual Motion, Opening Shot)
 dimwishlist:item=1679868061&perks=1047830412,3142289711,1428297954,47981717#notes:Good in PvP
-dimwishlist:item=1679868061&perks=1300023272,3142289711,1428297954,47981717#notes:Good in PvP
-dimwishlist:item=1679868061&perks=3142289711,1428297954,47981717#notes:Good in PvP
-
-(Barrel Shroud, Full Choke, Assault Mag, ________________, Perpetual Motion, Opening Shot)x
-(_____________, Full Choke, Assault Mag, ________________, Perpetual Motion, Opening Shot)
-(Barrel Shroud, __________, Assault Mag, ________________, Perpetual Motion, Opening Shot)
-(_____________, __________, Assault Mag, ________________, Perpetual Motion, Opening Shot)
-dimwishlist:item=1679868061&perks=1300023272,1047830412,791862061,1428297954,47981717#notes:Good in PvP
-dimwishlist:item=1679868061&perks=1047830412,791862061,1428297954,47981717#notes:Good in PvP
-dimwishlist:item=1679868061&perks=1300023272,791862061,1428297954,47981717#notes:Good in PvP
-dimwishlist:item=1679868061&perks=791862061,1428297954,47981717#notes:Good in PvP
-
-(Barrel Shroud, Full Choke, ___________, ________________, Perpetual Motion, Opening Shot)x
-(_____________, Full Choke, ___________, ________________, Perpetual Motion, Opening Shot)
-(Barrel Shroud, __________, ___________, ________________, Perpetual Motion, Opening Shot)
-(_____________, __________, ___________, ________________, Perpetual Motion, Opening Shot)
-dimwishlist:item=1679868061&perks=1300023272,1047830412,1428297954,47981717#notes:Good in PvP
 dimwishlist:item=1679868061&perks=1047830412,1428297954,47981717#notes:Good in PvP
-dimwishlist:item=1679868061&perks=1300023272,1428297954,47981717#notes:Good in PvP
-dimwishlist:item=1679868061&perks=,1428297954,47981717#notes:Good in PvP
+dimwishlist:item=1679868061&perks=3142289711,1428297954,47981717#notes:Good in PvP
+dimwishlist:item=1679868061&perks=1428297954,47981717#notes:Good in PvP
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
